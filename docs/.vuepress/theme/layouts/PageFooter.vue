@@ -129,7 +129,7 @@ export default {
   position: absolute;
   left: 0;
   width: 100%;
-  z-index: 1000;
+  z-index: 10;
   margin-top: 5rem;
 
   .row {

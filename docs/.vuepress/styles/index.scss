@@ -36,12 +36,29 @@ h4 {
 .navbar {
   .site-name {
     font-family: moret;
-    font-size: 48px;
+    font-size: 40px;
   }
 }
 
 .page {
   padding-bottom: 0;
+}
+
+.back-to-top {
+  --back-to-top-color: var(--c-back-to-top-color) !important;
+  --back-to-top-color-hover: #fda9ff !important;
+}
+
+.navbar {
+  --navbar-line-height: normal;
+
+  .navbar-items-wrapper {
+    align-items: center;
+  }
+
+  .logo {
+    margin-right: 0.5rem !important;
+  }
 }
 
 :root {
@@ -106,7 +123,7 @@ h4 {
   --font-family: "Helvetica";
 
   // layout vars
-  --navbar-height: 6rem;
+  --navbar-height: 100px;
   --navbar-padding-v: 1.5rem;
   --navbar-padding-h: 1.5rem;
   --sidebar-width: 20rem;
@@ -118,6 +135,7 @@ h4 {
   --box-shadow: 0 8px 12px rgba(78, 255, 229, 0.3),
     0 4px 8px rgba(78, 255, 229, 0.2), 0 1px 0 rgba(78, 255, 229, 0.2);
   --back-to-top-z-index: 9999 !important;
+  --c-back-to-top-color: #16183c;
 }
 
 html.dark {
@@ -157,4 +175,5 @@ html.dark {
 
   //custom styles
   --footer-border: 1px solid #464869;
+  --c-back-to-top-color: white;
 }
