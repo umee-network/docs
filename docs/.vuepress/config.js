@@ -4,6 +4,7 @@ const { palettePlugin } = require("@vuepress/plugin-palette");
 const {
   registerComponentsPlugin,
 } = require("@vuepress/plugin-register-components");
+const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
 
 module.exports = {
   lang: "en-US",
@@ -46,6 +47,9 @@ module.exports = {
         MenuCard: path.relative(__dirname, "./components/MenuCard.vue"),
         Home: path.relative(__dirname, "./components/Home.vue"),
       },
+    }),
+    mediumZoomPlugin({
+      selector: ''
     }),
   ],
 };

@@ -4,10 +4,10 @@
   </div>
 </template>
 
-<style lang="css">
+<style lang="scss">
 .GradientButton {
   font-size: 20px;
-  color: #16183C;
+  color: #16183c;
   cursor: pointer;
   width: 159px;
   height: 53px;
@@ -15,12 +15,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background: linear-gradient(
-    83.37deg,
-    #fda9ff -9.48%,
-    #c9b8ff 18.96%,
-    #4dffe5 82.13%
-  );
+  background-image: linear-gradient(90deg, #fda9ff, #c9b8ff 14%, #4dffe5 50%);
+  background-size: 170% 50%;
+  transition: all 0.5s;
   border-radius: 100px;
+
+  &:hover {
+    background-position: 100% 50%;
+    box-shadow: var(--box-shadow);
+    transform: translateY(-2px);
+  }
 }
 </style>
