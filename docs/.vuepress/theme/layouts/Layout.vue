@@ -1,11 +1,12 @@
 <script setup>
 import ParentLayout from '@vuepress/theme-default/lib/client/layouts/Layout.vue'
+import PageFooter from './PageFooter.vue'
 </script>
 
 <template>
   <ParentLayout>
     <template #page-bottom>
-      <div class="rounded shadow-lg w-1/2 m-10 p-5 bg-green">This is my custom page footer</div>
+      <page-footer />
     </template>
   </ParentLayout>
 </template>

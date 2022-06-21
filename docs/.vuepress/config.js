@@ -4,7 +4,7 @@ const { palettePlugin } = require("@vuepress/plugin-palette");
 const {
   registerComponentsPlugin,
 } = require("@vuepress/plugin-register-components");
-const { mediumZoomPlugin } = require('@vuepress/plugin-medium-zoom')
+const { mediumZoomPlugin } = require("@vuepress/plugin-medium-zoom");
 
 module.exports = {
   lang: "en-US",
@@ -41,15 +41,10 @@ module.exports = {
   plugins: [
     palettePlugin({ preset: "sass" }),
     registerComponentsPlugin({
-      components: {
-        GradientBox: path.resolve(__dirname, "./components/GradientBox.vue"),
-        Button: path.resolve(__dirname, "./components/Button.vue"),
-        MenuCard: path.relative(__dirname, "./components/MenuCard.vue"),
-        Home: path.relative(__dirname, "./components/Home.vue"),
-      },
+      componentsDir: path.resolve(__dirname, './components'),
     }),
     mediumZoomPlugin({
-      selector: ''
+      selector: "",
     }),
   ],
 };

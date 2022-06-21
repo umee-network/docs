@@ -22,7 +22,6 @@
 
   &:hover {
     background-position: 100% 50%;
-    box-shadow: var(--box-shadow);
     transform: translateY(-2px);
   }
 }
