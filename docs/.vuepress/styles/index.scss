@@ -1,0 +1,141 @@
+@font-face {
+  font-family: "Moret";
+  src: url("/fonts/Moret/font.woff2") format("woff2"),
+    url("/fonts/Moret/font.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  font-display: swap;
+  src: url("/fonts/Helvetica/Helvetica.ttf");
+}
+
+@font-face {
+  font-family: "Helvetica";
+  font-weight: bold;
+  font-display: swap;
+  src: url("/fonts/Helvetica/Helvetica-Bold.ttf");
+}
+
+h1, h2, h3, h4 {
+  font-family: Moret;
+  margin-bottom: 0 !important;
+}
+
+.theme-default-content h1 {
+  margin-top: calc(2.5rem - var(--navbar-height));
+}
+
+.navbar {
+  .site-name {
+    font-family: moret;
+    font-size: 48px;
+  }
+}
+
+:root {
+  // brand colors
+  --c-brand: #070927;
+  --c-brand-light: #4abf8a;
+
+  // background colors
+  --c-bg: #ffffff;
+  --c-bg-light: #f3f4f5;
+  --c-bg-lighter: #eeeeee;
+  --c-bg-navbar: var(--c-bg);
+  --c-bg-sidebar: var(--c-bg);
+  --c-bg-arrow: #cccccc;
+
+  // text colors
+  --c-text: #070927;
+  --c-text-accent: var(--c-brand);
+  --c-text-light: #3a5169;
+  --c-text-lighter: #4e6e8e;
+  --c-text-lightest: #6a8bad;
+  --c-text-quote: #999999;
+
+  // border colors
+  --c-border: #e2e3ed;
+  --c-border-dark: #dfe2e5;
+
+  // custom container colors
+  --c-tip: #42b983;
+  --c-tip-bg: var(--c-bg-light);
+  --c-tip-title: var(--c-text);
+  --c-tip-text: var(--c-text);
+  --c-tip-text-accent: var(--c-text-accent);
+  --c-warning: #e7c000;
+  --c-warning-bg: #fffae3;
+  --c-warning-title: #ad9000;
+  --c-warning-text: #746000;
+  --c-warning-text-accent: var(--c-text);
+  --c-danger: #cc0000;
+  --c-danger-bg: #ffe0e0;
+  --c-danger-title: #990000;
+  --c-danger-text: #660000;
+  --c-danger-text-accent: var(--c-text);
+  --c-details-bg: #eeeeee;
+
+  // badge component colors
+  --c-badge-tip: var(--c-tip);
+  --c-badge-warning: var(--c-warning);
+  --c-badge-danger: var(--c-danger);
+
+  // transition vars
+  --t-color: 0.3s ease;
+  --t-transform: 0.3s ease;
+
+  // code blocks vars
+  --code-bg-color: #282c34;
+  --code-hl-bg-color: rgba(0, 0, 0, 0.66);
+  --code-ln-color: #9e9e9e;
+  --code-ln-wrapper-width: 3.5rem;
+
+  // font vars
+  --font-family: "Helvetica";
+
+  // layout vars
+  --navbar-height: 6rem;
+  --navbar-padding-v: 1.5rem;
+  --navbar-padding-h: 1.5rem;
+  --sidebar-width: 20rem;
+  --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
+  --content-width: 100%;
+  --homepage-width: 960px;
+}
+
+html.dark {
+  // brand colors
+  --c-brand: #fff;
+  --c-brand-light: #349469;
+
+  // background colors
+  --c-bg: #070927;
+  --c-bg-light: #2b313a;
+  --c-bg-lighter: #262c34;
+
+  // text colors
+  --c-text: white;
+  --c-text-light: #96a7b7;
+  --c-text-lighter: #8b9eb0;
+  --c-text-lightest: #8094a8;
+
+  // border colors
+  --c-border: #464869;
+  --c-border-dark: #34404c;
+
+  // custom container colors
+  --c-tip: #318a62;
+  --c-warning: #ceab00;
+  --c-warning-bg: #7e755b;
+  --c-warning-title: #ceac03;
+  --c-warning-text: #362e00;
+  --c-danger: #940000;
+  --c-danger-bg: #806161;
+  --c-danger-title: #610000;
+  --c-danger-text: #3a0000;
+  --c-details-bg: #323843;
+
+  // code blocks vars
+  --code-hl-bg-color: #363b46;
+}
