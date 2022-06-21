@@ -17,6 +17,10 @@
   src: url("/fonts/Helvetica/Helvetica-Bold.ttf");
 }
 
+a:hover {
+  text-decoration: none !important;
+}
+
 h1, h2, h3, h4 {
   font-family: Moret;
   margin-bottom: 0 !important;
@@ -102,6 +106,9 @@ h1, h2, h3, h4 {
   --sidebar-width-mobile: calc(var(--sidebar-width) * 0.82);
   --content-width: 100%;
   --homepage-width: 960px;
+
+  //custom styles 
+  --box-shadow: 0 8px 12px rgba(78, 255, 229, 0.3), 0 4px 8px rgba(78, 255, 229, 0.2), 0 1px 0 rgba(78, 255, 229, 0.2)
 }
 
 html.dark {
@@ -138,4 +145,6 @@ html.dark {
 
   // code blocks vars
   --code-hl-bg-color: #363b46;
+
+  //custom styles
 }

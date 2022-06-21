@@ -56,13 +56,13 @@
   }
 }
 
-@media(max-width: 768px) {
-    .card {
-        width: 100% !important;
-        padding-left: 0;
-        padding-right: 0;
-    }
-    .row {
-        display: block;
-    }
+@media (max-width: 768px) {
+  .card {
+    width: 100% !important;
+    padding-left: 0;
+    padding-right: 0;
   }
+  .row {
+    display: block;
+  }
+}
