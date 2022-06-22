@@ -6,7 +6,7 @@
         v-for="image in imageArr"
         :key="image"
       >
-        <img v-if="image === 10" src="/img/envelope gradient.svg" />
+        <img v-if="image === 10" src="/img/envelope-gradient.svg" />
         <svg v-else xmlns="http://www.w3.org/2000/svg" viewBox="0 0 457 299">
           <g id="a">
             <rect class="d" x="5" y="5" width="447" height="289" />
