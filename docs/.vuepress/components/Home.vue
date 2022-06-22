@@ -42,13 +42,16 @@
         :external="menu.external"
       />
     </div>
+
+    <email-form />
   </div>
 </template>
 
 <script>
+import EmailForm from './EmailForm.vue';
 import MenuCard from "./MenuCard.vue";
 export default {
-  components: { MenuCard },
+  components: { MenuCard, EmailForm },
   data() {
     return {
       menus: [

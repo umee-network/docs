@@ -32,9 +32,14 @@ export default {
 </script>
 
 <style lang="scss">
+.card > .GradientBox:hover {
+  box-shadow: var(--box-shadow);
+  transform: translateY(-2px);
+}
 .card-container-flex {
   display: flex;
   align-items: center;
+  padding: 18px 18px 30px;
 }
 .card-container {
   display: flex;
@@ -42,6 +47,7 @@ export default {
   justify-content: center;
   align-items: center;
   text-align: center;
+  padding: 18px 18px 30px;
 
   .card-content-title {
     font-size: 24px;
