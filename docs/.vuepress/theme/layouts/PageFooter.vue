@@ -129,8 +129,8 @@ export default {
   position: absolute;
   left: 0;
   width: 100%;
-  z-index: 1000;
-  margin-top: 5rem;
+  z-index: 10;
+  margin-top: 2.5rem;
 
   .row {
     display: flex;
@@ -238,7 +238,7 @@ export default {
   }
 
   @media (max-width: 768px) {
-    padding: 1.5rem;
+    padding: 2.5rem 1.5rem;
 
     .row {
       display: block;

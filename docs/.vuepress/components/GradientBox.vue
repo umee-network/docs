@@ -9,15 +9,9 @@
   position: relative;
   z-index: 1;
   border: none !important;
-  padding: 18px 18px 30px;
   width: 100%;
   border-radius: 5px;
   transition-duration: 0.3s;
-
-  &:hover {
-    box-shadow: var(--box-shadow);
-    transform: translateY(-2px);
-  }
 }
 
 .GradientBox::before {

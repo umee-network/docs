@@ -56,6 +56,13 @@
   }
 }
 
+.gradient-text {
+  width: fit-content;
+  background: linear-gradient(180deg, #DDB4FF 0%, #4EFFE5 100%);;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 @media (max-width: 768px) {
   .card {
     width: 100% !important;
