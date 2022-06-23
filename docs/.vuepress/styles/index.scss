@@ -1,66 +1,3 @@
-@font-face {
-  font-family: "Moret";
-  src: url("/fonts/Moret/font.woff2") format("woff2"),
-    url("/fonts/Moret/font.woff") format("woff");
-}
-
-@font-face {
-  font-family: "Helvetica";
-  font-display: swap;
-  src: url("/fonts/Helvetica/Helvetica.ttf");
-}
-
-@font-face {
-  font-family: "Helvetica";
-  font-weight: bold;
-  font-display: swap;
-  src: url("/fonts/Helvetica/Helvetica-Bold.ttf");
-}
-
-a:hover {
-  text-decoration: none !important;
-}
-
-h1,
-h2,
-h3,
-h4 {
-  font-family: Moret;
-  margin-bottom: 0 !important;
-}
-
-.theme-default-content h1 {
-  margin-top: calc(2.5rem - var(--navbar-height));
-}
-
-.navbar {
-  .site-name {
-    font-family: moret;
-    font-size: 40px;
-  }
-}
-
-.page {
-  padding-bottom: 0;
-}
-
-.back-to-top {
-  --back-to-top-color: var(--c-back-to-top-color) !important;
-  --back-to-top-color-hover: #fda9ff !important;
-}
-
-.navbar {
-  --navbar-line-height: normal;
-
-  .navbar-items-wrapper {
-    align-items: center;
-  }
-
-  .logo {
-    margin-right: 0.5rem !important;
-  }
-}
-
 :root {
   // brand colors
   --c-brand: #070927;
@@ -132,7 +69,7 @@ h4 {
   --homepage-width: 960px;
 
   //custom styles
-  --c-mid-grey-on-navy: #A0A1BA;
+  --c-mid-grey-on-navy: #a0a1ba;
   --c-dark-grey-on-navy: #464869;
   --box-shadow: 0 8px 12px rgba(78, 255, 229, 0.3),
     0 4px 8px rgba(78, 255, 229, 0.2), 0 1px 0 rgba(78, 255, 229, 0.2);
@@ -140,6 +77,7 @@ h4 {
   --c-back-to-top-color: #16183c;
   --scrollbar-color: var(--c-mid-grey-on-navy);
   --scrollbar-bg-color: var(--c-border);
+  --sidebar-hover-color: var(--c-border);
 }
 
 html.dark {
@@ -182,20 +120,5 @@ html.dark {
   --c-back-to-top-color: white;
   --scrollbar-color: var(--c-dark-grey-on-navy);
   --scrollbar-bg-color: var(--c-mid-grey-on-navy);
-}
-
-::-webkit-scrollbar {
-  -webkit-appearance: none;
-  width: 6px;
-  height: 3px;
-  background-color: var(--scrollbar-bg-color);
-}
-
-::-webkit-scrollbar-thumb {
-  border-radius: 5px;
-  background-color: var(--scrollbar-color);
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background-color: var(--scrollbar-color)
+  --sidebar-hover-color: var(--c-dark-grey-on-navy);
 }
