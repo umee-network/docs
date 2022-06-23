@@ -21,7 +21,7 @@
   left: 0;
   right: 0;
   bottom: 0;
-  background: linear-gradient(180deg, #ddb4ff 0%, #4effe5 100%);
+  background: linear-gradient(95.01deg,#e6b5fa -2.53%,#43e0fd 102.62%);
   padding: 1px;
   border-radius: 5px;
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);

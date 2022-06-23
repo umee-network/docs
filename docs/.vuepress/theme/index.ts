@@ -13,6 +13,8 @@ export const localTheme = (options: DefaultThemeOptions): Theme => {
         __dirname,
         "./components/ToggleColorModeButton.vue"
       ),
+      '@theme/NavbarItems.vue': path.resolve(__dirname, 'components/NavbarItems.vue'),
+      '@theme/ToggleSidebarButton.vue': path.resolve(__dirname, 'components/ToggleSidebarButton.vue'),
     },
   };
 };
