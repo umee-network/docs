@@ -26,9 +26,9 @@
 
 > _**There may be some exceptions in logo use. Please reach out to**_ [_<mark style="color:blue;">**marketing@umee.cc**</mark>_](mailto:marketing@umee.cc) _**to discuss the implementation.**_
 
-![](/zip/umee_logos.zip)
+<!-- ![](/zip/umee_logos.zip) -->
 
-![](/zip/umee_icons.zip)
+<!-- ![](/zip/umee_icons.zip) -->
 
 ## Adora
 
@@ -36,7 +36,7 @@
 
 > _**Adora is drawn mostly in navy blue (#16183c), if you want to use it in another color please reach out to us.**_
 
-![](/zip/adora-assets.zip)
+<!-- ![](/zip/adora-assets.zip) -->
 
 ## Color Scheme
 
@@ -46,10 +46,10 @@
 * White (R 255 G255 B255 C0 M0 Y0 K0) #ffffff
 * Gradient (#fda9ff #c9b8ff #4dffe5 #eaeaea)
 
-![](/zip/colors.zip)
+<!-- ![](/zip/colors.zip) -->
 
 ## Typeface
 
 **While giving words to our vision, we’ve chosen Moret and Suisse as the fonts to be used in our online and offline text communications. Both of the fonts signify the elegance and boldness of Umee.**
 
-![](/zip/umee_typefaces.zip)
+<!-- ![](/zip/umee_typefaces.zip) -->
