@@ -112,7 +112,7 @@ If a debt of 1,000 USDC is liquidated and the liquidation penalty is 10%, the bo
 
 Your gas limit is not high enough. Select "set gas" and manually enter an amount greater than the number after "gasUsed" before confirming the transaction.
 
-![](/bg/out-of-gas-solution.png)
+![](/bg/out-of-gas-solution.gif)
 
 ### "Account Sequence Mismatch"
 
@@ -124,7 +124,7 @@ This error means that another transaction is still pending. Wait a minute and tr
 
 ### "Receiving Chain Height >= Packet Timeout Height"
 
-![](/bg/receiving-chain-height.png)
+![](/bg/receiving-chain-height-error.png)
 
 #### Solution:
 
