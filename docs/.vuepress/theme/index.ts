@@ -15,6 +15,7 @@ export const localTheme = (options: DefaultThemeOptions): Theme => {
       ),
       '@theme/NavbarItems.vue': path.resolve(__dirname, 'components/NavbarItems.vue'),
       '@theme/ToggleSidebarButton.vue': path.resolve(__dirname, 'components/ToggleSidebarButton.vue'),
+      '@theme/PageNav.vue': path.resolve(__dirname, 'components/PageNav.vue'),
     },
   };
 };
