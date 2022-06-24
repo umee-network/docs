@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://docs.umee.cc/" target="_blank">
-    <img width="180" src="docs/.vuepress/public/img/umee-logo.svg" alt="logo">
+    <img width="180" src="docs/.vuepress/public/umee-logo.svg" alt="logo">
   </a>
 </p>
 
