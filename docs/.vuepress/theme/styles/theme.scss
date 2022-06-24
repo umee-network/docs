@@ -17,8 +17,23 @@
   src: url("/fonts/Helvetica/Helvetica-Bold.ttf");
 }
 
-a:hover {
-  text-decoration: none !important;
+a {
+  &:hover {
+    text-decoration: none !important;
+
+    &.sidebar-item,
+    &.breadcrumb {
+      &:hover {
+        color: #fda9ff;
+      }
+    }
+  }
+
+  &.sidebar-item {
+    &.active {
+      color: #fda9ff !important;
+    }
+  }
 }
 
 h1,
@@ -29,12 +44,22 @@ h4 {
   margin-bottom: 0 !important;
 }
 
-.theme-default-content h1 {
-  margin-top: calc(2.5rem - var(--navbar-height));
-}
+.theme-default-content {
+  padding-top: 2rem !important;
 
-.page {
-  padding-bottom: 0;
+  h1 {
+    margin-top: 3rem;
+    padding-top: 0;
+
+    &:first-child {
+      padding-top: 0;
+      margin-top: 1.5rem;
+    }
+
+    &:first-child + p {
+      margin-top: revert;
+    }
+  }
 }
 
 .back-to-top {
@@ -49,6 +74,7 @@ h4 {
     a {
       display: inline-flex;
       align-items: center;
+      height: 100%;
     }
   }
 
@@ -100,13 +126,13 @@ h4 {
     }
 
     .site-name {
-      font-size: 2.5rem;
-      margin-top: 0px;
+      font-size: 1.8rem;
+      margin-top: -2px;
     }
 
     .logo {
-      width: 45px;
-      padding-top: 5px;
+      width: 35px;
+      padding-top: 0px;
     }
   }
 }
@@ -118,7 +144,7 @@ h4 {
 .row {
   display: flex;
   flex-wrap: wrap;
-  margin-top: 30px;
+  margin-top: 1.5rem;
 }
 
 .flex {
@@ -126,14 +152,14 @@ h4 {
 }
 
 .card {
-  padding: 10px;
+  padding: 0.5rem;
 }
 
 .three-columns {
   justify-content: space-between;
   .card {
     width: calc((100% - 40px) / 3);
-    padding: 10px 0;
+    padding: 0.5rem 0;
 
     &-content {
       &-title {
@@ -171,7 +197,7 @@ h4 {
 
 .gradient-text {
   width: fit-content;
-  background: linear-gradient(180deg, #DDB4FF 0%, #4EFFE5 100%);;
+  background: linear-gradient(180deg, #ddb4ff 0%, #4effe5 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -190,8 +216,8 @@ h4 {
 ::-webkit-scrollbar {
   -webkit-appearance: none;
   width: 6px;
-  height: 3px;
-  background-color: var(--scrollbar-bg-color);
+  height: 5px;
+  background-color: var(--scrollbar-bg-color) !important;
 }
 
 ::-webkit-scrollbar-thumb {
