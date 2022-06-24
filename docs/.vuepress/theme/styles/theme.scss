@@ -17,13 +17,21 @@
   src: url("/fonts/Helvetica/Helvetica-Bold.ttf");
 }
 
-a:hover {
-  text-decoration: none !important;
+a {
+  &:hover {
+    text-decoration: none !important;
 
-  &.sidebar-item,
-  &.breadcrumb {
-    &:hover {
-      color: #fda9ff;
+    &.sidebar-item,
+    &.breadcrumb {
+      &:hover {
+        color: #fda9ff;
+      }
+    }
+  }
+
+  &.sidebar-item {
+    &.active {
+      color: #fda9ff !important;
     }
   }
 }
@@ -209,7 +217,7 @@ h4 {
   -webkit-appearance: none;
   width: 6px;
   height: 5px;
-  background-color: var(--scrollbar-bg-color);
+  background-color: var(--scrollbar-bg-color) !important;
 }
 
 ::-webkit-scrollbar-thumb {

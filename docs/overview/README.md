@@ -5,7 +5,7 @@ title: Developers
 # Overview
 
 ## What is Umee?
-![](../assets/what-is-umee.png)
+![](/bg/what-is-umee.png)
 
 ### Interoperable Base Layer Blockchain
 

@@ -19,6 +19,32 @@ module.exports = {
     editLinkPattern: ":repo/edit/:branch/:path",
     lastUpdated: true,
     contributors: false,
+    sidebarDepth: 1,
+    sidebar: {
+      "/users/": [{ title: "Users", children: [] }],
+      "/validators/": [
+        {
+          title: "Users",
+          children: ["testnet-validator", "mainnet-validator"],
+        },
+      ],
+      "/developers/": [{ title: "Developers", children: [] }],
+      "/overview/": [
+        {
+          title: "Overview",
+          children: [
+            "umee-token",
+            "blockchain-basics",
+            "essentials",
+            'pow-vs-pos',
+            "defi",
+            "governance",
+            "help",
+            "branding",
+          ],
+        },
+      ],
+    },
     navbar: [
       {
         text: "Home",
@@ -41,7 +67,7 @@ module.exports = {
   plugins: [
     palettePlugin({ preset: "sass" }),
     registerComponentsPlugin({
-      componentsDir: path.resolve(__dirname, './components'),
+      componentsDir: path.resolve(__dirname, "./components"),
     }),
     mediumZoomPlugin({
       selector: "",
