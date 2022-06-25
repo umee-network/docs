@@ -139,7 +139,7 @@ const isActive = computed(() => {
       padding: 0 1rem;
 
       small {
-        color: #62637b;
+        color: #B8B8B8;
       }
     }
 

@@ -5,7 +5,7 @@
 
   // background colors
   --c-bg: #ffffff;
-  --c-bg-light: #f3f4f5;
+  --c-bg-light: #f5f7f9;
   --c-bg-lighter: #eeeeee;
   --c-bg-navbar: var(--c-bg);
   --c-bg-sidebar: var(--c-bg);
@@ -17,7 +17,7 @@
   --c-text-light: #3a5169;
   --c-text-lighter: #4e6e8e;
   --c-text-lightest: #6a8bad;
-  --c-text-quote: #999999;
+  --c-text-quote: #4e6e8e;
 
   // border colors
   --c-border: #e2e3ed;
@@ -87,13 +87,14 @@ html.dark {
 
   // background colors
   --c-bg: #070927;
-  --c-bg-light: #2b313a;
+  --c-bg-light: #16183C;
   --c-bg-lighter: #262c34;
+  
 
   // text colors
   --c-text: white;
   --c-text-light: #96a7b7;
-  --c-text-lighter: #8b9eb0;
+  --c-text-lighter: #B8B8B8;
   --c-text-lightest: #8094a8;
 
   // border colors

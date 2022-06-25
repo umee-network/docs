@@ -22,7 +22,7 @@ defineEmits(["onClick"]);
   justify-content: center;
   background-image: linear-gradient(90deg, #fda9ff, #c9b8ff 14%, #4dffe5 50%);
   background-size: 170% 50%;
-  transition: all 0.5s;
+  transition: background-position 2s;
   border-radius: 100px;
   border: none;
 
