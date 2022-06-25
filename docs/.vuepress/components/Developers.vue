@@ -117,6 +117,12 @@ export default {
           text: "Learn the different ways to query the Umee blockchain",
           link: "/developers/querying",
         },
+        {
+          img: "/img/docs-developer-icon.png",
+          title: "Price Feeder",
+          text: "Learn the different ways to query the Umee blockchain",
+          link: "/developers/price-feeder",
+        },
       ],
       networks: [
         {
