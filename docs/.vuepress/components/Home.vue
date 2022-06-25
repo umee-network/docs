@@ -115,7 +115,7 @@ export default {
           img: "/img/discord.png",
           title: "Discord",
           text: "Chat with the Umee community on Discord",
-          link: "https://discord.gg/PJvD8Ksz",
+          link: "https://discord.gg/umee",
           external: true,
         },
         {
