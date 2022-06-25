@@ -130,7 +130,7 @@ export default {
   left: 0;
   width: 100%;
   z-index: 10;
-  margin-top: 2.5rem;
+  margin-top: 5rem;
 
   .row {
     display: flex;
