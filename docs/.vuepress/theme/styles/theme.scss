@@ -246,6 +246,10 @@ blockquote {
   padding: 0.25rem 0 0.25rem 1rem;
 }
 
+img {
+  border-radius: 5px;
+}
+
 @media (max-width: 768px) {
   .card {
     width: 100% !important;
