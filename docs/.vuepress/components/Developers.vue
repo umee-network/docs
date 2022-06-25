@@ -67,7 +67,7 @@ export default {
           img: "/img/docs-developer-icon.png",
           title: "Ethereum Bridge",
           text: "Bridge between Ethereum and Umee",
-          link: "/developers",
+          link: "/developers/ethereum-bridge",
         },
         {
           img: "/img/docs-developer-icon.png",
@@ -111,6 +111,12 @@ export default {
           text: "Learn how to build with Umee's smart contracts on Ethereum",
           link: "/developers",
         },
+        {
+          img: "/img/docs-developer-icon.png",
+          title: "Queries",
+          text: "Learn the different ways to query the Umee blockchain",
+          link: "/developers/querying",
+        },
       ],
       networks: [
         {
@@ -123,7 +129,7 @@ export default {
           img: "/img/docs-developer-icon.png",
           title: "Joining Mainnet",
           text: "Set up a node on the Umee mainnet",
-          link: "/developers",
+          link: "/developers/joining-mainnet",
         },
       ],
     };
