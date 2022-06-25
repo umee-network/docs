@@ -26,6 +26,12 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
+          title: "Blockchain Basics",
+          text: "Get started with blockchains and web3",
+          link: "/users/blockchain-basics",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Getting started",
           text: "Learn the basics on how to use Umee",
           link: "/users",
