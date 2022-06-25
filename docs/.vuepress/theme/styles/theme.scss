@@ -84,6 +84,11 @@ h2 {
   h4 {
     font-size: 1rem;
   }
+  
+  img {
+    border-radius: 5px;
+  }
+  
 }
 
 .back-to-top {
@@ -244,10 +249,6 @@ blockquote {
   background-color: var(--c-bg-light);
   font-weight: bold;
   padding: 0.25rem 0 0.25rem 1rem;
-}
-
-img {
-  border-radius: 5px;
 }
 
 @media (max-width: 768px) {
