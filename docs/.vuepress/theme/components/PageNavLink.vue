@@ -91,18 +91,18 @@ const isActive = computed(() => {
 <template>
   <RouterLink
     v-if="isRouterLink"
-    :class="{ 'router-link-active': isActive }"
+    class="animation page-nav-link"
     :to="item.link"
     :aria-label="linkAriaLabel"
     v-bind="$attrs"
   >
-    <GradientBox class="page-nav-link">
-      <div class="page-nav-link-content">
+    <GradientBox class="page-nav-link-content">
+      <div class="page-nav-link-content-item">
         <small>{{ isPrev ? "PREVIOUS" : "NEXT" }}</small>
-        <div class="page-nav-link-title">{{ item.text }}</div>
+        <div class="page-nav-link-content-title">{{ item.text }}</div>
       </div>
       <img
-        class="page-nav-link-content"
+        class="page-nav-link-content-item"
         :src="[isPrev ? '/img/arrow_prev.png' : '/img/arrow_next.png']"
       />
     </GradientBox>
@@ -112,24 +112,41 @@ const isActive = computed(() => {
 <style lang="scss">
 .page-nav-link {
   width: 100%;
-  padding: 1.5rem 0.5rem;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-between;
-  height: 100%;
+  margin: 0 1rem;
 
-  &-content {
-    padding: 0 1rem;
+  @media (min-width: 768px) {
+    max-width: 280px;
+  }
 
-    small {
-      color: #62637b;
+  @media(max-width: 767px) {
+    margin: 0;
+
+    &:last-child {
+      margin-top: 1rem;
     }
   }
 
-  &-title {
-    margin-top: 0.5rem;
-    font-size: 20px;
+  &-content {
+    width: 100%;
+    padding: 1.5rem 0.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+
+    &-item {
+      padding: 0 1rem;
+
+      small {
+        color: #62637b;
+      }
+    }
+
+    &-title {
+      margin-top: 0.5rem;
+      font-size: 20px;
+    }
   }
 }
 </style>

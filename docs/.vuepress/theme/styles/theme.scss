@@ -34,6 +34,20 @@ a {
       color: #fda9ff !important;
     }
   }
+
+  &.animation {
+    transition: 0.3s;
+  
+    &:hover {
+      box-shadow: var(--box-shadow);
+      transform: translateY(-2px);
+    }
+  
+    &:active {
+      box-shadow: none;
+      transform: none;
+    }
+  }
 }
 
 h1,

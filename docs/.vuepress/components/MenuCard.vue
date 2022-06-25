@@ -1,19 +1,21 @@
 <template>
-  <app-link :link="link" :external="external" class="card">
-    <gradient-box>
-      <div :class="[flex ? 'card-container-flex' : 'card-container']">
-        <div class="external-link" v-if="external">
-          <img src="/img/external-link.png" />
-        </div>
+  <div class="card">
+    <app-link :link="link" :external="external" class="card-item animation">
+      <gradient-box>
+        <div :class="[flex ? 'card-container-flex' : 'card-container']">
+          <div class="external-link" v-if="external">
+            <img src="/img/external-link.png" />
+          </div>
 
-        <div class="img-content"><img :src="img" /></div>
-        <div class="card-content">
-          <div class="card-content-title">{{ title }}</div>
-          <div class="card-content-text">{{ text }}</div>
+          <div class="img-content"><img :src="img" /></div>
+          <div class="card-content">
+            <div class="card-content-title">{{ title }}</div>
+            <div class="card-content-text">{{ text }}</div>
+          </div>
         </div>
-      </div>
-    </gradient-box>
-  </app-link>
+      </gradient-box>
+    </app-link>
+  </div>
 </template>
 
 <script>
@@ -32,10 +34,10 @@ export default {
 </script>
 
 <style lang="scss">
-.card > .GradientBox:hover {
-  box-shadow: var(--box-shadow);
-  transform: translateY(-2px);
+.card-item {
+  width: 100%;
 }
+
 .card-container-flex {
   display: flex;
   align-items: center;

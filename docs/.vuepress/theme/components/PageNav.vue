@@ -114,39 +114,11 @@ const nextNavLink = computed(() => {
   display: flex;
   justify-content: center;
   margin-top: 2rem;
+  flex-wrap: wrap;
 
   .prev-nav {
-    .page-nav-link {
+    .page-nav-link-content {
       flex-direction: row-reverse;
-    }
-  }
-
-  a {
-    transition: 0.3s;
-    width: 100%;
-    max-width: 280px;
-    margin: 0 1rem;
-
-    &:hover {
-      box-shadow: var(--box-shadow);
-      transform: translateY(-2px);
-    }
-    &:active {
-      box-shadow: none;
-      transform: none;
-      opacity: 0.5;
-    }
-  }
-
-  @media(max-width: 768px) {
-    display: block;
-
-    a {
-      margin: 0;
-
-      &:last-child {
-        margin-top: 1.5rem;
-      }
     }
   }
 }

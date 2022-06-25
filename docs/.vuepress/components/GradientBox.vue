@@ -11,7 +11,7 @@
   border: none !important;
   width: 100%;
   border-radius: 5px;
-  transition-duration: 0.3s;
+  height: 100%;
 }
 
 .GradientBox::before {

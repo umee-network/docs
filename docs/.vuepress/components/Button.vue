@@ -1,7 +1,12 @@
+<script setup lang="ts">
+defineEmits(["onClick"]);
+</script>
+
+
 <template>
-  <div class="GradientButton">
+  <button class="GradientButton" @click="$emit('onClick')">
     <slot></slot>
-  </div>
+  </button>
 </template>
 
 <style lang="scss">
@@ -19,10 +24,17 @@
   background-size: 170% 50%;
   transition: all 0.5s;
   border-radius: 100px;
+  border: none;
 
   &:hover {
     background-position: 100% 50%;
-    transform: translateY(-2px);
+    transform: scale(1.02);
+  }
+
+  &:active {
+    transition: all 0.2s;
+    background-position: initial;
+    transform: scale(1);
   }
 }
 </style>

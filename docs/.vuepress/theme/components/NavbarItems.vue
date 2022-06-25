@@ -165,7 +165,9 @@ const navbarLinks = computed(() => [
       <AutoLink v-else :item="item" />
     </div>
     <div class="navbar-item nav-button">
-      <a href="https://app.umee.cc/" target="_blank"><Button>Launch App</Button></a>
+      <a href="https://app.umee.cc/" target="_blank"
+        ><Button>Launch App</Button></a
+      >
     </div>
   </nav>
 </template>
