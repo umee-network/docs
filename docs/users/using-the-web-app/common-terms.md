@@ -2,11 +2,11 @@
 
 ## Supply APR
 
-![As seen on the Markets page.]()
+![As seen on the Markets page.](/bg/terms-supply-apr.png)
 
-**Supply APR is the annual interest rate lenders **_**RECEIVE**_** for supplying their assets on the Umee market.**
+Supply APR is the annual interest rate lenders _**RECEIVE**_ for supplying their assets on the Umee market.
 
-> _**These rates are variable, and may change over time based on supply and demand.**_
+> These rates are variable, and may change over time based on supply and demand.
 
 ### Supply APR Example
 
@@ -16,11 +16,11 @@ This user may be able to withdraw 1,050 USDC after a year if the supply APR rema
 
 ## Borrow APR
 
-![As seen on the Markets page.]()
+![As seen on the Markets page.](/bg/terms-borrow-apr.png)
 
-**Borrow APR is the annual interest rate borrowers **_**OWE**_** for borrowing assets from the Umee market.**
+Borrow APR is the annual interest rate borrowers _**OWE**_ for borrowing assets from the Umee market.
 
-> _**These rates are variable, and may change over time based on supply and demand.**_
+> These rates are variable, and may change over time based on supply and demand.
 
 ### Borrow APR Example
 
@@ -30,9 +30,9 @@ This user may have a total outstanding loan of 1,050 USDC after a year if the bo
 
 ## Net APY
 
-![As seen on the Dashboard page. ]()
+![As seen on the Dashboard page. ](/bg/terms-net-apy.png)
 
-**The net APY is the actual interest rate a user will **_**EARN (if the number is positive)**_** or **_**OWE (if the number is negative)**_** over the course of a year. The net APY takes all assets a user supplies and borrows into account in order to give the user an idea of the interest they will earn or owe.**
+The net APY is the actual interest rate a user will _**EARN (if the number is positive)**_ or _**OWE (if the number is negative)**_ over the course of a year. The net APY takes all assets a user supplies and borrows into account in order to give the user an idea of the interest they will earn or owe.
 
 ### Net APY Examples
 
@@ -42,15 +42,15 @@ A net APY of -5% indicates that a user may owe a total of 5% on assets borrowed 
 
 ## Collateral
 
-![As seen on the Dashboard page. ]()
+![As seen on the Dashboard page. ](/bg/terms-collateral.png)
 
-**If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a liquidation occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the liquidation penalty.**
+If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a liquidation occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the liquidation penalty.
 
 ## Maximum LTV
 
-![As seen on the Dashboard page. ]()
+![As seen on the Dashboard page. ](/bg/terms-max-ltv.png)
 
-**“LTV” stands for Loan-to-Value. The maximum LTV is the maximum amount that can be borrowed against the asset supplied as** [collateral]()**.**
+LTV stands for Loan-to-Value. The maximum LTV is the maximum amount that can be borrowed against the asset supplied as [collateral](/users/using-the-web-app/common-terms.html#collateral).
 
 ### Maximum LTV Example
 
@@ -58,21 +58,21 @@ Assuming ATOM has a maximum LTV of 50%:
 
 A user who provides $1,000 USD worth of ATOM will be able to borrow up to $500 in other assets.
 
-> _**Users should avoid borrowing the maximum available amount in order to help protect themselves from being liquidated.**_
+> Users should avoid borrowing the maximum available amount in order to help protect themselves from being liquidated.
 
 ## Borrow Limit
 
-![As seen on the Dashboard page. ]()
+![As seen on the Dashboard page. ](/bg/terms-borrow-limit.png)
 
-**The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once a user’s total borrowed amount reaches 80% of their total borrow limit, they will be unable to withdraw collateral or borrow any more assets until they repay part of their loan(s) or deposit more collateral. A liquidation will not occur until a user's borrowed amount reaches 100% of the borrow limit.**
+The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once a user’s total borrowed amount reaches 80% of their total borrow limit, they will be unable to withdraw collateral or borrow any more assets until they repay part of their loan(s) or deposit more collateral. A liquidation will not occur until a user's borrowed amount reaches 100% of the borrow limit.
 
-> _**If a user’s borrow limit reaches 100% it means that the **_ [liquidation threshold]() _**has been reached, and the user will be liquidated.**_
+> If a user’s borrow limit reaches 100% it means that the [liquidation threshold](/users/using-the-web-app/common-terms.html#liquidation-threshold) has been reached, and the user will be liquidated.
 
 ## Liquidation Threshold
 
-![As seen on the Dashboard page. ]()
+![As seen on the Dashboard page. ](/bg/terms-liquidation-threshold.png)
 
-**The liquidation threshold is the LTV ratio at which a borrower should expect to be liquidated.**
+The liquidation threshold is the LTV ratio at which a borrower should expect to be liquidated.
 
 ### Liquidation Threshold Examples
 
@@ -90,9 +90,9 @@ A user provides 1,000 USDC worth of ATOM and borrows the maximum allowable amoun
 
 ## Liquidation Penalty
 
-![As seen on the Dashboard page. ]()
+![As seen on the Dashboard page. ](/bg/terms-liquidation-penalty.png)
 
-**The liquidation penalty is the fee paid by a borrower in the event that they are liquidated. Borrowers should always try to ensure that their positions remain properly over-collateralized in order to avoid paying a liquidation penalty.**
+The liquidation penalty is the fee paid by a borrower in the event that they are liquidated. Borrowers should always try to ensure that their positions remain properly over-collateralized in order to avoid paying a liquidation penalty.
 
 ### Liquidation Penalty Example
 
