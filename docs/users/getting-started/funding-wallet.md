@@ -32,26 +32,24 @@
 
 #### Withdrawing Native ATOM Tokens
 
-**Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.**\
-****
+**Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.**
 
-**Copy your Cosmos wallet address found under the "Cosmos Hub" network in your **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**Umee blockchain compatible wallet**</mark>](../)**, and paste it in the "Send to" section.**
+**Copy your Cosmos wallet address found under the "Cosmos Hub" network in your** [Umee blockchain compatible wallet](../)**, and paste it in the "Send to" section.**
 
 ![]()
 
-**Select withdraw, approve the withdrawal, and wait for the transaction to process. Your ATOM will appear on the **_**Cosmos Hub**_**  **_**network**_** in your Umee blockchain compatible wallet shortly.**&#x20;
-
+**Select withdraw, approve the withdrawal, and wait for the transaction to process. Your ATOM will appear on the **_**Cosmos Hub**_**  **_**network**_** in your Umee blockchain compatible wallet shortly.**
 
 **Once you have received the ATOM on the Cosmos Hub network in your Umee blockchain compatible wallet you can:**
 
-* <mark style="color:blue;"></mark>[<mark style="color:blue;">Transfer it to a decentralized exchange to trade it for other assets like UMEE</mark>](funding-a-wallet.md#exchanging-cosmos-assets-on-a-dex)<mark style="color:blue;"></mark>
-* ****[<mark style="color:blue;">**Transfer it to the Umee blockchain**</mark>](../using-the-web-app/transferring-tokens.md) **to** [<mark style="color:blue;">**supply on the Umee market**</mark>](../using-the-web-app/supplying-and-withdrawing.md) **and start earning lending yield**
+* [Transfer it to a decentralized exchange to trade it for other assets like UMEE]()
+* [Transfer it to the Umee blockchain]() **to** [supply on the Umee market]() **and start earning lending yield**
 
 ## Exchanging Cosmos Assets on a DEX
 
-> _**Anyone with an**_ [_<mark style="color:blue;">**Umee blockchain compatible wallet**</mark>_](../) _<mark style="color:blue;">****</mark>** ****can use a decentralized exchange to exchange other Cosmos assets for Umee.**_
+> _**Anyone with an**_ [Umee blockchain compatible wallet]() _**can use a decentralized exchange to exchange other Cosmos assets for Umee.**_
 
-**Head to** [<mark style="color:blue;">**Osmosis**</mark>](https://app.osmosis.zone/?from=ATOM\&to=UMEE)**, or your Cosmos-based DEX of choice, and connect your **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**Umee blockchain compatible wallet**</mark>](../)**.**
+**Head to** [Osmosis](https://app.osmosis.zone/?from=ATOM\&to=UMEE)**, or your Cosmos-based DEX of choice, and connect your ** [Umee blockchain compatible wallet]()**.**
 
 **Select “Assets” from the left sidebar on the Osmosis web app.**
 
@@ -79,7 +77,7 @@
 
 **Once the transaction has been processed, go back to the “Assets” section and identify the “UMEE” row to see your balance.**
 
-**Select the “Withdraw” option, and withdraw your UMEE from Osmosis to Umee.**&#x20;
+**Select the “Withdraw” option, and withdraw your UMEE from Osmosis to Umee.**
 
 ![Withdraw UMEE from Osmosis to the Umee blockchain.]()
 

@@ -2,9 +2,9 @@
 
 ![]()
 
-**In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed.** [_<mark style="color:blue;">**Users can learn more general information about crypto wallets here**</mark>_]()**.**
+**In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed.** [Users can learn more general information about crypto wallets here]()**.**
 
-> _**Before setting up an Umee blockchain compatible wallet, every new user needs to know the following:**_ <a href="#c8b5" id="c8b5"></a>
+> _**Before setting up an Umee blockchain compatible wallet, every new user needs to know the following:**_
 >
 > * _**Never share your seed phrase or mnemonic with anyone for any reason;**_
 > * _**Never enter your seed phrase or mnemonic anywhere;**_
@@ -15,27 +15,21 @@
 
 ## Creating an Umee Blockchain Compatible Wallet
 
-**Go to** [<mark style="color:blue;">**keplr.app**</mark>](https://www.keplr.app/) **and select "Install Keplr for Chrome."**
+**Go to** [keplr.app](https://www.keplr.app/) **and select "Install Keplr for Chrome."**
 
-> _**The correct URL for the official Keplr website is "**_[_<mark style="color:blue;">**https://www.keplr.app**</mark>_](https://www.keplr.app/)_**"**_
+> _**The correct URL for the official Keplr website is "**_[https://www.keplr.app](https://www.keplr.app/)_**"**_
 
 > _**Keplr is an interchain, IBC-enabled wallet, which means it can also serve as your wallet for several other blockchains in the Cosmos ecosystem and beyond.**_
 
 ![]()
 
-****
-
-**Use the Chrome Web Store to add the **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**Keplr extension**</mark>]() **to Google Chrome.**
+**Use the Chrome Web Store to add the **[Keplr extension]() **to Google Chrome.**
 
 ![]()
-
-****
 
 **Open the Keplr extension and select “Create new account.”**
 
 ![]()
-
-****
 
 **Select if you’d prefer a 12 or 24 word secret recovery phrase, and write it down.**
 
@@ -55,7 +49,6 @@
 
 ![]()
 
-****
+**Congratulations, you’ve officially set up an Umee blockchain compatible wallet!**
 
-**Congratulations, you’ve officially set up an Umee blockchain compatible wallet!** \
-****_Now is a good time to store your secret recovery phrase somewhere safe._
+_Now is a good time to store your secret recovery phrase somewhere safe._
