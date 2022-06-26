@@ -97,6 +97,7 @@ h2 {
 
 .navbar {
   --navbar-line-height: normal;
+  backdrop-filter: blur(50px);
 
   span {
     a {
