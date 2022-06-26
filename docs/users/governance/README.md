@@ -1,1 +1,6 @@
-# Partcipating in Governance
+---
+title: Governance
+contributors: false
+---
+
+<UsersGovernance />

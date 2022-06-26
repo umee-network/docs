@@ -43,6 +43,14 @@ module.exports = {
             "what-is-defi",
             "what-is-dao",
           ] }],
+      "/users/getting-started/": [
+        { 
+          title: "Getting Started", 
+          children: [
+            "creating-wallet",
+            "using-wallet",
+            "funding-wallet"
+          ] }],
       "/validators/": [
         {
           title: "Validators",

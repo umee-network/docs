@@ -1,1 +1,6 @@
-# Getting Started
+---
+title: Getting Started
+contributors: false
+---
+
+<UsersGettingStarted />
