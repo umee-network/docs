@@ -22,14 +22,129 @@ module.exports = {
     contributors: false,
     sidebarDepth: 1,
     sidebar: {
-      "/users/": [{ title: "Users", children: [] }],
+      "/users/": [
+        { 
+          title: "Users", 
+          children: [
+            "/users/getting-started/",
+            "/users/blockchain-basics/",
+            "/users/staking-umee/",
+            "/users/using-the-web-app/",
+            "/users/governance/",
+          ] }],
+      "/users/getting-started/": [
+        { 
+          title: "Getting Started", 
+          children: [
+            "creating-wallet",
+            "using-wallet",
+            "funding-wallet"
+          ] }],
+      "/users/blockchain-basics/": [
+        { 
+          title: "Blockchain Basics", 
+          children: [
+            "what-is-blockchain",
+            "what-is-cosmos",
+            "what-is-crypto",
+            "what-is-wallet",
+            "what-is-staking",
+            "what-is-defi",
+            "what-is-dao",
+          ] }],
+      "/users/staking-umee/": [
+        { 
+          title: "Staking Umee", 
+          children: [
+            "selecting-validator",
+            "staking-umee",
+          ] }],
+      "/users/using-the-web-app/": [
+        { 
+          title: "Using the Web App", 
+          children: [
+            "test-before",
+            "common-terms",
+            "connecting-app",
+            "transferring-tokens",
+            "supply-withdraw",
+            "borrow-repay",
+            "troubleshooting"
+          ] }],
+      "/users/governance/": [
+        { 
+          title: "Governance", 
+          children: [
+            "voting",
+            "creating-proposal",
+          ] }],
+
       "/validators/": [
         {
-          title: "Users",
-          children: ["testnet-validator", "mainnet-validator"],
+          title: "Validators",
+          children: [
+            "testnet-validator", 
+            "mainnet-validator"],
         },
       ],
-      "/developers/": [{ title: "Developers", children: [] }],
+
+      "/developers/": [
+        { 
+          title: "Getting Started", 
+          children: [
+          "source-code",
+          "ide-setup",
+          "umee-daemon",
+          "modules",
+          "ethereum-bridge",
+          "relaying-ibc",
+          "assets",
+          "key-management",
+          "transaction-structure",
+          "performance-profiling",
+          "contributing",
+          "ethereum-contracts",
+          "querying",
+          "price-feeder"
+          ] },
+        {
+          title: "Networks", 
+          children: [
+          "joining-testnet",
+          "joining-mainnet"
+          ]}
+        ],
+      "/developers/modules/": [
+        { 
+          title: "Modules", 
+          children: [
+            "/developers/modules/leverage/",
+            "/developers/modules/oracle/"
+          ] }],
+      "/developers/modules/leverage/": [
+        { 
+          title: "Modules", 
+          children: [
+            "01_concepts",
+            "02_state",
+            "03_queries",
+            "04_messages",
+            "05_endblock",
+            "06_events",
+            "07_params"
+          ] }],
+      "/developers/modules/oracle/": [
+        { 
+          title: "Modules", 
+          children: [
+            "01_concepts",
+            "02_state",
+            "03_end_block",
+            "04_messages",
+            "05_events",
+            "06_params"
+          ] }],
+
       "/overview/": [
         {
           title: "Overview",

@@ -1,6 +1,6 @@
 ---
-title: Users
+title: Modules
 contributors: false
 ---
 
-<Users />
+<Modules />
