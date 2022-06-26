@@ -1,4 +1,4 @@
-# 📜 Creating a Proposal
+# Creating a Proposal
 
 {% hint style="warning" %}
 ### _Prerequisites_

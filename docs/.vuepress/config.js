@@ -31,6 +31,14 @@ module.exports = {
             "/users/using-the-web-app/",
             "/users/governance/",
           ] }],
+      "/users/getting-started/": [
+        { 
+          title: "Getting Started", 
+          children: [
+            "creating-wallet",
+            "using-wallet",
+            "funding-wallet"
+          ] }],
       "/users/blockchain-basics/": [
         { 
           title: "Blockchain Basics", 
@@ -43,14 +51,33 @@ module.exports = {
             "what-is-defi",
             "what-is-dao",
           ] }],
-      "/users/getting-started/": [
+      "/users/staking-umee/": [
         { 
-          title: "Getting Started", 
+          title: "Staking Umee", 
           children: [
-            "creating-wallet",
-            "using-wallet",
-            "funding-wallet"
+            "selecting-validator",
+            "staking-umee",
           ] }],
+      "/users/using-the-web-app/": [
+        { 
+          title: "Using the Web App", 
+          children: [
+            "test-before",
+            "common-terms",
+            "connecting-app",
+            "transferring-tokens",
+            "supply-withdraw",
+            "borrow-repay",
+            "troubleshooting"
+          ] }],
+      "/users/governance/": [
+        { 
+          title: "Governance", 
+          children: [
+            "voting",
+            "creating-proposal",
+          ] }],
+
       "/validators/": [
         {
           title: "Validators",
@@ -59,6 +86,7 @@ module.exports = {
             "mainnet-validator"],
         },
       ],
+
       "/developers/": [
         { 
           title: "Getting Started", 
@@ -115,6 +143,7 @@ module.exports = {
             "05_events",
             "06_params"
           ] }],
+
       "/overview/": [
         {
           title: "Overview",

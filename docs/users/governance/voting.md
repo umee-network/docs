@@ -1,4 +1,4 @@
-# 🗳 Voting
+# Voting
 
 ![](<../.gitbook/assets/Umee\_Banners\_for site\_1500x500\_New-7.png>)
 

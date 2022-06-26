@@ -4,9 +4,7 @@
 
 **Umee supports lending and borrowing on the Umee and Ethereum networks, and plans to support several other chains in the future.**
 
-{% hint style="success" %}
-_**Use the "Cosmos Transfers" guide to easily transfer supported Cosmos assets like ATOM to Umee. This is the fastest, easiest, and most cost efficient method.**_
-{% endhint %}
+> _**Use the "Cosmos Transfers" guide to easily transfer supported Cosmos assets like ATOM to Umee. This is the fastest, easiest, and most cost efficient method.**_
 
 {% hint style="info" %}
 _**Use the "Ethereum --> Cosmos Transfers" guide to convert assets from their Ethereum format to their Cosmos format.**_
@@ -36,9 +34,7 @@ _**Cosmos transfers only require an**_ [_<mark style="color:blue;">**Umee blockc
 
 ## To Transfer Cosmos Assets to Umee:
 
-**Make sure your **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**Umee wallet**</mark>](../) **and the wallet you're transferring from are **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**connected to the web app**</mark>](connecting-to-the-app.md)**.**
-
-****
+**Make sure your** <mark style="color:blue;"></mark> [<mark style="color:blue;">Umee wallet</mark>](../) and the wallet you're transferring from are **<mark style="color:blue;">****</mark> [<mark style="color:blue;">connected to the web app</mark>](connecting-to-the-app.md)**.
 
 **On the "Markets" page, select "Cosmos."**
 
@@ -83,18 +79,17 @@ _**If you are in possession of**_ [_<mark style="color:blue;">**ERC-20 UMEE**</m
 {% hint style="warning" %}
 ### _**Prerequisites (Umee <> Ethereum)**_
 
-* _****_[_<mark style="color:blue;">**Must have an Umee blockchain compatible wallet**</mark>_](../)_**;**_
+* _****_[_<mark style="color:blue;">Must have an Umee blockchain compatible wallet</mark>_](../)_**;**_
 * _**Must have an Ethereum wallet (e.g. MetaMask);**_
-* _<mark style="color:blue;">****</mark>_[_<mark style="color:blue;">**Must have an UMEE balance to pay for transactions on Umee**</mark>_](../getting-started/funding-a-wallet.md)_**;**_
+* _<mark style="color:blue;">****</mark>_[_<mark style="color:blue;">Must have an UMEE balance to pay for transactions on Umee</mark>_](../getting-started/funding-a-wallet.md)_**;**_
 * _**Must have an ETH balance to pay for transactions on Ethereum.**_
 {% endhint %}
 
 ## To Transfer Assets From Ethereum to Umee:
 
-**Make sure your **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**Umee wallet**</mark>](../) **and Ethereum wallet are both **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**connected to the web app**</mark>](connecting-to-the-app.md)**.**
+Make sure your [Umee wallet]() and Ethereum wallet are both <mark style="color:blue;"></mark> [connected to the web app](connecting-to-the-app.md).
 
-****\
-**On the top of the markets page, select "Ethereum."**
+On the top of the markets page, select "Ethereum."
 
 ![](<../.gitbook/assets/image (48).png>)
 
@@ -153,15 +148,15 @@ _**Transactions on Ethereum may be significantly slower and more expensive than 
 {% hint style="warning" %}
 ### _**Prerequisites (Umee <> Ethereum)**_
 
-* _****_[_<mark style="color:blue;">**Must have an Umee blockchain compatible wallet**</mark>_](../)_**;**_
+* _****_[Must have an Umee blockchain compatible wallet](../)_**;**_
 * _**Must have an Ethereum wallet (e.g. MetaMask);**_
-* _<mark style="color:blue;">****</mark>_[_<mark style="color:blue;">**Must have an UMEE balance to pay for transactions on Umee**</mark>_](../getting-started/funding-a-wallet.md)_**;**_
+* _<mark style="color:blue;">****</mark>_[Must have an UMEE balance to pay for transactions on Umee](../getting-started/funding-a-wallet.md)_**;**_
 * _**Must have an ETH balance to pay for transactions on Ethereum.**_
 {% endhint %}
 
 ## To Transfer Assets from Umee to Ethereum:
 
-**Make sure your **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**Umee wallet**</mark>](../) **and Ethereum wallet are both **<mark style="color:blue;">****</mark> [<mark style="color:blue;">**connected to the web app**</mark>](connecting-to-the-app.md)**.**
+Make sure your [Umee wallet](../) and Ethereum wallet are both[connected to the web app](connecting-to-the-app.md).
 
 
 
