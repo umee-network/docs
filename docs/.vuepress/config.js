@@ -77,6 +77,13 @@ module.exports = {
           "joining-mainnet"
           ]}
         ],
+      "/developers/modules/": [
+        { 
+          title: "Modules", 
+          children: [
+            "/modules/leverage/",
+            "/modules/oracle/"
+          ] }],
       "/overview/": [
         {
           title: "Overview",
