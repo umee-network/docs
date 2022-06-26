@@ -58,7 +58,7 @@ Traditionally, centralized exchanges are needed to facilitate the trading of fin
 
 In finance, loans are issued in two ways: credit or over-collateralization. Most of the time a DeFi supplying and borrowing protocol such as Umee issues loans based on over-collateralization. DeFi users typically have to post one crypto asset as collateral in order to borrow another. This means that no credit check, trust, or personal information is needed for a loan to be issued.
 
-While borrowers have a certain amount of crypto assets posted as collateral, the lending platform simultaneously uses the asset to supply to other borrowers so that the assets are being utilized to generate lending interest, thus increasing overall capital efficiency. Lending platforms usually set up their own [risk framework](../additional-information/asset-risk.md) to keep a healthy loan to value ratio and liquidation threshold based on each crypto asset’s property to withhold market volatility.
+While borrowers have a certain amount of crypto assets posted as collateral, the lending platform simultaneously uses the asset to supply to other borrowers so that the assets are being utilized to generate lending interest, thus increasing overall capital efficiency. Lending platforms usually set up their own [risk framework](/additional-info/asset-risk) to keep a healthy loan to value ratio and liquidation threshold based on each crypto asset’s property to withhold market volatility.
 
 :::: tabs
 
