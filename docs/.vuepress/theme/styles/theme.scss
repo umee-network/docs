@@ -46,6 +46,7 @@ a {
       box-shadow: var(--box-shadow);
       transform: translateY(-1px) scale(1.005);
       transition: transform 0.05s ease-in;
+      border-radius: 5px;
     }
   
     &:active {
@@ -143,6 +144,8 @@ h2 {
   }
 
   .nav-button {
+    padding-left: 1rem;
+    
     a:hover {
       border-color: transparent;
     }
@@ -209,6 +212,7 @@ h2 {
 
     &-content {
       margin-left: 15px;
+      
       &-text {
         color: #B8B8B8;
         margin-top: 5px;
