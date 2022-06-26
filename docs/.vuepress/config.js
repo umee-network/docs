@@ -25,8 +25,8 @@ module.exports = {
         { 
           title: "Users", 
           children: [
-            "/users/blockchain-basics/",
             "/users/getting-started/",
+            "/users/blockchain-basics/",
             "/users/staking-umee/",
             "/users/using-the-web-app/",
             "/users/governance/",
