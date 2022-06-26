@@ -40,11 +40,12 @@ a {
   }
 
   &.animation {
-    transition: 0.3s;
+    transition: transform 0.3s ease-out;
   
     &:hover {
       box-shadow: var(--box-shadow);
-      transform: translateY(-2px);
+      transform: translateY(-1px) scale(1.005);
+      transition: transform 0.05s ease-in;
     }
   
     &:active {
