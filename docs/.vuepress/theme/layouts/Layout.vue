@@ -32,11 +32,17 @@ export default {
       let path_arr = [];
       path_arr = path ? path.split("/") : [];
       let paths = [];
+
+      var indices = [];
+      for (var i = 0; i < currentPath.length; i++) {
+        if (currentPath[i] === "/") indices.push(i);
+      }
+
       path_arr.forEach((path, index) => {
         let route = { label: path, link: "" };
-        const pos = currentPath.indexOf("/", index + 1);
         if (index < path_arr.length - 1)
-          route.link = "/" + currentPath.substring(0, pos);
+          route.link =
+            "/" + currentPath.substring(0, indices[index]);
         paths.push(route);
       });
       return paths;

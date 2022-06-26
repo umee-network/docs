@@ -17,6 +17,20 @@
   src: url("/fonts/Helvetica/Helvetica-Bold.ttf");
 }
 
+.page {
+  padding-bottom: 0;
+}
+
+a:not(.breadcrumb, .sidebar-item, .page-nav-link, .navbar-item > a, .card
+    a, .app-link, .header-anchor, .navbar a) {
+  color: #dfb2ff;
+  font-weight: bold;
+
+  &:hover {
+    text-decoration: underline !important;
+  }
+}
+
 a {
   &:hover {
     text-decoration: none !important;
@@ -24,7 +38,7 @@ a {
     &.sidebar-item,
     &.breadcrumb {
       &:hover {
-        background: linear-gradient(90deg,#ddb4ff 15%,#4effe5 50%);
+        background: linear-gradient(90deg, #ddb4ff 15%, #4effe5 50%);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
       }
@@ -33,7 +47,7 @@ a {
 
   &.sidebar-item {
     &.active {
-      background: linear-gradient(90deg,#ddb4ff 15%,#4effe5 50%);
+      background: linear-gradient(90deg, #ddb4ff 15%, #4effe5 50%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }
@@ -41,14 +55,14 @@ a {
 
   &.animation {
     transition: transform 0.3s ease-out;
-  
+
     &:hover {
       box-shadow: var(--box-shadow);
       transform: translateY(-1px) scale(1.005);
       transition: transform 0.05s ease-in;
       border-radius: 5px;
     }
-  
+
     &:active {
       box-shadow: none;
       transform: none;
@@ -86,7 +100,7 @@ h2 {
   h4 {
     font-size: 1rem;
   }
-  
+
   img {
     border-radius: 5px;
   }
@@ -145,7 +159,7 @@ h2 {
 
   .nav-button {
     padding-left: 1rem;
-    
+
     a:hover {
       border-color: transparent;
     }
@@ -212,9 +226,9 @@ h2 {
 
     &-content {
       margin-left: 15px;
-      
+
       &-text {
-        color: #B8B8B8;
+        color: #b8b8b8;
         margin-top: 5px;
       }
     }
@@ -226,13 +240,13 @@ h2 {
     &:nth-child(even) {
       padding-right: 0px;
     }
-  
+
     .card-content-title {
       font-weight: bold;
     }
 
-    .card-content-text{
-      color: var(--c-text)
+    .card-content-text {
+      color: var(--c-text);
     }
   }
 }
@@ -245,7 +259,7 @@ h2 {
 }
 
 blockquote {
-  font-size: .8rem;
+  font-size: 0.8rem;
   color: var(--c-text);
   border-left: 0.3rem solid #4effe5;
   margin: 1rem 0;

@@ -23,26 +23,26 @@ module.exports = {
     sidebarDepth: 1,
     sidebar: {
       "/users/": [
-        { 
-          title: "Users", 
+        {
+          title: "Users",
           children: [
             "/users/getting-started/",
             "/users/blockchain-basics/",
             "/users/staking-umee/",
             "/users/using-the-web-app/",
             "/users/governance/",
-          ] }],
+          ],
+        },
+      ],
       "/users/getting-started/": [
-        { 
-          title: "Getting Started", 
-          children: [
-            "creating-wallet",
-            "using-wallet",
-            "funding-wallet"
-          ] }],
+        {
+          title: "Getting Started",
+          children: ["creating-wallet", "using-wallet", "funding-wallet"],
+        },
+      ],
       "/users/blockchain-basics/": [
-        { 
-          title: "Blockchain Basics", 
+        {
+          title: "Blockchain Basics",
           children: [
             "what-is-blockchain",
             "what-is-cosmos",
@@ -51,17 +51,18 @@ module.exports = {
             "what-is-staking",
             "what-is-defi",
             "what-is-dao",
-          ] }],
+          ],
+        },
+      ],
       "/users/staking-umee/": [
-        { 
-          title: "Staking Umee", 
-          children: [
-            "selecting-validator",
-            "staking-umee",
-          ] }],
+        {
+          title: "Staking Umee",
+          children: ["selecting-validator", "staking-umee"],
+        },
+      ],
       "/users/using-the-web-app/": [
-        { 
-          title: "Using the Web App", 
+        {
+          title: "Using the Web App",
           children: [
             "test-before",
             "common-terms",
@@ -69,61 +70,61 @@ module.exports = {
             "transferring-tokens",
             "supply-withdraw",
             "borrow-repay",
-            "troubleshooting"
-          ] }],
+            "troubleshooting",
+          ],
+        },
+      ],
       "/users/governance/": [
-        { 
-          title: "Governance", 
-          children: [
-            "voting",
-            "creating-proposal",
-          ] }],
+        {
+          title: "Governance",
+          children: ["voting", "creating-proposal"],
+        },
+      ],
 
       "/validators/": [
         {
           title: "Validators",
-          children: [
-            "testnet-validator", 
-            "mainnet-validator"],
+          children: ["testnet-validator", "mainnet-validator"],
         },
       ],
 
       "/developers/": [
-        { 
-          title: "Getting Started", 
-          children: [
-          "source-code",
-          "ide-setup",
-          "umee-daemon",
-          "modules",
-          "ethereum-bridge",
-          "relaying-ibc",
-          "assets",
-          "key-management",
-          "transaction-structure",
-          "performance-profiling",
-          "contributing",
-          "ethereum-contracts",
-          "querying",
-          "price-feeder"
-          ] },
         {
-          title: "Networks", 
+          title: "Getting Started",
           children: [
-          "joining-testnet",
-          "joining-mainnet"
-          ]}
-        ],
+            "source-code",
+            "ide-setup",
+            "umee-daemon",
+            "modules",
+            "ethereum-bridge",
+            "relaying-ibc",
+            "assets",
+            "key-management",
+            "transaction-structure",
+            "performance-profiling",
+            "contributing",
+            "ethereum-contracts",
+            "querying",
+            "price-feeder",
+          ],
+        },
+        {
+          title: "Networks",
+          children: ["joining-testnet", "joining-mainnet"],
+        },
+      ],
       "/developers/modules/": [
-        { 
-          title: "Modules", 
+        {
+          title: "Modules",
           children: [
             "/developers/modules/leverage/",
-            "/developers/modules/oracle/"
-          ] }],
+            "/developers/modules/oracle/",
+          ],
+        },
+      ],
       "/developers/modules/leverage/": [
-        { 
-          title: "Modules", 
+        {
+          title: "Modules",
           children: [
             "01_concepts",
             "02_state",
@@ -131,19 +132,23 @@ module.exports = {
             "04_messages",
             "05_endblock",
             "06_events",
-            "07_params"
-          ] }],
+            "07_params",
+          ],
+        },
+      ],
       "/developers/modules/oracle/": [
-        { 
-          title: "Modules", 
+        {
+          title: "Modules",
           children: [
             "01_concepts",
             "02_state",
             "03_end_block",
             "04_messages",
             "05_events",
-            "06_params"
-          ] }],
+            "06_params",
+          ],
+        },
+      ],
 
       "/overview/": [
         {
@@ -189,6 +194,6 @@ module.exports = {
     mediumZoomPlugin({
       selector: "",
     }),
-    tabsPlugin({})
+    tabsPlugin({}),
   ],
 };

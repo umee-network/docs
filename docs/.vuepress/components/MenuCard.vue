@@ -43,7 +43,7 @@ export default {
   align-items: center;
   padding: 18px 18px 30px;
 
-  .ing-content {
+  .img-content {
     width: 50px;
   }
 
@@ -58,6 +58,10 @@ export default {
   align-items: center;
   text-align: center;
   padding: 18px 18px 30px;
+
+  .img-content {
+    height: 200px;
+  }
 
   .card-content-title {
     font-size: 24px;
