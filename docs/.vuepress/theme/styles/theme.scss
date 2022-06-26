@@ -46,6 +46,7 @@ a {
       box-shadow: var(--box-shadow);
       transform: translateY(-1px) scale(1.005);
       transition: transform 0.05s ease-in;
+      border-radius: 5px;
     }
   
     &:active {
