@@ -123,3 +123,21 @@ html.dark {
   --scrollbar-bg-color: var(--c-mid-grey-on-navy);
   --sidebar-hover-color: var(--c-dark-grey-on-navy);
 }
+
+// thinner, on-brand scrollbar
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(155, 155, 155, 0.1);
+  border-radius: 20px;
+  border: transparent;
+}
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.1) transparent;
+}
