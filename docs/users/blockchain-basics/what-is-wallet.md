@@ -16,8 +16,8 @@ Crypto wallets do not actually store crypto, but rather provide users with a sim
 
 ## Learn More
 
-{% embed url="https://docs.umee.cc/user-guides/getting-started/creating-a-wallet" %}
+[Learn how to use create an Umee compatible wallet.](/users/getting-started/creating-wallet)
 
-{% embed url="https://docs.umee.cc/user-guides/getting-started/using-a-wallet" %}
+[Learn how to use an Umee wallet.](/users/getting-started/using-wallet)
 
-{% embed url="https://docs.umee.cc/user-guides/getting-started/funding-a-wallet" %}
+[Learn how to fund an Umee wallet.](/users/getting-started/funding-wallet)

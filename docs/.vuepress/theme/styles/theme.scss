@@ -23,7 +23,7 @@
 
 a:not(.breadcrumb, .sidebar-item, .page-nav-link, .navbar-item > a, .card
     a, .app-link, .header-anchor, .navbar a) {
-  color: #dfb2ff;
+  color: var(--c-text-link);
   font-weight: bold;
 
   &:hover {
@@ -259,7 +259,7 @@ h2 {
 }
 
 blockquote {
-  font-size: 0.8rem;
+  font-size: 1rem;
   color: var(--c-text);
   border-left: 0.3rem solid #4effe5;
   margin: 1rem 0;
@@ -267,7 +267,7 @@ blockquote {
   font-style: italic;
   background-color: var(--c-bg-light);
   font-weight: bold;
-  padding: 0.25rem 0 0.25rem 1rem;
+  padding: 0.5rem 1rem;
 }
 
 @media (max-width: 768px) {

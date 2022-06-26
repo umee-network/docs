@@ -22,22 +22,40 @@ Umee is permissionless, and there is no background check or approval needed to u
 ### Interchain Leverage
 Umee will allow users to leverage their favorite assets and access deep liquidity all in one place. Umee is chain and bridge agnostic, and will support the changing needs of users.
 
+****
+
 ## Why Umee?
 
 ### Existing Issues
 There are three main issues in DeFi right now:
 
+:::: tabs
+
+::: tab Isolated Capital
+
 #### Isolated Capital
 
 Capital is siloed across several different networks. Users are unable to move many assets between chains freely. Existing liquidity protocols allow users to lend and borrow assets on the same chain, but not across chains.
+
+:::
+
+::: tab Concentration
 
 #### Concentrated Systematic Risks
 
 DeFi risk is highly concentrated on Ethereum. There is a strong need to diversify this risk while maintaining decentralization on other blockchains.
 
+:::
+
+::: tab Detached Yields
+
 #### Detached Yields
 
 Proof of Stake and DeFi yields are fundamentally different. Capital does not flow freely based on risk return profiles and thus markets do not operate as efficiently as they should.
+
+:::
+
+::::
 
 ### Umee's Vision
 
@@ -45,9 +63,17 @@ Umee aims to be the go-to cross chain DeFi hub to connect various ecosystems tog
 
 ### Advantages
 
+:::: tabs
+
+::: tab Decentralization
+
 #### Decentralization
 
 The Umee blockchain has a large decentralized validator set. This means that Umee is accessible by anyone with an internet connection regardless of their location or financial status, and users are able to safely transact without the need to trust a centralized entity.
+
+:::
+
+::: tab Proof of Stake
 
 #### Proof of Stake Consensus
 
@@ -55,16 +81,32 @@ Umee is a proof of stake (PoS) blockchain, meaning transactions on Umee are sign
 
 Proof of stake assets also may be seen as a viable collateral and credit system for the future.
 
+:::
+
+::: tab Interoperability
+
 #### Interoperability
 
 The Umee blockchain is the foundational infrastructure for a wide ecosystem of DeFi protocols. Umee utilizes Cosmos’ Inter-Blockchain Communication Protocol (IBC) to facilitate fast finality transfers of tokens between blockchains. Umee will also utilize various bridging solutions for interconnecting between fast finality and probabilistic finality networks, allowing for even better capital efficiency. In the future, transactions made on the Umee blockchain will be able to natively interact with other blockchains.
 
+:::
+
+::: tab Infrastructure
+
 #### Infrastructure
 
 Over the long run Umee aims to provide the infrastructure needed for the crypto ecosystem to achieve real world adoption. Umee is both chain and bridge agnostic, making it an ideal blockchain to build lasting products on.
+
+:::
+
+::: tab User Experience
 
 #### User Experience
 
 Existing blockchain technologies are typically overwhelming for new users. The onboarding process alone can be time consuming, and minor mistakes can be costly. DeFi users often must choose between the accessibility of liquidity, transaction costs, transaction speeds, levels of decentralization, overall network security, and more when selecting which blockchain and protocol to interact with.
 
 Umee prioritizes the user experience, and will allow new users to participate in DeFi more easily than ever before. Umee’s technology offers a flexible mix of speed and efficiency for blockchain transactions, without sacrificing decentralization or network security.
+
+:::
+
+::::
