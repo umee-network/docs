@@ -1,4 +1,4 @@
-# Installing Umee Node
+# Joining Mainnet
 
 ### Hardware Requirements
 

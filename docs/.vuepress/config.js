@@ -21,26 +21,68 @@ module.exports = {
     contributors: false,
     sidebarDepth: 1,
     sidebar: {
-      "/users/": [{ title: "Users", children: [] }],
+      "/users/": [
+        { 
+          title: "Users", 
+          children: [
+            "/users/blockchain-basics/",
+            "/users/getting-started/",
+            "/users/staking-umee/",
+            "/users/using-the-web-app/",
+            "/users/governance/",
+          ] }],
+      "/users/blockchain-basics/": [
+        { 
+          title: "Blockchain Basics", 
+          children: [
+            "what-is-blockchain",
+            "what-is-cosmos",
+            "what-is-crypto",
+            "what-is-wallet",
+            "what-is-staking",
+            "what-is-defi",
+            "what-is-dao",
+          ] }],
       "/validators/": [
         {
-          title: "Users",
-          children: ["testnet-validator", "mainnet-validator"],
+          title: "Validators",
+          children: [
+            "testnet-validator", 
+            "mainnet-validator"],
         },
       ],
-      "/developers/": [{ title: "Developers", children: [] }],
+      "/developers/": [
+        { 
+          title: "Getting Started", 
+          children: [
+          "source-code",
+          "ide-setup",
+          "umee-daemon",
+          "modules",
+          "ethereum-bridge",
+          "relaying-ibc",
+          "assets",
+          "key-management",
+          "transaction-structure",
+          "performance-profiling",
+          "contributing",
+          "ethereum-contracts",
+          "querying",
+          "price-feeder"
+          ] },
+        {
+          title: "Networks", 
+          children: [
+          "joining-testnet",
+          "joining-mainnet"
+          ]}
+        ],
       "/overview/": [
         {
           title: "Overview",
           children: [
+            "/overview/",
             "umee-token",
-            "blockchain-basics",
-            "essentials",
-            'pow-vs-pos',
-            "defi",
-            "governance",
-            "help",
-            "branding",
           ],
         },
       ],
