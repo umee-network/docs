@@ -22,7 +22,7 @@
 }
 
 a:not(.breadcrumb, .sidebar-item, .page-nav-link, .navbar-item > a, .card
-    a, .app-link, .header-anchor) {
+    a, .app-link, .header-anchor, .navbar a) {
   color: #dfb2ff;
   font-weight: bold;
 
