@@ -7,7 +7,7 @@
   --c-bg: #ffffff;
   --c-bg-light: #f5f7f9;
   --c-bg-lighter: #eeeeee;
-  --c-bg-navbar: var(--c-bg);
+  --c-bg-navbar: #fffffff0;
   --c-bg-sidebar: var(--c-bg);
   --c-bg-arrow: #cccccc;
 
@@ -20,8 +20,8 @@
   --c-text-quote: #4e6e8e;
 
   // border colors
-  --c-border: #e2e3ed;
-  --c-border-dark: #dfe2e5;
+  --c-border: #e2e3ede0;
+  --c-border-dark: #dfe2e5e0;
 
   // custom container colors
   --c-tip: #42b983;
@@ -71,7 +71,7 @@
   //custom styles
   --c-mid-grey-on-navy: #a0a1ba;
   --c-dark-grey-on-navy: #464869;
-  --box-shadow: 0 8px 12px rgba(78, 255, 229, 0.3),
+  --box-shadow: 0 0 12px rgba(78, 255, 229, 0.3),
     0 4px 8px rgba(78, 255, 229, 0.2), 0 1px 0 rgba(78, 255, 229, 0.2);
   --back-to-top-z-index: 9999 !important;
   --c-back-to-top-color: #16183c;
@@ -87,6 +87,7 @@ html.dark {
 
   // background colors
   --c-bg: #070927;
+  --c-bg-navbar: #070927f0;
   --c-bg-light: #16183C;
   --c-bg-lighter: #262c34;
   
@@ -98,8 +99,8 @@ html.dark {
   --c-text-lightest: #8094a8;
 
   // border colors
-  --c-border: #464869;
-  --c-border-dark: #34404c;
+  --c-border: #46486980;
+  --c-border-dark: #34404c80;
 
   // custom container colors
   --c-tip: #318a62;
@@ -122,4 +123,22 @@ html.dark {
   --scrollbar-color: var(--c-dark-grey-on-navy);
   --scrollbar-bg-color: var(--c-mid-grey-on-navy);
   --sidebar-hover-color: var(--c-dark-grey-on-navy);
+}
+
+// thinner, on-brand scrollbar
+::-webkit-scrollbar {
+  width: 5px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(155, 155, 155, 0.1);
+  border-radius: 20px;
+  border: transparent;
+}
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(255, 255, 255, 0.1) transparent;
 }
