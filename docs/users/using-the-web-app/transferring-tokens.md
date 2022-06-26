@@ -10,7 +10,11 @@
 
 > _**Use the "Cosmos --> Ethereum Transfers" guide to convert assets from their Cosmos format to their Ethereum format.**_
 
-#### Cosmos Transfers
+:::: tabs
+
+::: tab IBC Transfers
+
+## IBC Transfers
 
 _**If you have Cosmos assets like ATOM on a different network in your Umee blockchain compatible wallet, follow this guide to transfer them to Umee.**_
 
@@ -48,7 +52,11 @@ _**If you have Cosmos assets like ATOM on a different network in your Umee block
 
 **After tokens have been transferred to Umee, users can **[supply them on the Umee market]() **to start earning lending interest.**
 
-#### Ethereum -> Cosmos Transfers
+:::
+
+::: tab Ethereum to Umee
+
+## Ethereum to Umee Transfers
 
 _**If you are in possession of**_ [ERC-20 UMEE]()_**, or if you'd like to access native Ethereum assets while enjoying Umee's fast and inexpensive transactions, use this guide to bridge ERC-20 assets to Umee.**_
 
@@ -91,7 +99,11 @@ On the top of the markets page, select "Ethereum."
 
 _**Transfers between Umee and Ethereum may take significantly longer than Cosmos transfers to process.**_
 
-#### Umee -> Ethereum Transfers
+:::
+
+::: tab Umee to Ethereum
+
+#### Umee to Ethereum Transfers
 
 _**Umee's Gravity Bridge allows users to transfer assets between the Cosmos and Ethereum ecosystems. If you'd like to transfer assets from the Umee blockchain to Ethereum, follow the steps below.**_
 
@@ -145,3 +157,7 @@ Make sure your [Umee wallet]() and Ethereum wallet are both[connected to the web
 ![]()
 
 > _**Transfers between Umee and Ethereum may take significantly longer than Cosmos transfers to process.**_
+
+:::
+
+::::

@@ -1,31 +1,31 @@
 # Voting
 
-![]()
+![](/bg/participate-gov.png)
 
 **Active community governance is important in order to help Umee grow while remaining decentralized and secure. As a native UMEE token holder you are able to participate in protocol governance and vote on various proposals to help shape the future of the Umee hub.**
 
 > ### Prerequisites
 >
-> * **Must have an ** [Umee blockchain compatible wallet]() **set up and funded;**
-> * **Must be actively** [staking UMEE]()**.**
+> * **Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) set up and funded**
+> * **Must be actively [staking UMEE](/users/staking-umee/staking-umee).**
 
 ## Voting on A Proposal
 
 **Sign into your Keplr wallet and go to the Keplr dashboard.**
 
-> _**The correct URL for the Keplr dashboard is “**_[https://wallet.keplr.app/#/dashboard](https://wallet.keplr.app/#/dashboard)_**”**_
+> _**The correct URL for the Keplr dashboard is “[https://wallet.keplr.app/#/dashboard](https://wallet.keplr.app/#/dashboard)”**_
 
 > _**Be extra cautious and always double check the URL when staking tokens in order to avoid phishing scams.**_
 
 **Select “Umee” from the list on the left side of the Keplr dashboard.**
 
-![Select "Umee" from the list of chains]()
+![Select "Umee" from the list of chains](/bg/voting-1.png)
 
 **Select "Governance" from the dropdown that appears.**
 
 **You will now see all active governance proposals (if there are any). Select a proposal to learn more about it.**
 
-![Select a proposal to learn more about it]()
+![Select a proposal to learn more about it](/bg/voting-2.png)
 
 **Read the description of the governance proposal and do additional research as needed before making a decision. When you're ready, select the "Vote" button.**
 
