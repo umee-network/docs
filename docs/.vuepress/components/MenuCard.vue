@@ -42,6 +42,14 @@ export default {
   display: flex;
   align-items: center;
   padding: 18px 18px 30px;
+
+  .ing-content {
+    width: 50px;
+  }
+
+  .card-content {
+    width: calc(100% - 50px);
+  }
 }
 .card-container {
   display: flex;
@@ -55,13 +63,14 @@ export default {
     font-size: 24px;
     font-weight: bold;
   }
-
-  .img-content {
-    height: 200px;
-    display: flex;
-    align-items: center;
-  }
 }
+
+.img-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .external-link {
   width: 100%;
   justify-content: flex-end;

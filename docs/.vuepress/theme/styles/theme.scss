@@ -40,11 +40,13 @@ a {
   }
 
   &.animation {
-    transition: 0.3s;
+    transition: transform 0.3s ease-out;
   
     &:hover {
       box-shadow: var(--box-shadow);
-      transform: translateY(-2px);
+      transform: translateY(-1px) scale(1.005);
+      transition: transform 0.05s ease-in;
+      border-radius: 5px;
     }
   
     &:active {
@@ -97,6 +99,7 @@ h2 {
 
 .navbar {
   --navbar-line-height: normal;
+  backdrop-filter: blur(50px);
 
   span {
     a {
@@ -141,6 +144,8 @@ h2 {
   }
 
   .nav-button {
+    padding-left: 1rem;
+    
     a:hover {
       border-color: transparent;
     }
@@ -207,6 +212,7 @@ h2 {
 
     &-content {
       margin-left: 15px;
+      
       &-text {
         color: #B8B8B8;
         margin-top: 5px;

@@ -128,6 +128,7 @@ export default {
   border-top: var(--footer-border);
   position: absolute;
   left: 0;
+  min-height: 40vh;
   width: 100%;
   z-index: 10;
   margin-top: 5rem;

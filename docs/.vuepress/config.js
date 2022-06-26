@@ -5,6 +5,7 @@ const {
   registerComponentsPlugin,
 } = require("@vuepress/plugin-register-components");
 const { mediumZoomPlugin } = require("@vuepress/plugin-medium-zoom");
+const { tabsPlugin } = require("./theme/plugins/vuepress-plugin-tabs");
 
 module.exports = {
   lang: "en-US",
@@ -148,8 +149,15 @@ module.exports = {
         {
           title: "Overview",
           children: [
-            "/overview/",
+            "custom-tabs",
             "umee-token",
+            // "blockchain-basics",
+            // "essentials",
+            // 'pow-vs-pos',
+            // "defi",
+            // "governance",
+            // "help",
+            // "branding",
           ],
         },
       ],
@@ -181,5 +189,6 @@ module.exports = {
     mediumZoomPlugin({
       selector: "",
     }),
+    tabsPlugin({})
   ],
 };

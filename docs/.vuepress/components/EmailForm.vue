@@ -65,7 +65,7 @@
               <button type="submit" class="gradient-text">SIGN UP</button>
             </form>
           </GradientBox>
-          <p>You can unsubscribe any time.</p>
+          <p class="unsubscribe">You can unsubscribe any time.</p>
         </div>
       </div>
     </div>
@@ -114,6 +114,12 @@ export default {
   justify-content: flex-end;
   min-height: 200px;
   align-items: center;
+
+  .unsubscribe {
+    margin-top: .5rem;
+    font-size: 0.9rem;
+    opacity: .5;
+  }
 
   &:hover &-image-item {
     opacity: 0.5;
