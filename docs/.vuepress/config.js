@@ -81,8 +81,31 @@ module.exports = {
         { 
           title: "Modules", 
           children: [
-            "/modules/leverage/",
-            "/modules/oracle/"
+            "/developers/modules/leverage/",
+            "/developers/modules/oracle/"
+          ] }],
+      "/developers/modules/leverage/": [
+        { 
+          title: "Modules", 
+          children: [
+            "01_concepts",
+            "02_state",
+            "03_queries",
+            "04_messages",
+            "05_endblock",
+            "06_events",
+            "07_params"
+          ] }],
+      "/developers/modules/oracle/": [
+        { 
+          title: "Modules", 
+          children: [
+            "01_concepts",
+            "02_state",
+            "03_end_block",
+            "04_messages",
+            "05_events",
+            "06_params"
           ] }],
       "/overview/": [
         {
