@@ -154,15 +154,8 @@ module.exports = {
         {
           title: "Overview",
           children: [
-            "custom-tabs",
+            "/overview/",
             "umee-token",
-            // "blockchain-basics",
-            // "essentials",
-            // 'pow-vs-pos',
-            // "defi",
-            // "governance",
-            // "help",
-            // "branding",
           ],
         },
       ],
