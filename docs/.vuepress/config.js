@@ -24,138 +24,127 @@ module.exports = {
     sidebar: {
       "/users/": [
         {
-          title: "Users",
+          text: "Getting Started",
+          collapsible: true,
           children: [
-            "/users/getting-started/",
-            "/users/blockchain-basics/",
-            "/users/staking-umee/",
-            "/users/using-the-web-app/",
-            "/users/governance/",
+            "/users/getting-started/creating-wallet",
+            "/users/getting-started/using-wallet",
+            "/users/getting-started/funding-wallet",
+          ],
+        },
+        {
+          text: "Blockchain Basics",
+          collapsible: true,
+          children: [
+            "/users/blockchain-basics/what-is-blockchain",
+            "/users/blockchain-basics/what-is-cosmos",
+            "/users/blockchain-basics/what-is-crypto",
+            "/users/blockchain-basics/what-is-wallet",
+            "/users/blockchain-basics/what-is-staking",
+            "/users/blockchain-basics/what-is-defi",
+            "/users/blockchain-basics/what-is-dao",
+          ],
+        },
+        {
+          text: "Staking Umee",
+          collapsible: true,
+          children: [
+            "/users/staking-umee/selecting-validator",
+            "/users/staking-umee/staking-umee",
+          ],
+        },
+        {
+          text: "Using the Web App",
+          collapsible: true,
+          children: [
+            "/users/using-the-web-app/test-before",
+            "/users/using-the-web-app/common-terms",
+            "/users/using-the-web-app/connecting-app",
+            "/users/using-the-web-app/transferring-tokens",
+            "/users/using-the-web-app/supply-withdraw",
+            "/users/using-the-web-app/borrow-repay",
+            "/users/using-the-web-app/troubleshooting",
+          ],
+        },
+        {
+          text: "Governance",
+          collapsible: true,
+          children: [
+            "/users/governance/voting",
+            "/users/governance/creating-proposal",
           ],
         },
       ],
-      "/users/getting-started/": [
+      "/overview/": [
         {
-          title: "Getting Started",
-          children: ["creating-wallet", "using-wallet", "funding-wallet"],
+          title: "Overview",
+          children: ["/overview/", "umee-token"],
         },
       ],
-      "/users/blockchain-basics/": [
-        {
-          title: "Blockchain Basics",
-          children: [
-            "what-is-blockchain",
-            "what-is-cosmos",
-            "what-is-crypto",
-            "what-is-wallet",
-            "what-is-staking",
-            "what-is-defi",
-            "what-is-dao",
-          ],
-        },
-      ],
-      "/users/staking-umee/": [
-        {
-          title: "Staking Umee",
-          children: ["selecting-validator", "staking-umee"],
-        },
-      ],
-      "/users/using-the-web-app/": [
-        {
-          title: "Using the Web App",
-          children: [
-            "test-before",
-            "common-terms",
-            "connecting-app",
-            "transferring-tokens",
-            "supply-withdraw",
-            "borrow-repay",
-            "troubleshooting",
-          ],
-        },
-      ],
-      "/users/governance/": [
-        {
-          title: "Governance",
-          children: ["voting", "creating-proposal"],
-        },
-      ],
-
       "/validators/": [
         {
           title: "Validators",
           children: ["testnet-validator", "mainnet-validator"],
         },
       ],
-
       "/developers/": [
         {
-          title: "Getting Started",
+          text: "Getting Started",
+          collapsible: true,
           children: [
-            "source-code",
-            "ide-setup",
-            "umee-daemon",
-            "modules",
-            "ethereum-bridge",
-            "relaying-ibc",
-            "assets",
-            "key-management",
-            "transaction-structure",
-            "performance-profiling",
-            "contributing",
-            "ethereum-contracts",
-            "querying",
-            "price-feeder",
-          ],
-        },
-        {
-          title: "Networks",
-          children: ["joining-testnet", "joining-mainnet"],
-        },
-      ],
-      "/developers/modules/": [
-        {
-          title: "Modules",
-          children: [
-            "/developers/modules/leverage/",
-            "/developers/modules/oracle/",
-          ],
-        },
-      ],
-      "/developers/modules/leverage/": [
-        {
-          title: "Modules",
-          children: [
-            "01_concepts",
-            "02_state",
-            "03_queries",
-            "04_messages",
-            "05_endblock",
-            "06_events",
-            "07_params",
-          ],
-        },
-      ],
-      "/developers/modules/oracle/": [
-        {
-          title: "Modules",
-          children: [
-            "01_concepts",
-            "02_state",
-            "03_end_block",
-            "04_messages",
-            "05_events",
-            "06_params",
-          ],
-        },
-      ],
+            "/developers/source-code",
+            "/developers/ide-setup",
+            "/developers/umee-daemon",
+            {
+              text: "Modules",
+              collapsible: true,
+              children: [
+                {
+                  text: "Leverage",
+                  collapsible: true,
+                  children: [
+                    "/developers/modules/leverage/01_concepts",
+                    "/developers/modules/leverage/02_state",
+                    "/developers/modules/leverage/03_queries",
+                    "/developers/modules/leverage/04_messages",
+                    "/developers/modules/leverage/05_endblock",
+                    "/developers/modules/leverage/06_events",
+                    "/developers/modules/leverage/07_params",
+                  ],
+                },
+                {
+                  text: "Oracle",
+                  collapsible: true,
 
-      "/overview/": [
+                  children: [
+                    "/developers/modules/oracle/01_concepts",
+                    "/developers/modules/oracle/02_state",
+                    "/developers/modules/oracle/03_end_block",
+                    "/developers/modules/oracle/04_messages",
+                    "/developers/modules/oracle/05_events",
+                    "/developers/modules/oracle/06_params",
+                  ],
+                },
+              ],
+            },
+            "/developers/ethereum-bridge",
+            "/developers/relaying-ibc",
+            "/developers/assets",
+            "/developers/key-management",
+            "/developers/transaction-structure",
+            "/developers/performance-profiling",
+            "/developers/contributing",
+            "/developers/ethereum-contracts",
+            "/developers/querying",
+            "/developers/price-feeder",
+          ],
+        },
         {
-          title: "Overview",
+          text: "Networks",
+          collapsible: true,
           children: [
-            "/overview/",
-            "umee-token",
+            "/developers/joining-testnet",
+            "/developers/joining-mainnet",
           ],
         },
       ],
