@@ -1,7 +1,7 @@
 <template>
   <div class="page-footer p-4">
     <div class="row">
-      <div class="col-4">
+      <div class="col-3">
         <img src="/img/umee-logo.svg" class="page-footer-logo" />
         <p>Join us in building the future of cross chain DeFi!</p>
         <div class="social-links">
@@ -17,8 +17,9 @@
           </app-link>
         </div>
       </div>
-      <div class="col-6">
+      <div class="col-7">
         <div class="row menus-container">
+          <div class="col-1" />
           <div class="col-3">
             <span class="menu-title">PROTOCOL</span>
             <div class="menus">
@@ -126,10 +127,6 @@ export default {
   padding: 2.5rem;
   color: #62637b;
   border-top: var(--footer-border);
-  position: absolute;
-  left: 0;
-  min-height: 40vh;
-  width: 100%;
   z-index: 10;
   margin-top: 5rem;
 
@@ -177,6 +174,7 @@ export default {
 
   .social-links {
     display: flex;
+    flex-wrap: wrap;
 
     .social-link {
       width: 35px;
@@ -191,7 +189,7 @@ export default {
       justify-content: center;
       align-items: center;
       line-height: 0;
-      margin-right: 5px;
+      margin: 0 5px 10px 0;
 
       &:hover {
         background-image: linear-gradient(#070927, #070927),
@@ -226,11 +224,15 @@ export default {
     }
   }
 
-  @media (max-width: 1024px) {
+  @media (max-width: 1200px) {
     .menus-container {
       & > div {
-        width: 50%;
+        width: 100% !important;
       }
+    }
+
+    .row > div {
+      width: calc(100% / 3);
     }
   }
 
@@ -250,7 +252,7 @@ export default {
     }
 
     [class^="col-"] {
-      width: 100%;
+      width: 100% !important;
     }
   }
 }
