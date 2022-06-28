@@ -10,7 +10,7 @@ const { tabsPlugin } = require("./theme/plugins/vuepress-plugin-tabs");
 module.exports = {
   lang: "en-US",
   title: "Umeeversity",
-  description: "This is my first VuePress site",
+  description: "Umee Cross Chain DeFi",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   theme: localTheme({
     logo: "/img/Logo.svg",
