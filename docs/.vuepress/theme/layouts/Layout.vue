@@ -6,6 +6,9 @@
     <template #page-bottom>
       <page-footer />
     </template>
+    <template #sidebar-bottom>
+      <sidebar-bottom />
+    </template>
   </ParentLayout>
 </template>
 
@@ -13,6 +16,7 @@
 import ParentLayout from "@vuepress/theme-default/lib/client/layouts/Layout.vue";
 import PageFooter from "./PageFooter.vue";
 import Breadcrumb from "../components/Breadcrumb.vue";
+import SidebarBottom from '../components/SidebarBottom.vue';
 
 export default {
   data() {
@@ -22,6 +26,7 @@ export default {
     ParentLayout,
     PageFooter,
     Breadcrumb,
+    SidebarBottom,
   },
   computed: {
     currentPaths() {

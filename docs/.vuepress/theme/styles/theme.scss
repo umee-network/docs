@@ -111,6 +111,23 @@ h2 {
   --back-to-top-color-hover: #fda9ff !important;
 }
 
+.sidebar {
+  overflow: hidden;
+
+  .sidebar-items {
+    height: calc(100vh - 210px - var(--navbar-height));
+    overflow: auto;
+  }
+
+  @media (max-width: 719px) {
+    overflow: auto;
+
+    .sidebar-items {
+      height: auto;
+    }
+  }
+}
+
 .navbar {
   --navbar-line-height: normal;
   backdrop-filter: blur(50px);
