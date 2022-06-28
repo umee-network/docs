@@ -11,7 +11,7 @@ title: Overview
 
 Umee is a base layer blockchain, much like Ethereum. As a base layer blockchain, applications and money lego primitives can be built on top of Umee in order to allow DeFi users to access cross chain leverage and liquidity.
 
-As a Cosmos SDK blockchain, the Umee Network is interoperable with blockchains including Terra, Crypto.com, Binance Chain, Osmosis, Secret Network, and 30+ other chains, plus Ethereum, from Day one.
+As a Cosmos SDK blockchain, the Umee Network is already interoperable with blockchains including Ethereum, Crypto.com, Binance Chain, Osmosis, Secret Network, and 30+ others.
 
 ### Decentralized Lending & Borrowing
 
