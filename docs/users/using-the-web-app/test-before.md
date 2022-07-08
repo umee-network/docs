@@ -1,5 +1,7 @@
 # Test Before You Try
 
+![](/bg/test-before-try.png)
+
 Crypto can be scary for new users. While crypto allows users to be in full control of their assets and transact in a trustless manner, transactions are irreversible so mistakes can be costly.
 
 Umee aims to make DeFi as easy and accessible as possible, and encourages new users to test out features on [Umee's testnet](https://testnet.umee.cc/) **before using real money.**

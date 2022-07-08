@@ -1,5 +1,7 @@
 # What is Crypto?
 
+![](/bg/what-is-crypto.png)
+
 Crypto is an entirely new asset class that is completely digital. There are many different types of crypto-assets that all share a few common traits:
 
 * Crypto-assets are native to the internet.

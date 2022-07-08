@@ -25,9 +25,11 @@ Umee will allow users to leverage their favorite assets and access deep liquidit
 ****
 
 ## Why Umee?
+![](/bg/why-umee.png)
+Umee aims to be the go-to cross chain DeFi hub to connect various ecosystems together and allow builders to create novel financial products on top. Umee plans to break the inherent silos between blockchains by utilizing bridging solutions towards interconnecting blockchains and encouraging better capital efficiency. The eventual goals will be to enable interchain lending and borrowing, multi-chain staking and delegations, plus cross chain defi rates.
 
 ### Existing Issues
-There are three main issues in DeFi right now:
+![](/bg/existing-issues.png)
 
 :::: tabs
 
@@ -57,9 +59,6 @@ Proof of Stake and DeFi yields are fundamentally different. Capital does not flo
 
 ::::
 
-### Umee's Vision
-
-Umee aims to be the go-to cross chain DeFi hub to connect various ecosystems together and allow builders to create novel financial products on top. Umee plans to break the inherent silos between blockchains by utilizing bridging solutions towards interconnecting blockchains and encouraging better capital efficiency. The eventual goals will be to enable interchain lending and borrowing, multi-chain staking and delegations, plus cross chain defi rates.
 
 ### Advantages
 

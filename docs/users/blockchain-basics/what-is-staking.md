@@ -1,12 +1,12 @@
 # What is Staking?
 
+![](/bg/what-is-staking.png)
+
 ## Staking
 
 On [Proof of Stake blockchains](/users/blockchain-basics/what-is-blockchain.html#types-of-blockchains) like Umee, users can lock up their crypto as collateral to help keep the blockchain operational and secure in a process called “_staking_.” By [staking tokens](/users/staking-umee/staking-umee) a user is helping secure a network by increasing the total amount staked and therefore increasing the difficulty for an attacker to take over the network.
 
-> In return for staking tokens users earn steady “staking rewards,” or newly minted units of crypto.
-
-> Staking crypto allows users to [vote on governance proposals](/users/governance/voting) to help shape the future of a network.
+![](/bg/why-stake.png)
 
 > Users who do not stake their tokens are penalized by having their market share diluted over time.
 

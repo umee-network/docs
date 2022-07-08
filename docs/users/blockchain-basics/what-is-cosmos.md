@@ -1,5 +1,7 @@
 # What is Cosmos?
 
+![](/bg/what-is-comsmos.png)
+
 Cosmos is an ecosystem of interoperable and sovereign [blockchains](/users/blockchain-basics/what-is-blockchain), often referred to as "The Internet of Blockchains." Cosmos users enjoy fast and inexpensive transactions combined with smooth instant transfers between blockchains. Cosmos builders are provided with the tools they need to deploy a blockchain optimized for their specific needs. The future is multi-chain, and Cosmos is building out the infrastructure needed for web3 to achieve mass adoption.
 
 ## What Makes Cosmos Unique?

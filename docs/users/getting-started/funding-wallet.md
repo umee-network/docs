@@ -1,8 +1,8 @@
 # Funding a Wallet
 
-#### A [native UMEE token](/overview/umee-token.html#token-format) balance is required in order to transact on the Umee blockchain. The UMEE token is supported on several centralized exchanges including OKX, MEXC, Gate.io, and FTX. Depending on the exchange being used, the tokens may be in their _**native Cosmos**_ format or in their _**ERC-20**_ (Ethereum) format.
+![](/bg/funding-a-wallet.png)
 
-![](/bg/token-format-type.png)
+#### A [native UMEE token](/overview/umee-token.html#token-format) balance is required in order to transact on the Umee blockchain. The UMEE token is supported on several centralized exchanges including OKX, MEXC, Gate.io, and FTX. Depending on the exchange being used, the tokens may be in their _**native Cosmos**_ format or in their _**ERC-20**_ (Ethereum) format.
 
 > If you are in possession of native UMEE tokens on a centralized exchange, you can withdraw them directly to your Umee wallet.
 

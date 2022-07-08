@@ -1,5 +1,7 @@
 # Creating a Proposal
 
+![](/bg/creating-a-proposal.png)
+
 > Prerequisites
 >
 >* [Must have a Commonwealth account set up](https://docs.commonwealth.im/commonwealth/account-overview/creating-your-account)

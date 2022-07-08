@@ -1,5 +1,7 @@
 # Using a Wallet
 
+![](/bg/using-a-wallet.png)
+
 #### Users should familiarize themselves with how an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) works before [funding the wallet](/users/getting-started/funding-wallet) or sending any tokens.
 
 > The Cosmos ecosystem is commonly referred to as "The Internet of Blockchains" because it is an ecosystem of sovereign yet interoperable blockchains, unlike other blockchain ecosystems where most apps are built directly on top of a single chain. Cosmos allows for the seamless transfer of data between blockchains in order to foster a better and safer user experience.

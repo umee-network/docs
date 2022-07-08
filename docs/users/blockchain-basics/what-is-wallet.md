@@ -1,5 +1,7 @@
 # What is a Crypto Wallet?
 
+![](/bg/what-is-a-crypto-wallet.png)
+
 A crypto wallet is a tool used to interact with blockchains and the web3 applications built on top. Crypto wallets allow users to have full control over their crypto assets, without the need for a trusted third party. Crypto wallets exist in many forms, and are most commonly accessed through browser extensions and mobile applications.
 
 ## What is a wallet address?
@@ -10,9 +12,7 @@ Every crypto wallet has a **wallet address**, a unique string of letters and num
 
 Crypto wallets do not actually store crypto, but rather provide users with a simple interface to view their crypto while storing the users’ “private keys.” **Private keys** are often described as an ultra-secret password needed to access funds and approve transactions on a blockchain, though it's important for all users to know that unlike other passwords private keys cannot simply be reset if lost or breached. Private keys are often represented as a 12 or 24 word phrase commonly referred to as a “seed phrase” or “recovery phrase."&#x20;
 
-> _**It is incredibly important that all crypto users write down their seed phrase and store it in a safe place before funding a crypto wallet.**_
-
-> _**Only the owner of a crypto wallet can have the keys to a crypto wallet. If private keys are lost, the wallet and funds they are associated with cannot be recovered. If private keys are stolen, the thief will have access to all of the funds associated with the wallet.**_
+![](/bg/what-is-crypto-wallet.png)
 
 ## Learn More
 

@@ -1,12 +1,14 @@
 # What is a Blockchain?
 
+![](/bg/what-is-a-blockchain.png)
+
 A blockchain is a specific type of database that is coordinated and distributed across an open and public network of computer systems, with an ever-growing digital list of data points connected to one another acting as a decentralized public ledger.
 
 The data that is added over time are structures called "blocks." Blocks build on top of each other in chronological order and include a piece of information that links each data block to the previous block, creating a verifiable chain all the way back to the genesis block (the first block). Blockchain is the core underlying component of [crypto](/users/blockchain-basics/what-is-crypto).
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
 
-## What's Unique About a Blockchain?
+![](/bg/what-is-a-blockchain-info.png)
 
 :::: tabs
 

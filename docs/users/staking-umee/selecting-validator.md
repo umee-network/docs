@@ -1,6 +1,6 @@
 # Selecting a Validator
 
-![](/bg/validator-selection-criteria.jpeg)
+![](/bg/selecting-a-validator.png)
 
 Validators play a critical role in maintaining a decentralized and secure network. Get to know validators before staking your tokens with them.
 

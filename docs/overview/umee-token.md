@@ -1,8 +1,8 @@
 # Umee Token
 
-## Token Utility
+![](/bg/the-umee-token.png)
 
-![](/bg/token-utility.png)
+## Token Utility
 
 ### Validator Infrastructure
 
@@ -21,6 +21,8 @@ Validators earn block rewards in the form of UMEE similar to how transaction fee
 The native UMEE token is also a protocol governance token used to facilitate on-chain governance for the Umee Blockchain. The UMEE token, when staked, can be used to vote on protocol parameters and upgrades for improving functionality of the blockchain infrastructure. The UMEE token will also govern DeFi parameters of applications that sit on top, community grants, and future development.
 
 ## Token Format
+
+![](/bg/umee-token-formats.png)
 
 Different blockchains typically use different versions of tokens. Most tokens can be used across blockchains if converted to the correct format. It’s important to know which type of tokens you are in possession of before interacting with any web3 applications.
 
