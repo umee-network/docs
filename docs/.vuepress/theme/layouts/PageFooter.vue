@@ -217,9 +217,12 @@ export default {
 
     a {
       color: #62637b;
+      transition: color 0.2s ease-out;
 
       &:hover {
         text-decoration: underline !important;
+        color: var(--c-text);
+        transition: none;
       }
     }
   }

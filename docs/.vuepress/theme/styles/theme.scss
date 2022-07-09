@@ -142,6 +142,24 @@ h2 {
 
   .navbar-items-wrapper {
     align-items: center;
+    .navbar-items {
+      height: 50px;
+      a {
+        &:hover {
+          transition: none;
+          border-bottom: none;
+          opacity: 1;
+        }
+        opacity: 0.85;
+        transition: opacity 0.25s ease-out;
+        &:active,
+        &:focus {
+          transition: none;
+          opacity: 1 !important;
+          border-bottom: 2px solid var(--c-text) !important;
+        }
+      }
+    }
   }
 
   .logo {
