@@ -12,7 +12,7 @@ Every crypto wallet has a **wallet address**, a unique string of letters and num
 
 Crypto wallets do not actually store crypto, but rather provide users with a simple interface to view their crypto while storing the users’ “private keys.” **Private keys** are often described as an ultra-secret password needed to access funds and approve transactions on a blockchain, though it's important for all users to know that unlike other passwords private keys cannot simply be reset if lost or breached. Private keys are often represented as a 12 or 24 word phrase commonly referred to as a “seed phrase” or “recovery phrase."&#x20;
 
-![](/bg/what-is-crypto-wallet.png)
+![](/bg/what-is-a-crypto-wallet.png)
 
 ## Learn More
 
