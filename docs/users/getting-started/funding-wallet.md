@@ -20,13 +20,9 @@
 
 #### Select the withdraw option for the UMEE token on your centralized exchange of choice.
 
-#### Open your Umee wallet extension and select "Umee" from the network dropdown list.
+#### Open your Umee wallet extension, select "Umee" from the network dropdown list, and copy your Umee wallet address.
 
-![](/bg/withdraw-umee-1.png)
-
-#### Copy your Umee wallet address and paste it in the "Send to" section on your centralized exchange of choice.
-
-![](/bg/withdraw-umee-2.png)
+![](/bg/copy-umee-address.gif)
 
 #### Select "Withdraw," approve the withdrawal, and wait for the transaction to process. Your UMEE will appear on the Umee network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) shortly.
 

@@ -12,8 +12,6 @@ In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compa
 
 #### Go to [keplr.app](https://www.keplr.app/) and select "Install Keplr for Chrome."
 
-> The correct URL for the official Keplr website is "[https://www.keplr.app](https://www.keplr.app/)"
-
 > Keplr is an interchain, IBC-enabled wallet, which means it can also serve as your wallet for several other blockchains in the Cosmos ecosystem and beyond.
 
 ![](/bg/umee-wallet-1.png)
