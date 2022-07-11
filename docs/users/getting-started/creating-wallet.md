@@ -4,16 +4,11 @@
 
 In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed. [Users can learn more general information about crypto wallets here](/users/blockchain-basics/what-is-wallet).
 
-> Before setting up an Umee blockchain compatible wallet, every new user needs to know the following:
->
-> * Never share your seed phrase or mnemonic with anyone for any reason;
-> * Never enter your seed phrase or mnemonic anywhere;
-> * Never engage with unknown links that are shared with you;
-> * Never screen share with a stranger;
-> * Never sign unknown transactions;
-> * Use a hardware wallet for extra security.
-
 ## Creating an Umee Blockchain Compatible Wallet
+
+#### Before creating an Umee wallet, review the following security tips.
+
+![](/bg/creating-umee-wallet-info.png)
 
 #### Go to [keplr.app](https://www.keplr.app/) and select "Install Keplr for Chrome."
 
