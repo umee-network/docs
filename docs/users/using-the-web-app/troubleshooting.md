@@ -8,7 +8,7 @@
 
 Your gas limit is not high enough. Select "set gas" and manually enter an amount greater than the number after "gasUsed" before confirming the transaction.
 
-![](/bg/solution-out-of-gas.gif)
+![](/bg/out-of-gas-solution.gif)
 
 ## "Account Sequence Mismatch"
 

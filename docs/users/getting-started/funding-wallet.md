@@ -38,7 +38,7 @@
 
 #### Copy your Cosmos wallet address found under the "Cosmos Hub" network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet), and paste it in the "Send to" section.
 
-![](/bg/withdraw-atom-1.png)
+![](/bg/copy-cosmos-address.gif)
 
 #### Select withdraw, approve the withdrawal, and wait for the transaction to process. Your ATOM will appear on the _Cosmos Hub network_ in your Umee blockchain compatible wallet shortly.
 
