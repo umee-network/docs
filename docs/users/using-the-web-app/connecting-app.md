@@ -12,7 +12,7 @@
 
 > This will allow the Umee web app to know your wallet address and balances, and give the app the ability to request approval for transactions initiated by the user. This does NOT give the Umee web app the ability to spend tokens without permission.
 
-#### If you do not see the pop-up, select the "Connect" button in the bottom left corner and approve the connection and chain add requests as necessary
+#### If you do not see the pop-up, select the "Connect" button in the top right corner and approve the connection and chain add requests as necessary
 
 ![](/bg/connecting-2.png)
 

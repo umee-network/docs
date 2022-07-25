@@ -18,15 +18,11 @@ Umee users can supply assets on the Umee market to start earning lending yield. 
 
 ## Supplying Assets on Umee
 
-#### Select the “Supply” section on the left sidebar.
+#### Select the “Dashboard” section on the navigation bar.
 
-![](/bg/supply-1.png)
+#### At the bottom left of the screen in the "Supply" section, select the asset you’d like to supply on the Umee market from the "Available Markets" list.
 
-#### Select the asset you’d like to supply on the Umee market.
-
-![For this example we will supply native UMEE tokens.](/bg/supply-2.png)
-
-#### On the pop-up, input the amount you’d like to supply and select “Supply.” Confirm the transaction in your wallet.
+#### In the pop-up, input the amount of tokens you’d like to supply and select “Supply.” Confirm the transaction in your wallet.
 
 > DO NOT SUPPLY 100% OF YOUR UMEE Tokens! All transactions on the Umee Network will require a small UMEE balance for the gas fee.
 
@@ -42,9 +38,9 @@ Umee users can supply assets on the Umee market to start earning lending yield. 
 
 > Withdrawing assets that are being used as collateral will negatively impact users' [loan to value ratios](/users/using-the-web-app/common-terms.html#maximum-ltv) and increase their risk of liquidation.
 
-#### To withdraw assets, select the asset you’d like to withdraw from the Supply page.
+#### Select the “Dashboard” section on the navigation bar.
 
-![For this example we will be withdrawing UMEE.](/bg/withdraw-1.png)
+#### At the lower left of the screen in the "Supply" section, select the asset you’d like to withdraw.
 
 #### Select “Withdraw” on the top of the pop-up.
 
