@@ -70,7 +70,7 @@ A consensus mechanism is a procedure network participants follow in order to ver
 
 ### Proof of Stake
 
-> _Umee is a Proof of Stake blockchain. Other well known proof of stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
+> Umee is a Proof of Stake blockchain. Other well known proof of stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
 
 Proof of Stake (PoS) blockchains require network participants called "[validators](/users/blockchain-basics/what-is-staking.html#validators)" to lock up crypto as collateral to ensure that they properly “_validate_” the data being included in a new entry on the distributed ledger. Validators are randomly selected to validate a block based on the amount of collateral they have locked up, or “[staked](/users/blockchain-basics/what-is-staking),” hence the name “Proof of Stake.” Once a randomly selected validator validates a block, other validators verify its accuracy and the "_block rewards_," or newly minted units of crypto, are released.
 
@@ -82,7 +82,7 @@ Proof of Stake (PoS) blockchains require network participants called "[validator
 
 ::: tab Proof of Work
 
-#### Proof of Work
+### Proof of Work
 
 > Bitcoin and Ethereum are two of the most well known blockchains that use a Proof of Work consensus protocol.
 
