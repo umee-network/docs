@@ -64,7 +64,7 @@ Cosmos blockchains like Umee use a Proof of Stake consensus mechanism that invol
 
 ## Common Misconceptions
 
-<details><summary><h3>"Cosmos is the ATOM blockchain"</h3></summary>
+<details><summary>"Cosmos is the ATOM blockchain"</summary>
 
 Many crypto users associate the Cosmos Ecosystem with the ATOM token. ATOM is the [native cryptocurrency](/users/blockchain-basics/what-is-crypto.html#native-cryptocurrencies) of the [Cosmos Hub](https://hub.cosmos.network/main/hub-overview/overview.html), the first [blockchain](/users/blockchain-basics/what-is-blockchain) built within the Cosmos Ecosystem. While ATOM is needed to secure, govern, and transact on the Cosmos Hub blockchain, other Cosmos chains like [Umee](/overview/#what-is-umee) typically use their own native cryptocurrency for transaction fees, security, and governance.
 
@@ -72,13 +72,13 @@ ATOM is so prevalent within the Cosmos Ecosystem because it has gathered widespr
 
 </details>
 
-<details><summary><h3>"Cosmos is an Ethereum competitor"</h3></summary>
+<details><summary>"Cosmos is an Ethereum competitor"</summary>
 
 Cosmos was built to help complement preexisting [blockchains](/users/blockchain-basics/what-is-blockchain) like Ethereum. Many Cosmos blockchains are actually built to help service current Ethereum users, e.g. Umee with its cross chain ability with Ethereum. While the Cosmos Ecosystem itself is not an Ethereum competitor, certain blockchains built within the Cosmos ecosystem may challenge Ethereum in the future.
 
 </details>
 
-<details><summary><h3>"Staking rewards are a form of income in the Cosmos Ecosystem"</h3></summary>
+<details><summary>"Staking rewards are a form of income in the Cosmos Ecosystem"</summary>
 
 Since Cosmos blockchains use a [Proof of Stake consensus mechanism](/users/blockchain-basics/what-is-blockchain.html#types-of-blockchains), users can [stake native tokens on their native blockchains](/users/staking-umee/staking-umee) in order to earn "staking rewards." Staking rewards are paid in the form of the native tokens that are being staked. While many see this as a form of passive income, it's important to know that most PoS tokens like the [native UMEE token](/overview/umee-token) are inflationary, and staking rewards represent the block rewards earned by those who [stake tokens](/users/staking-umee/staking-umee) to help secure the network.
 

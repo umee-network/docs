@@ -1,6 +1,6 @@
 # Creating a Wallet
 
-![](/bg/creating-wallet.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41IYlJHU5Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed. [Users can learn more general information about crypto wallets here](/users/blockchain-basics/what-is-wallet).
 
@@ -26,7 +26,7 @@ In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compa
 
 #### Select if you’d prefer a 12 or 24 word secret recovery phrase, and write it down.
 
-> It's very important that you safely store and never share your secret recovery phrase! This is the only backup to your wallet in the event your device is lost or destroyed.** Failure to properly store and conceal your secret recovery phrase will most likely result in the loss of assets stored in your wallet.
+> It's very important that you safely store and never share your secret recovery phrase! This is the only backup to your wallet in the event your device is lost or destroyed. Failure to properly store and conceal your secret recovery phrase will most likely result in the loss of assets stored in your wallet.
 
 ![This step should be done in private! It is not recommended to take a picture of your secret recovery phrase.](/bg/umee-wallet-4.png)
 
