@@ -34,6 +34,10 @@
 
 ## Withdrawing Native ATOM Tokens
 
+<iframe width="1920" height="1080" src="https://www.youtube.com/embed/2CI7xGxCRl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+>To withdraw ATOM from a centralized exchange follow the steps in this video, or refer to the written step-by-step guide below.
+
 #### Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
 
 #### Copy your Cosmos wallet address found under the "Cosmos Hub" network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet), and paste it in the "Send to" section.
