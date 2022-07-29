@@ -31,7 +31,7 @@
 
 You will now see a list of all of the active Umee validators. Refer to the "Selecting a Validator" guide to learn how to choose a validator that is right for you.
 
-[Learn more about the criteria for selecting a validator](/users/staking-umee/selecting-validator)
+>[Learn more about the criteria for selecting a validator](/users/staking-umee/selecting-validator)
 
 #### The "[Voting Power](/users/staking-umee/selecting-validator)" column represents the total amount of tokens staked with a validator.
 

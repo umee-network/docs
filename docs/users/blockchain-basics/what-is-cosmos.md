@@ -72,11 +72,15 @@ ATOM is so prevalent within the Cosmos Ecosystem because it has gathered widespr
 
 </details>
 
+</br>
+
 <details><summary>"Cosmos is an Ethereum competitor"</summary>
 
 Cosmos was built to help complement preexisting [blockchains](/users/blockchain-basics/what-is-blockchain) like Ethereum. Many Cosmos blockchains are actually built to help service current Ethereum users, e.g. Umee with its cross chain ability with Ethereum. While the Cosmos Ecosystem itself is not an Ethereum competitor, certain blockchains built within the Cosmos ecosystem may challenge Ethereum in the future.
 
 </details>
+
+</br>
 
 <details><summary>"Staking rewards are a form of income in the Cosmos Ecosystem"</summary>
 

@@ -16,7 +16,7 @@
 
 ![](/bg/change-network.gif)
 
-_**Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. Users do not need to manually change the network when interacting with the Umee web app.**_
+>Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. Users do not need to manually change the network when interacting with the Umee web app.
 
 ****
 
@@ -44,7 +44,7 @@ _**Changing networks within a wallet extension allows users to view their wallet
 
 ![](/bg/copy-umee-address.gif)
 
-Users will need to copy and paste their wallet address in order to receive tokens to their [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet).
+>Users will need to copy and paste their wallet address in order to receive tokens to their [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet).
 
 ****
 
@@ -70,7 +70,7 @@ Users will need to copy and paste their wallet address in order to receive token
 
 ![](/bg/send-umee.gif)
 
-Crypto users can use their wallets to instantly send assets to another user without the need for a centralized third party.
+>Crypto users can use their wallets to instantly send assets to another user without the need for a centralized third party.
 
 ****
 

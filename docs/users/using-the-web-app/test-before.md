@@ -46,7 +46,7 @@ In order to try out Umee's testnet users will need testnet UMEE tokens. Testnet 
 
 ![](/bg/testnet-umee-2.png)
 
-#### Go to the** [Umee Discord server](https://discord.gg/umee).
+#### Go to the [Umee Discord server](https://discord.gg/umee).
 
 #### Select the #umeemania-faucet channel and enter the following command (remove the "<>") using your Umee wallet address you have just copied:
 
