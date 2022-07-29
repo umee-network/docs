@@ -6,5 +6,7 @@ There are certain industry standards in place to help protect users, including t
 
 | Auditor       | Date             | Report                                                                                                                                                                                                            |
 | ------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Peckshield    | January 15, 2022 | [Peckshield\_Umeev1.0](https://medium.com/umeeblog/umees-smart-contract-audit-report-by-peckshield-a4d78c4b23d1)   |
-| Trail of Bits | March 14, 2022   | [TrailofBits\_Umeev1.0](https://medium.com/umeeblog/umees-security-audit-report-by-trail-of-bits-353f9a7d6f41) |
+| Peckshield    | January 15, 2022 | [Peckshield\_Umeev1.0](https://www.umee.cc/posts/umee-s-smart-contract-audit-report-by-peck-shield)   |
+| Trail of Bits | March 14,2022    | [TrailofBits\_Umeev1.0](https://www.umee.cc/posts/umee-s-security-audit-report-by-trail-of-bits) |
+| Forta         | June 14, 2022    | [Forta\_Umeev1.0](https://www.umee.cc/posts/umee-forta-audit-report) |
+| Halborn       | July 12, 2022    | [Halborn\_Umeev1.0](https://www.umee.cc/posts/umee-engages-with-halborn-for-extensive-security-auditing) |
