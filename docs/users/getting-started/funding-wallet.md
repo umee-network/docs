@@ -34,7 +34,7 @@
 
 ## Withdrawing Native ATOM Tokens
 
-<iframe width="1920" height="1080" src="https://www.youtube.com/embed/2CI7xGxCRl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2CI7xGxCRl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 >To withdraw ATOM from a centralized exchange follow the steps in this video, or refer to the written step-by-step guide below.
 
