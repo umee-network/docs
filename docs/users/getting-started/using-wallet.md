@@ -16,7 +16,7 @@
 
 ![](/bg/change-network.gif)
 
->Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. Users do not need to manually change the network when interacting with the Umee web app.
+> Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. Users do not need to manually change the network when interacting with the Umee web app.
 
 ****
 
