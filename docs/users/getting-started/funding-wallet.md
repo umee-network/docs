@@ -57,6 +57,8 @@
 
 ## Trading Cosmos Assets on a Decentralized Exchange
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5EL_71b9I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 > Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a decentralized exchange to exchange other Cosmos assets for Umee.
 
 #### Head to [Osmosis](https://app.osmosis.zone/?from=ATOM\&to=UMEE), or your Cosmos-based DEX of choice, and connect your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet).
