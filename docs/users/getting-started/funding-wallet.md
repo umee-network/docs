@@ -10,7 +10,7 @@
 
 ## Withdrawing Native Cosmos Tokens
 
-> If your exchange of choice does not support the native UMEE token it's recommended to purchase and withdraw ATOM, the native Cosmos Hub token, to the Cosmos network in your Umee blockchain compatible wallet. These tokens can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#purchasing-umee-on-a-dex).
+> If your exchange of choice does not support the native UMEE token it's recommended to purchase and withdraw ATOM, the native Cosmos Hub token, to the Cosmos network in your Umee blockchain compatible wallet. These tokens can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange).
 
 :::: tabs
 
@@ -48,14 +48,14 @@
 
 #### Once you have received the ATOM on the Cosmos Hub network in your Umee blockchain compatible wallet you can:
 
-* [Transfer it to a decentralized exchange to trade it for other assets like UMEE](/users/getting-started/funding-wallet.html#purchasing-umee-on-a-dex)
+* [Transfer it to a decentralized exchange to trade it for other assets like UMEE](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange)
 * [Transfer it to the Umee blockchain](/users/using-the-web-app/transferring-tokens) to [supply on the Umee market](/users/using-the-web-app/supply-withdraw) and start earning supply yield
 
 :::
 
 ::::
 
-## Purchasing Umee on a Dex
+## Trading Cosmos Assets on a Decentralized Exchange
 
 > Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a decentralized exchange to exchange other Cosmos assets for Umee.
 

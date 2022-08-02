@@ -92,7 +92,7 @@ export default {
           img: "img/pinghub.png",
           title: "Ping.pub",
           text: "Testnet Block Explorer",
-          link: "https://explorer.umeemania-1.network.umee.cc/umee",
+          link: "https://explorer.network.umee.cc/",
           external: true,
         },
         {

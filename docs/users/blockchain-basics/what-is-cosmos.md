@@ -34,7 +34,7 @@ Blockchains also face interoperability issues. While crypto makes it even easier
 
 Cosmos blockchains are natively interoperable with each other. Cosmos blockchains utilize the Inter-Blockchain Communication Protocol (IBC) to seamlessly communicate with each other. 
 
-The IBC enables users to instantly and securely transfer tokens between independent blockchains in a completely decentralized manner. Native Cosmos tokens can be transferred across Cosmos blockchains without the need for a third party bridge Through IBC, applications built within the Cosmos ecosystem are interoperable seamlessly across different blockchains, allowing borderless transactions and money-lego potentials. 
+The IBC enables users to instantly and securely transfer tokens between independent blockchains in a completely decentralized manner. Native Cosmos tokens can be transferred across Cosmos blockchains without the need for a third party bridge. Through IBC, applications built within the Cosmos ecosystem are interoperable seamlessly across different blockchains, allowing borderless transactions and money-lego potentials. 
 
 :::
 
