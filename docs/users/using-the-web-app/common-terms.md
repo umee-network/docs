@@ -36,6 +36,8 @@
 
 ::::
 
+<br>
+
 ## Borrow APR
 
 ![As seen on the Markets page.](/bg/borrow-apr.png)
@@ -52,15 +54,21 @@ Borrow APR is the annual interest rate borrowers _**OWE**_ for borrowing assets 
 
 </details>
 
+<br>
+
 ## Borrow Limit
 
 The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once the borrow limit reaches 100%, a user is at risk of [liquidation](/users/using-the-web-app/common-terms.html#liquidation).
+
+<br>
 
 ## Collateral
 
 ![As seen on the asset details page.](/bg/collateral-yes-no.png)
 
 If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a [liquidation](/users/using-the-web-app/common-terms.html#liquidation) occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the [liquidation penalty](/users/using-the-web-app/common-terms.html#liquidation-penalty).
+
+<br>
 
 ## Liquidation
 
@@ -70,6 +78,8 @@ Liquidations occur when a user’s [loan-to-value ratio](/users/using-the-web-ap
 - The value of the [collateral asset](/users/using-the-web-app/common-terms.html#collateral-assets) deposited depreciates compared to the value of the asset borrowed;
 - The value of the asset borrowed appreciates relative to the value of the asset supplied as collateral;
 - A user’s [borrow interest](/users/using-the-web-app/common-terms.html#borrow-apr) accrues to the point that the amount owed exceeds the [liquidation threshold](/users/using-the-web-app/common-terms.html#liquidation-threshold).
+
+<br>
 
 ## Liquidation Penalty
 
@@ -82,6 +92,8 @@ The liquidation penalty is the fee paid by a borrower in the event that they are
 *If a debt of 1,000 USDC is liquidated and the liquidation penalty is 10%, the borrower should expect to have 1,100 USDC worth of collateral liquidated.*
 
 </details>
+
+<br>
 
 ## Liquidation Threshold
 
@@ -97,9 +109,13 @@ Assuming UMEE has a liquidation threshold of 15%, and the value of ATOM remains 
 
 </details>
 
+<br>
+
 ## LTV Ratio
 
 LTV stands for “loan to value” ratio. A loan-to-value ratio represents the value of assets borrowed relative to the value of [assets supplied as collateral](/users/using-the-web-app/common-terms.html#collateral-assets). It is important for all Umee users to monitor their LTV ratio in order to avoid being [liquidated](/users/using-the-web-app/common-terms.html#liquidation).
+
+<br>
 
 ## Maximum LTV
 
@@ -114,6 +130,8 @@ Assuming ATOM has a maximum LTV of 50%:
 *A user who provides $1,000 USD worth of ATOM will be able to borrow up to $500 in other assets.*
 
 </details>
+
+<br>
 
 ## Supply APR
 
