@@ -1,99 +1,132 @@
 # Common Terms
 
-## Supply APR
+> Before borrowing assets from the Umee market, users should be familiar with all of the following common terms.
 
-![As seen on the Markets page.](/bg/terms-supply-apr.png)
+:::: tabs
 
-Supply APR is the annual interest rate lenders _**RECEIVE**_ for supplying their assets on the Umee market.
+::: tab Collateral Assets
 
-> These rates are variable, and may change over time based on supply and demand.
+## Collateral Assets
 
-### Supply APR Example
+![As seen on the Markets page.](/bg/collateral-bubble.png)
 
-If USDC has a supply APR of 5%, it indicates that a user who supplies 1,000 USDC may earn roughly $50 in USDC over the course of a year, paid by borrowers.
+> Collateral assets are labeled with a pink "Collateral" bubble.
 
-This user may be able to withdraw 1,050 USDC after a year if the supply APR remains constant.
+#### When collateral assets are supplied on the Umee Market:
+- The supplier is able to borrow against the collateral assets supplied;
+- The supplier is able to earn lending interest on the collateral assets supplied;
+- The assets supplied as collateral may be liquidated in order to ensure that the borrower's debts are covered.
+
+:::
+
+::: Leverage Assets
+
+## Leverage Assets
+
+![As seen on the Markets page.](/bg/leverage-bubble.png)
+
+> Leverage assets are labeled with a blue "Leverage" bubble.
+
+#### When leverage assets are supplied on the Umee Market:
+- The supplier is unable to borrow against the leverage assets supplied;
+- The supplier is able to earn lending interest on the leverage assets supplied;
+- The leverage assets are not at risk of [liquidation](/users/using-the-web-app/common-terms.html#liquidation).
+
+:::
+
+::::
 
 ## Borrow APR
 
-![As seen on the Markets page.](/bg/terms-borrow-apr.png)
+![As seen on the Markets page.](/bg/borrow-apr.png)
 
 Borrow APR is the annual interest rate borrowers _**OWE**_ for borrowing assets from the Umee market.
 
 > These rates are variable, and may change over time based on supply and demand.
 
-### Borrow APR Example
+<details><summary>Borrow APR Example</summary>
 
-If USDC has a borrow APR of 5%, it indicates that a user who borrows 1,000 USDC may accrue roughly $50 in USDC interest on the loan after a year.
+*If USDC has a borrow APR of 5%, it indicates that a user who borrows 1,000 USDC may accrue roughly $50 in USDC interest on the loan after a year.*
 
-This user may have a total outstanding loan of 1,050 USDC after a year if the borrow APR remains constant.
+*This user may have a total outstanding loan of 1,050 USDC after a year if the borrow APR remains constant.* 
 
-## Net APY
-
-![As seen on the Dashboard page. ](/bg/terms-net-apy.png)
-
-The net APY is the actual interest rate a user will _**EARN (if the number is positive)**_ or _**OWE (if the number is negative)**_ over the course of a year. The net APY takes all assets a user supplies and borrows into account in order to give the user an idea of the interest they will earn or owe.
-
-### Net APY Examples
-
-A net APY of 5% indicates that a user may earn a total of 5% on assets supplied after a year, if all rates remain constant.
-
-A net APY of -5% indicates that a user may owe a total of 5% on assets borrowed after a year, if all rates remain constant.
-
-## Collateral
-
-![As seen on the Dashboard page. ](/bg/terms-collateral.png)
-
-If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a liquidation occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the liquidation penalty.
-
-## Maximum LTV
-
-![As seen on the Dashboard page. ](/bg/terms-max-ltv.png)
-
-LTV stands for Loan-to-Value. The maximum LTV is the maximum amount that can be borrowed against the asset supplied as [collateral](/users/using-the-web-app/common-terms.html#collateral).
-
-### Maximum LTV Example
-
-Assuming ATOM has a maximum LTV of 50%:
-
-A user who provides $1,000 USD worth of ATOM will be able to borrow up to $500 in other assets.
-
-> Users should avoid borrowing the maximum available amount in order to help protect themselves from being liquidated.
+</details>
 
 ## Borrow Limit
 
-![As seen on the Dashboard page. ](/bg/terms-borrow-limit.png)
+The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once the borrow limit reaches 100%, a user is at risk of [liquidation](/users/using-the-web-app/common-terms.html#liquidation).
 
-The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once a user’s total borrowed amount reaches 80% of their total borrow limit, they will be unable to withdraw collateral or borrow any more assets until they repay part of their loan(s) or deposit more collateral. A liquidation will not occur until a user's borrowed amount reaches 100% of the borrow limit.
+## Collateral
 
-> If a user’s borrow limit reaches 100% it means that the [liquidation threshold](/users/using-the-web-app/common-terms.html#liquidation-threshold) has been reached, and the user will be liquidated.
+![As seen on the asset details page.](/bg/collateral-yes-no.png)
 
-## Liquidation Threshold
+If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a [liquidation](/users/using-the-web-app/common-terms.html#liquidation) occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the [liquidation penalty](/users/using-the-web-app/common-terms.html#liquidation-penalty).
 
-![As seen on the Dashboard page. ](/bg/terms-liquidation-threshold.png)
+## Liquidation
 
-The liquidation threshold is the LTV ratio at which a borrower should expect to be liquidated.
+When users supply assets as [collateral](/users/using-the-web-app/common-terms.html#collateral) and borrow against them, the assets supplied as collateral are at risk of being liquidated, or sold off in order to cover the borrower’s debts and ensure the protocol remains solvent.
 
-### Liquidation Threshold Examples
-
-_**Example A**_
-
-Assuming ATOM has a liquidation threshold of 55%, and the value of ATOM remains constant:
-
-A user provides $1,000 USD worth of ATOM and borrows the maximum allowable amount of $500 worth of other assets (50% LTV). The value of the borrowed assets increases to $550, bringing the user’s LTV ratio to 55%. This borrower will be liquidated in order to ensure their position stays properly over-collateralized.
-
-_**Example B**_
-
-Assuming ATOM has a liquidation threshold of 55%, and the value of ATOM decreases:
-
-A user provides 1,000 USDC worth of ATOM and borrows the maximum allowable amount of 500 UST (50% LTV). The value of the ATOM supplied decreases from 1,000 USDC to 900 USDC, bringing the user’s LTV to 55.5%. This user will be liquidated in order to ensure their position stays properly over-collateralized.
+Liquidations occur when a user’s [loan-to-value ratio](/users/using-the-web-app/common-terms.html#ltv-ratio) exceeds the liquidation threshold. This can happen when:
+- The value of the [collateral asset](/users/using-the-web-app/common-terms.html#collateral-assets) deposited depreciates compared to the value of the asset borrowed;
+- The value of the asset borrowed appreciates relative to the value of the asset supplied as collateral;
+- A user’s [borrow interest](/users/using-the-web-app/common-terms.html#borrow-apr) accrues to the point that the amount owed exceeds the [liquidation threshold](/users/using-the-web-app/common-terms.html#liquidation-threshold).
 
 ## Liquidation Penalty
 
-![As seen on the Dashboard page. ](/bg/terms-liquidation-penalty.png)
+![As seen in asset details.](/bg/liquidation-penalty.png)
 
-The liquidation penalty is the fee paid by a borrower in the event that they are liquidated. Borrowers should always try to ensure that their positions remain properly over-collateralized in order to avoid paying a liquidation penalty.
+The liquidation penalty is the fee paid by a borrower in the event that they are [liquidated](/users/using-the-web-app/common-terms.html#liquidation). Borrowers should always try to ensure that their positions remain properly over-collateralized in order to avoid paying a liquidation penalty.
 
-### Liquidation Penalty Example
+<details><summary>Liquidation Penalty Example</summary>
 
-If a debt of 1,000 USDC is liquidated and the liquidation penalty is 10%, the borrower should expect to have 1,100 USDC worth of collateral liquidated.
+*If a debt of 1,000 USDC is liquidated and the liquidation penalty is 10%, the borrower should expect to have 1,100 USDC worth of collateral liquidated.*
+
+</details>
+
+## Liquidation Threshold
+
+![As seen in asset details.](/bg/liquidation-threshold.png)
+
+The liquidation threshold is the [LTV ratio](/users/using-the-web-app/common-terms.html#ltv-ratio) at which a borrower should expect to be [liquidated](/users/using-the-web-app/common-terms.html#liquidation).
+
+<details><summary>Liquidation Threshold Example</summary>
+
+Assuming UMEE has a liquidation threshold of 15%, and the value of ATOM remains constant:
+
+*A user provides $1,000 USD worth of UMEE and borrows the maximum allowable amount of $100 worth of other assets (10% LTV). The value of the borrowed assets increases to $150, bringing the user’s LTV ratio to 55%. This borrower will be liquidated in order to ensure their position stays properly over-collateralized.*
+
+</details>
+
+## LTV Ratio
+
+LTV stands for “loan to value” ratio. A loan-to-value ratio represents the value of assets borrowed relative to the value of [assets supplied as collateral](/users/using-the-web-app/common-terms.html#collateral-assets). It is important for all Umee users to monitor their LTV ratio in order to avoid being [liquidated](/users/using-the-web-app/common-terms.html#liquidation).
+
+## Maximum LTV
+
+![As seen in asset details.](/bg/max-ltv.png)
+
+The maximum LTV is the maximum amount that can be borrowed against the asset supplied as [collateral](/users/using-the-web-app/common-terms.html#collateral).
+
+<details><summary>Maximum LTV Example</summary>
+
+Assuming ATOM has a maximum LTV of 50%:
+
+*A user who provides $1,000 USD worth of ATOM will be able to borrow up to $500 in other assets.*
+
+</details>
+
+## Supply APR
+
+![As seen on Markets page.](/bg/supply-apr.png)
+
+Supply APR is the annual interest rate lenders _**RECEIVE**_ for supplying their assets on the Umee market.
+
+> These rates are variable, and may change over time based on supply and demand.
+
+<details><summary>Supply APR Example</summary>
+
+*If USDC has a supply APR of 5%, it indicates that a user who supplies 1,000 USDC may earn roughly $50 in USDC over the course of a year, paid by borrowers.*
+
+*This user may be able to withdraw 1,050 USDC after a year if the supply APR remains constant.*
+
+</details>
