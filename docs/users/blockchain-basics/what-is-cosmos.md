@@ -72,7 +72,7 @@ ATOM is so prevalent within the Cosmos Ecosystem because it has gathered widespr
 
 </details>
 
-</br>
+<br>
 
 <details><summary>"Cosmos is an Ethereum competitor"</summary>
 
@@ -80,7 +80,7 @@ Cosmos was built to help complement preexisting [blockchains](/users/blockchain-
 
 </details>
 
-</br>
+<br>
 
 <details><summary>"Staking rewards are a form of income in the Cosmos Ecosystem"</summary>
 
