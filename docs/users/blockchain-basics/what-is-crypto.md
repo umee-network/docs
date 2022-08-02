@@ -2,11 +2,13 @@
 
 ![](/bg/what-is-crypto.png)
 
-Crypto is an entirely new asset class that is completely digital. There are many different types of crypto-assets that all share a few common traits:
+Crypto is an entirely new asset class that is completely digital. 
 
-* Crypto-assets are native to the internet.
-* Crypto-assets use [blockchain technology](/users/blockchain-basics/what-is-blockchain) to record transactions in a decentralized and trustless manner.
-* Crypto users have total control over their assets and do not need to rely on any intermediaries like banks to transact with one another. It's like exchanging physical cash without the hassle of... exchanging physical cash.
+#### There are many different types of crypto-assets that all share a few common traits:
+
+- Crypto-assets are native to the internet.
+- Crypto-assets use [blockchain technology](/users/blockchain-basics/what-is-blockchain) to record transactions in a decentralized and trustless manner.
+- Crypto users have total control over their assets and do not need to rely on any intermediaries like banks to transact with one another. It's like exchanging physical cash without the hassle of... exchanging physical cash.
 
 While many popular centralized payment services like bank transfers, Venmo, Cash App, and PayPal allow users to exchange funds, they are not permissionless, censorship resistant, or convenient for all users.&#x20;
 
@@ -44,17 +46,15 @@ While many popular centralized payment services like bank transfers, Venmo, Cash
 
 ::::
 
-If [blockchain technology](/users/blockchain-basics/what-is-blockchain) is thought of as an accounting system, crypto can be thought of as the units of account used in the system. Crypto allows anyone with an internet connection to experience the benefits provided by blockchain technology.
+> If [blockchain technology](/users/blockchain-basics/what-is-blockchain) is thought of as an accounting system, crypto can be thought of as the units of account used in the system. Crypto allows anyone with an internet connection to experience the benefits provided by blockchain technology.
 
 ## What Are the Types of Cryptos?
-
-There are countless types of crypto-assets. The most common types include [native cryptocurrencies](/users/blockchain-basics/what-is-crypto.html#native-cryptocurrencies), [stablecoins](/users/blockchain-basics/what-is-crypto.html#stablecoins), [utility tokens](/users/blockchain-basics/what-is-crypto.html#utility-tokens), and [governance tokens](/users/blockchain-basics/what-is-crypto.html#governance-tokens).
 
 ### Native Cryptocurrencies
 
 Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies are simply digital units of account intended to be used as traditional currencies are used: as a medium of transfer and/or a store of value.&#x20;
 
-[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token)
+*[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token)*
 
 ### Stablecoins
 
@@ -145,7 +145,7 @@ _FEI, UST, AMPL_
 
 ::::
 
-[Use this guide to learn how to lend stablecoins on Umee.](/users/using-the-web-app/supply-withdraw)
+*[Use this guide to learn how to lend stablecoins on Umee.](/users/using-the-web-app/supply-withdraw)*
 
 ### Utility Tokens
 
@@ -153,7 +153,7 @@ Utility tokens are tokens that are used to access a specific web3 product or ser
 
 In real life people typically buy general admission tickets that are exchanged for access to all sorts of organized events. In video games players often have the ability to earn or purchase in-game "currencies" that can be used to acquire in game items or experiences. In crypto people must earn or purchase utility tokens to transact on a specific network or use a unique application.
 
-[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token)
+*[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token)*
 
 ### Governance Tokens
 
@@ -163,8 +163,8 @@ Big tech companies are often critiqued for exploiting their users in an effort t
 
 Governance tokens are typically distributed amongst users, contributors, and investors in order to better align the decision making process with the interests of all stakeholders.&#x20;
 
-[The native UMEE token is a governance token used to govern the Umee protocol.](/overview/umee-token)
+*[The native UMEE token is a governance token used to govern the Umee protocol.](/overview/umee-token)*
 
-[Learn how to use UMEE tokens to vote on a governance proposal here.](/users/governance/voting)
+*[Learn how to use UMEE tokens to vote on a governance proposal here.](/users/governance/voting)*
 
-[Learn how to use UMEE tokens to create a governance proposal here.](/users/governance/creating-proposal)
+*[Learn how to use UMEE tokens to create a governance proposal here.](/users/governance/creating-proposal)*

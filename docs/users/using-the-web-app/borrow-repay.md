@@ -2,10 +2,7 @@
 
 ![](/bg/borrow-repay.png)
 
-> Guides in this section are for future reference, lending features are currently only available on Ethereum.
-
-After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), Umee users can borrow assets from the Umee market.
-
+After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), Umee users can borrow assets from the Umee Market.
 
 > Prerequisites
 >

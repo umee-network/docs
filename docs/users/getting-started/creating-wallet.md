@@ -1,10 +1,20 @@
 # Creating a Wallet
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/41IYlJHU5Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed. [Users can learn more general information about crypto wallets here](/users/blockchain-basics/what-is-wallet).
 
-## Creating an Umee Blockchain Compatible Wallet
+:::: tabs
+
+::: tab Video Tutorial
+
+## Video Guide
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/41IYlJHU5Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::
+
+::: tab Written Guide
+
+## Written Guide
 
 #### Before creating an Umee wallet, review the following security tips.
 
@@ -45,3 +55,7 @@ In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compa
 #### Congratulations, you’ve officially set up an Umee blockchain compatible wallet!
 
 _Now is a good time to store your secret recovery phrase somewhere safe._
+
+:::
+
+::::

@@ -58,11 +58,7 @@ In crypto, the underlying blockchain technology gives full sovereignty to the in
 
 ## Types of Blockchains
 
-The most common blockchains utilize Proof of Stake or Proof of Work consensus mechanisms.
-
-### What is a Consensus Mechanism?
-
-A consensus mechanism is a procedure network participants follow in order to verify that the state of the data being transmitted on the network is correct. [Blockchains](/users/blockchain-basics/what-is-blockchain) use consensus mechanisms to ensure that all network participants are in agreement on the data (transactions) being published on the decentralized public ledger. This is what enables [crypto](/users/blockchain-basics/what-is-crypto) users to seamlessly transact without the need for a centralized authority.
+The most common blockchains utilize **Proof of Stake** or **Proof of Work** consensus mechanisms. A consensus mechanism is a procedure network participants follow in order to verify that the state of the data being transmitted on the network is correct. [Blockchains](/users/blockchain-basics/what-is-blockchain) use consensus mechanisms to ensure that all network participants are in agreement on the data (transactions) being published on the decentralized public ledger. This is what enables [crypto](/users/blockchain-basics/what-is-crypto) users to seamlessly transact without the need for a centralized authority.
 
 :::: tabs
 

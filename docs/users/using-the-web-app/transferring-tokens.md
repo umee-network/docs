@@ -6,15 +6,15 @@ Umee supports lending and borrowing on the Umee and Ethereum networks, and plans
 
 > Use the "Cosmos Transfers" guide to easily transfer supported Cosmos assets like ATOM to Umee. This is the fastest, easiest, and most cost efficient method.
 
-> Use the "Ethereum --> Cosmos Transfers" guide to convert assets from their Ethereum format to their Cosmos format.
+> Use the "Ethereum --> Umee Transfers" guide to convert assets from their Ethereum format to their Cosmos format.
 
-> Use the "Cosmos --> Ethereum Transfers" guide to convert assets from their Cosmos format to their Ethereum format.
+> Use the "Umee --> Ethereum Transfers" guide to convert assets from their Cosmos format to their Ethereum format.
 
 :::: tabs
 
-::: tab IBC Transfers
+::: tab Cosmos Transfers
 
-## IBC Transfers
+## Cosmos Transfers
 
 If you have Cosmos assets like ATOM on a different network in your Umee blockchain compatible wallet, follow this guide to transfer them to Umee.
 

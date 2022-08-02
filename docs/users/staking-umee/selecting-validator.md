@@ -4,8 +4,6 @@
 
 Validators play a critical role in maintaining a decentralized and secure network. Get to know validators before staking your tokens with them.
 
-[View active validators on Mintscan](https://www.mintscan.io/umee/validators)
-
 :::: tabs
 
 ::: tab Voting Power
@@ -55,3 +53,5 @@ A validator's self bonded percentage represents the amount of tokens a validator
 :::
 
 ::::
+
+[View active validators on Mintscan](https://www.mintscan.io/umee/validators)

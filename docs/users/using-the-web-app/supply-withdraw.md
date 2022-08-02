@@ -2,15 +2,13 @@
 
 ![](/bg/supply-withdraw.png)
 
-> Guides in this section are for future reference, lending features are currently only available on Ethereum.
-
-Umee users can supply assets on the Umee market to start earning lending yield. Assets supplied on the Umee market can be used as [collateral](/users/using-the-web-app/common-terms.html#collateral) **for cross chain borrowing.**
+Umee users can supply assets on the Umee market to start earning [lending yield](/users/using-the-web-app/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/users/using-the-web-app/common-terms.html#collateral) **for cross chain borrowing.**
 
 > Prerequisites
 >
-> * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet)
-> * Must have an [UMEE token balance](/users/getting-started/funding-wallet) to pay for fees on the Umee network
-> * Must have [assets on the Umee blockchain to supply](/users/using-the-web-app/transferring-tokens)
+> * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet);
+> * Must have an [UMEE token balance](/users/getting-started/funding-wallet) to pay for fees on the Umee network;
+> * Must have [assets on the Umee blockchain to supply](/users/using-the-web-app/transferring-tokens).
 
 :::: tabs
 

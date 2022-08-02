@@ -22,7 +22,7 @@ When tokens are staked on PoS networks like Umee, a token holder is “_delegati
 
 Validators can be thought of as elected officials in a representative democracy, and delegators can be thought of as the community that elected them. While anyone who stakes tokens can [vote on governance proposals](/users/governance/voting) to help shape the future of a network, it is a validator’s duty to stay informed and actively participate in governance in order to advance the interests of their delegators and add value to the network.
 
-> Users maintain full custody of staked assets; validators are unable to confiscate staked tokens if they wanted to.
+> Users maintain full custody of staked assets; validators are unable to confiscate staked tokens.
 
 > It is recommended that users assess various criteria including voting power, voting participation, and general governance stances when [selecting a validator](/users/staking-umee/selecting-validator).
 
