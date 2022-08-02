@@ -19,7 +19,7 @@
 
 :::
 
-::: Leverage Assets
+::: tab Leverage Assets
 
 ## Leverage Assets
 
