@@ -4,7 +4,7 @@
 
 :::: tabs
 
-::: tab 
+::: tab Staking
 
 ### Staking
 
@@ -54,7 +54,7 @@ Validators can be thought of as elected officials in a representative democracy,
 
 :::
 
-:::tab Slashing
+::: tab Slashing
 
 ### Slashing
 
