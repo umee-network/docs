@@ -10,6 +10,8 @@ Crypto is an entirely new asset class that is completely digital.
 - Crypto-assets use [blockchain technology](/users/blockchain-basics/what-is-blockchain) to record transactions in a decentralized and trustless manner.
 - Crypto users have total control over their assets and do not need to rely on any intermediaries like banks to transact with one another. It's like exchanging physical cash without the hassle of... exchanging physical cash.
 
+## Advantages of Crypto
+
 While many popular centralized payment services like bank transfers, Venmo, Cash App, and PayPal allow users to exchange funds, they are not permissionless, censorship resistant, or convenient for all users.&#x20;
 
 :::: tabs
@@ -17,6 +19,8 @@ While many popular centralized payment services like bank transfers, Venmo, Cash
 ::: tab Permissionless
 
 ### Permissionless
+
+****
 
 **With centralized services** users must be granted permission in order to use them. Sign ups require a "KYC" process in which users typically provide a government issued ID and personal information in order to be approved. If the services want to, or are ordered to, they have the ability to block transactions or freeze accounts at any time.
 
@@ -28,6 +32,8 @@ While many popular centralized payment services like bank transfers, Venmo, Cash
 
 ### Censorship Resistant
 
+****
+
 **With centralized services** many people may are unable access basic financial tools due to things like their physical location or background.
 
 **With crypto**, anyone with an internet connection can access a decentralized network and transact as they'd like.
@@ -37,6 +43,8 @@ While many popular centralized payment services like bank transfers, Venmo, Cash
 ::: tab Convenient
 
 ### Convenient
+
+****
 
 **With centralized services** transactions are often slow and expensive for users.
 

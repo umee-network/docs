@@ -8,13 +8,17 @@ Validators play a critical role in maintaining a decentralized and secure networ
 
 ::: tab Voting Power
 
-## Voting Power
+### Voting Power
+
+****
 
 A validator's voting power represents the sum of tokens that are self-bonded and delegated to the validator. When a community member fails to [vote on a governance proposal](/users/governance/voting), the validator they have delegated their stake to will inherit their vote.
 
 > In order to support the decentralization and security of the Umee network, it's important that voting power is evenly distributed between validators. Community members are encouraged to delegate to validators who hold less voting power - often found outside the top 25.
 
 ### Participation
+
+****
 
 Active governance is important for the growth of the network. Validators have a responsibility to actively participate in governance, and vote in the interests of their delegators. Community members should delegate to validators who actively participate in governance.
 
@@ -24,7 +28,9 @@ Active governance is important for the growth of the network. Validators have a 
 
 ::: tab Uptime
 
-## Uptime
+### Uptime
+
+****
 
 Uptime represents the validator's reliability. Validators with significant downtime may be jailed and potentially removed from the active set, resulting in the slashing of their stake.
 
@@ -34,7 +40,9 @@ Uptime represents the validator's reliability. Validators with significant downt
 
 ::: tab Commission
 
-## Commission
+### Commission
+
+****
 
 A validator's commission is the percent of staking rewards that a validator will keep for the services provided. It's not cheap or easy to run an Umee validator node, so it's important that validators earn a commission for their services.
 
@@ -46,7 +54,9 @@ A validator's commission is the percent of staking rewards that a validator will
 
 ::: tab Self Bond
 
-## Self Bond
+### Self Bond
+
+****
 
 A validator's self bonded percentage represents the amount of tokens a validator has delegated to themselves. This is a good indicator of whether a validator has "skin in the game" or not.
 

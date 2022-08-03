@@ -10,13 +10,9 @@
 
 ## Withdrawing Native Cosmos Tokens
 
-> If your exchange of choice does not support the native UMEE token it's recommended to purchase and withdraw ATOM, the native Cosmos Hub token, to the Cosmos network in your Umee blockchain compatible wallet. These tokens can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange).
+> If your exchange of choice doesn't support the native UMEE token, skip to the ["Withdrawing Native ATOM" guide](/users/getting-started/funding-wallet.html#withdrawing-native-atom).
 
-:::: tabs
-
-::: tab Withdrawing Native UMEE
-
-## Withdrawing Native UMEE Tokens
+## Withdrawing Native UMEE 
 
 #### Select the withdraw option for the UMEE token on your centralized exchange of choice.
 
@@ -28,15 +24,27 @@
 
 > Please note that withdrawing from a CEX may take longer than normal transactions on the Umee network. Don't panic if your tokens do not appear instantly. Purchase ATOM from your CEX of choice.
 
-:::
+## Withdrawing Native ATOM
 
-::: tab Withdrawing Native ATOM
+> Purchasing and withdrawing ATOM, the native Cosmos Hub token, is one of the easiest ways to start using the [Cosmos ecosystem](/users/blockchai-basics/what-is-cosmos). These tokens can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange).
 
-## Withdrawing Native ATOM Tokens
+:::: tabs
+
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CI7xGxCRl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
->To withdraw ATOM from a centralized exchange follow the steps in this video, or refer to the written step-by-step guide below.
+:::
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
 
@@ -57,6 +65,6 @@
 
 ## Trading Cosmos Assets on a Decentralized Exchange
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d5EL_71b9I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a decentralized exchange to exchange Cosmos assets.
 
-> Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a decentralized exchange to exchange other Cosmos assets for Umee.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d5EL_71b9I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

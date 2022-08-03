@@ -8,6 +8,8 @@ The data that is added over time are structures called "blocks." Blocks build on
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
 
+## Characteristics of Blockchains
+
 :::: tabs
 
 ::: tab Decentralized
@@ -64,6 +66,8 @@ The most common blockchains utilize **Proof of Stake** or **Proof of Work** cons
 
 ### Proof of Stake
 
+****
+
 > Umee is a Proof of Stake blockchain. Other well known Proof of Stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
 
 Proof of Stake (PoS) blockchains require network participants called "[validators](/users/blockchain-basics/what-is-staking.html#validators)" to lock up crypto as collateral to ensure that they properly “_validate_” the data being included in a new entry on the distributed ledger. Validators are randomly selected to validate a block based on the amount of collateral they have locked up, or “[staked](/users/blockchain-basics/what-is-staking),” hence the name “Proof of Stake.” Once a randomly selected validator validates a block, other validators verify its accuracy and the "_block rewards_," or newly minted units of crypto, are released.
@@ -77,6 +81,8 @@ Proof of Stake (PoS) blockchains require network participants called "[validator
 ::: tab Proof of Work
 
 ### Proof of Work
+
+****
 
 > Bitcoin and Ethereum are two of the most well known blockchains that use a Proof of Work consensus protocol.
 

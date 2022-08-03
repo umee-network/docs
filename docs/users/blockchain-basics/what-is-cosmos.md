@@ -8,11 +8,15 @@ Contrary to popular belief, Cosmos is not the name of one blockchain but of an e
 
 Cosmos provides the scalability, interoperability, and sovereignty needed for blockchains to achieve mass adoption with minimal environmental impact. Cosmos does this by providing developer-friendly open source tools like the Cosmos Software Development Kit ([Cosmos SDK](https://v1.cosmos.network/sdk)), the Inter-Blockchain Communication Protocol ([IBC](https://ibc.cosmos.network/)), and Ignite CLI to allow developers to easily launch a Cosmos Proof of Stake blockchain that is interoperable by default and can be optimized for a specific use case. 
 
+## Advantages of Cosmos
+
 :::: tabs
 
 ::: tab Scalability
 
 ### Scalability
+
+****
 
 *Imagine a world where everyone who wants to connect to the internet must share the same internet service provider. When smaller amounts of people are using the internet it will work fine, but as more users connect the service will gradually become slower for individual users as the bandwidth is divided until eventually it becomes unusable. Realistically the internet service provider would increase the cost of service, and only those who can afford the higher rates could enjoy reasonable internet speeds. Currently, blockchains can be thought of as internet service providers in this scenario.*
 
@@ -28,6 +32,8 @@ While most blockchains focus on attracting developers to build applications on t
 
 ### Interoperability
 
+****
+
 *In the world we know not all physical currencies are universally accepted, so people typically must use local currencies to transact depending on which country they’re in. In order to obtain local currencies, people usually must go through a bank or foreign currency exchange; a process which can be both inconvenient and costly.*
 
 Blockchains also face interoperability issues. While crypto makes it even easier for two parties to transact without the need for a third party, crypto-assets generally exist in different formats and are not universally accepted across different blockchains. As more blockchains are developed to tackle scalability issues, many chains remain isolated and are unable to easily exchange data with each other. Users are often forced to go through centralized bridge providers and use different “wrapped” versions of assets on various chains (at exchange rates that are often unfavorable). This may expose users to unwanted gatekeepers and unnecessary risks while fragmenting liquidity across different chains.
@@ -42,6 +48,8 @@ The IBC enables users to instantly and securely transfer tokens between independ
 
 ### Sovereignty
 
+****
+
 *Regular businesses are all subject to rules and regulations in the jurisdictions in which they operate. When an organization is no longer willing or able to follow the rules in one jurisdiction, they may choose to relocate to an area with less restrictions.*
 
 In crypto, decentralized applications are not limited by a single jurisdiction and are only subject to the parameters of the underlying blockchain which they are built on top of. If there is a critical bug in an application which requires a change to the blockchain, the blockchain’s governance must be in agreement in order for anything to be done about it - otherwise the application developers will likely need to build their product on another blockchain with more favorable parameters. In addition to scalability and interoperability issues, the lack of sovereignty and customizability for applications is another area many existing blockchains fall short.
@@ -53,6 +61,8 @@ Cosmos’ vision for an ecosystem of interoperable application-specific blockcha
 ::: tab Environmental Impact
 
 ### Environmental Impact
+
+****
 
 Many of the most well known blockchains like Bitcoin use a Proof of Work consensus mechanism that involves an unlimited number of network participants competing to propose transaction data and earn crypto for their work. This highly competitive process requires serious network participants to operate a lot of equipment in order to increase their chances of earning rewards, and thus consumes a lot of energy. Many people are hesitant to embrace blockchain technology due to the environmental concerns commonly associated with it.
 

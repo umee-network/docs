@@ -12,6 +12,8 @@ Decentralized finance, or “DeFi,” is a term used to describe a wide range of
 
 ### Trustless
 
+****
+
 Traditional financial services rely on intermediaries like banks to facilitate any and all transactions. These intermediaries have the power to dictate how and when users can access and use their own money.
 
 Thanks to blockchain technology, DeFi allows users to “be their own bank.” When interacting with DeFi services users maintain full control over their assets without the need to trust a centralized intermediary.
@@ -21,6 +23,8 @@ Thanks to blockchain technology, DeFi allows users to “be their own bank.” W
 ::: tab Accessible
 
 ### Accessible
+
+****
 
 Many people worldwide are unable to experience the benefits provided by traditional financial services for a wide range of reasons including but not limited to their location, level of income, or credit score.
 
@@ -32,6 +36,8 @@ Anyone with an internet connection can access DeFi services. Blockchain technolo
 
 ### Transparent
 
+****
+
 Traditional financial services typically give users little to no visibility on their processes.
 
 On the blockchain everything is auditable and transparent. Users can know exactly what risks they are taking on when using any DeFi service. Additionally, users cannot be discriminated against; everyone can access the same opportunities and rates regardless of their financial background.
@@ -41,6 +47,8 @@ On the blockchain everything is auditable and transparent. Users can know exactl
 ::: tab Convenient
 
 ### Convenient
+
+****
 
 Traditional financial services can be slow, expensive, and inconvenient in general. Traditional financial service providers often tack on unnecessary fees for simple services that users have no choice but to pay.&#x20;
 
@@ -68,6 +76,8 @@ While borrowers have a certain amount of crypto assets posted as collateral, the
 
 ### Lending
 
+****
+
 In DeFi, lenders can choose to deposit any amount they wish to the lending protocol at any time. In Umee, there are no fees depositors need to pay apart from the transaction fees to post their transactions on chain, similar to any DeFi protocol. After depositing, lenders can enjoy a passive lending yield.
 
 [Learn how to lend assets on Umee here.](/users/using-the-web-app/supply-withdraw)
@@ -77,6 +87,8 @@ In DeFi, lenders can choose to deposit any amount they wish to the lending proto
 ::: tab Borrowing
 
 ### Borrowing
+
+****
 
 In order to borrow in DeFi, borrowers must first deposit assets as collateral. After the collateral has been deposited, borrowers can select any asset to borrow. The amount a borrower can borrow is determined by the amount of collateral the borrower posts and the loan to value ratio of the specific asset.
 
@@ -90,6 +102,8 @@ Borrowing interest rates usually float based on the total amounts borrowed and a
 
 ### Loan to Value Ratio
 
+****
+
 The loan to value ratio is commonly used by a lending platform to monitor the health of each collateralized loan position.
 
 > The loan to value ratio represents the value of the asset borrowed against the health of each collateralized loan position.
@@ -100,6 +114,8 @@ The loan to value ratio is commonly used by a lending platform to monitor the he
 
 ### Repayment
 
+****
+
 When it comes to paying off DeFi loans, borrowers don’t have a deadline to make payments. As long as borrowers’ loan to value ratios remain in check they can choose when to pay off their loan at whatever pace they desire.
 
 ::: 
@@ -107,6 +123,8 @@ When it comes to paying off DeFi loans, borrowers don’t have a deadline to mak
 ::: tab Liquidations
 
 ### Liquidations
+
+****
 
 Since DeFi borrowers need to over-collateralize their loans, it’s important that they maintain a healthy over-collateralized position or they risk being liquidated.
 
