@@ -30,13 +30,13 @@ Testnets use testnet tokens, valueless versions of real tokens that help simulat
 
 ::: tab Claiming Testnet UMEE
 
-### Claiming Testnet UMEE Tokens
-
-In order to try out Umee's testnet users will need testnet UMEE tokens. Testnet UMEE tokens are simply a valueless version of [native UMEE tokens](/overview/umee-token) that are needed to pay for transaction costs on Umee's testnet. Testnet tokens can be claimed for free on [Umee's Discord server](https://discord.gg/umee).
+### Claiming Testnet UMEE 
 
 ****
 
-### To Claim Testnet UMEE Tokens:
+> In order to try out Umee's testnet users will need testnet UMEE tokens. Testnet UMEE tokens are simply a valueless version of [native UMEE tokens](/overview/umee-token) that are needed to pay for transaction costs on Umee's testnet. Testnet tokens can be claimed for free on [Umee's Discord server](https://discord.gg/umee).
+
+<br>
 
 #### Open your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) browser extension and select the network dropdown list. Choose "UMEE Umeemania" from the dropdown.
 
@@ -62,11 +62,13 @@ In order to try out Umee's testnet users will need testnet UMEE tokens. Testnet 
 
 ::: tab Claiming Testnet ETH
 
-## Claiming Testnet ETH
+### Claiming Testnet ETH
 
-To learn how to bridge UMEE tokens or use Umee's Ethereum app within a testnet environment, users will need to claim testnet ETH in order to transact on Ethereum's Goerli test network.
+****
 
-## To Claim Testnet ETH:
+> To learn how to bridge UMEE tokens or use Umee's Ethereum app within a testnet environment, users will need to claim testnet ETH in order to transact on Ethereum's Goerli test network.
+
+<br> 
 
 #### Open your Ethereum wallet ([MetaMask](https://metamask.io/)) browser extension and select the network dropdown list. Select the "Show/hide test networks" button at the top of the dropdown.
 
