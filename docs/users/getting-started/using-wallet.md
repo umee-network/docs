@@ -4,23 +4,29 @@
 
 #### Users should familiarize themselves with how an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) works before [funding the wallet](/users/getting-started/funding-wallet) or sending any tokens.
 
-> The Cosmos ecosystem is commonly referred to as "The Internet of Blockchains" because it is an ecosystem of sovereign yet interoperable blockchains, unlike other blockchain ecosystems where most apps are built directly on top of a single chain. Cosmos allows for the seamless transfer of data between blockchains in order to foster a better and safer user experience.
-
 > [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) like Keplr are interchain wallets, meaning they can also be used as wallets for other blockchains in the Cosmos ecosystem and beyond.
+
+## Changing Networks
 
 :::: tabs
 
-::: tab Changing Networks
+::: tab Video Tutorial
 
-## Changing Networks
+### Video Tutorial
+
+****
 
 ![](/bg/change-network.gif)
 
 > Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. Users do not need to manually change the network when interacting with the Umee web app.
 
-****
+:::
 
-## To Change Networks
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### Open up the Keplr wallet browser extension and select the network list drop down at the top of the extension.
 
@@ -38,17 +44,29 @@
 
 :::
 
-::: tab Receiving Tokens
+::::
 
-## Receiving Tokens
-
-![](/bg/copy-umee-address.gif)
+## Copying a Wallet Address
 
 >Users will need to copy and paste their wallet address in order to receive tokens to their [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet).
 
+:::: tabs
+
+::: tab Video Tutorial
+
+### Video Tutorial
+
 ****
 
-## To Copy a Wallet Address
+![](/bg/copy-umee-address.gif)
+
+:::
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### Open the wallet extension and select _**the network which tokens are being sent from**_ in the network dropdown list.
 
@@ -64,17 +82,29 @@
 
 :::
 
-::: tab Sending Tokens
+::::
 
 ## Sending Tokens
 
-![](/bg/send-umee.gif)
-
 >Crypto users can use their wallets to instantly send assets to another user without the need for a centralized third party.
+
+:::: tabs
+
+::: tab Video Tutorial
+
+### Video Tutorial
 
 ****
 
-## To Send Tokens
+![](/bg/send-umee.gif)
+
+:::
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### Open the wallet extension and select the network you'd like to send tokens on.
 

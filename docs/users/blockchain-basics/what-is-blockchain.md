@@ -1,14 +1,12 @@
 # What is a Blockchain?
 
-![](/bg/what-is-a-blockchain.png)
+![](/bg/what-is-a-blockchain-info.png)
 
 A blockchain is a specific type of database that is coordinated and distributed across an open and public network of computer systems, with an ever-growing digital list of data points connected to one another acting as a decentralized public ledger.
 
 The data that is added over time are structures called "blocks." Blocks build on top of each other in chronological order and include a piece of information that links each data block to the previous block, creating a verifiable chain all the way back to the genesis block (the first block). Blockchain is the core underlying component of [crypto](/users/blockchain-basics/what-is-crypto).
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
-
-![](/bg/what-is-a-blockchain-info.png)
 
 :::: tabs
 
@@ -66,7 +64,7 @@ The most common blockchains utilize **Proof of Stake** or **Proof of Work** cons
 
 ### Proof of Stake
 
-> Umee is a Proof of Stake blockchain. Other well known proof of stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
+> Umee is a Proof of Stake blockchain. Other well known Proof of Stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
 
 Proof of Stake (PoS) blockchains require network participants called "[validators](/users/blockchain-basics/what-is-staking.html#validators)" to lock up crypto as collateral to ensure that they properly “_validate_” the data being included in a new entry on the distributed ledger. Validators are randomly selected to validate a block based on the amount of collateral they have locked up, or “[staked](/users/blockchain-basics/what-is-staking),” hence the name “Proof of Stake.” Once a randomly selected validator validates a block, other validators verify its accuracy and the "_block rewards_," or newly minted units of crypto, are released.
 
@@ -88,6 +86,6 @@ Proof of Work (PoW) blockchains require network participants called “miners”
 
 > Since there is no limit to the amount of miners that can participate in PoW consensus, and the immense amount of computing power needed to create a new block on a PoW blockchain requires large amounts of energy, popular PoW blockchains like the Bitcoin network are often viewed as harmful to the environment.
 
-## What Is Cross Chain Technology?
+:::
 
-Most existing blockchains are isolated from each other, making it difficult for them to interact and communicate with one another. Cross chain technology was designed to fix this problem. Cross chain technology avoids reliance on a centralized entity, therefore avoiding third party risk such as abrupt withdrawal halts or operational shutdowns, and gives users full custody of their crypto with the goal of facilitating a faster processing time at a lower transaction cost. This will make it easier for anyone with an internet connection to transact across different blockchain networks from anywhere in the world.
+::::
