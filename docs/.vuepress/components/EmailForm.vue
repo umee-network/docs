@@ -60,11 +60,19 @@
         </div>
         <div>
           <GradientBox>
-            <form class="newsletter-form-input">
-              <input type="email" required placeholder="Your email" />
+            <form class="newsletter-form-input" @submit.prevent="subscribe">
+              <input
+                type="email"
+                required
+                placeholder="Your email"
+                @input="setEmail($event.target.value)"
+              />
               <button type="submit" class="gradient-text">SIGN UP</button>
             </form>
           </GradientBox>
+          <div v-if="error">{{ error }}</div>
+          <div v-if="success">Yay!</div>
+          <div v-if="loading">Loading…</div>
           <p class="unsubscribe">You can unsubscribe any time.</p>
         </div>
       </div>
@@ -73,12 +81,31 @@
 </template>
 
 <script>
+import jsonp from "jsonp";
+import queryString from "query-string";
+
 export default {
   data() {
     return {
       darkMode: false,
       imageArr: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+      email: null,
+      success: false,
+      error: null,
+      loading: false,
+      userId: "b05805587a2909551001985f5",
+      listId: "c23cf45733",
+      url: "https://gmail.us13.list-manage.com/subscribe/post",
     };
+  },
+  computed: {
+    data() {
+      return queryString.stringify({
+        u: this.userId,
+        id: this.listId,
+        MERGE0: this.email,
+      });
+    },
   },
   mounted() {
     this.checkUserPreference();
@@ -88,6 +115,43 @@ export default {
       if (localStorage.getItem("dark-theme")) {
         this.darkMode = true;
       }
+    },
+    setEmail(value = "") {
+      this.email = value.trim();
+    },
+    subscribe() {
+      if (this.email === null || this.loading) {
+        return;
+      }
+
+      this.success = false;
+      this.error = null;
+      this.loading = true;
+
+      const url = `${this.url}?${this.data}`;
+
+      jsonp(url, { param: "c" }, this.onResponse);
+    },
+
+    onResponse(error, data) {
+      this.loading = false;
+
+      if (error) {
+        this.error = error;
+      }
+
+      if (data && data.result === "error") {
+        this.error = this.formatErrorMessage(data.msg);
+      }
+
+      if (!this.error) {
+        this.success = true;
+        this.email = null;
+      }
+    },
+
+    formatErrorMessage(message) {
+      return message.replace("0 - ", "");
     },
   },
 };
@@ -116,9 +180,9 @@ export default {
   align-items: center;
 
   .unsubscribe {
-    margin-top: .5rem;
+    margin-top: 0.5rem;
     font-size: 0.9rem;
-    opacity: .5;
+    opacity: 0.5;
   }
 
   &:hover &-image-item {
@@ -177,7 +241,7 @@ export default {
         width: 45%;
       }
 
-      @media(max-width: 1024px) {
+      @media (max-width: 1024px) {
         display: block;
 
         & > div {
@@ -189,7 +253,7 @@ export default {
         }
       }
 
-      @media(max-width: 768px) {
+      @media (max-width: 768px) {
         padding: 1.5rem;
       }
     }
@@ -221,7 +285,7 @@ export default {
     margin-left: 280px;
     width: 100%;
 
-    @media(max-width: 768px) {
+    @media (max-width: 768px) {
       margin-left: 0;
       margin-top: 280px;
     }

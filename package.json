@@ -13,6 +13,10 @@
     "build": "vuepress build docs"
   },
   "dependencies": {
-    "resize-observer-polyfill": "^1.5.1"
+    "jsonp": "^0.2.1",
+    "query-string": "^7.1.1",
+    "resize-observer-polyfill": "^1.5.1",
+    "vue-mailchimp-email-signup-form": "^1.1.2",
+    "vue-mailchimp-subscribe": "^1.1.0"
   }
 }
