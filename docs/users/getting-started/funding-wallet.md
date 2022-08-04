@@ -10,13 +10,13 @@
 
 ## Withdrawing Native UMEE 
 
-#### Select the withdraw option for the UMEE token on your centralized exchange of choice.
+#### 1) Select the withdraw option for the UMEE token on your centralized exchange of choice.
 
-#### Open your Umee wallet extension, select "Umee" from the network dropdown list, and copy your Umee wallet address.
+#### 2) Open your Umee wallet extension, select "Umee" from the network dropdown list, and copy your Umee wallet address.
 
 ![](/bg/copy-umee-address.gif)
 
-#### Select "Withdraw," paste your Umee wallet address in the "withdraw to" section, and wait for the transaction to process. Your UMEE will appear on the Umee network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) shortly.
+#### 3) Select "Withdraw," paste your Umee wallet address in the "withdraw to" section, and wait for the transaction to process. Your UMEE will appear on the Umee network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) shortly.
 
 > Please note that withdrawing from a CEX may take longer than normal transactions on the Umee network. Don't panic if your tokens do not appear instantly. Purchase ATOM from your CEX of choice.
 
@@ -42,13 +42,13 @@
 
 ****
 
-#### Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
+#### 1) Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
 
-#### Copy your Cosmos wallet address found under the "Cosmos Hub" network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet), and paste it in the "Send to" section.
+#### 2) Copy your Cosmos wallet address found under the "Cosmos Hub" network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet), and paste it in the "Send to" section.
 
 ![](/bg/copy-cosmos-address.gif)
 
-#### Select withdraw, approve the withdrawal, and wait for the transaction to process. Your ATOM will appear on the _Cosmos Hub network_ in your Umee blockchain compatible wallet shortly.
+#### 3) Select withdraw, approve the withdrawal, and wait for the transaction to process. Your ATOM will appear on the _Cosmos Hub network_ in your Umee blockchain compatible wallet shortly.
 
 #### Once you have received the ATOM on the Cosmos Hub network in your Umee blockchain compatible wallet you can:
 

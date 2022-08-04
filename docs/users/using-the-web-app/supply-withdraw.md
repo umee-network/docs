@@ -16,11 +16,11 @@ Umee users can supply assets on the Umee market to start earning [lending yield]
 
 ## Supplying Assets on Umee
 
-#### Select the “Dashboard” section on the navigation bar.
+#### 1) Select the “Dashboard” section on the navigation bar.
 
-#### At the bottom left of the screen in the "Supply" section, select the asset you’d like to supply on the Umee market from the "Available Markets" list.
+#### 2) At the bottom left of the screen in the "Supply" section, select the asset you’d like to supply on the Umee market from the "Available Markets" list.
 
-#### In the pop-up, input the amount of tokens you’d like to supply and select “Supply.” Confirm the transaction in your wallet.
+#### 3) In the pop-up, input the amount of tokens you’d like to supply and select “Supply.” Confirm the transaction in your wallet.
 
 > DO NOT SUPPLY 100% OF YOUR UMEE Tokens! All transactions on the Umee Network will require a small UMEE balance for the gas fee.
 
@@ -36,15 +36,15 @@ Umee users can supply assets on the Umee market to start earning [lending yield]
 
 > Withdrawing assets that are being used as collateral will negatively impact users' [loan to value ratios](/users/using-the-web-app/common-terms.html#maximum-ltv) and increase their risk of liquidation.
 
-#### Select the “Dashboard” section on the navigation bar.
+#### 1) Select the “Dashboard” section on the navigation bar.
 
-#### At the lower left of the screen in the "Supply" section, select the asset you’d like to withdraw.
+#### 2) At the lower left of the screen in the "Supply" section, select the asset you’d like to withdraw.
 
-#### Select “Withdraw” on the top of the pop-up.
+#### 3) Select “Withdraw” on the top of the pop-up.
 
 ![](/bg/withdraw-2.png)
 
-#### Input the amount of tokens you’d like to withdraw, and click “Withdraw” on the bottom of the pop up. Confirm the transaction in your wallet.
+#### 4) Input the amount of tokens you’d like to withdraw, and click “Withdraw” on the bottom of the pop up. Confirm the transaction in your wallet.
 
 ![](/bg/withdraw-3.png)
 

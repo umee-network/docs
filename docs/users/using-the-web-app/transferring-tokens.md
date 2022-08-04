@@ -26,25 +26,25 @@ If you have Cosmos assets like ATOM on a different network in your Umee blockcha
 
 ****
 
-#### Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and the wallet you're transferring from are [connected to the web app](/users/using-the-web-app/connecting-app).
+#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and the wallet you're transferring from are [connected to the web app](/users/using-the-web-app/connecting-app).
 
-#### On the "Markets" page, select "Cosmos."
+#### 2) On the "Markets" page, select "Cosmos."
 
 > When "Cosmos" is selected tokens will be transferred between their native chains and the Umee blockchain, with the exception of native UMEE tokens which are already on the Umee blockchain.
 
 ![](/bg/ibc-1.png)
 
-#### Identify which asset you’d like to transfer on to Umee and select “Transfer” in the appropriate row.
+#### 3) Identify which asset you’d like to transfer on to Umee and select “Transfer” in the appropriate row.
 
 ![For this example we will be transferring ATOM from the Cosmos Hub.](/bg/ibc-2.png)
 
-#### Select which network you'd like to transfer _**to**_ on the top of the pop-up.
+#### 4) Select which network you'd like to transfer _**to**_ on the top of the pop-up.
 
 > To transfer assets off of Umee and back to their native chain, simply select the destination chain here.
 
 ![We will be selecting "UMEE" since we are transferring ATOM onto the Umee blockchain.](/bg/ibc-3.png)
 
-#### In the pop-up, input the amount of tokens you’d like to transfer, select “Transfer,” and approve the transaction in your wallet.
+#### 5) In the pop-up, input the amount of tokens you’d like to transfer, select “Transfer,” and approve the transaction in your wallet.
 
 ![](/bg/ibc-4.png)
 
@@ -65,31 +65,31 @@ If you are in possession of ERC-20 UMEE, or if you'd like to access native Ether
 
 ****
 
-#### Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both [connected to the web app](/users/using-the-web-app/connecting-app).
+#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both [connected to the web app](/users/using-the-web-app/connecting-app).
 
-#### On the top of the markets page, select "Ethereum."
+#### 2) On the top of the markets page, select "Ethereum."
 
 ![](/bg/eth-to-umee-1.png)
 
-#### Identify which asset you’d like to transfer, and select the “Transfer” button in the appropriate row.
+#### 3) Identify which asset you’d like to transfer, and select the “Transfer” button in the appropriate row.
 
 ![](/bg/eth-to-umee-2.png)
 
-#### On the top of the pop-up, select "Umee."
+#### 4) On the top of the pop-up, select "Umee."
 
 > This will indicate that you're transferring tokens TO Umee.
 
 ![](/bg/eth-to-umee-3.png)
 
-#### Input the amount of tokens you'd like to transfer.
+#### 5) Input the amount of tokens you'd like to transfer.
 
 ![](/bg/eth-to-umee-4.png)
 
-#### Confirm that the Umee destination wallet address is correct. If you're transferring an asset that's not UMEE, make sure you have an UMEE token balance in your Umee wallet to pay for transactions on the Umee network.
+#### 6) Confirm that the Umee destination wallet address is correct. If you're transferring an asset that's not UMEE, make sure you have an UMEE token balance in your Umee wallet to pay for transactions on the Umee network.
 
 ![](/bg/eth-to-umee-5.png)
 
-#### Select "Transfer" and confirm the transaction in your Ethereum wallet.
+#### 7) Select "Transfer" and confirm the transaction in your Ethereum wallet.
 
 ![](/bg/eth-to-umee-6.png)
 
@@ -112,31 +112,31 @@ If you are in possession of ERC-20 UMEE, or if you'd like to access native Ether
 
 ****
 
-#### Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both[connected to the web app](/users/using-the-web-app/connecting-app).
+#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both[connected to the web app](/users/using-the-web-app/connecting-app).
 
-#### On the top of the markets page, select "Ethereum."
+#### 2) On the top of the markets page, select "Ethereum."
 
 ![](/bg/umee-to-eth-1.png)
 
-#### Identify which asset you’d like to transfer, and select the “Transfer” button in the appropriate row.
+#### 3) Identify which asset you’d like to transfer, and select the “Transfer” button in the appropriate row.
 
 ![For this example we will transfer UMEE to Ethereum.](/bg/umee-to-eth-2.png)
 
-#### On the top of the pop-up, select "Ethereum."
+#### 4) On the top of the pop-up, select "Ethereum."
 
 > This will indicate that you are transferring tokens TO Ethereum.
 
 ![](/bg/umee-to-eth-3.png)
 
-#### Input the amount of tokens you'd like to transfer.
+#### 5) Input the amount of tokens you'd like to transfer.
 
 ![](/bg/umee-to-eth-4.png)
 
-#### Confirm that the Ethereum destination wallet address is correct. Make sure you have ETH in this wallet to pay for transactions on Ethereum.
+#### 6) Confirm that the Ethereum destination wallet address is correct. Make sure you have ETH in this wallet to pay for transactions on Ethereum.
 
 ![](/bg/umee-to-eth-5.png)
 
-#### Adjust the bridge fee as desired.
+#### 7) Adjust the bridge fee as desired.
 
 > When bridging from Umee to Ethereum the "Fast" option is recommended.
 
@@ -144,7 +144,7 @@ If you are in possession of ERC-20 UMEE, or if you'd like to access native Ether
 
 ![](/bg/umee-to-eth-6.png)
 
-#### Select "Transfer" and confirm the transaction in your Umee wallet.
+#### 8) Select "Transfer" and confirm the transaction in your Umee wallet.
 
 ![](/bg/umee-to-eth-7.png)
 

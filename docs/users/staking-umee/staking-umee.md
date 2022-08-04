@@ -21,41 +21,41 @@
 
 ## To Stake UMEE Tokens:
 
-#### Sign into your Keplr wallet and select the Umee network from the dropdown list.
+#### 1) Sign into your Keplr wallet and select the Umee network from the dropdown list.
 
 ![](/bg/stake-umee-1.png)
 
-#### Select "Stake" at the bottom of the Keplr wallet browser extension.
+#### 2) Select "Stake" at the bottom of the Keplr wallet browser extension.
 
 ![](/bg/stake-umee-2.png)
 
-#### You will now see a list of all of the active Umee validators.
+#### *You will now see a list of all of the active Umee validators.*
 
 > [Learn more about the criteria for selecting a validator here](/users/staking-umee/selecting-validator).
 
-#### The "[Voting Power](/users/staking-umee/selecting-validator)" column represents the total amount of tokens staked with a validator.
+#### *The "[Voting Power](/users/staking-umee/selecting-validator)" column represents the total amount of tokens staked with a validator.*
 
 ![It is recommended that community members choose validators with LOWER voting power to help keep the Umee network decentralized and secure.](/bg/stake-umee-3.png)
 
-#### The "[Commission](/users/staking-umee/selecting-validator)" column represents the percentage of staking rewards a validator retains for their services.
+#### *The "[Commission](/users/staking-umee/selecting-validator)" column represents the percentage of staking rewards a validator retains for their services.*
 
 ![Validators earn a commission on total staking rewards accrued, NOT the total amount of tokens staked with them.](/bg/stake-umee-4.png)
 
-#### After finding a validator that interests you, select “Manage” in the right hand column. You will now see the validator's bio, where validators often share additional details community members may find helpful.
+#### 3) After finding a validator that interests you, select “Manage” in the right hand column. You will now see the validator's bio, where validators often share additional details community members may find helpful.
 
 ![](/bg/stake-umee-5.png)
 
-#### When you have made a decision, select the "Delegate" button.
+#### 4) When you have made a decision, select the "Delegate" button.
 
 ![](/bg/stake-umee-6.png)
 
-#### Input the amount of Umee tokens you’d like to delegate to the validator.
+#### 5) Input the amount of Umee tokens you’d like to delegate to the validator.
 
 > DO NOT stake 100% of your UMEE tokens! You will need a small balance to pay for transaction fees on the Umee blockchain.
 
 ![](/bg/stake-umee-7.png)
 
-#### Select “Delegate” and confirm the transaction in your wallet.
+#### 6) Select “Delegate” and confirm the transaction in your wallet.
 
 ![](/bg/stake-umee-8.png)
 
@@ -69,11 +69,11 @@
 
 ## Claiming Staking Rewards
 
-#### Sign into your Keplr wallet and select the Umee network from the dropdown list.
+#### 1) Sign into your Keplr wallet and select the Umee network from the dropdown list.
 
 ![](/bg/claim-stake-1.png)
 
-#### Select "Claim" at the bottom of your Keplr wallet browser extension and approve the "Claim Staking Reward" transaction that pops up.
+#### 2) Select "Claim" at the bottom of your Keplr wallet browser extension and approve the "Claim Staking Reward" transaction that pops up.
 
 ![](/bg/claim-stake-2.png)
 

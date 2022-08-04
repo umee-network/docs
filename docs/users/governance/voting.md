@@ -11,27 +11,27 @@ Active community governance is important in order to help Umee grow while remain
 
 ## Voting on A Proposal
 
-#### Sign into your Keplr wallet and go to the Keplr dashboard.
+#### 1) Sign into your Keplr wallet and go to the Keplr dashboard.
 
 > The correct URL for the Keplr dashboard is “[https://wallet.keplr.app/#/dashboard](https://wallet.keplr.app/#/dashboard)”
 
 > Be extra cautious and always double check the URL when staking tokens in order to avoid phishing scams.
 
-#### Select “Umee” from the list on the left side of the Keplr dashboard.
+#### 2) Select “Umee” from the list on the left side of the Keplr dashboard.
 
 ![Select "Umee" from the list of chains](/bg/voting-1.png)
 
-#### Select "Governance" from the dropdown that appears.
+#### 3) Select "Governance" from the dropdown that appears.
 
-#### You will now see all active governance proposals (if there are any). Select a proposal to learn more about it.
+#### 4) You will now see all active governance proposals (if there are any). Select a proposal to learn more about it.
 
 ![Select a proposal to learn more about it](/bg/voting-2.png)
 
-#### Read the description of the governance proposal and do additional research as needed before making a decision. When you're ready, select the "Vote" button.
+#### 5) Read the description of the governance proposal and do additional research as needed before making a decision. When you're ready, select the "Vote" button.
 
 > If you're unsure which way to vote, take your time to decide. You have until the "Voting End" deadline to cast your vote.
 
-#### Choose which way you would like to cast your vote, select "Confirm," and approve the vote in your wallet.
+#### 6) Choose which way you would like to cast your vote, select "Confirm," and approve the vote in your wallet.
 
 | Option |  Implication  |
 |:--------:| -------------------------------------------------- |

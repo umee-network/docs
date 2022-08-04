@@ -17,11 +17,11 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 ## Borrowing Assets from the Umee Market
 
-#### Select the "Dashboard" section on the navigation bar.
+#### 1) Select the "Dashboard" section on the navigation bar.
 
-#### At the bottom right of the screen in the "Borrow" section, select the asset you’d like to borrow from the Umee market from the "Available Markets" list.
+#### 2) At the bottom right of the screen in the "Borrow" section, select the asset you’d like to borrow from the Umee market from the "Available Markets" list.
 
-#### In the pop-up, input the amount of tokens you’d like to borrow and select “Borrow.” Confirm the transaction in your wallet.
+#### 3) In the pop-up, input the amount of tokens you’d like to borrow and select “Borrow.” Confirm the transaction in your wallet.
 
 > To decrease your risk of liquidation, avoid using a large percentage of the [borrow limit](/users/using-the-web-app/common-terms.html#borrow-limit).
 
@@ -41,15 +41,15 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 ## Repaying a Loan on Umee
 
-#### Select the "Dashboard" section on the navigation bar.
+#### 1) Select the "Dashboard" section on the navigation bar.
 
-#### At the lower right of the screen in the "Borrow" section, select the loan you’d like to repay.
+#### 2) At the lower right of the screen in the "Borrow" section, select the loan you’d like to repay.
 
-#### Select “Repay” at the top of the pop-up.
+#### 3) Select “Repay” at the top of the pop-up.
 
 ![](/bg/repay-2.png)
 
-#### Input the amount of tokens you’d like to repay, click repay, and confirm the transaction in your wallet.
+#### 4) Input the amount of tokens you’d like to repay, click repay, and confirm the transaction in your wallet.
 
 ![](/bg/repay-3.png)
 

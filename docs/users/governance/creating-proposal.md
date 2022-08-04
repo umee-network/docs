@@ -26,15 +26,15 @@ It’s very important for community members to discuss their ideas and receive t
 
 ### Creating a Discussion Thread
 
-#### Select "New thread."
+#### 1) Select "New thread."
 
 ![](/bg/discussion-1.png)
 
-#### On the topic dropdown, select "General."
+#### 2) On the topic dropdown, select "General."
 
 ![](/bg/discussion-2.png)
 
-#### Once the thread has been created, select the dropdown and select "Edit stage." Choose "Discussion" to indicate that the proposal has not been created yet and is in the discussion phase.
+#### 3) Once the thread has been created, select the dropdown and select "Edit stage." Choose "Discussion" to indicate that the proposal has not been created yet and is in the discussion phase.
 
 ![](/bg/discussion-3.png)
 
@@ -56,19 +56,19 @@ Community members should take any and all feedback and suggestions into consider
 
 ### Sharing a Drafted Proposal
 
-#### Select "New thread."
+#### 1) Select "New thread."
 
 ![](/bg/draft-1.png)
 
-#### On the topic dropdown, select "Proposal Discussion."
+#### 2) On the topic dropdown, select "Proposal Discussion."
 
 ![](/bg/draft-2.png)
 
-#### After the thread has been created, add an off-chain poll by opening the thread and selecting "Create poll." In most cases, the poll can be titled "Temperature Check" with "Yes" and "No" as options to gauge sentiment.
+#### 3) After the thread has been created, add an off-chain poll by opening the thread and selecting "Create poll." In most cases, the poll can be titled "Temperature Check" with "Yes" and "No" as options to gauge sentiment.
 
 ![](/bg/draft-3.png)
 
-#### After the poll has been added, select the dropdown and choose "Edit stage." Choose "Drafted: Pre-Voting" to indicate that the proposal has been created and has yet to be submitted on-chain.
+#### 4) After the poll has been added, select the dropdown and choose "Edit stage." Choose "Drafted: Pre-Voting" to indicate that the proposal has been created and has yet to be submitted on-chain.
 
 ![](/bg/draft-4.png)
 
@@ -106,19 +106,19 @@ Once there has been ample discussion and all feedback has been taken into consid
 
 ### Creating an On-Chain Proposal
 
-#### Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
+#### 1) Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
 
 ![](/bg/submit-1.png)
 
-#### Select the type of proposal you're submitting from the dropdown.
+#### 2) Select the type of proposal you're submitting from the dropdown.
 
 ![](/bg/submit-2.png)
 
-#### Once the On-Chain proposal has been submitted, identify your drafted proposal from the "Proposal Discussion" category and change the stage to "On Chain Proposal."
+#### 3) Once the On-Chain proposal has been submitted, identify your drafted proposal from the "Proposal Discussion" category and change the stage to "On Chain Proposal."
 
 ![](/bg/submit-3.png)
 
-#### Link the proposal thread to the On-Chain proposal to help it gain more attention.
+#### 4) Link the proposal thread to the On-Chain proposal to help it gain more attention.
 
 :::
 
