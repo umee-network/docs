@@ -7,105 +7,44 @@ title: Overview
 ## What is Umee?
 ![](/bg/what-is-umee.png)
 
-### Interoperable Base Layer Blockchain
+#### *Umee is a [Cosmos-based](/users/blockchain-basics/what-is-cosmos) [decentralized finance](/users/blockchain-basics/what-is-defi) hub supporting a suite of composable debt primitives that will enable the next generation of global debt markets. As a [base layer blockchain](/users/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage and liquidity. The Umee Blockchain facilitates interoperability between the Cosmos ecosystem, Ethereum network, side chain architectures, layer two scaling solutions, and alternative base layer protocols.*
 
-Umee is a base layer blockchain, much like Ethereum. As a base layer blockchain, applications and money lego primitives can be built on top of Umee in order to allow DeFi users to access cross chain leverage and liquidity.
+## Issues With Existing Systems
 
-As a Cosmos SDK blockchain, the Umee Network is already interoperable with blockchains including Ethereum, Crypto.com, Binance Chain, Osmosis, Secret Network, and 30+ others.
+:::: tabs
 
-### Decentralized Lending & Borrowing
+::: tab Legacy Debt Markets
 
-Umee allows anyone with an internet connection to supply their crypto assets on the Umee market to easily earn passive lending yield. Umee users can also use their deposits as collateral to borrow other assets and discover new yield opportunities.
-
-Umee is permissionless, and there is no background check or approval needed to use its services.
-
-### Interchain Leverage
-Umee will allow users to leverage their favorite assets and access deep liquidity all in one place. Umee is chain and bridge agnostic, and will support the changing needs of users.
+### Legacy Debt Markets
 
 ****
 
-## Why Umee?
+#### Flaws in legacy debt markets include:
+
+- Guarded Systems
+- Lack of Transparency
+- Principal-Agent Problem
+
+:::
+
+::: tab DeFi Markets
+
+### DeFi Markets
+
+****
+
+#### Existing flaws in DeFi markets include:
+
+- Short-term Focus
+- Speculation-driven
+- Lack of Capital-efficient Debt Financing Tools
+
+:::
+
+::::
+
+## Why Umee
+
 ![](/bg/why-umee.png)
-Umee aims to be the go-to cross chain DeFi hub to connect various ecosystems together and allow builders to create novel financial products on top. Umee plans to break the inherent silos between blockchains by utilizing bridging solutions towards interconnecting blockchains and encouraging better capital efficiency. The eventual goals will be to enable interchain lending and borrowing, multi-chain staking and delegations, plus cross chain defi rates.
 
-### Existing Issues
-![](/bg/existing-issues.png)
-
-:::: tabs
-
-::: tab Isolated Capital
-
-#### Isolated Capital
-
-Capital is siloed across several different networks. Users are unable to move many assets between chains freely. Existing liquidity protocols allow users to lend and borrow assets on the same chain, but not across chains.
-
-:::
-
-::: tab Concentration
-
-#### Concentrated Systematic Risks
-
-DeFi risk is highly concentrated on Ethereum. There is a strong need to diversify this risk while maintaining decentralization on other blockchains.
-
-:::
-
-::: tab Detached Yields
-
-#### Detached Yields
-
-Proof of Stake and DeFi yields are fundamentally different. Capital does not flow freely based on risk return profiles and thus markets do not operate as efficiently as they should.
-
-:::
-
-::::
-
-
-### Advantages
-
-:::: tabs
-
-::: tab Decentralization
-
-#### Decentralization
-
-The Umee blockchain has a large decentralized validator set. This means that Umee is accessible by anyone with an internet connection regardless of their location or financial status, and users are able to safely transact without the need to trust a centralized entity.
-
-:::
-
-::: tab Proof of Stake
-
-#### Proof of Stake Consensus
-
-Umee is a proof of stake (PoS) blockchain, meaning transactions on Umee are significantly faster and cheaper compared to transactions on proof of work (PoW) blockchains like Bitcoin. PoS blockchains can also be seen as an environmentally friendly option for users because they only consume a small fraction of the energy PoW blockchains do.
-
-Proof of stake assets also may be seen as a viable collateral and credit system for the future.
-
-:::
-
-::: tab Interoperability
-
-#### Interoperability
-
-The Umee blockchain is the foundational infrastructure for a wide ecosystem of DeFi protocols. Umee utilizes Cosmos’ Inter-Blockchain Communication Protocol (IBC) to facilitate fast finality transfers of tokens between blockchains. Umee will also utilize various bridging solutions for interconnecting between fast finality and probabilistic finality networks, allowing for even better capital efficiency. In the future, transactions made on the Umee blockchain will be able to natively interact with other blockchains.
-
-:::
-
-::: tab Infrastructure
-
-#### Infrastructure
-
-Over the long run Umee aims to provide the infrastructure needed for the crypto ecosystem to achieve real world adoption. Umee is both chain and bridge agnostic, making it an ideal blockchain to build lasting products on.
-
-:::
-
-::: tab User Experience
-
-#### User Experience
-
-Existing blockchain technologies are typically overwhelming for new users. The onboarding process alone can be time consuming, and minor mistakes can be costly. DeFi users often must choose between the accessibility of liquidity, transaction costs, transaction speeds, levels of decentralization, overall network security, and more when selecting which blockchain and protocol to interact with.
-
-Umee prioritizes the user experience, and will allow new users to participate in DeFi more easily than ever before. Umee’s technology offers a flexible mix of speed and efficiency for blockchain transactions, without sacrificing decentralization or network security.
-
-:::
-
-::::
+#### *Umee is the first borrowing and lending platform aimed at offering universal cross-chain DeFi functionality that combines the strengths of blockchain architecture with the fundamentals of traditional debt markets. Umee will replicate the $200 trillion global debt capital markets using open source code, crypto primitives and web3 technology, constructing a universal yield curve and enabling a foundation for a modern monetary policy that is globally unified, transparent and decentralized.*
