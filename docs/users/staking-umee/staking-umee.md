@@ -19,7 +19,7 @@
 > * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) funded with an [UMEE token balance](/users/getting-started/funding-wallet)
 > * Must have a basic understanding of how staking works and [how to choose a validator](/users/staking-umee/selecting-validator)
 
-## To Stake UMEE Tokens:
+****
 
 #### 1) Sign into your Keplr wallet and select the Umee network from the dropdown list.
 

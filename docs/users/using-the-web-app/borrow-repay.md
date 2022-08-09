@@ -13,7 +13,7 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 :::: tabs
 
-::: tab Borrow
+::: tab Borrowing
 
 ## Borrowing Assets from the Umee Market
 
@@ -37,7 +37,7 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 :::
 
-::: tab Repay
+::: tab Repaying
 
 ## Repaying a Loan on Umee
 
