@@ -97,7 +97,7 @@ _**The main purpose of the ERC-20 UMEE token** is to create a user-friendly expe
 
 :::
 
-::: Which Token Do You Have?
+::: tab Which Token Do You Have?
 
 ### Which Token Do You Have?
 
