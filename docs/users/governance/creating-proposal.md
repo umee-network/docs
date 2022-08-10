@@ -5,7 +5,7 @@
 > Prerequisites
 >
 >* [Must have a Commonwealth account set up](https://docs.commonwealth.im/commonwealth/account-overview/creating-your-account)
-> * [Must join the Umee community on Commonwealth](https://commonwealth.im/umee/)
+> * [Must join the Umee community on Commonwealth](https://gov.umee.cc/)
 
 :::: tabs
 
@@ -13,7 +13,7 @@
 
 ## Step 1: Discussion
 
-It’s very important for community members to discuss their ideas and receive thorough feedback before starting the proposal process. Community members are encouraged to use Umee community channels to discuss early stage governance ideas including the "General" channel on [Umee's Governance forum](https://commonwealth.im/umee/discussions/General). Always use the "**General**" topic and the “**Discussion**” stage tag when sharing ideas to help keep the forum organized.
+It’s very important for community members to discuss their ideas and receive thorough feedback before starting the proposal process. Community members are encouraged to use Umee community channels to discuss early stage governance ideas including the "General" channel on [Umee's Governance forum](https://gov.umee.cc/discussions/General). Always use the "**General**" topic and the “**Discussion**” stage tag when sharing ideas to help keep the forum organized.
 
 #### Some things to take into consideration include:
 
@@ -44,7 +44,7 @@ It’s very important for community members to discuss their ideas and receive t
 
 ## Step 2: Draft the Proposal
 
-Community members should take any and all feedback and suggestions into consideration when drafting a proposal. It’s important to anticipate which questions other community members may ask when drafting a proposal, and try to include details to address them in advance. Once the proposal has been drafted, it’s time to post it with the "**Proposal Discussion**" topic on [Umee's governance forum](https://commonwealth.im/umee).
+Community members should take any and all feedback and suggestions into consideration when drafting a proposal. It’s important to anticipate which questions other community members may ask when drafting a proposal, and try to include details to address them in advance. Once the proposal has been drafted, it’s time to post it with the "**Proposal Discussion**" topic on [Umee's governance forum](https://gov.umee.cc/).
 
 #### When posting a drafted proposal:
 

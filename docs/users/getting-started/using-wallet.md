@@ -2,8 +2,6 @@
 
 ![](/bg/using-a-wallet.png)
 
-#### Users should familiarize themselves with how an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) works before [funding the wallet](/users/getting-started/funding-wallet) or sending any tokens.
-
 > [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) like Keplr are interchain wallets, meaning they can also be used as wallets for other blockchains in the Cosmos ecosystem and beyond.
 
 ## Changing Networks

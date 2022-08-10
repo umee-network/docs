@@ -1,10 +1,8 @@
 # Staking UMEE
 
-![](/bg/staking-umee.png)
+![Stake UMEE to help secure the blockchain, vote on governance proposals, and earn steady staking rewards](/bg/why-stake.png)
 
 [Staking](/users/blockchain-basics/what-is-staking) is the safest and easiest way for UMEE holders to earn more [UMEE tokens](/overview/umee-token). By staking UMEE tokens, a user is delegating their tokens to a validator to help secure the Umee blockchain in return for a proportional share of block rewards being earned by the validator.
-
-![Stake UMEE to help secure the blockchain, vote on governance proposals, and earn steady staking rewards](/bg/why-stake.png)
 
 ****
 

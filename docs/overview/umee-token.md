@@ -46,6 +46,8 @@ The native UMEE token is also a protocol governance token used to facilitate on-
 
 > [Learn how to create an Umee governance proposal here](/users/governance/creating-proposal).
 
+> [Join the governance conversation here](https://gov.umee.cc/).
+
 :::
 
 ::::
