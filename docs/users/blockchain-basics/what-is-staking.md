@@ -1,70 +1,42 @@
 # What is Staking?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UBZzWMKIxEc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Staking is the safest and easiest way for crypto users to earn more crypto while contributing to the security of a network. [Proof of Stake blockchains](/users/blockchain-basics/what-is-blockchain.html#types-of-blockchains) like Umee require network participants called "[validators](/users/blockchain-basics/what-is-staking.html#validators)" to lock up [crypto](/users/blockchain-basics/what-is-crypto) as collateral in order to be eligible to validate and add transaction data to the blockchain.
+
+Validators provide collateral to prove that they have a “_stake_” in the network and therefore can be trusted to help keep the blockchain operational and secure – or otherwise face a financial penalty. In return for their role in running and securing the network, validators are paid in newly minted units of crypto called “_block rewards_.”
+
+> Block are newly minted units of [crypto](/users/blockchain-basics/what-is-crypto) that are issued to network participants in return for their role in running and securing a network. 
+
+When a user [stakes their tokens](/users/staking-umee/staking-umee) on a blockchain like Umee they’re delegating them to a validator and therefore contributing to the validator’s total stake. When validators earn block rewards, the block rewards are redistributed to the users who have delegated to them in proportion to the amount they have delegated.
+
+> When delegating, token holders maintain full custody of the staked assets; validators are unable to confiscate staked tokens.
+
 :::: tabs
 
-::: tab Staking
+::: tab Why Stake?
 
-### Staking
+### Why Stake?
 
 ****
-
-On [Proof of Stake blockchains](/users/blockchain-basics/what-is-blockchain.html#types-of-blockchains) like Umee, users can lock up their crypto as collateral to help keep the blockchain operational and secure in a process called “_staking_.” By [staking tokens](/users/staking-umee/staking-umee) a user is helping secure a network by increasing the total amount staked and therefore increasing the difficulty for an attacker to take over the network.
 
 ![](/bg/why-stake.png)
 
-> Users who do not stake their tokens are penalized by having their market share diluted over time.
+Staking rewards are considered the steadiest, lowest risk yield in crypto. Validators earn block rewards according to the total amount of tokens they have staked, and these block rewards are typically redistributed to delegators proportional to the amount of tokens they have delegated. This allows users who are unable to operate a validator node to safely earn staking rewards while helping secure the network. Users who fail to stake their tokens are penalized by having their market shares diluted over time. In addition to earning staking yield and helping secure the blockchain, stakers are also able to [vote on governance proposals](/users/governance/voting) to help shape the future of the network.
 
 :::
 
-::: tab Liquid Staking
+::: tab Risks?
 
-### Liquid Staking
-
-****
-
-When users stake their tokens, the tokens usually become locked up for a predetermined amount of time. During this period the staked tokens are illiquid and users are unable to transfer or exchange them.
-
-Liquid staking allows users to access the underlying tokens while they're being staked. With liquid staking, users that stake tokens are issued another token that can be thought of as a certificate of deposit. These tokens can be redeemed for the underlying tokens plus staking rewards accrued, transferred between wallets, instantly exchanged for the underlying unstaked token or other tokens on a [decentralized exchange](/users/blockchain-basics/what-is-defi.html#what-is-a-dex), or used across various DeFi applications like [Umee's lending facility](/users/using-the-web-app/supply-withdraw) to generate additional yield.
-
-:::
-
-::::
-
-## Validators
-
-> When tokens are staked on PoS networks like Umee, a token holder is “_delegating_” their tokens to a validator. These tokens are locked up and added to a validator's “_stake_,” or total collateral, and are no longer usable or transferable while staked.
-
-:::: tabs
-
-::: tab Validators
-
-### Validators 
+### Risks?
 
 ****
 
-Validators can be thought of as elected officials in a representative democracy, and delegators can be thought of as the community that elected them. While anyone who stakes tokens can [vote on governance proposals](/users/governance/voting) to help shape the future of a network, it is a validator’s duty to stay informed and actively participate in governance in order to advance the interests of their delegators and add value to the network.
+Staked tokens are a form of collateral used to ensure validators do their job. Therefore, if a validator misbehaves a portion of their total stake is removed or “_slashed_.” This means that everyone who has delegated tokens to this validator will have their tokens slashed proportionately. 
 
-> Users maintain full custody of staked assets; validators are unable to confiscate staked tokens.
-
-> It is recommended that users assess various criteria including voting power, voting participation, and general governance stances when [selecting a validator](/users/staking-umee/selecting-validator).
-
-> The more tokens a validator stakes, the greater their “voting power,” or ability to influence governance decisions becomes.
-
-:::
-
-::: tab Slashing
-
-### Slashing
-
-****
-
-Staked tokens are a form of collateral used to ensure validators do their job. If a validator misbehaves, a portion of their total stake is removed or “_slashed_.” This means that everyone who has delegated tokens to this validator will have their tokens slashed proportionately.
-
-> Slashing is very rare because validators are financially incentivized to do their job.
+> Slashing is very rare because validators are financially incentivized to do their job. 
 
 The most severe offense a validator can commit on the Umee blockchain results in 5% of their total stake being slashed, meaning that delegators would lose 5% of the tokens they delegated to this validator if the validator misbehaves.
-
-> Slashing helps ensure validators are responsible and actively working to keep the network operational and secure since there is a financial penalty if they don't.
 
 :::
 
@@ -72,8 +44,8 @@ The most severe offense a validator can commit on the Umee blockchain results in
 
 ## Learn More
 
-[Learn how to select a validator.](/users/staking-umee/selecting-validator)
+- [Learn how to select a validator.](/users/staking-umee/selecting-validator)
 
-[Learn how to stake UMEE tokens.](/users/staking-umee/staking-umee)
+- [Learn how to stake UMEE tokens.](/users/staking-umee/staking-umee)
 
-[Learn how to use UMEE tokens to vote on proposals.](/users/governance/voting)
+- [Learn how to use UMEE tokens to vote on governance proposals.](/users/governance/voting)

@@ -10,6 +10,6 @@ Umee is a DAO itself, governed by UMEE token stakers. SubDAOs are being built wi
 
 ## Learn More
 
-[Learn how to create a governance proposal here.](/users/governance/creating-proposal)
+- [Learn how to create a governance proposal here.](/users/governance/creating-proposal)
 
-[Learn how to vote on a governance proposal here.](/users/governance/voting)
+- [Learn how to vote on a governance proposal here.](/users/governance/voting)
