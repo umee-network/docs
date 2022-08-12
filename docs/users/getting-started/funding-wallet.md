@@ -2,9 +2,9 @@
 
 ![](/bg/funding-a-wallet.png)
 
-#### A [native UMEE token](/overview/umee-token.html#token-format) balance is required in order to transact on the Umee blockchain. The UMEE token is supported on several centralized exchanges including OKX, MEXC, Gate.io, and FTX.
+#### A [native UMEE token](/overview/umee-token/token-format) balance is required in order to transact on the Umee blockchain. The UMEE token is supported on several centralized exchanges including OKX, MEXC, Gate.io, and FTX.
 
-> [Confirm your UMEE tokens are in their native format before funding your wallet](/overview/umee-token.html#token-format).
+> [Confirm your UMEE tokens are in their native format before funding your wallet](/overview/umee-token/token-format).
 
 > If your exchange of choice doesn't support the native UMEE token, skip to the ["Withdrawing Native ATOM" guide](/users/getting-started/funding-wallet.html#withdrawing-native-atom).
 

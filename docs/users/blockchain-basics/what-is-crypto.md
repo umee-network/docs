@@ -56,13 +56,13 @@ While many popular centralized payment services like bank transfers, Venmo, Cash
 
 > If [blockchain technology](/users/blockchain-basics/what-is-blockchain) is thought of as an accounting system, crypto can be thought of as the units of account used in the system. Crypto allows anyone with an internet connection to experience the benefits provided by blockchain technology.
 
-## What Are the Types of Cryptos?
+## Types of Crypto
 
 ### Native Cryptocurrencies
 
 Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies are simply digital units of account intended to be used as traditional currencies are used: as a medium of transfer and/or a store of value.&#x20;
 
-*[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token)*
+*[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token/token-utility)*
 
 ### Stablecoins
 
@@ -161,7 +161,7 @@ Utility tokens are tokens that are used to access a specific web3 product or ser
 
 In real life people typically buy general admission tickets that are exchanged for access to all sorts of organized events. In video games players often have the ability to earn or purchase in-game "currencies" that can be used to acquire in game items or experiences. In crypto people must earn or purchase utility tokens to transact on a specific network or use a unique application.
 
-*[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token)*
+*[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token/token-utility)*
 
 ### Governance Tokens
 
@@ -171,7 +171,7 @@ Big tech companies are often critiqued for exploiting their users in an effort t
 
 Governance tokens are typically distributed amongst users, contributors, and investors in order to better align the decision making process with the interests of all stakeholders.&#x20;
 
-*[The native UMEE token is a governance token used to govern the Umee protocol.](/overview/umee-token)*
+*[The native UMEE token is a governance token used to govern the Umee protocol.](/overview/umee-token/token-utility)*
 
 *[Learn how to use UMEE tokens to vote on a governance proposal here.](/users/governance/voting)*
 
