@@ -20,10 +20,12 @@ sudo apt update
 sudo apt upgrade
 
 # Install git, gcc and make
-sudo apt install git build-essential ufw curl jq snapd --yes
+sudo apt install git build-essential ufw curl jq --yes
 
-# Install Go with Snap
-sudo snap install go --classic
+# Install Go
+wget -OL https://go.dev/dl/go1.18.5.linux-amd64.tar.gz
+rm -rf /usr/local/go
+sudo tar -C /usr/local -xvf go1.18.5.linux-amd64.tar.gz
 
 # Export environment variables
 
@@ -109,6 +111,7 @@ mkdir -p ~/.umee/cosmovisor/genesis
 mkdir -p ~/.umee/cosmovisor/genesis/bin
 mkdir -p ~/.umee/cosmovisor/upgrades
 
+make build
 cp ~/umee/build/umeed ~/.umee/cosmovisor/genesis/bin 
 
 ```
@@ -116,7 +119,6 @@ cp ~/umee/build/umeed ~/.umee/cosmovisor/genesis/bin
 9\. Set Up ENV Variables&#x20;
 
 ```
-echo "# Setup Cosmovisor" >> ~/.profile
 echo 'export DAEMON_NAME="umeed"' >> ~/.profile
 echo "export DAEMON_HOME='$HOME/.umee'" >> ~/.profile
 echo "export DAEMON_RESTART_AFTER_UPGRADE='true'" >> ~/.profile
