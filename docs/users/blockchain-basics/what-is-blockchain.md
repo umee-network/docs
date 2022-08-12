@@ -34,7 +34,7 @@ Blockchains utilize a **trustless** system, meaning that users do not need to kn
 
 ::: tab Accessible
 
-### 
+### Accessible
 
 ****
 

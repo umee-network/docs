@@ -37,9 +37,9 @@ module.exports = {
           collapsible: true,
           children: [
             "/users/blockchain-basics/what-is-blockchain",
-            "/users/blockchain-basics/what-is-cosmos",
             "/users/blockchain-basics/what-is-crypto",
             "/users/blockchain-basics/what-is-wallet",
+            "/users/blockchain-basics/what-is-cosmos",
             "/users/blockchain-basics/what-is-staking",
             "/users/blockchain-basics/what-is-defi",
             "/users/blockchain-basics/what-is-dao",
