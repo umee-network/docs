@@ -77,8 +77,22 @@ module.exports = {
       ],
       "/overview/": [
         {
-          title: "Overview",
-          children: ["/overview/", "umee-token"],
+          text: "Umee Overview",
+          collapsible: true,
+          children: [
+            "/overview/umee-overview/what-is-umee",
+            "/overview/umee-overview/why-umee",
+            "/overview/umee-overview/security-audits",
+          ],
+        },
+        {
+          text: "UMEE Token",
+          collapsible: true,
+          children: [
+            "/overview/umee-token/token-utility",
+            "/overview/umee-token/token-format",
+            "/overview/umee-token/tokenomics",
+          ],
         },
       ],
       "/validators/": [
