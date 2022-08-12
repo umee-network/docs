@@ -16,6 +16,8 @@ Blockchain is considered one of the most disruptive technologies because its dec
 
 ### Decentralized
 
+****
+
 Blockchains run on **decentralized** networks, meaning that transactions on each block are recorded across many computers world wide to ensure that the data cannot be altered. If the data were to be altered it would retroactively alter all subsequent blocks through a cryptographic function called "_hashing_" which would be impossible to implement in the current world.
 
 :::
@@ -24,13 +26,17 @@ Blockchains run on **decentralized** networks, meaning that transactions on each
 
 ### Trustless
 
+****
+
 Blockchains utilize a **trustless** system, meaning that users do not need to know or trust each other or a third party for the source of truth in order for the system to function. In a trustless system, no single entity has authority over the system.
 
 :::
 
 ::: tab Accessible
 
-### Accessible
+### 
+
+****
 
 Blockchains allow anyone with an internet connection to **access** markets and applications without any identification barriers that some may face with centralized financial institutions. This makes it much easier for two parties to transact without the need for a trusted third party like a bank.
 
@@ -40,6 +46,8 @@ Blockchains allow anyone with an internet connection to **access** markets and a
 
 ### Transparent
 
+****
+
 The **transparency** provided by blockchains benefits both regulators and companies; it simplifies and improves auditing processes for enterprises and provides permanent records of all transactions. Anybody can gain access to all transactional data from a blockchain.
 
 :::
@@ -47,6 +55,8 @@ The **transparency** provided by blockchains benefits both regulators and compan
 ::: tab Self-Sovereign
 
 ### Self-Sovereign
+
+****
 
 Lastly, **self-sovereignty** is a distinct property in crypto. Crypto users maintain full ownership and control over things that belong to them, be it data, money, or access to services. In the traditional world, we are used to giving control to third party softwares to store and access our data, and we rely on third party intermediaries such as banks to facilitate transactions.&#x20;
 

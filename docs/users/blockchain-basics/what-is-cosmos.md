@@ -1,6 +1,6 @@
 # What is Cosmos?
 
-![](/bg/what-is-cosmos.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9XFAchzju9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Cosmos is an ecosystem of interoperable and sovereign [blockchains](/users/blockchain-basics/what-is-blockchain) commonly referred to as "The Internet of Blockchains."
 
