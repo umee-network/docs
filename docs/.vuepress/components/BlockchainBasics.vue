@@ -32,14 +32,8 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Cosmos",
-          text: "What is the Cosmos ecosystem?",
-          link: "/users/blockchain-basics/what-is-cosmos",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "Cryptocurrency",
-          text: "What is cryptocurrency?",
+          title: "Crypto",
+          text: "What is crypto?",
           link: "/users/blockchain-basics/what-is-crypto",
         },
         {
@@ -47,6 +41,12 @@ export default {
           title: "Wallets",
           text: "What is a crypto wallet?",
           link: "/users/blockchain-basics/what-is-wallet",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Cosmos",
+          text: "What is the Cosmos ecosystem?",
+          link: "/users/blockchain-basics/what-is-cosmos",
         },
         {
           img: "/img/docs-users-icon.png",
