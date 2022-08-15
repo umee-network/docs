@@ -32,6 +32,12 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
+          title: "Umee's Gravity Bridge",
+          text: "Learn how Umee's Gravity Bridge works",
+          link: "/overview/umee-gravity-bridge",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "The UMEE Token",
           text: "Learn about the token that powers Umee's ecosystem",
           link: "/overview/umee-token",
