@@ -1,6 +1,6 @@
 # Security & Audits
 
-![](/bg/security.jpg)
+![](/bg/security.png)
 
 There are certain industry standards in place to help protect users, including the extensive auditing of code to find any potential weaknesses before a product is launched and any real money is at stake. Security is a priority for Umee, which is why Umee has contracted several top auditors to inspect every line of code and flag any potential vulnerabilities before going live.
 
