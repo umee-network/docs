@@ -1,4 +1,6 @@
-# Frequently Asked Questions
+# FAQ
+
+****
 
 <details><summary>How does the Umee Gravity Bridge support itself economically?</summary>
 

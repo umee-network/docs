@@ -1,5 +1,7 @@
 # Peggo
 
+## What is Peggo?
+
 Simply put, Gravity Bridge would not be able to operate effectively without the help of Peggo. This is due to the fact that The Gravity Bridge needs an orchestrator (Peggo), to relay events from one chain to the other. The easiest way to understand Peggo is to imagine it as a Go (programming language) implementation of Gravity Bridge. Peggo watches for events that occur on both the Ethereum and Cosmos blockchains. When Peggo notices an event on either blockchain, it notifies the corresponding blockchain accordingly.
 
 > An orchestrator is a program that runs on every validator in order to assist the Gravity Bridge module. Orchestrators help the Cosmos code perform tasks such as sign messages or transactions using a validator’s unique key. 
