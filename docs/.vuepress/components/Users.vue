@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Users</h1>
+    <h1>User Guides</h1>
     <p>Supply and borrow funds for ultimate DeFi composability using Umee money markets.</p>
     <div class="row two-columns">
       <menu-card

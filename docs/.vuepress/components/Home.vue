@@ -69,7 +69,7 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Users",
+          title: "User Guides",
           text: "View user guides and tutorials to better understand Umee.",
           link: "/users",
         },
