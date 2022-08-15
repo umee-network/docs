@@ -86,6 +86,16 @@ module.exports = {
           ],
         },
         {
+          text: "Umee's Gravity Bridge",
+          collapsible: true,
+          children: [
+            "/overview/umee-gravity-bridge/gravity-bridge-overview",
+            "/overview/umee-gravity-bridge/peggo",
+            "/overview/umee-gravity-bridge/umee-relayers",
+            "/overview/umee-gravity-bridge/faq",
+          ],
+        },
+        {
           text: "UMEE Token",
           collapsible: true,
           children: [
