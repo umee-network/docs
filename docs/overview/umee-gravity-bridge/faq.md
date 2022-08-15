@@ -24,7 +24,7 @@ Umee’s Gravity Bridge is completely decentralized and is operated by the Umee 
 
 <br>
 
-<details><summary>What costs will users of the bridge experience?<summary>
+<details><summary>What costs will users of the bridge experience?</summary>
 
 Costs on the Gravity Bridge are as minimal as they can get. Transactions going from Umee to Ethereum are grouped in batches of up to 100 transactions, meaning they share the costs. Going from Ethereum to Umee they only pay for the cost of executing sendToCosmos. In both cases cost is highly tied to the price of Ethereum.
 
@@ -32,7 +32,7 @@ Costs on the Gravity Bridge are as minimal as they can get. Transactions going f
 
 <br>
 
-<details><summary>How are the Gravity Bridge and any related components be secured?<summary>
+<details><summary>How are the Gravity Bridge and any related components be secured?</summary>
 
 The Gravity contract is basically a multisig wallet that’s managed by Umee’s validator set. The Gravity Bridge design benefits from its simplicity and less dependencies.
 
