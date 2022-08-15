@@ -33,19 +33,6 @@ module.exports = {
           ],
         },
         {
-          text: "Blockchain Basics",
-          collapsible: true,
-          children: [
-            "/users/blockchain-basics/what-is-blockchain",
-            "/users/blockchain-basics/what-is-crypto",
-            "/users/blockchain-basics/what-is-wallet",
-            "/users/blockchain-basics/what-is-cosmos",
-            "/users/blockchain-basics/what-is-staking",
-            "/users/blockchain-basics/what-is-defi",
-            "/users/blockchain-basics/what-is-dao",
-          ],
-        },
-        {
           text: "Staking Umee",
           collapsible: true,
           children: [
@@ -102,6 +89,52 @@ module.exports = {
             "/overview/umee-token/token-utility",
             "/overview/umee-token/token-format",
             "/overview/umee-token/tokenomics",
+          ],
+        },
+      ],
+      "/learn-the-basics/": [
+        {
+          text: "Blockchain Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/blockchain-basics/what-is-blockchain",
+            "/learn-the-basics/blockchain-basics/types-of-blockchains",
+          ],
+        },
+        {
+          text: "Crypto Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/crypto-basics/what-is-crypto",
+            "/learn-the-basics/crypto-basics/why-does-crypto-exist",
+            "/learn-the-basics/crypto-basics/types-of-crypto",
+            "/learn-the-basics/crypto-basics/what-is-a-wallet",
+            "/learn-the-basics/crypto-basics/crypto-safety",
+          ],
+        },
+        {
+          text: "Staking Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/staking-basics/what-is-staking",
+            "/learn-the-basics/staking-basics/what-is-validator",
+          ],
+        },
+        {
+          text: "Cosmos Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/cosmos-basics/what-is-cosmos",
+            "/learn-the-basics/cosmos-basics/cosmos-advantages",
+          ],
+        },
+        {
+          text: "DeFi Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/defi-basics/what-is-defi",
+            "/learn-the-basics/defi-basics/what-is-dex",
+            "/learn-the-basics/defi-basics/what-is-defi-money-market",
           ],
         },
       ],

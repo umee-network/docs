@@ -32,12 +32,6 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Blockchain Basics",
-          text: "Get started with blockchains and web3",
-          link: "/users/blockchain-basics",
-        },
-        {
-          img: "/img/docs-users-icon.png",
           title: "Staking Umee",
           text: "Stake Umee to help secure the network and earn rewards",
           link: "/users/staking-umee",

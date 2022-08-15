@@ -1,70 +1,12 @@
-# What is Crypto?
+# Types of Crypto
 
-![](/bg/what-is-crypto.png)
-
-Crypto is an entirely new asset class that is completely digital. 
-
-#### There are many different types of crypto-assets that all share a few common traits:
-
-- Crypto-assets are native to the internet.
-- Crypto-assets use [blockchain technology](/users/blockchain-basics/what-is-blockchain) to record transactions in a decentralized and trustless manner.
-- Crypto users have total control over their assets and do not need to rely on any intermediaries like banks to transact with one another. It's like exchanging physical cash without the hassle of... exchanging physical cash.
-
-## Advantages of Crypto
-
-While many popular centralized payment services like bank transfers, Venmo, Cash App, and PayPal allow users to exchange funds, they are not permissionless, censorship resistant, or convenient for all users.&#x20;
-
-:::: tabs
-
-::: tab Permissionless
-
-### Permissionless
-
-****
-
-**With centralized services** users must be granted permission in order to use them. Sign ups require a "KYC" process in which users typically provide a government issued ID and personal information in order to be approved. If the services want to, or are ordered to, they have the ability to block transactions or freeze accounts at any time.
-
-**With crypto** users are able to transact with one another freely. No centralized intermediary can prevent the transfer of funds or freeze a user's account.
-
-:::
-
-::: tab Censorship Resistant
-
-### Censorship Resistant
-
-****
-
-**With centralized services** many people may are unable access basic financial tools due to things like their physical location or background.
-
-**With crypto**, anyone with an internet connection can access a decentralized network and transact as they'd like.
-
-:::
-
-::: tab Convenient
-
-### Convenient
-
-****
-
-**With centralized services** transactions are often slow and expensive for users.
-
-**With crypto,** funds can be transferred instantly with near zero transaction costs for users.
-
-:::
-
-::::
-
-> If [blockchain technology](/users/blockchain-basics/what-is-blockchain) is thought of as an accounting system, crypto can be thought of as the units of account used in the system. Crypto allows anyone with an internet connection to experience the benefits provided by blockchain technology.
-
-## Types of Crypto
-
-### Native Cryptocurrencies
+## Cryptocurrencies
 
 Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies are simply digital units of account intended to be used as traditional currencies are used: as a medium of transfer and/or a store of value.&#x20;
 
 *[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token/token-utility)*
 
-### Stablecoins
+## Stablecoins
 
 Stablecoins are a form of crypto-asset that are intended to allow users to enjoy the benefits of crypto and web3 without having to deal with the volatility commonly associated with other cryptos. Stablecoins achieve their price stability by being pegged to or backed by a commodity or fiat currency, or by using algorithmic economics to regulate supply and demand. Many popular stablecoins are pegged to the US dollar, meaning that in theory they can always be redeemed by a user for $1 or $1 worth of another asset.
 
@@ -74,7 +16,9 @@ Stablecoins are a form of crypto-asset that are intended to allow users to enjoy
 
 ::: tab Fiat-Backed
 
-#### Fiat-Backed Stablecoins
+### Fiat-Backed Stablecoins
+
+****
 
 Fiat-backed stablecoins aim to hold their pegs by maintaining reserves in fiat currencies. These stablecoins are commonly pegged to the US dollar due to its strength relative to other currencies.
 
@@ -94,7 +38,9 @@ _USDT, USDC, BUSD, TUSD, GUSD_
 
 ::: tab Crypto-Backed
 
-#### Crypto-Backed Stablecoins
+### Crypto-Backed Stablecoins
+
+****
 
 Crypto-backed stablecoins are exactly what they sound like; stablecoins backed by other cryptocurrencies. Crypto-backed stablecoins typically require users to deposit crypto assets of greater value, and require users to be over-collateralized in order to maintain a $1 peg.
 
@@ -114,7 +60,9 @@ _DAI, MIM_
 
 ::: tab Commodity-Backed
 
-#### Commodity-Backed Stablecoins
+### Commodity-Backed Stablecoins
+
+****
 
 Commodity-backed stablecoins are similar to fiat-backed stablecoins, except they are pegged to a commodity rather than a fiat currency, and thus issuers maintain reserves of commodities. Since commodities fluctuate in value, commodity-backed stablecoins also fluctuate.
 
@@ -133,7 +81,9 @@ _PAXG, XAUT_
 :::
 ::: tab Algorithmic
 
-#### Algorithmic Stablecoins
+### Algorithmic Stablecoins
+
+****
 
 Algorithmic stablecoins are unbacked or partially backed by other crypto-assets. They use algorithms to maintain their peg, which often involve the minting and burning of tokens based on the demand and value of the circulating stablecoin driven by economic incentives determined by their on-chain algorithms.
 
@@ -155,7 +105,7 @@ _FEI, UST, AMPL_
 
 *[Use this guide to learn how to lend stablecoins on Umee.](/users/using-the-web-app/supply-withdraw)*
 
-### Utility Tokens
+## Utility Tokens
 
 Utility tokens are tokens that are used to access a specific web3 product or service.
 
@@ -163,7 +113,7 @@ In real life people typically buy general admission tickets that are exchanged f
 
 *[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token/token-utility)*
 
-### Governance Tokens
+## Governance Tokens
 
 Governance tokens represent control over of a network or application. Governance tokens allow networks and applications to widely distribute decision-making capabilities to their communities.&#x20;
 
