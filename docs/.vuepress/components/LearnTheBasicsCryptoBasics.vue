@@ -32,12 +32,6 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Why Does Crypto Exist?",
-          text: "Learn about the problems crypto is solving",
-          link: "/learn-the-basics/crypto-basics/why-does-crypto-exist",
-        },
-        {
-          img: "/img/docs-users-icon.png",
           title: "Types of Crypto",
           text: "Learn about the different types of crypto",
           link: "/learn-the-basics/crypto-basics/types-of-crypto",

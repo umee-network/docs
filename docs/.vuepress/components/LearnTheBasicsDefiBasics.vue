@@ -42,6 +42,12 @@ export default {
           text: "Learn about decentralized money markets",
           link: "/learn-the-basics/defi-basics/what-is-defi-money-market",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "What is Liquidity Mining?",
+          text: "Learn all about liquidity mining",
+          link: "/learn-the-basics/defi-basics/what-is-liquidity-mining",
+        },
       ],
     };
   },

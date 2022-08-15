@@ -34,7 +34,7 @@ Through the use of smart contracts, on-chain money markets can operate in an inh
 
 :::
 
-::: Crypto Collateral
+::: tab Crypto Collateral
 
 ### Crypto Collateral
 
@@ -44,7 +44,7 @@ Decentralized money markets allow users to put up crypto as collateral. This ena
 
 :::
 
-::: Open Composability
+::: tab Open Composability
 
 ### Open Composability
 

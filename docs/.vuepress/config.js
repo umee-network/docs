@@ -106,7 +106,6 @@ module.exports = {
           collapsible: true,
           children: [
             "/learn-the-basics/crypto-basics/what-is-crypto",
-            "/learn-the-basics/crypto-basics/why-does-crypto-exist",
             "/learn-the-basics/crypto-basics/types-of-crypto",
             "/learn-the-basics/crypto-basics/what-is-a-wallet",
             "/learn-the-basics/crypto-basics/crypto-safety",
@@ -135,6 +134,7 @@ module.exports = {
             "/learn-the-basics/defi-basics/what-is-defi",
             "/learn-the-basics/defi-basics/what-is-dex",
             "/learn-the-basics/defi-basics/what-is-defi-money-market",
+            "/learn-the-basics/defi-basics/what-is-liquidity-mining",
           ],
         },
       ],
