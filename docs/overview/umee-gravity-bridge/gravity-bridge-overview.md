@@ -1,5 +1,7 @@
 # Gravity bridge
 
+## What is Gravity Bridge?
+
 Umee’s Gravity Bridge is a chain-specific bridge optimized for transfers between Ethereum and the Umee blockchain, with plans to integrate an Omni-EVM feature (includes the ability to transfer to and from multiple EVMs) in the future. The advantages Umee’s gravity bridge affords over generalized bridges is security and capital efficiency. The bridge’s multisig which signs off on state changes (account balances) for cross chain transactions is controlled by Umee’s 100 decentralized and permissionless validators, greatly enhancing security and minimizing trust assumptions. In this documentation we dive further into the economics of Gravity Bridge and Peggo, which is an orchestrator for the Gravity Bridge that assists relayers in cross-chain messaging. 
 
 ## Functions
