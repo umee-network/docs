@@ -12,4 +12,3 @@ There are certain industry standards in place to help protect users, including t
 | Halborn              | [Umee Oracle & Price Feeded Security Audit](https://github.com/umee-network/docs/blob/main/docs/.vuepress/public/audits/Umee_Oracle_Price_Feeder_Cosmos_Security_Audit_Report_Halborn_Final.pdf)  | June 3, 2022     |
 | Least Authority      | [Peggo Orchestrator Final Audit Report](https://github.com/umee-network/docs/blob/main/docs/.vuepress/public/audits/Least%20Authority%20-%20Umee_Peggo%20Orchestrator_Final%20Audit%20Report.pdf) | June 6, 2022     |
 | Runtime Verification | [Umee Leverage Module Audit Report](https://github.com/umee-network/docs/blob/main/docs/.vuepress/public/audits/Umee%20Leverage%20Module%20Audit%20Report_RV%20Inc..pdf)                          | June 9, 2022     |
-

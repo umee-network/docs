@@ -62,8 +62,14 @@ export default {
           link: "/overview",
         },
         {
+          img: "/img/docs-overview-icon.png",
+          title: "Learn the Basics",
+          text: "Introduction to basic crypto concepts.",
+          link: "/learn-the-basics",
+        },
+        {
           img: "/img/docs-users-icon.png",
-          title: "Users",
+          title: "User Guides",
           text: "View user guides and tutorials to better understand Umee.",
           link: "/users",
         },
