@@ -1,8 +1,10 @@
-# Frequently Asked Questions
+# FAQ
+
+****
 
 <details><summary>How does the Umee Gravity Bridge support itself economically?</summary>
 
-_Each relayer gets a reward when they successfully relay transactions across blockchains. They estimate if the batch or a relaying transaction is going to be profitable by comparing Ethereum’s fees and the batch’s reward (fees paid by users)._
+Each relayer gets a reward when they successfully relay transactions across blockchains. They estimate if the batch or a relaying transaction is going to be profitable by comparing Ethereum’s fees and the batch’s reward (fees paid by users). 
 
 </details>
 

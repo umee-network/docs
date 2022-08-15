@@ -1,4 +1,4 @@
-# Gravity bridge
+# Gravity Bridge
 
 ## What is Gravity Bridge?
 
