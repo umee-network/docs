@@ -27,19 +27,19 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Creating a Wallet",
-          text: "Learn how to create a wallet to use with Umee",
+          text: "Learn how to create an interchain wallet",
           link: "/users/getting-started/creating-wallet",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Using a Wallet",
-          text: "Learn how to use an existing wallet",
+          text: "Learn how to use an interchain wallet",
           link: "/users/getting-started/using-wallet",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Funding a Wallet",
-          text: "Learn how to fund an existing wallet",
+          text: "Learn how to fund an interchain wallet",
           link: "/users/getting-started/funding-wallet",
         },
       ],

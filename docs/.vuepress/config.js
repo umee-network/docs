@@ -124,7 +124,8 @@ module.exports = {
           collapsible: true,
           children: [
             "/learn-the-basics/cosmos-basics/what-is-cosmos",
-            "/learn-the-basics/cosmos-basics/cosmos-advantages",
+            "/learn-the-basics/cosmos-basics/what-is-ibc",
+            "/learn-the-basics/cosmos-basics/what-is-interchain-security"
           ],
         },
         {

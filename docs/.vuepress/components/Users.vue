@@ -27,7 +27,7 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Getting started",
-          text: "Learn the basics on how to use Umee",
+          text: "Learn how to set up and fund an interchain wallet",
           link: "/users/getting-started",
         },
         {
@@ -39,7 +39,7 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Using the Web App",
-          text: "Use the web app for easy access to DeFi",
+          text: "Start lending and borrowing with Umee's web app",
           link: "/users/using-the-web-app",
         },
         {

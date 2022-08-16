@@ -32,9 +32,15 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Advantages of Cosmos",
-          text: "Learn what makes Cosmos unique",
-          link: "/learn-the-basics/cosmos-basics/cosmos-advantages",
+          title: "What is IBC?",
+          text: "Learn about the inter-blockchain communication protocol",
+          link: "/learn-the-basics/cosmos-basics/what-is-ibc",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "What is interchain security?",
+          text: "Learn about interchain security",
+          link: "/learn-the-basics/cosmos-basics/what-is-interchain-security",
         },
       ],
     };
