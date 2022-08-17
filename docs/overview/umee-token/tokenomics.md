@@ -2,6 +2,8 @@
 
 **UMEE is the Umee blockchain’s native token. The main purpose of the UMEE token is to power the PoS consensus of the Umee blockchain while allowing the community to use and govern Umee and the applications built on top.**
 
+<br>
+
 ## Supply
 
 There is a total supply of **10 billion** UMEE tokens, uncapped, with an inflation and deflation mechanism in place to align the UMEE token distribution with long term Umee supporters over time.
@@ -33,6 +35,8 @@ In the future community governance can also make decisions related to the usage 
 :::
 
 ::::
+
+<br>
 
 ## Distribution & Release Schedule
 

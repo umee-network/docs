@@ -64,11 +64,15 @@ _Existing DeFi markets are driven almost entirely by speculation. Yields don’t
 
 <details><summary>Lack of Capital-Efficient Debt Financing Tools</summary>
 
+_There is a lack of understanding of what the base rate (risk-free rate) should be and thus a lack of effective financing tools based on a term structure that uses credit-worthiness and duration to determine rates._
+
 </details>
 
 :::
 
 ::::
+
+<br>
 
 ## Why Umee?
 

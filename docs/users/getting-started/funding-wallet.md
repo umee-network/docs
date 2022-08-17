@@ -4,11 +4,13 @@
 
 #### A [native UMEE token](/overview/umee-token/token-format) balance is required in order to transact on the Umee blockchain. The UMEE token is supported on several centralized exchanges including OKX, MEXC, Gate.io, and FTX.
 
+<br>
+
+## Withdrawing Native UMEE 
+
 > [Confirm your UMEE tokens are in their native format before funding your wallet](/overview/umee-token/token-format).
 
 > If your exchange of choice doesn't support the native UMEE token, skip to the ["Withdrawing Native ATOM" guide](/users/getting-started/funding-wallet.html#withdrawing-native-atom).
-
-## Withdrawing Native UMEE 
 
 #### 1) Select the withdraw option for the UMEE token on your centralized exchange of choice.
 
@@ -19,6 +21,8 @@
 #### 3) Select "Withdraw," paste your Umee wallet address in the "withdraw to" section, and wait for the transaction to process. Your UMEE will appear on the Umee network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) shortly.
 
 > Please note that withdrawing from a CEX may take longer than normal transactions on the Umee network. Don't panic if your tokens do not appear instantly. Purchase ATOM from your CEX of choice.
+
+<br>
 
 ## Withdrawing Native ATOM
 
@@ -58,6 +62,8 @@
 :::
 
 ::::
+
+<br>
 
 ## Trading Cosmos Assets on a Decentralized Exchange
 

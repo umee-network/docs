@@ -8,6 +8,8 @@ Staking is the safest and easiest way for crypto users to earn more crypto while
 
 When a user [stakes their tokens](/users/staking-umee/staking-umee) on a blockchain like Umee they’re delegating them to a validator and therefore contributing to the validator’s total stake. When validators earn block rewards, the block rewards are redistributed to the users who have delegated to them in proportion to the amount they have delegated.
 
+<br>
+
 ## Advantages & Risks
 
 :::: tabs
@@ -39,6 +41,8 @@ The most severe offense a validator can commit on the Umee blockchain results in
 :::
 
 ::::
+
+<br>
 
 ## Learn More
 

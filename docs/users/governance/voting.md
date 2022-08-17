@@ -9,6 +9,8 @@ Active community governance is important in order to help Umee grow while remain
 > * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) set up and funded
 > * Must be actively [staking UMEE](/users/staking-umee/staking-umee)
 
+<br>
+
 ## Written Guide
 
 #### 1) Sign into your Keplr wallet and go to the Keplr dashboard.

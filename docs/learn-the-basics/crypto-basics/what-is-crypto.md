@@ -4,6 +4,8 @@
 
 Crypto is an entirely new asset class that is completely digital. While there are several different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto) that serve different purposes, crypto assets can generally be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain) to document transaction data in a decentralized manner. 
 
+<br>
+
 ## Advantages of Crypto
 
 :::: tabs

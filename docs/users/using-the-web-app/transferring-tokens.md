@@ -10,6 +10,8 @@ Umee supports lending and borrowing on the Umee and Ethereum networks, and plans
 
 > Use the "Umee --> Ethereum Transfers" guide to convert assets from their Cosmos format to their Ethereum format.
 
+<br>
+
 ## Cosmos Transfers
 
 If you have Cosmos assets like ATOM on a different network in your Umee blockchain compatible wallet, follow this guide to transfer them to Umee.
@@ -49,6 +51,8 @@ If you have Cosmos assets like ATOM on a different network in your Umee blockcha
 ![](/bg/ibc-4.png)
 
 #### After tokens have been transferred to Umee, users can [supply them on the Umee market](/users/using-the-web-app/supply-withdraw) to start earning lending interest.
+
+<br>
 
 ## Ethereum to Umee Transfers
 
@@ -94,6 +98,8 @@ If you are in possession of ERC-20 UMEE, or if you'd like to access native Ether
 ![](/bg/eth-to-umee-6.png)
 
 > Transfers between Umee and Ethereum may take significantly longer than Cosmos transfers to process.
+
+<br>
 
 ## Umee to Ethereum Transfers
 

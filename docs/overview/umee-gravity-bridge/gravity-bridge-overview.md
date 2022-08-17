@@ -4,9 +4,13 @@
 
 Umee’s Gravity Bridge is a chain-specific bridge optimized for transfers between Ethereum and the Umee blockchain, with plans to integrate an Omni-EVM feature (includes the ability to transfer to and from multiple EVMs) in the future. The advantages Umee’s gravity bridge affords over generalized bridges is security and capital efficiency. The bridge’s multisig which signs off on state changes (account balances) for cross chain transactions is controlled by Umee’s 100 decentralized and permissionless validators, greatly enhancing security and minimizing trust assumptions. In this documentation we dive further into the economics of Gravity Bridge and Peggo, which is an orchestrator for the Gravity Bridge that assists relayers in cross-chain messaging. 
 
+<br>
+
 ## Functions
 
 The main function of Gravity Bridge is to securely transfer ERC-20 assets to Cosmos, and vice versa. The key stakeholders of Gravity Bridge are the users, relayers, and validators. Validators are the same actors that secure the Umee blockchain. In order for validators to relay transactions, they must run a software on their nodes called Peggo, which is the orchestrator that allows them to validate events (changes in account balances) occurring on both Ethereum and Cosmos. All of Umee’s 100 validators must sign-off on the multisig for Gravity Bridge via Peggo, making the bridge decentralized and robust in its security setup. 
+
+<br>
 
 ## Asset Transfer 
 
