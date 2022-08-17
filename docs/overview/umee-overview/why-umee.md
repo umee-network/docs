@@ -2,7 +2,7 @@
 
 ![](/bg/why-umee.png)
 
-## Issues With Existing Systems
+## Existing Issues
 
 :::: tabs
 
@@ -13,6 +13,8 @@
 ****
 
 #### Flaws in legacy debt markets include:
+
+<br>
 
 <details><summary>Guarded Systems</summary>
 
@@ -45,6 +47,8 @@ There is often a conflict of interest between clients who provide liquidity and 
 ****
 
 #### Flaws in DeFi markets include:
+
+<br>
 
 <details><summary>Short-Term Focus</summary>
 
@@ -89,6 +93,7 @@ Existing DeFi markets are driven almost entirely by speculation activities. Yiel
 - A term structure that uses time-to-maturity and credit-worthiness to determine rates;
 - The crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets. 
 
+<br>
 
 > Umee’s web3 architecture will enable decentralization, transparency, immutability, PoS-based interest rates, decentralized credit rating systems, and more.
 
@@ -108,6 +113,8 @@ Existing DeFi markets are driven almost entirely by speculation activities. Yiel
 - Scalability via Cosmos’ CosmWasm and shared security to allow Umee to accommodate the entire volume of global debt markets;
 - Interoperability and interchain accounts via IBC to remove the silos between ecosystems to enable maximum liquidity in a universal market;
 - Privacy via ZK based technologies to grant participants with full control over their information that is shared across the network, and accommodate sensitive transactions currently confined to centralized resources.
+
+:::
 
 ::: tab Transforming Global Finance
 
