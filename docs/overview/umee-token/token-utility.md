@@ -8,6 +8,8 @@ The Umee Blockchain is built on a network of validators that contribute Tendermi
 
 > [Learn how to stake UMEE tokens here](/users/staking-umee/staking-umee).
 
+<br>
+
 ## Network Fees
 
 Network fees will be earned in the form of UMEE tokens by validator infrastructure providers.
@@ -15,6 +17,8 @@ Network fees will be earned in the form of UMEE tokens by validator infrastructu
 > Similar to how ETH is used as a gas fee to pay for transactions on the Ethereum blockchain, UMEE is used as a gas fee to pay for transactions on the Umee Blockchain.
 
 Validators earn block rewards in the form of UMEE similar to how transaction fees are processed in native blockchain protocols.
+
+<br>
 
 ## Protocol Governance
 

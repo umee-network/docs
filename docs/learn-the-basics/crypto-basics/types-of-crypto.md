@@ -6,6 +6,8 @@ Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies 
 
 *[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token/token-utility)*
 
+<br>
+
 ## Stablecoins
 
 Stablecoins are a form of crypto-asset that are intended to allow users to enjoy the benefits of crypto and web3 without having to deal with the volatility commonly associated with other cryptos. Stablecoins achieve their price stability by being pegged to or backed by a commodity or fiat currency, or by using algorithmic economics to regulate supply and demand. Many popular stablecoins are pegged to the US dollar, meaning that in theory they can always be redeemed by a user for $1 or $1 worth of another asset.
@@ -105,6 +107,8 @@ _FEI, UST, AMPL_
 
 *[Use this guide to learn how to lend stablecoins on Umee.](/users/using-the-web-app/supply-withdraw)*
 
+<br>
+
 ## Utility Tokens
 
 Utility tokens are tokens that are used to access a specific web3 product or service.
@@ -112,6 +116,8 @@ Utility tokens are tokens that are used to access a specific web3 product or ser
 In real life people typically buy general admission tickets that are exchanged for access to all sorts of organized events. In video games players often have the ability to earn or purchase in-game "currencies" that can be used to acquire in game items or experiences. In crypto people must earn or purchase utility tokens to transact on a specific network or use a unique application.
 
 *[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token/token-utility)*
+
+<br>
 
 ## Governance Tokens
 

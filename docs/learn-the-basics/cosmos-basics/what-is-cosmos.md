@@ -8,6 +8,8 @@ Contrary to popular belief, Cosmos is not the name of one blockchain but of an e
 
 Cosmos provides the scalability, interoperability, and sovereignty needed for blockchains to achieve mass adoption with minimal environmental impact. Cosmos does this by providing developer-friendly open source tools like the Cosmos Software Development Kit ([Cosmos SDK](https://v1.cosmos.network/sdk)), the Inter-Blockchain Communication Protocol ([IBC](https://ibc.cosmos.network/)), and Ignite CLI to allow developers to easily launch a Cosmos Proof of Stake blockchain that is interoperable by default and can be optimized for a specific use case. 
 
+<br>
+
 ## Advantages of Cosmos
 
 :::: tabs

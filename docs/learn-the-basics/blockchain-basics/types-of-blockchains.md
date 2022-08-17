@@ -3,6 +3,8 @@
 ## Consensus Mechanisms
 The most common blockchains utilize **Proof of Stake** or **Proof of Work** consensus mechanisms. A consensus mechanism is a procedure network participants follow in order to verify that the state of the data being transmitted on the network is correct. [Blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) use consensus mechanisms to ensure that all network participants are in agreement on the data (transactions) being published on the decentralized public ledger. This is what enables [crypto](/learn-the-basics/crypto-basics/what-is-crypto) users to seamlessly transact without the need for a centralized authority.
 
+<br>
+
 ## Proof of Stake
 
 > Umee is a Proof of Stake blockchain. Other well known Proof of Stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
@@ -54,6 +56,8 @@ There is typically a limit to the amount of validators that can participate in a
 :::
 
 ::::
+
+<br>
 
 ## Proof of Work
 

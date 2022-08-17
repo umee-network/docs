@@ -8,6 +8,8 @@ In exchange for the ability to borrow working capital from lenders, borrowers ar
 
 While traditional money markets have been a net positive for the global economy over the centuries by enabling businesses to expand and allowing citizens to save their money, the money markets of today are typically operated by a centralized institution, granting a significant amount of power and influence over user funds to a single entity. This design increases costs for borrowers/lenders and requires a high degree of trust in a single party.
 
+<br>
+
 ## What is a Decentralized Money Market?
 
 In response to the limitations seen in traditional money markets, developers are now utilizing blockchain-based smart contracts to create decentralized money markets that operate as code on a highly decentralized network of nodes worldwide. Instead of being controlled by a centralized institution, decentralized money markets like Umee are operated through on-chain programmatic code that is upgraded and managed by a global community of stakeholders, decentralizing control and reducing points of failure. Below represent a few of the primary advantages decentralized money markets bring to consumers.

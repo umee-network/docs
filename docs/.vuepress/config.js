@@ -73,6 +73,15 @@ module.exports = {
           ],
         },
         {
+          text: "Umee Governance",
+          collapsible: true,
+          children: [
+            "/overview/umee-governance/governance-overview",
+            "/overview/umee-governance/how-it-works",
+            "/overview/umee-governance/governance-proposals",
+          ],
+        },
+        {
           text: "Umee's Gravity Bridge",
           collapsible: true,
           children: [

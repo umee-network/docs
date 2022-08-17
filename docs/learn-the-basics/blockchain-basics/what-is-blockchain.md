@@ -6,6 +6,8 @@ In simple terms, a blockchain can be thought of as a system used to keep virtual
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
 
+<br>
+
 ## Characteristics of Blockchains
 
 :::: tabs

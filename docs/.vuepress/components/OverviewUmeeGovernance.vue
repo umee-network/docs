@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Overview</h1>
-    <p>Learn all about Umee's cross-chain DeFi capabilities.</p>
+    <h1>Umee Governance</h1>
+    <p></p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -26,27 +26,21 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee Overview",
-          text: "Learn what Umee is",
-          link: "/overview/umee-overview",
+          title: "Governance Overview",
+          text: "A brief introduction to Umee's governance",
+          link: "/overview/umee-governance/governance-overview",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee Governance",
-          text: "Learn about Umee's governance processes",
-          link: "/overview/umee-governance",
+          title: "How it Works",
+          text: "Learn how Umee's governance processes work",
+          link: "/overview/umee-governance/how-it-works",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee's Gravity Bridge",
-          text: "Learn how Umee's Gravity Bridge works",
-          link: "/overview/umee-gravity-bridge",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "The UMEE Token",
-          text: "Learn about the token that powers Umee's ecosystem",
-          link: "/overview/umee-token",
+          title: "Governance Proposals",
+          text: "Templates for on-chain governance proposals",
+          link: "/overview/umee-governance/governance-proposals",
         },
       ],
     };
