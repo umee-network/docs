@@ -69,6 +69,8 @@ Brief overview of the token and project. Express whether the proposal is just to
 
 ::::
 
+<br>
+
 ## Foundation Spend Proposal
 
 Foundation Spend Proposals are used to request funds from the community & ecosystem pools to be sent to a specific wallet address. How community pool and ecosystem pool funds are spent is entirely up to community governance decisions. 
@@ -80,6 +82,8 @@ Foundation Spend Proposals are used to request funds from the community & ecosys
 - _Grants to top contributors;_
 - _Strategically acquiring crypto assets to gain voting power in key protocols;_ 
 - _Burning mechanisms._
+
+<br>
 
 ## Parameter Change Proposal
 

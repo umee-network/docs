@@ -6,6 +6,8 @@ First, an idea should gain traction within the community and a proposal should b
 
 > Refer to the ["Creating a Proposal" user guide](/users/governance/creating-proposal) to learn the process for creating and submitting an on-chain governance proposal.
 
+<br>
+
 ## The Deposit Period
 
 The deposit period refers to the period of time where UMEE token deposits need to be made in order to demonstrate that the proposal is legitimate.
@@ -22,7 +24,7 @@ Anyone can contribute to the deposit, and deposits of both passed and failed pro
 
 ****
 
-If the deposit period ends before the minimum deposit of 10,000 UMEE is reached, the deposits will be burned. This helps prevent people from spamming governance proposals.
+If the deposit period ends before the minimum deposit of 100,000 UMEE is reached, the deposits will be burned. This helps prevent people from spamming governance proposals.
 
 :::
 
@@ -48,6 +50,8 @@ If more than 33% of the voting power votes “NoWithVeto,” deposits will be bu
 
 ::::
 
+<br>
+
 ## The Voting Period
 
 After the minimum deposit has been met for a proposal, the proposal enters the voting period. The voting period is a fixed **5 day period** where eligible community members can vote on the proposal. Votes can be cast in the following four ways:
@@ -58,6 +62,8 @@ After the minimum deposit has been met for a proposal, the proposal enters the v
 |    No   | The voter does not approve the proposal in its existing form.|
 |NoWithVeto| The voter strongly disagrees with the proposal and feels the deposits made should be burned. Community members should use “NoWithVeto” when they determine a proposal is spam, or harmful to the Umee Hub.|
 | Abstain | The voter has no preference on the outcome of the vote, but has still participated in the voting process.|
+
+<br>
 
 ## Requirements
 
