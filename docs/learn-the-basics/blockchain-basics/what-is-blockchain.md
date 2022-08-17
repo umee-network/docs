@@ -2,7 +2,7 @@
 
 ![](/bg/what-is-a-blockchain-info.png)
 
-In simple terms, a blockchain can be thought of as a system used to keep virtual records. While there are several different technologies capable of virtual record-keeping, blockchain technology is unique because it allows records to be kept in a way that is decentralized, trustless, accessible, and transparent. Blockchain systems are the backbone of [crypto](/learn-the-basics/crypto-basics/what-is-crypto) and web3.
+In simple terms, a blockchain can be thought of as a system used to keep virtual records. While digital record-keeping has been widely used for decades, blockchain technology is unique because it allows records to be kept in a way that is decentralized, trustless, accessible, and transparent. Blockchain systems are the backbone of [crypto](/learn-the-basics/crypto-basics/what-is-crypto) and web3.
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
 
@@ -18,7 +18,7 @@ Blockchain is considered one of the most disruptive technologies because its dec
 
 ****
 
-Unlike other virtual record-keeping tools, blockchains are not maintained by a single person or an individual organization. Most blockchains are maintained by large networks of participants who don’t know each other. Different blockchain consensus mechanisms are used to ensure that blockchain infrastructure providers are financially incentivized to keep a blockchain operational and secure (as decentralized as possible). By aligning the interests between infrastructure providers and users, blockchains are able to maintain decentralization.
+Unlike other virtual record-keeping tools, blockchains are not maintained by a single person or an individual organization. Most blockchains are maintained by large networks of participants with no centralized party to take charge or coordinate. Different [blockchain consensus mechanisms](/learn-the-basics/blockchain-basics/types-of-blockchains) are used to ensure that blockchain infrastructure providers are financially incentivized to follow a hard-coded rule and operate in the same (and only) way to keep a blockchain operational and securely decentralized. By aligning the interests between infrastructure providers and users, blockchains are able to maintain decentralization.
 
 The decentralized networks that blockchains run on help ensure that the data being added to the virtual record is accurate and cannot be changed. Data that is added to a blockchain is recorded by the entire network of participants in order to ensure it cannot be quietly manipulated or altered. Most of blockchain technology’s popularity can be attributed to its decentralized nature. Blockchain’s ability to maintain decentralization is what allows it to be trustless, accessible, and transparent while providing self sovereignty for users.
 
@@ -60,7 +60,7 @@ Since the data being added to a blockchain is recorded by all of the network’s
 
 ****
 
-Lastly, **self-sovereignty** is a distinct property in crypto. Crypto users maintain full ownership and control over things that belong to them, be it data, money, or access to services. In the traditional world, we are used to giving control to third party softwares to store and access our data, and we rely on third party intermediaries such as banks to facilitate transactions.&#x20;
+Lastly, **self-sovereignty** is a distinct property in crypto. Crypto users maintain full ownership and control over things that belong to them, be it data, money, or access to services. In the traditional world, we are used to giving control to third party softwares to store and access our data, and we rely on third party intermediaries such as banks to facilitate transactions.
 
 In crypto, the underlying blockchain technology gives full sovereignty to the individuals and each individual is able to perform activities in a peer to peer or peer to protocol fashion facilitated by algorithms and smart contract code instead of a centralized intermediary, hence the popular meme “_be your own bank_.”
 

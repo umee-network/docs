@@ -38,7 +38,7 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "What is interchain security?",
+          title: "What is Interchain Security?",
           text: "Learn about interchain security",
           link: "/learn-the-basics/cosmos-basics/what-is-interchain-security",
         },
