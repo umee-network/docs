@@ -2,17 +2,15 @@
 
 ## Cryptocurrencies
 
-Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies are simply digital units of account intended to be used as traditional currencies are used: as a medium of transfer and/or a store of value.&#x20;
+Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies are simply digital units of account intended to be used as traditional currencies are used: as a medium of transfer and/or a store of value.
 
-*[The native UMEE token is the Umee blockchain's native cryptocurrency.](/overview/umee-token/token-utility)*
+> Examples include BTC, ETH, and [UMEE](/overview/umee-token).
 
 <br>
 
 ## Stablecoins
 
-Stablecoins are a form of crypto-asset that are intended to allow users to enjoy the benefits of crypto and web3 without having to deal with the volatility commonly associated with other cryptos. Stablecoins achieve their price stability by being pegged to or backed by a commodity or fiat currency, or by using algorithmic economics to regulate supply and demand. Many popular stablecoins are pegged to the US dollar, meaning that in theory they can always be redeemed by a user for $1 or $1 worth of another asset.
-
-> Stablecoins can be classified based on their stability mechanism. The most common types of stablecoins are fiat-backed, commodity-backed, crypto-backed, and algorithmic.
+Stablecoins are a form of crypto-asset that are intended to allow users to enjoy the benefits of crypto and web3 without having to deal with the volatility commonly associated with other cryptos. Stablecoins achieve their price stability by being pegged to or backed by a commodity or fiat currency, or by using algorithmic economics to regulate supply and demand. Many popular stablecoins are pegged to the US dollar, meaning that in theory they can always be redeemed by a user for $1 or $1 worth of another asset. There are several different types of stablecoins that can be classified based on their stability mechanisms.
 
 :::: tabs
 
@@ -32,9 +30,9 @@ Fiat-backed stablecoins are a popular choice among DeFi users because they have 
 
 Centralized entities are needed to issue fiat-backed stablecoins and manage the reserves. This means that a fiat-backed stablecoin is only as good as the organization that issues it. These organizations may be targeted by authorities who wish to maintain full control over a currency, and/or be subject to banking regulations which other stablecoins may not be.
 
-##### Examples
+<br>
 
-_USDT, USDC, BUSD, TUSD, GUSD_
+> Examples include USDT, USDC, BUSD, TUSD, and GUSD.
 
 :::
 
@@ -54,9 +52,9 @@ Crypto-backed stablecoins offer levels of decentralization that fiat-backed stab
 
 Crypto-backed stablecoins are only as good as the underlying collateral that backs them and the protocol that issues them. If a protocol is unable to ensure that crypto-backed stablecoins are properly over-collateralized at all times, the crypto-backed stablecoins issued by the protocol may lose their peg. High levels of over-collateralization are typically needed in order for crypto-backed stablecoins to be issued in order to protect the peg during times of extreme market volatility.
 
-##### Examples
+<br>
 
-_DAI, MIM_
+> Examples include DAI and MIM.
 
 :::
 
@@ -76,9 +74,9 @@ Commodity-backed stablecoins allow users to gain exposure to key commodities whi
 
 Just like with fiat-backed stablecoins, centralized entities are typically needed to issue commodity-backed stablecoins and manage the reserves in order to ensure that one stablecoin can be redeemed for one unit of the commodity.
 
-##### Examples
+<br>
 
-_PAXG, XAUT_
+> Examples include PAXG and XAUT.
 
 :::
 ::: tab Algorithmic
@@ -97,38 +95,28 @@ Algorithmic stablecoins are decentralized and may not require significant levels
 
 Since algorithmic stablecoins are unbacked or partially backed, they are more susceptible to a de-peg than other types of stablecoins during market turmoil.
 
-##### Examples
+<br>
 
-_FEI, UST, AMPL_
+> Examples include FEI, UST, and AMPL.
 
 :::
 
 ::::
 
-*[Use this guide to learn how to lend stablecoins on Umee.](/users/using-the-web-app/supply-withdraw)*
-
 <br>
 
 ## Utility Tokens
 
-Utility tokens are tokens that are used to access a specific web3 product or service.
+Utility tokens are broadly defined as a type of crypto asset that serves a specific use case within a web3 application or blockchain ecosystem. Utility tokens derive value from their redeemability, similar to how gift cards, coupons, or tickets derive value in real life. Unlike gift cards, coupons, or tickets which are limited by various terms and conditions, utility tokens are fungible and can be freely lent, borrowed, or traded thanks to the accessibility and trustless nature of blockchains. 
 
-In real life people typically buy general admission tickets that are exchanged for access to all sorts of organized events. In video games players often have the ability to earn or purchase in-game "currencies" that can be used to acquire in game items or experiences. In crypto people must earn or purchase utility tokens to transact on a specific network or use a unique application.
-
-*[The native UMEE token is a utility token that is used to pay for transaction fees on the Umee blockchain.](/overview/umee-token/token-utility)*
+> Examples include LINK, BAT, and [UMEE](/overview/umee-token).
 
 <br>
 
 ## Governance Tokens
 
-Governance tokens represent control over of a network or application. Governance tokens allow networks and applications to widely distribute decision-making capabilities to their communities.&#x20;
+Governance tokens grant holders the ability to vote on issues related to the specific application or network they represent. Usually one token equals one vote, and a specific amount of governance tokens are required in order for an individual to submit a governance proposal to be voted on by other token holders. The focus of governance proposals varies widely, but generally governance proposals are made to determine how funds are allocated in order to influence the future of a project, or to alter various protocol parameters.
 
-Big tech companies are often critiqued for exploiting their users in an effort to earn more money for their investors. This is because users and investors are not well aligned since one directly profits off of the other.&#x20;
+Governance tokens are typically distributed amongst users, contributors, and investors in order to better align the decision making process with the interests of all stakeholders. Governance tokens leverage the benefits provided by blockchains to allow applications and networks to be governed in a more decentralized, transparent, and fair manner than traditional organizations.
 
-Governance tokens are typically distributed amongst users, contributors, and investors in order to better align the decision making process with the interests of all stakeholders.&#x20;
-
-*[The native UMEE token is a governance token used to govern the Umee protocol.](/overview/umee-token/token-utility)*
-
-*[Learn how to use UMEE tokens to vote on a governance proposal here.](/users/governance/voting)*
-
-*[Learn how to use UMEE tokens to create a governance proposal here.](/users/governance/creating-proposal)*
+> Examples include YFI, SNX, and [UMEE](/overview/umee-token).
