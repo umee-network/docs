@@ -62,7 +62,7 @@ One of the most common misconceptions about crypto is that it allows criminals t
 
 :::
 
-::: tab Concenience
+::: tab Convenience
 
 ### Convenience
 
