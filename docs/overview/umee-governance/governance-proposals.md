@@ -25,16 +25,34 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 ****
 
-**Title:** Listing Proposal: 'Add/Remove' Support for 'asset name'
+**Title:** Listing Proposal: 'Add/Remove' Support for 'Asset Name'
 
 <br>
 
 **References**
+
+<br>
+
 Link to project: 
+
+<br>
+
 Link to whitepaper: 
+
+<br>
+
 Link to documentation: 
+
+<br>
+
 Link to oracle: 
+
+<br>
+
 Links to audits: 
+
+<br>
+
 Community channels:
 
 <br>

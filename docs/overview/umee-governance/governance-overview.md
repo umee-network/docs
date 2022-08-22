@@ -1,8 +1,6 @@
-# Governance Overview
+# What is Umee Governance?
 
 ![](/bg/governance.png)
-
-## What is Umee Governance?
 
 Umee uses an on-chain governance structure where governance proposals are [voted on](/users/governance/voting) by community members who [stake UMEE](/users/staking-umee/staking-umee). When community members who stake their UMEE fail to vote before a deadline, their votes are inherited by the [validator](/learn-the-basics/staking-basics/what-is-validator) they have delegated their stake to. 
 

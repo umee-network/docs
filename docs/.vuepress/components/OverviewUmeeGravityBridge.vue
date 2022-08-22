@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Umee's Gravity Bridge</h1>
+    <h1>Gravity Bridge</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card

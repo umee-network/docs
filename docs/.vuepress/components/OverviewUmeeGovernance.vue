@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Umee Governance</h1>
+    <h1>Governance</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -26,7 +26,7 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Governance Overview",
+          title: "What is Umee Governance?",
           text: "A brief introduction to Umee's governance",
           link: "/overview/umee-governance/governance-overview",
         },

@@ -32,13 +32,13 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee Governance",
+          title: "Governance",
           text: "Learn about Umee's governance processes",
           link: "/overview/umee-governance",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee's Gravity Bridge",
+          title: "Gravity Bridge",
           text: "Learn how Umee's Gravity Bridge works",
           link: "/overview/umee-gravity-bridge",
         },
