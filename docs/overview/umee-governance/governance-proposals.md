@@ -10,7 +10,7 @@
 
 ****
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Adding more assets introduces more risk to the protocol, so it is important that anyone who wishes to propose a new asset on Umee has reviewed the asset risk documentation and is prepared to acknowledge:
+Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. It's important that anyone who wishes to propose a new asset on Umee has reviewed the asset risk documentation and is prepared to acknowledge:
 
 - _The increased risk of insolvency that comes along with listing a new asset;_ 
 - _Centralized asset risk;_
@@ -31,34 +31,29 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 **References**
 
-<br>
+- Link to project: 
 
-Link to project: 
+- Link to whitepaper: 
 
-<br>
+- Link to documentation: 
 
-Link to whitepaper: 
+- Link to tokenomics:
 
-<br>
+- Link to CoinGecko Page:
 
-Link to documentation: 
+- Links to exchanges (DEX & CEX): 
 
-<br>
+- Links to audits: 
 
-Link to oracle: 
-
-<br>
-
-Links to audits: 
-
-<br>
-
-Community channels:
+- Community channels:
 
 <br>
 
 **Summary**
-Brief overview of the token and project. Express whether the proposal is just to add borrow/lend support for the asset, or to also accept it as collateral.
+
+<br>
+
+Brief overview of the token and project. 
 
 <br>
 

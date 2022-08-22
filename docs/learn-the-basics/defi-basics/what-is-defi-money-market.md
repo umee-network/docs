@@ -22,7 +22,19 @@ In response to the limitations seen in traditional money markets, developers are
 
 ****
 
-Decentralized money markets operate in a non-custodial manner where the original users can only withdraw deposited funds from borrowers and lenders. Instead of a centralized institution deciding where and how funds are used, decentralized money markets like Umee follow the predefined logic of on-chain smart contracts, granting a large degree of assurance that funds cannot be improperly used and ensuring that users keep full control over when and how they can withdraw.
+Decentralized money markets operate in a non-custodial manner where users don’t need to trust a centralized institution to make wise decisions. Instead of a centralized institution deciding how funds are used, decentralized money markets like Umee follow the predefined logic of on-chain smart contracts, granting a large degree of assurance that funds cannot be improperly used and ensuring that users keep full control over when and how they can withdraw.
+
+:::
+
+::: tab Logical Rates
+
+### Logical Rates
+
+****
+
+By eliminating the middleman, decentralized money markets typically allow lenders to earn greater lending interest and borrowers to access more favorable borrowing rates when compared to traditional banks. Decentralized money markets usually use floating rates based on supply and demand. 
+
+As the utilization rate (percentage of pool that has been borrowed) of an asset increases above a predetermined threshold, borrow rates increase to incentivize borrowers to make payments on their loans. At the same time, lending rates increase to encourage more users to deposit to the pool. Similarly, as the utilization rate of an asset decreases below a certain threshold, borrow rates decrease to encourage more borrowing activity. As a result, lending rates also decrease since the asset is in low demand. These functions help provide lenders and borrowers with more reasonable rates while ensuring that there is always ample liquidity available for all market participants.
 
 :::
 
@@ -36,13 +48,13 @@ Through the use of smart contracts, on-chain money markets can operate in an inh
 
 :::
 
-::: tab Crypto Collateral
+::: tab Fully Collateralized
 
-### Crypto Collateral
+### Fully Collateralized
 
 ****
 
-Decentralized money markets allow users to put up crypto as collateral. This enables users to earn passive lending yield on their crypto while leveraging their crypto holdings.
+Unlike the traditional financial system which commonly operates in an undercollateralized and fractional reserve manner where users can borrow more funds than they deposit as collateral, decentralized money markets operate in an overcollateralized manner. By depositing more collateral than what is being borrowed, borrowers who cannot pay back their debts have their collateral liquidated, limiting risks of insolvency and providing a high degree of security for lenders.
 
 :::
 
@@ -52,7 +64,7 @@ Decentralized money markets allow users to put up crypto as collateral. This ena
 
 ****
 
-Decentralized money markets have a unique advantage in that deposited funds can be tokenized. These tokenized deposits become interest-bearing representations of the underlying assets and can be used within other applications within the decentralized finance ecosystem. This is likely why decentralized money markets have become one of the most widely used applications in the DeFi economy, alongside decentralized exchanges and stablecoins.
+Smart contract-powered financial applications like decentralized money markets have a unique advantage in that deposited funds can be tokenized. These tokenized deposits become interest-bearing representations of the underlying assets and can be used within other applications within the decentralized finance ecosystem.
 
 :::
 

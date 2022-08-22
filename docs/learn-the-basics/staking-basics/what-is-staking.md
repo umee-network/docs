@@ -22,7 +22,7 @@ When a user [stakes their tokens](/users/staking-umee/staking-umee) on a blockch
 
 ![](/bg/why-stake.png)
 
-Staking rewards are considered the steadiest, lowest risk yield in crypto. Validators earn block rewards according to the total amount of tokens they have staked, and these block rewards are typically redistributed to delegators proportional to the amount of tokens they have delegated. This allows users who are unable to operate a validator node to safely earn staking rewards while helping secure the network. In addition to earning staking yield and helping secure the blockchain, stakers are also able to [vote on governance proposals](/users/governance/voting) to help shape the future of the network.
+Staking rewards are considered the steadiest, lowest risk yield in crypto. [Validators](/learn-the-basics/staking-basics/what-is-validator) earn block rewards according to the total amount of tokens they have staked, and these block rewards are typically redistributed to delegators proportional to the amount of tokens they have delegated. This allows users who are unable to operate a validator node to safely earn staking rewards while helping secure the network. In addition to earning staking yield and helping secure the blockchain, stakers are also able to [vote on governance proposals](/users/governance/voting) to help shape the future of the network.
 
 :::
 
@@ -32,7 +32,7 @@ Staking rewards are considered the steadiest, lowest risk yield in crypto. Valid
 
 ****
 
-Staked tokens are a form of collateral used to ensure validators do their job. Therefore, if a validator misbehaves a portion of their total stake is removed or “_slashed_.” This means that everyone who has delegated tokens to this validator will have their tokens slashed proportionately. 
+Staked tokens are a form of collateral used to ensure [validators](/learn-the-basics/staking-basics/what-is-validator) do their job. Therefore, if a validator misbehaves a portion of their total stake is removed or “_slashed_.” This means that everyone who has delegated tokens to this validator will have their tokens slashed proportionately. 
 
 > Slashing is very rare because validators are financially incentivized to do their job. 
 
