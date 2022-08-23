@@ -10,12 +10,7 @@
 
 ****
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. It's important that anyone who wishes to propose a new asset on Umee has reviewed the asset risk documentation and is prepared to acknowledge:
-
-- _The increased risk of insolvency that comes along with listing a new asset;_ 
-- _Centralized asset risk;_
-- _Magnified risks associated with collateral assets;_
-- _Market diversification._
+Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to assess risk using a targeted framework that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, smart contract risk, etc. Project teams should provide as much of the relevant information as possible to help Umee make an informed decision. 
 
 :::
 
@@ -25,11 +20,13 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 ****
 
-**Title:** Listing Proposal: 'Add/Remove' Support for 'Asset Name'
+#### Title
+
+_Listing Proposal: 'Add/Remove' Support for 'Asset Name'_
 
 <br>
 
-**References**
+#### References
 
 - Link to project: 
 
@@ -37,11 +34,11 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 - Link to documentation: 
 
+- Link to CoinGecko:
+
 - Link to tokenomics:
 
-- Link to CoinGecko Page:
-
-- Links to exchanges (DEX & CEX): 
+- Links to exchanges (CEX & DEX): 
 
 - Links to audits: 
 
@@ -49,34 +46,22 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 <br>
 
-**Summary**
-
-<br>
+#### Summary
 
 Brief overview of the token and project. 
 
 <br>
 
-**Background Information**
+#### Background Information
 
-1. What is the connection between the proposer and the asset being proposed?
-2. Short high level overview of the token 
-3. Positioning of the token in the greater crypto ecosystem. Why will it be a strong borrow or collateral asset?
-4. Brief history of the project - DAO, products, challenges faced
-5. How is the Asset currently used? 
-6. Emission schedule  
-7. Tokenomics and minting details/parameters
-8. Market data (Market cap, FDV, 24h volume, volatility, exchanges, maturity)
-9. Social channels data (community size, Github activity)
-10. Contract date of deployment, number of transactions, number of token holders
-
-<br>
-
-**Security Considerations**
-
-<br>
-
-**Risk Analysis**
+1. When was the token generation event (TGE)?
+2. What is the connection between the proposer and the asset being proposed?
+3. Provide a brief high-level overview of the token.
+4. Describe the positioning of the token in the greater crypto ecosystem.
+5. What are the main use cases of the token?
+6. Tokenomics and minting details/parameters (circulating supply, max supply, emission schedule, etc.)
+7. Market data (market cap, FDV, 24h volume, volatility, exchanges, etc.)
+8. Community data (community size).
 
 :::
 
