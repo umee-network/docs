@@ -10,7 +10,47 @@
 
 ****
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to assess risk using a targeted framework that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, smart contract risk, etc. Project teams should provide as much of the relevant information as possible to help Umee make an informed decision. 
+Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to assess risk using a targeted framework that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc. Project teams should provide as much of the relevant information as possible to help Umee make an informed decision. 
+
+> Anyone can use the 'New Asset Listing Template' to [submit a new asset listing proposal](/users/governance/creating-proposal).
+
+<br>
+
+### Asset Risk Framework
+
+****
+
+#### Potential Risks for Lenders Include:
+
+<details><summary>Insolvency</summary>
+
+- **Risk:** _Liquidators may fail to liquidate in time during times of extreme market volatility, and as a result, borrowers may no longer be able to pay off their loan in full._
+
+- **Mitigation:** _There is a significant gap between when a position is eligible for liquidation, and when the position could potentially become under collateralized. Liquidators are heavily incentivized to liquidate a position as soon as it becomes eligible for liquidation._
+
+</details>
+
+<br>
+
+<details><summary>Lack of Liquidity</summary>
+
+- **Risk:** _Borrowers may borrow assets for as long as they’d like, so long as they remain properly over collateralized. This means at times of high utilization, lenders of certain assets may be unable to withdraw their deposits._
+
+- **Mitigation:** _Rates are variable, and based on supply and demand. Interest rates adjust to encourage an optimal utilization rate. When utilization gets too high, borrowers will be financially incentivized to pay off their loans while lenders are incentivized to deposit more._
+
+</details>
+
+<br>
+
+#### Potential Risks for Borrowers Include:
+
+<details><summary>Liquidation</summary>
+
+- **Risk:** _Assets that are supplied and used as collateral are subject to liquidation in the event a user’s Loan-to-Value (LTV) ratio rises above a predetermined threshold and the user is no longer properly over-collateralized. Liquidations typically happen when the value of borrowed assets significantly increases against the collateral provided, the value of the assets used as collateral significantly decreases against the value of the assets borrowed, or a user fails to properly monitor a position and their debt position grows significantly faster than their total collateral._
+
+- **Mitigation:** _Borrowers should monitor their positions closely and add more collateral and/or pay off loans to mitigate risk and maintain a healthy loan-to-value ratio. Borrowers can also use lower leverage to further protect their assets._
+
+</details>
 
 :::
 
@@ -20,48 +60,38 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 ****
 
-#### Title
-
-_Listing Proposal: 'Add/Remove' Support for 'Asset Name'_
+#### Title: _Listing Proposal: 'Add/Remove' Support for 'Asset Name'_
 
 <br>
 
 #### References
 
 - Link to project: 
-
 - Link to whitepaper: 
-
 - Link to documentation: 
-
-- Link to CoinGecko:
-
+- Link to CoinGecko/CoinMarketCap:
 - Link to tokenomics:
-
 - Links to exchanges (CEX & DEX): 
-
 - Links to audits: 
-
 - Community channels:
 
 <br>
 
 #### Summary
-
 Brief overview of the token and project. 
 
 <br>
 
 #### Background Information
 
-1. When was the token generation event (TGE)?
-2. What is the connection between the proposer and the asset being proposed?
-3. Provide a brief high-level overview of the token.
-4. Describe the positioning of the token in the greater crypto ecosystem.
+1. What is the connection between the proposer and the asset being proposed?
+2. When was the TGE (Token Generation Event)?
+3. Brief high level overview of the token
+4. Positioning of the token in the greater crypto ecosystem. 
 5. What are the main use cases of the token?
-6. Tokenomics and minting details/parameters (circulating supply, max supply, emission schedule, etc.)
-7. Market data (market cap, FDV, 24h volume, volatility, exchanges, etc.)
-8. Community data (community size).
+6. Tokenomics and minting details/parameters (include circ. supply, max supply, emission schedule)
+7. Market data (market cap, FDV, 24h volume, volatility, exchanges)
+8. Community data (community size)
 
 :::
 
