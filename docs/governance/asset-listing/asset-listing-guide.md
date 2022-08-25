@@ -71,31 +71,28 @@ Once a new asset listing proposal has been created, it's time to [submit it as a
 
 #### 1) Start by connecting your wallet to [Umee's governance forum](https://gov.umee.cc/).
 
+![](/bg/select-login)
+
 #### 2) Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
 
-![](/bg/submit-1.png)
+![](/bg/new-proposal)
 
 #### 3) In the Proposal Type dropdown, select "Text Proposal."
 
-![](/bg/submit-2.png)
+![](/bg/text-proposal)
 
-#### 4) Enter the proposal title in the following format:
-
-> Listing Proposal: Add Support for {Asset Name}
-
-#### 5) Paste the finalized proposal in the Description box.
+#### 4) Enter the proposal title and details in the format shown in the template above.
 
 > If a governance thread was created to discuss the New Asset Listing Proposal draft, include it as a link at the very bottom of the proposal.
 
-#### 6) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Make note that the deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000." 
+![](/bg/add-title-details)
 
-Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
+#### 5) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
 
-> Deposits will be fully refunded after the proposal has passed or failed assuming:
-> - The minimum deposit of 100,000 UMEE is met within the 14 day deposit period;
-> - At least 40% of eligible votes are cast and the proposal reaches quorom;
-> - Less than 1/3 of the voting power votes "NoWithVeto."
+> - The deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000." 
+> - Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
+> - [Learn more about how Umee governance deposits work here](/governance/governance-overview/how-it-works).
 
-#### 7) Select "Send Transaction" and approve the transaction from your Umee wallet.
+![](/bg/input-deposit-amount)
 
-#### 8) Once the New Asset Listing Proposal has been submitted on chain, spread the word to encourage community participation.
+#### 6) Once the New Asset Listing Proposal has been submitted on chain, spread the word to encourage community participation.
