@@ -40,12 +40,12 @@ Brief overview of the token and project.
 
 1. What is the connection between the proposer and the asset being proposed?
 2. When was the TGE (Token Generation Event)?
-3. Brief high level overview of the token
+3. Brief high level overview of the token.
 4. Positioning of the token in the greater crypto ecosystem. 
 5. What are the main use cases of the token?
-6. Tokenomics and minting details/parameters (include circ. supply, max supply, emission schedule)
-7. Market data (market cap, FDV, 24h volume, volatility, exchanges)
-8. Community data (community size)
+6. Tokenomics and minting details/parameters (include circ. supply, max supply, emission schedule).
+7. Market data (market cap, FDV, 24h volume, volatility, exchanges).
+8. Community data (community size).
 
 :::
 

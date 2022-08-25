@@ -36,12 +36,6 @@ export default {
           text: "Learn how to propose a new asset to be listed on Umee",
           link: "/governance/asset-listing",
         },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "Proposals",
-          text: "Templates for on-chain governance proposals",
-          link: "/governance/governance-proposals",
-        },
       ],
     };
   },

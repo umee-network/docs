@@ -22,6 +22,8 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 #### Potential Risks for Lenders Include:
 
+<br>
+
 <details><summary>Insolvency</summary>
 
 - **Risk:** _Liquidators may fail to liquidate in time during times of extreme market volatility, and as a result, borrowers may no longer be able to pay off their loan in full._
@@ -43,6 +45,8 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 <br>
 
 #### Potential Risks for Borrowers Include:
+
+<br>
 
 <details><summary>Liquidation</summary>
 
@@ -86,12 +90,12 @@ Brief overview of the token and project.
 
 1. What is the connection between the proposer and the asset being proposed?
 2. When was the TGE (Token Generation Event)?
-3. Brief high level overview of the token
+3. Brief high level overview of the token.
 4. Positioning of the token in the greater crypto ecosystem. 
 5. What are the main use cases of the token?
-6. Tokenomics and minting details/parameters (include circ. supply, max supply, emission schedule)
-7. Market data (market cap, FDV, 24h volume, volatility, exchanges)
-8. Community data (community size)
+6. Tokenomics and minting details/parameters (include circ. supply, max supply, emission schedule).
+7. Market data (market cap, FDV, 24h volume, volatility, exchanges).
+8. Community data (community size).
 
 :::
 
