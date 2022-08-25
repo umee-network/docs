@@ -62,6 +62,25 @@ module.exports = {
           ],
         },
       ],
+      "/governance/": [
+        {
+          text: "Governance Overview",
+          collapsible: true,
+          children: [
+            "/governance/governance-overview/introduction",
+            "/governance/governance-overview/how-it-works",
+            "/governance/governance-overview/governance-proposals",
+          ],
+        },
+        {
+          text: "New Asset Listings",
+          collapsible: true,
+          children: [
+            "/governance/asset-listing/asset-listing-process",
+            "/governance/asset-listing/asset-listing-guide",
+          ],
+        },
+      ],
       "/overview/": [
         {
           text: "Umee Overview",
@@ -70,15 +89,6 @@ module.exports = {
             "/overview/umee-overview/what-is-umee",
             "/overview/umee-overview/why-umee",
             "/overview/umee-overview/security-audits",
-          ],
-        },
-        {
-          text: "Umee Governance",
-          collapsible: true,
-          children: [
-            "/overview/umee-governance/governance-overview",
-            "/overview/umee-governance/how-it-works",
-            "/overview/umee-governance/governance-proposals",
           ],
         },
         {

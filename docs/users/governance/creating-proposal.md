@@ -94,7 +94,7 @@ If the community’s feedback and off-chain poll demonstrate clear support for t
 
 Once there has been ample discussion and all feedback has been taken into consideration, the governance proposal should be submitted on-chain.
 
-> Please note that a 10,000 UMEE deposit is required for all on-chain governance proposals and is fully refundable as long as the according proposal reaches the quorum and is not deemed malicious and therefore vetoed. The full amount does not need to come from the proposer but from any supporters who are willing to give support.
+> Please note that a 100,000 UMEE deposit is required for all on-chain governance proposals and is fully refundable as long as the according proposal reaches the quorum and is not deemed malicious and therefore vetoed. The full amount does not need to come from the proposer but from any supporters who are willing to give support.
 
 #### When submitting an on-chain proposal:
 
