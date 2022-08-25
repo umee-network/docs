@@ -1,6 +1,6 @@
 # Governance Proposals
 
-## New Asset Listing Proposal
+## New Asset Listing Proposals
 
 :::: tabs
 
@@ -103,7 +103,7 @@ Brief overview of the token and project.
 
 <br>
 
-## Foundation Spend Proposal
+## Foundation Spend Proposals
 
 Foundation Spend Proposals are used to request funds from the community & ecosystem pools to be sent to a specific wallet address. How community pool and ecosystem pool funds are spent is entirely up to community governance decisions. 
 
@@ -117,7 +117,7 @@ Foundation Spend Proposals are used to request funds from the community & ecosys
 
 <br>
 
-## Parameter Change Proposal
+## Parameter Change Proposals
 
 Whenever a change is being made to the protocol, a parameter change proposal needs to pass through the governance process. Parameter change proposals need to be carefully discussed, reviewed, and tested since they will be automatically executed once passed.
 

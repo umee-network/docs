@@ -36,6 +36,12 @@ export default {
           text: "Learn how to propose changes to the Umee network",
           link: "/users/governance/creating-proposal",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Creating a New Asset Listing Proposal",
+          text: "Learn how to request support for a new asset on Umee",
+          link: "/users/governance/new-asset-listing-proposal",
+        },
       ],
     };
   },

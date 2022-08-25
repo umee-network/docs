@@ -1,4 +1,4 @@
-# New Asset Listing Guide
+# Creating a New Asset Listing Proposal
 
 Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to assess risk using a targeted framework that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc. 
 
