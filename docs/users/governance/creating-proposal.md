@@ -108,17 +108,17 @@ Once there has been ample discussion and all feedback has been taken into consid
 
 #### 1) Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
 
-![](/bg/submit-1.png)
+![](/bg/new-proposal.png)
 
 #### 2) Select the type of proposal you're submitting from the dropdown.
 
-![](/bg/submit-2.png)
+![](/bg/text-proposal.png)
 
 #### 3) Add the appropriate title and description. Be sure to link relevant governance discussions in the description.
 
 > On-chain proposals cannot be altered once submitted, so double check your work!
 
-![](/bg/add-title-details)
+![](/bg/add-title-details.png)
 
 #### 4) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
 
@@ -126,7 +126,7 @@ Once there has been ample discussion and all feedback has been taken into consid
 > - Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
 > - [Learn more about how Umee governance deposits work here](/governance/governance-overview/how-it-works).
 
-![](/bg/input-deposit-amount)
+![](/bg/input-deposit-amount.png)
 
 #### 5) Once the On-Chain proposal has been submitted, identify your drafted proposal from the "Proposal Discussion" category and change the stage to "On Chain Proposal."
 
