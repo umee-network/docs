@@ -32,12 +32,6 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Security & Audits",
-          text: "Learn about Umee's security measures",
-          link: "/overview/security-audits",
-        },
-        {
-          img: "/img/docs-users-icon.png",
           title: "Gravity Bridge",
           text: "Learn how Umee's Gravity Bridge works",
           link: "/overview/umee-gravity-bridge",
