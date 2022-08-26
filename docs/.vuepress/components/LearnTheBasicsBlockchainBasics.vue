@@ -26,7 +26,7 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is a Blockchain?",
+          title: "Blockchains",
           text: "Blockchain technology explained for beginners",
           link: "/learn-the-basics/blockchain-basics/what-is-blockchain",
         },

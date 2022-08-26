@@ -1,4 +1,4 @@
-# What is a DeFi Money Market?
+# Decentralized Money Markets
 
 ## What is a Money Market?
 

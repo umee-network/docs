@@ -1,3 +1,3 @@
-# What is IBC?
+# IBC
 
 > Coming soon!

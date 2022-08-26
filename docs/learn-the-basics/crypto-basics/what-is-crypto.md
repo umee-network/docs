@@ -1,4 +1,6 @@
-# What is Crypto?
+# Crypto
+
+## What is Crypto?
 
 ![](/bg/what-is-crypto.png)
 

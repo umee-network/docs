@@ -26,7 +26,7 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Cosmos?",
+          title: "Cosmos",
           text: "An introduction to the Cosmos ecosystem",
           link: "/learn-the-basics/cosmos-basics/what-is-cosmos",
         },

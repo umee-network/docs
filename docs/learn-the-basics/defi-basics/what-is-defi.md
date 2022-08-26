@@ -1,4 +1,6 @@
-# What is DeFi?
+# DeFi
+
+## What is DeFi?
 
 ![](/bg/what-is-defi.png)
 

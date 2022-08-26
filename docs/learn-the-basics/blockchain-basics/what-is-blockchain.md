@@ -1,4 +1,6 @@
-# What is a Blockchain?
+# Blockchains
+
+## What is a Blockchain?
 
 ![](/bg/what-is-a-blockchain-info.png)
 

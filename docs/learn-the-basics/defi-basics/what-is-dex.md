@@ -1,4 +1,6 @@
-# What is a DEX?
+# Decentralized Exchanges
+
+## What is a DEX?
 
 A decentralized exchange, or DEX, is a web3 native marketplace where users can trade crypto without the need for a centralized intermediary. Since DEXs are native to web3, all trades occur between crypto pairs. Unlike centralized exchanges which record transactions on private databases, decentralized exchanges record transactions directly on a blockchain. This means users maintain full custody of their crypto while trading on a decentralized exchange, and don’t have to trust a third party with their assets. While decentralized exchanges are still catching up to centralized exchanges in terms of ease of use, they provide several advantages for users.
 
