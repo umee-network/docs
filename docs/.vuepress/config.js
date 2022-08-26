@@ -45,7 +45,6 @@ module.exports = {
           collapsible: true,
           children: [
             "/users/using-the-web-app/test-before",
-            "/users/using-the-web-app/common-terms",
             "/users/using-the-web-app/connecting-app",
             "/users/using-the-web-app/transferring-tokens",
             "/users/using-the-web-app/supply-withdraw",
@@ -78,8 +77,8 @@ module.exports = {
           text: "New Asset Listings",
           collapsible: true,
           children: [
-            "/governance/asset-listing/asset-listing-process",
             "/governance/asset-listing/asset-listing-guide",
+            "/governance/asset-listing/risk-assessment-methodology",
           ],
         },
       ],
@@ -146,7 +145,8 @@ module.exports = {
           children: [
             "/learn-the-basics/cosmos-basics/what-is-cosmos",
             "/learn-the-basics/cosmos-basics/what-is-ibc",
-            "/learn-the-basics/cosmos-basics/what-is-interchain-security"
+            "/learn-the-basics/cosmos-basics/interchain-accounts",
+            "/learn-the-basics/cosmos-basics/what-is-interchain-security",
           ],
         },
         {
@@ -157,6 +157,14 @@ module.exports = {
             "/learn-the-basics/defi-basics/what-is-dex",
             "/learn-the-basics/defi-basics/what-is-defi-money-market",
             "/learn-the-basics/defi-basics/what-is-liquidity-mining",
+          ],
+        },
+        {
+          text: "Umee Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/umee-basics/asset-types",
+            "/learn-the-basics/umee-basics/common-terms",
           ],
         },
       ],

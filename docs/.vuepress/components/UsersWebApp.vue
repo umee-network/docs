@@ -32,12 +32,6 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Common Terms",
-          text: "Learn common terms within Umee money markets",
-          link: "/users/using-the-web-app/common-terms"
-        },
-        {
-          img: "/img/docs-users-icon.png",
           title: "Connecting to the App",
           text: "Learn how to fund an existing wallet",
           link: "/users/using-the-web-app/connecting-app"

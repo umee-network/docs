@@ -23,7 +23,7 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 #### 3) In the pop-up, input the amount of tokens you’d like to borrow and select “Borrow.” Confirm the transaction in your wallet.
 
-> To decrease your risk of liquidation, avoid using a large percentage of the [borrow limit](/users/using-the-web-app/common-terms.html#borrow-limit).
+> To decrease your risk of liquidation, avoid using a large percentage of the [borrow limit](/learn-the-basics/umee-basics/common-terms.html#borrow-limit).
 
 ![](/bg/borrow-3.png)
 
@@ -31,8 +31,8 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 > Borrowers can decrease their chances of liquidation by doing things like:
 >
-> * Borrowing smaller amounts relative to the [collateral](/users/using-the-web-app/common-terms.html#collateral) provided
-> * Depositing more collateral as a borrow position gets closer to the [liquidation threshold](/users/using-the-web-app/common-terms.html#liquidation-threshold)
+> * Borrowing smaller amounts relative to the [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) provided
+> * Depositing more collateral as a borrow position gets closer to the [liquidation threshold](/learn-the-basics/umee-basics/common-terms.html#liquidation-threshold)
 > * Repaying part or all of a loan when the position becomes unhealthy
 
 :::

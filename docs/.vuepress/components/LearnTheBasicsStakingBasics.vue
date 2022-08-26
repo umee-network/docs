@@ -26,7 +26,7 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Staking",
+          title: "What is Staking?",
           text: "Learn what it means to stake crypto",
           link: "/learn-the-basics/staking-basics/what-is-staking",
         },

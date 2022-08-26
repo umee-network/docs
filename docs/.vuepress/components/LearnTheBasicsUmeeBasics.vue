@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>New Asset Listings</h1>
+    <h1>Umee Basics</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -26,15 +26,15 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "New Asset Listings Guide",
-          text: "Learn how to request support for a new asset on Umee",
-          link: "/governance/asset-listing/asset-listing-guide",
+          title: "Types of Assets",
+          text: "Learn about the differences between collateral and leverage assets",
+          link: "/learn-the-basics/umee-basics/asset-types",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Risk Assessment Methodology",
-          text: "New asset risk assessment framework",
-          link: "/governance/asset-listing/risk-assessment-methodology",
+          title: "Common Terms",
+          text: "Basic terms every Umee user should understand",
+          link: "/learn-the-basics/umee-basics/common-terms",
         },
       ],
     };
