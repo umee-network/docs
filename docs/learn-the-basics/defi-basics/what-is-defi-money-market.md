@@ -69,3 +69,10 @@ Smart contract-powered financial applications like decentralized money markets h
 :::
 
 ::::
+
+<br>
+
+## Learn More
+
+- [Learn how to lend on a decentralized money market here](/users/using-the-web-app/supply-withdraw)
+- [Learn how to borrow from a decentralized money market here](/users/using-the-web-app/borrow-repay)

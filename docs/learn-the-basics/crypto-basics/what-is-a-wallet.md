@@ -1,8 +1,10 @@
 # Crypto Wallets
 
+## What is a Crypto Wallet?
+
 ![](/bg/what-is-a-crypto-wallet.png)
 
-A crypto wallet is a tool that allows users to easily interact with blockchain-based applications. Interestingly, crypto wallets don’t actually store crypto, but rather the “_[private keys](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-are-private-keys)_” required to approve crypto transactions on a blockchain. Crypto always remains on a blockchain regardless of who owns it or how it is used, and crypto wallets serve as an interface to let a user interact with the crypto associated with his/her “_[wallet address](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-is-a-wallet-address)_.” 
+A crypto wallet is a tool that allows users to easily interact with blockchain-based applications. Interestingly, crypto wallets don’t actually store [crypto](/learn-the-basics/crypto-basics/what-is-crypto), but rather the “_[private keys](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-are-private-keys)_” required to approve crypto transactions on a [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain). Crypto always remains on a blockchain regardless of who owns it or how it is used, and crypto wallets serve as an interface to let a user interact with the crypto associated with his/her “_[wallet address](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-is-a-wallet-address)_.” 
 
 > Anyone with an internet connection has the ability to [create a crypto wallet](/users/getting-started/creating-wallet) with no personal information or payment required. 
 

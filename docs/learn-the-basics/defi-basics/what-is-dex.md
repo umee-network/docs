@@ -66,4 +66,4 @@ While centralized exchanges pick and choose which assets their users can trade, 
 
 ## Learn More
 
-> [Learn how to use a DEX here](/users/getting-started/funding-wallet.html#purchasing-umee-on-a-dex).
+> [Learn how to use a DEX here](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange).

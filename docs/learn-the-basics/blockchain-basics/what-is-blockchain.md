@@ -62,7 +62,7 @@ Since the data being added to a blockchain is recorded by all of the network’s
 
 ****
 
-Lastly, **self-sovereignty** is a distinct property in crypto. Crypto users maintain full ownership and control over things that belong to them, be it data, money, or access to services. In the traditional world, we are used to giving control to third party softwares to store and access our data, and we rely on third party intermediaries such as banks to facilitate transactions.
+Lastly, self-sovereignty is a distinct property in crypto. Crypto users maintain full ownership and control over things that belong to them, be it data, money, or access to services. In the traditional world, we are used to giving control to third party softwares to store and access our data, and we rely on third party intermediaries such as banks to facilitate transactions.
 
 In crypto, the underlying blockchain technology gives full sovereignty to the individuals and each individual is able to perform activities in a peer to peer or peer to protocol fashion facilitated by algorithms and smart contract code instead of a centralized intermediary, hence the popular meme “_be your own bank_.”
 

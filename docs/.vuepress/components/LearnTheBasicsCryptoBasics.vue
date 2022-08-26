@@ -32,6 +32,12 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
+          title: "Web3",
+          text: "An introduction to web3",
+          link: "/learn-the-basics/crypto-basics/web3",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Types of Crypto",
           text: "Learn about the different types of crypto",
           link: "/learn-the-basics/crypto-basics/types-of-crypto",

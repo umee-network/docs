@@ -4,6 +4,8 @@ Umee allows users to lend and borrow a wide variety of assets across chains in a
 
 Anyone can submit a proposal for a new asset to be listed on Umee through Umee's governance. While all assets that are accepted by Umee's governance will be listed on Umee, different assets have different levels of risk that will be assessed by a risk team. Proposers should provide as much of the relevant information as possible to help Umee make an informed decision. 
 
+<br>
+
 ## Step 1: Drafting the Proposal
 
 :::: tabs
