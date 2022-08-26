@@ -38,7 +38,7 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Interchain Accounts,
+          title: "Interchain Accounts",
           text: "Learn what Interchain Accounts are",
           link: "/learn-the-basics/cosmos-basics/interchain-accounts",
         },
