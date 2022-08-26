@@ -4,7 +4,7 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NA_r5ixEO4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-The most common blockchains utilize **Proof of Stake** or **Proof of Work** consensus mechanisms. A consensus mechanism is a procedure network participants follow in order to verify that the state of the data being transmitted on the network is correct. [Blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) use consensus mechanisms to ensure that all network participants are in agreement on the data (transactions) being published on the decentralized public ledger. This is what enables [crypto](/learn-the-basics/crypto-basics/what-is-crypto) users to seamlessly transact without the need for a centralized authority.
+The most common blockchains utilize [Proof of Stake](/learn-the-basics/blockchain-basics/types-of-blockchains.html#proof-of-stake) or [Proof of Work](/learn-the-basics/blockchain-basics/types-of-blockchains.html#proof-of-work) consensus mechanisms. A **consensus mechanism** is a procedure network participants follow in order to verify that the state of the data being transmitted on the network is correct. [Blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) use consensus mechanisms to ensure that all network participants are in agreement on the data (transactions) being published on the decentralized public ledger. This is what enables [crypto](/learn-the-basics/crypto-basics/what-is-crypto) users to seamlessly transact without the need for a centralized authority.
 
 <br>
 

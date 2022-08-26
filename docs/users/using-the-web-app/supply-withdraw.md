@@ -2,7 +2,7 @@
 
 ![](/bg/supply-withdraw.png)
 
-Umee users can supply assets on the Umee market to start earning [lending yield](/users/using-the-web-app/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/users/using-the-web-app/common-terms.html#collateral) **for cross chain borrowing.**
+Umee users can supply assets on the Umee market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) **for cross chain borrowing.**
 
 > Prerequisites
 >
@@ -34,7 +34,7 @@ Umee users can supply assets on the Umee market to start earning [lending yield]
 
 ## Withdrawing Assets from Umee
 
-> Withdrawing assets that are being used as collateral will negatively impact users' [loan to value ratios](/users/using-the-web-app/common-terms.html#maximum-ltv) and increase their risk of liquidation.
+> Withdrawing assets that are being used as collateral will negatively impact users' [loan to value ratios](/learn-the-basics/umee-basics/common-terms.html#maximum-ltv) and increase their risk of liquidation.
 
 #### 1) Select the “Dashboard” section on the navigation bar.
 

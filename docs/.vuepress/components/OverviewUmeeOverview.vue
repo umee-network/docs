@@ -26,13 +26,13 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Umee",
+          title: "What is Umee?",
           text: "Learn what Umee offers",
           link: "/overview/umee-overview/what-is-umee",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Why Umee",
+          title: "Why Umee?",
           text: "Learn why Umee exists",
           link: "/overview/umee-overview/why-umee",
         },

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Governance</h1>
+    <h1>Umee Basics</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -26,21 +26,15 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Voting",
-          text: "Learn how to vote on Umee",
-          link: "/users/governance/voting",
+          title: "Types of Assets",
+          text: "Learn about the differences between collateral and leverage assets",
+          link: "/learn-the-basics/umee-basics/asset-types",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Creating a Proposal",
-          text: "Learn how to propose changes to the Umee network",
-          link: "/users/governance/creating-proposal",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "Creating a New Asset Listing Proposal",
-          text: "Learn how to request support for a new asset on Umee",
-          link: "/users/governance/new-asset-listing-proposal",
+          title: "Common Terms",
+          text: "Basic terms every Umee user should understand",
+          link: "/learn-the-basics/umee-basics/common-terms",
         },
       ],
     };

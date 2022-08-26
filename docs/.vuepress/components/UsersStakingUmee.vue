@@ -32,8 +32,8 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Staking Umee",
-          text: "Learn how to stake Umee tokens",
+          title: "Staking UMEE",
+          text: "Learn how to stake UMEE tokens",
           link: "/users/staking-umee/staking-umee",
         },
       ],

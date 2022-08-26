@@ -1,3 +1,3 @@
-# What is Liquidity Mining?
+# Liquidity Mining
 
 > Coming soon!

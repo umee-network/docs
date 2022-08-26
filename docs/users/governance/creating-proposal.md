@@ -94,7 +94,7 @@ If the community’s feedback and off-chain poll demonstrate clear support for t
 
 Once there has been ample discussion and all feedback has been taken into consideration, the governance proposal should be submitted on-chain.
 
-> Please note that a 10,000 UMEE deposit is required for all on-chain governance proposals and is fully refundable as long as the according proposal reaches the quorum and is not deemed malicious and therefore vetoed. The full amount does not need to come from the proposer but from any supporters who are willing to give support.
+> Please note that a 100,000 UMEE deposit is required for all on-chain governance proposals and is fully refundable as long as the according proposal reaches the quorum and is not deemed malicious and therefore vetoed. The full amount does not need to come from the proposer but from any supporters who are willing to give support.
 
 #### When submitting an on-chain proposal:
 
@@ -108,17 +108,29 @@ Once there has been ample discussion and all feedback has been taken into consid
 
 #### 1) Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
 
-![](/bg/submit-1.png)
+![](/bg/new-proposal.png)
 
 #### 2) Select the type of proposal you're submitting from the dropdown.
 
-![](/bg/submit-2.png)
+![](/bg/text-proposal.png)
 
-#### 3) Once the On-Chain proposal has been submitted, identify your drafted proposal from the "Proposal Discussion" category and change the stage to "On Chain Proposal."
+#### 3) Add the appropriate title and description. Be sure to link relevant governance discussions in the description.
+
+> On-chain proposals cannot be altered once submitted, so double check your work!
+
+![](/bg/add-title-details.png)
+
+#### 4) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
+
+> - The deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000." 
+> - Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
+> - [Learn more about how Umee governance deposits work here](/governance/governance-overview/how-it-works).
+
+![](/bg/input-deposit-amount.png)
+
+#### 5) Once the On-Chain proposal has been submitted, identify your drafted proposal from the "Proposal Discussion" category and change the stage to "On Chain Proposal."
 
 ![](/bg/submit-3.png)
-
-#### 4) Link the proposal thread to the On-Chain proposal to help it gain more attention.
 
 :::
 

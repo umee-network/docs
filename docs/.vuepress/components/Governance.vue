@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Governance</h1>
-    <p></p>
+    <p>Learn about Umee's on-chain governance processes</p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -26,21 +26,15 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Voting",
-          text: "Learn how to vote on Umee",
-          link: "/users/governance/voting",
+          title: "Governance Overview",
+          text: "An introduction to Umee's governance processes",
+          link: "/governance/governance-overview",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Creating a Proposal",
-          text: "Learn how to propose changes to the Umee network",
-          link: "/users/governance/creating-proposal",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "Creating a New Asset Listing Proposal",
-          text: "Learn how to request support for a new asset on Umee",
-          link: "/users/governance/new-asset-listing-proposal",
+          title: "New Asset Listings",
+          text: "Learn how to propose a new asset to be listed on Umee",
+          link: "/governance/asset-listing",
         },
       ],
     };

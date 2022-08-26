@@ -1,3 +1,3 @@
-# What is Interchain Security?
+# Interchain Security
 
 > Coming soon!

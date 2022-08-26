@@ -54,6 +54,12 @@ export default {
           text: "Learn about decentralized finance",
           link: "/learn-the-basics/defi-basics",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Umee Basics",
+          text: "Things every Umee user should know",
+          link: "/learn-the-basics/umee-basics",
+        },
       ],
     };
   },

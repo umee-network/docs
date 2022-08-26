@@ -63,6 +63,12 @@ export default {
         },
         {
           img: "/img/docs-overview-icon.png",
+          title: "Governance",
+          text: "Umee's governance processes.",
+          link: "/governance",
+        },
+        {
+          img: "/img/docs-overview-icon.png",
           title: "Learn the Basics",
           text: "Introduction to basic crypto concepts.",
           link: "/learn-the-basics",

@@ -1,8 +1,10 @@
-# What is DeFi?
+# DeFi
+
+## What is DeFi?
 
 ![](/bg/what-is-defi.png)
 
-Decentralized finance, or “DeFi,” is a term used to describe a wide range of decentralized financial services made possible by blockchain technology.
+Decentralized finance, or “DeFi,” is a term used to describe a wide range of decentralized financial services like [decentralized exchanges](/learn-the-basics/defi-basics/what-is-dex) and [decentralized money markets](/learn-the-basics/defi-basics/what-is-defi-money-market) which are made possible by [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain).
 
 <br>
 

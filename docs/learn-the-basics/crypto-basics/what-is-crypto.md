@@ -1,8 +1,10 @@
-# What is Crypto?
+# Crypto
+
+## What is Crypto?
 
 ![](/bg/what-is-crypto.png)
 
-Crypto is an entirely new asset class that is completely digital. While there are several different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto) that serve different purposes, crypto assets can generally be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain) to document transaction data in a decentralized manner. 
+Crypto is an entirely new asset class native to the internet that is designed to fix this problem among many others. While there are many different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto), all crypto generally acts as a digital representation of something else (e.g. a dollar, a vote, a ticket). Crypto assets can be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain), a revolutionary system used to maintain virtual records, to document transaction data in a decentralized manner. 
 
 <br>
 

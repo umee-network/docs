@@ -1,3 +1,3 @@
-# IBC
+# Web3
 
 > Coming soon!

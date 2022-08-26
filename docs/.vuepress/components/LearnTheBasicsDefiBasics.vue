@@ -26,25 +26,25 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is DeFi?",
+          title: "DeFi",
           text: "An introduction to decentralized finance",
           link: "/learn-the-basics/defi-basics/what-is-defi",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "What is a DEX?",
+          title: "Decentralized Exchanges",
           text: "Learn about decentralized exchanges",
           link: "/learn-the-basics/defi-basics/what-is-dex",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "What is a DeFi Money Market?",
+          title: "Decentralized Money Markets",
           text: "Learn about decentralized money markets",
           link: "/learn-the-basics/defi-basics/what-is-defi-money-market",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Liquidity Mining?",
+          title: "Liquidity Mining",
           text: "Learn all about liquidity mining",
           link: "/learn-the-basics/defi-basics/what-is-liquidity-mining",
         },

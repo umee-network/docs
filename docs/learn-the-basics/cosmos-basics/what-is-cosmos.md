@@ -1,4 +1,6 @@
-# What is Cosmos?
+# Cosmos
+
+## What is Cosmos?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9XFAchzju9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -6,7 +8,7 @@
 
 Contrary to popular belief, Cosmos is not the name of one blockchain but of an ecosystem of many sovereign blockchains. The ATOM token is not the only token in the Cosmos ecosystem; ATOM is the [native cryptocurrency](/learn-the-basics/crypto-basics/types-of-crypto) of the “Cosmos Hub,” the first blockchain built within the Cosmos ecosystem. Cosmos blockchains like Umee have their own cryptocurrencies and use their own native tokens for transaction fees, governance, and security. Currently there are more than 60 different Cosmos blockchains and over 60 different Cosmos tokens in the ecosystem.
 
-Cosmos provides the scalability, interoperability, and sovereignty needed for blockchains to achieve mass adoption with minimal environmental impact. Cosmos does this by providing developer-friendly open source tools like the Cosmos Software Development Kit ([Cosmos SDK](https://v1.cosmos.network/sdk)), the Inter-Blockchain Communication Protocol ([IBC](https://ibc.cosmos.network/)), and Ignite CLI to allow developers to easily launch a Cosmos Proof of Stake blockchain that is interoperable by default and can be optimized for a specific use case. 
+Cosmos provides the scalability, interoperability, and sovereignty needed for blockchains to achieve mass adoption with minimal environmental impact. Cosmos does this by providing developer-friendly open source tools like the Cosmos Software Development Kit ([Cosmos SDK](https://v1.cosmos.network/sdk)), the Inter-Blockchain Communication Protocol ([IBC](/learn-the-basics/cosmos-basics/what-is-ibc)), and Ignite CLI to allow developers to easily launch a Cosmos Proof of Stake blockchain that is interoperable by default and can be optimized for a specific use case. 
 
 <br>
 

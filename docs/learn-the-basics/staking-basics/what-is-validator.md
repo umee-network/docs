@@ -1,10 +1,12 @@
-# What is a Validator?
+# Validators
+
+## What is a Validator?
 
  **Validators** are network participants who verify transactions and add new blocks to a blockchain in order to ensure that a blockchain’s data isn’t corrupted. Proof of Stake blockchains like Umee rely on validators to keep the network operational, decentralized, and secure.
 
 Validators operate “_validator nodes_,” devices that permit a blockchain to reach consensus in a decentralized manner and thus make up the foundation of a blockchain. Every validator node stores a copy of the data on the blockchain so there is no centralized point of failure.
 
-## How are Validators Incentivized?
+## Validator Incentives
 
 In order to run a validator node on a Proof of Stake blockchain, validators must provide a blockchain’s [native cryptocurrency](/learn-the-basics/crypto-basics/types-of-crypto) as collateral. Validators are selected to propose a new block (the new data to be added to a blockchain) based on the amount of collateral they post, which means that the validators with the most to lose have more influence than the validators with smaller stakes. When validators successfully add a new block to a blockchain they earn “_block rewards_,” or newly minted units of crypto used as an economic incentive to motivate validators to run and secure the decentralized network. 
 
@@ -32,7 +34,7 @@ First and foremost, validators are responsible for maintaining an active node wh
 
 ****
 
-Strong active [governance](/overview/governance-overview) is crucial to the success of any network. As the industry continues to develop, changes need to be made in order for networks to adjust and grow. All [stakers](/users/staking-umee/staking-umee) have the ability to [vote on governance proposals](/users/governance/voting) to help shape the future of the network. While the democratization associated with blockchains provides an incredible opportunity for anyone to vote on various proposals, many users may not be familiar with issues at hand or have the time to regularly follow governance discussions.
+Strong active [governance](/governance/governance-overview) is crucial to the success of any network. As the industry continues to develop, changes need to be made in order for networks to adjust and grow. All [stakers](/users/staking-umee/staking-umee) have the ability to [vote on governance proposals](/users/governance/voting) to help shape the future of the network. While the democratization associated with blockchains provides an incredible opportunity for anyone to vote on various proposals, many users may not be familiar with issues at hand or have the time to regularly follow governance discussions.
 
 > In the crypto world validators can be thought of as representatives/elected officials, and stakers as citizens who elect these representatives.
 

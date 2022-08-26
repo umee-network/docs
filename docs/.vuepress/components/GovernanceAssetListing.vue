@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Governance</h1>
+    <h1>New Asset Listings</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -26,21 +26,15 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Umee Governance?",
-          text: "A brief introduction to Umee's governance",
-          link: "/overview/umee-governance/governance-overview",
+          title: "New Asset Listings Guide",
+          text: "Learn how to request support for a new asset on Umee",
+          link: "/governance/asset-listing/asset-listing-guide",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "How it Works",
-          text: "Learn how Umee's governance processes work",
-          link: "/overview/umee-governance/how-it-works",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "Governance Proposals",
-          text: "Templates for on-chain governance proposals",
-          link: "/overview/umee-governance/governance-proposals",
+          title: "Risk Assessment Methodology",
+          text: "New asset risk assessment framework",
+          link: "/governance/asset-listing/risk-assessment-methodology",
         },
       ],
     };

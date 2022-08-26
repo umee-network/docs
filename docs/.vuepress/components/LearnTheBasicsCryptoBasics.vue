@@ -26,9 +26,15 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Crypto?",
+          title: "Crypto",
           text: "An introduction to crypto",
           link: "/learn-the-basics/crypto-basics/what-is-crypto",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Web3",
+          text: "An introduction to web3",
+          link: "/learn-the-basics/crypto-basics/what-is-web3",
         },
         {
           img: "/img/docs-users-icon.png",

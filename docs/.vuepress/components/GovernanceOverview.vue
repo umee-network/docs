@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Cosmos Basics</h1>
+    <h1>Umee Governance Overview</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -26,27 +26,27 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Cosmos",
-          text: "An introduction to the Cosmos ecosystem",
-          link: "/learn-the-basics/cosmos-basics/what-is-cosmos",
+          title: "What is Umee Governance?",
+          text: "A brief explanation of Umee's governance processes",
+          link: "/governance/governance-overview/introduction",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "IBC",
-          text: "Learn about the Inter-Blockchain Communication Protocol",
-          link: "/learn-the-basics/cosmos-basics/what-is-ibc",
+          title: "Governance Process",
+          text: "Familiarize yourself with how Umee's governance processes work",
+          link: "/governance/governance-overview/how-it-works",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Interchain Accounts",
-          text: "Learn what Interchain Accounts are",
-          link: "/learn-the-basics/cosmos-basics/interchain-accounts",
+          title: "Proposals",
+          text: "Templates for on-chain governance proposals",
+          link: "/governance/governance-overview/governance-proposals",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Interchain Security",
-          text: "Learn about shared security in the Cosmos ecosystem",
-          link: "/learn-the-basics/cosmos-basics/what-is-interchain-security",
+          title: "Code of Conduct",
+          text: "Rules all governance participants must follow",
+          link: "/governance/governance-overview/code-of-conduct",
         },
       ],
     };

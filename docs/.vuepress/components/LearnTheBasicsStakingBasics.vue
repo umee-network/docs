@@ -26,13 +26,13 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Staking",
+          title: "Staking",
           text: "Learn what it means to stake crypto",
           link: "/learn-the-basics/staking-basics/what-is-staking",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "What is a Validator?",
+          title: "Validators",
           text: "Learn about the role of validators",
           link: "/learn-the-basics/staking-basics/what-is-validator",
         },

@@ -45,7 +45,6 @@ module.exports = {
           collapsible: true,
           children: [
             "/users/using-the-web-app/test-before",
-            "/users/using-the-web-app/common-terms",
             "/users/using-the-web-app/connecting-app",
             "/users/using-the-web-app/transferring-tokens",
             "/users/using-the-web-app/supply-withdraw",
@@ -59,6 +58,27 @@ module.exports = {
           children: [
             "/users/governance/voting",
             "/users/governance/creating-proposal",
+            "/users/governance/new-asset-listing-proposal",
+          ],
+        },
+      ],
+      "/governance/": [
+        {
+          text: "Governance Overview",
+          collapsible: true,
+          children: [
+            "/governance/governance-overview/introduction",
+            "/governance/governance-overview/how-it-works",
+            "/governance/governance-overview/governance-proposals",
+            "/governance/governance-overview/code-of-conduct",
+          ],
+        },
+        {
+          text: "New Asset Listings",
+          collapsible: true,
+          children: [
+            "/governance/asset-listing/asset-listing-guide",
+            "/governance/asset-listing/risk-assessment-methodology",
           ],
         },
       ],
@@ -70,15 +90,6 @@ module.exports = {
             "/overview/umee-overview/what-is-umee",
             "/overview/umee-overview/why-umee",
             "/overview/umee-overview/security-audits",
-          ],
-        },
-        {
-          text: "Umee Governance",
-          collapsible: true,
-          children: [
-            "/overview/umee-governance/governance-overview",
-            "/overview/umee-governance/how-it-works",
-            "/overview/umee-governance/governance-proposals",
           ],
         },
         {
@@ -115,6 +126,7 @@ module.exports = {
           collapsible: true,
           children: [
             "/learn-the-basics/crypto-basics/what-is-crypto",
+            "/learn-the-basics/crypto-basics/what-is-web3",
             "/learn-the-basics/crypto-basics/types-of-crypto",
             "/learn-the-basics/crypto-basics/what-is-a-wallet",
             "/learn-the-basics/crypto-basics/crypto-safety",
@@ -134,7 +146,8 @@ module.exports = {
           children: [
             "/learn-the-basics/cosmos-basics/what-is-cosmos",
             "/learn-the-basics/cosmos-basics/what-is-ibc",
-            "/learn-the-basics/cosmos-basics/what-is-interchain-security"
+            "/learn-the-basics/cosmos-basics/interchain-accounts",
+            "/learn-the-basics/cosmos-basics/what-is-interchain-security",
           ],
         },
         {
@@ -145,6 +158,14 @@ module.exports = {
             "/learn-the-basics/defi-basics/what-is-dex",
             "/learn-the-basics/defi-basics/what-is-defi-money-market",
             "/learn-the-basics/defi-basics/what-is-liquidity-mining",
+          ],
+        },
+        {
+          text: "Umee Basics",
+          collapsible: true,
+          children: [
+            "/learn-the-basics/umee-basics/asset-types",
+            "/learn-the-basics/umee-basics/common-terms",
           ],
         },
       ],
