@@ -1,4 +1,4 @@
-# How it Works
+# Governance Process
 
 ## Creating a Proposal
 

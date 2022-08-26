@@ -32,7 +32,7 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "How it Works",
+          title: "Governance Process",
           text: "Familiarize yourself with how Umee's governance processes work",
           link: "/governance/governance-overview/how-it-works",
         },
