@@ -92,6 +92,13 @@ module.exports = {
           ],
         },
         {
+          text: "Security & Audits",
+          collapsible: false,
+          children: [
+            "/overview/security-audits",
+          ],
+        },
+        {
           text: "Umee's Gravity Bridge",
           collapsible: true,
           children: [
