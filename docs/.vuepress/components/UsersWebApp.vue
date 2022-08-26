@@ -39,7 +39,7 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Transferring Tokens",
-          text: "Learn how to transfer tokens",
+          text: "Learn how to transfer tokens to and from Umee",
           link: "/users/using-the-web-app/transferring-tokens"
         },
                 {

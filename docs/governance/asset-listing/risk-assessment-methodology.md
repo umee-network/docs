@@ -1,11 +1,13 @@
 # Risk Assessment Methodology
 
-The composability of crypto enables the Umee blockchain to connect with multi ecosystems within Cosmos and beyond; _however, this connectivity exposes the protocol to various ecosystem risks_. Tokens accepted by the Umee lending module affect the protocol health at its core (specifically tokens accepted as collateral which affect the financial health of the protocol). The three key domains of risk Umee will assess are protocol risk, counterparty risk, and market risk.
+The composability of crypto enables the Umee blockchain to connect with many ecosystems within Cosmos and beyond; **_however, this connectivity exposes the protocol to various ecosystem risks_**. Tokens accepted by the Umee lending module affect the protocol health at its core (specifically tokens accepted as collateral which affect the financial health of the protocol). The three key domains of risk Umee will assess are protocol risk, counterparty risk, and market risk.
 
-_Umee runs historical data in a risk model to help determine parameters for each asset that help contain risk_. The historical data can be quantified in three different aspects of market risks as follows:
-- Protocol Risk: quantified by **Days**, **Transactions**
-- Counterparty Risk: quantified by **Holders**, **Permission**
-- Market Risk: quantified by **Market Cap**, **Average Volume**, **Normalized Volatility**
+**_Umee runs historical data in a risk model to help determine parameters for each asset that help contain risk_**. 
+
+> The historical data can be quantified in three different aspects of market risks as follows:
+> - Protocol Risk: quantified by **Days**, **Transactions**
+> - Counterparty Risk: quantified by **Holders**, **Permission**
+> - Market Risk: quantified by **Market Cap**, **Average Volume**, **Normalized Volatility**
 
 <br>
 
