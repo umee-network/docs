@@ -93,7 +93,6 @@ module.exports = {
         },
         {
           text: "Security & Audits",
-          collapsible: false,
           children: [
             "/overview/security-audits",
           ],
