@@ -89,7 +89,6 @@ module.exports = {
           children: [
             "/overview/umee-overview/what-is-umee",
             "/overview/umee-overview/why-umee",
-            "/overview/umee-overview/security-audits",
           ],
         },
         {

@@ -7,13 +7,19 @@ _Umee runs historical data in a risk model to help determine parameters for each
 - Counterparty Risk: quantified by **Holders**, **Permission**
 - Market Risk: quantified by **Market Cap**, **Average Volume**, **Normalized Volatility**
 
+<br>
+
 ## Protocol Risk
 
 **Smart contract risk** measures the technical security of the underlying code for a given asset. Code for assets with rigorous audits by well-respected auditors are suitable prospects for Umee. Besides audits, protocol risk remains (i.e., vulnerabilities will exist) and users must be conscientious in assessing such risk. In addition, Umee will use bug bounties to alleviate smart contract risk. The number of transactions and number of days a particular smart contract has remained uncompromised with regular use, continued development, community etc., can serve as a proxy to gauge how battle-hardened the contract is.
 
+<br>
+
 ## Counterparty Risk
 
 **Counterparty risk** takes into consideration the human capital behind the asset and how they impact governance. Specifically, Umee will assess the level of decentralization and ability for select stakeholders to influence control over funds or other attack vectors that can penetrate governance structure and ultimately yield control over funds to a concentrated few. Counterparty risk is gauged by the magnitude of centralization, which is measured by the number of entities that can control an asset’s underlying protocol, the number of holders of the token, and other trust assumptions (e.g., backing of the asset) that may create vulnerabilities. 
+
+<br>
 
 ## Market Risk
 
