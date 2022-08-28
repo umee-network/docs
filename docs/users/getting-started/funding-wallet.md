@@ -2,13 +2,11 @@
 
 ![](/bg/funding-a-wallet.png)
 
-#### A [native UMEE token](/overview/umee-token/token-format) balance is required in order to transact on the Umee blockchain. The UMEE token is supported on several centralized exchanges including OKX, MEXC, Gate.io, and FTX.
+> Purchasing and withdrawing ATOM, the native Cosmos Hub token, is one of the easiest ways to start using Umee and the rest of the [Cosmos ecosystem](/users/blockchai-basics/what-is-cosmos). ATOM can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange) needed to transact on Umee.
 
 <br>
 
-## Withdrawing Cosmos Assets from an Exchange
-
-> Purchasing and withdrawing ATOM, the native Cosmos Hub token, is one of the easiest ways to start using the [Cosmos ecosystem](/users/blockchai-basics/what-is-cosmos). These tokens can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange).
+## Withdrawing Cosmos Assets from a Centralized Exchange
 
 :::: tabs
 
@@ -55,4 +53,64 @@
 
 > Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a [decentralized exchange](/learn-the-basics/defi-basics/what-is-dex) to exchange Cosmos assets.
 
+:::: tabs
+
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5EL_71b9I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::
+
+::: tab Written Guide
+
+### Written Guide
+
+****
+
+> Coming soon!
+
+:::
+
+::::
+
+<br>
+
+## Transferring Cosmos Assets to Umee
+
+> Since Umee is a base layer blockchain assets need to be transferred on to Umee before they can be [supplied on the Umee Market](/users/using-the-web-app/supply-withdraw).
+
+:::: tabs
+
+::: tab Written Guide
+
+### Written Guide
+
+****
+
+#### 1) Connect your Umee wallet to the [Umee web app](https://app.umee.cc/).
+
+#### 2) On the "Markets" page, select "Cosmos."
+
+> When "Cosmos" is selected tokens will be transferred between their native chains and the Umee blockchain, with the exception of native UMEE tokens which are already on the Umee blockchain.
+
+![](/bg/ibc-1.png)
+
+#### 3) Identify which asset you’d like to transfer on to Umee and select “Transfer” in the appropriate row.
+
+![For this example we will be transferring ATOM from the Cosmos Hub.](/bg/ibc-2.png)
+
+#### 4) Select which network you'd like to transfer _**to**_ on the top of the pop-up.
+
+> To transfer assets off of Umee and back to their native chain, simply select the destination chain here.
+
+![We will be selecting "UMEE" since we are transferring ATOM onto the Umee blockchain.](/bg/ibc-3.png)
+
+#### 5) In the pop-up, input the amount of tokens you’d like to transfer, select “Transfer,” and approve the transaction in your wallet.
+
+:::
+
+::::

@@ -1,7 +1,9 @@
 # Creating a Wallet
 
-In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed. 
-> [Users can learn more general information about crypto wallets here](/users/blockchain-basics/what-is-wallet).
+> In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed. 
+> [Users can learn about crypto wallets here](/users/blockchain-basics/what-is-wallet).
+
+<br>
 
 :::: tabs
 

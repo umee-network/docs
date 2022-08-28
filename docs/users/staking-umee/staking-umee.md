@@ -2,26 +2,21 @@
 
 ![Stake UMEE to help secure the blockchain, vote on governance proposals, and earn steady staking rewards](/bg/why-stake.png)
 
-[Staking](/learn-the-basics/staking-basics/what-is-staking) is the safest and easiest way for UMEE holders to earn more [UMEE tokens](/overview/umee-token). By staking UMEE tokens, a user is delegating their tokens to a validator to help secure the Umee blockchain in return for a proportional share of block rewards being earned by the validator.
+> [Staking](/learn-the-basics/staking-basics/what-is-staking) is the safest and easiest way for UMEE holders to earn more [UMEE tokens](/overview/umee-token). By staking UMEE tokens, a user is delegating their tokens to a validator to help secure the Umee blockchain in return for a proportional share of block rewards being earned by the validator.
 
-****
+<br>
 
 :::: tabs
 
-::: tab Staking Umee
+::: tab Written Guide
 
-## Staking UMEE
-
-> Prerequisites
->
-> * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) funded with an [UMEE token balance](/users/getting-started/funding-wallet)
-> * Must have a basic understanding of how staking works and [how to choose a validator](/users/staking-umee/selecting-validator)
+### Written Guide
 
 ****
 
 #### 1) Sign into your Keplr wallet and select the Umee network from the dropdown list.
 
-![](/bg/stake-umee-1.png)
+![](/bg/change-network.gif)
 
 #### 2) Select "Stake" at the bottom of the Keplr wallet browser extension.
 
@@ -50,23 +45,9 @@
 
 ![](/bg/stake-umee-9.png)
 
-#### You have now staked UMEE tokens and your staking rewards will begin accruing immediately!
-
-:::
-
-::: tab Claiming Staking Rewards
-
-## Claiming Staking Rewards
-
-#### 1) Sign into your Keplr wallet and select the Umee network from the dropdown list.
-
-![](/bg/claim-stake-1.png)
-
-#### 2) Select "Claim" at the bottom of your Keplr wallet browser extension and approve the "Claim Staking Reward" transaction that pops up.
+#### 7) You have now staked UMEE tokens and your staking rewards will begin accruing immediately! To claim staking rewards, select "Claim" at the bottom of your Keplr wallet browser extension and approve the "Claim Staking Reward" transaction that pops up.
 
 ![](/bg/claim-stake-2.png)
-
-#### You have now successfully claimed your UMEE token staking reward! Staking rewards can be staked or used immediately.
 
 :::
 

@@ -2,16 +2,17 @@
 
 ![](/bg/participate-gov.png)
 
-Active community governance is important in order to help Umee grow while remaining decentralized and secure. As a native UMEE token holder you are able to participate in protocol governance and vote on various proposals to help shape the future of the Umee hub.
-
-> Prerequisites
->
-> * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) set up and funded
-> * Must be actively [staking UMEE](/users/staking-umee/staking-umee)
+> Active community governance is important in order to help Umee grow while remaining decentralized and secure. Users who [stake UMEE](/users/staking-umee/staking-umee) are able to participate in protocol governance and vote on various proposals to help shape the future of the Umee hub.
 
 <br>
 
-## Written Guide
+:::: tabs
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### 1) Sign into your Keplr wallet and go to the Keplr dashboard.
 
@@ -43,3 +44,7 @@ Active community governance is important in order to help Umee grow while remain
 | Abstain | The voter has no preference on the outcome of the vote, but has still participated in the voting process.|
 
 #### You have now cast your vote and successfully participated in Umee protocol governance!
+
+:::
+
+::::

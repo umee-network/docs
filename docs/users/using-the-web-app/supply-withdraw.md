@@ -2,19 +2,21 @@
 
 ![](/bg/supply-withdraw.png)
 
-Umee users can supply assets on the Umee market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) **for cross chain borrowing.**
+<br>
 
-> Prerequisites
->
-> * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet);
-> * Must have an [UMEE token balance](/users/getting-started/funding-wallet) to pay for fees on the Umee network;
-> * Must have [assets on the Umee blockchain to supply](/users/using-the-web-app/transferring-tokens).
+## Supplying Assets 
+
+> Umee users can supply assets on the Umee market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) for [cross chain borrowing](/users/using-the-web-app/borrow-repay).
+
+<br>
 
 :::: tabs
 
-::: tab Supplying
+::: tab Written Guide
 
-## Supplying Assets on Umee
+### Written Guide
+
+****
 
 #### 1) Select the “Dashboard” section on the navigation bar.
 
@@ -30,9 +32,23 @@ Umee users can supply assets on the Umee market to start earning [lending yield]
 
 :::
 
-::: tab Withdrawing
+::::
 
-## Withdrawing Assets from Umee
+<br>
+
+## Withdrawing Assets
+
+> Users can withdraw some or all of their assets from the Umee Market at any time.
+
+<br>
+
+:::: tabs
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 > Withdrawing assets that are being used as collateral will negatively impact users' [loan to value ratios](/learn-the-basics/umee-basics/common-terms.html#maximum-ltv) and increase their risk of liquidation.
 

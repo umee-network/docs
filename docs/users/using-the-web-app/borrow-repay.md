@@ -2,20 +2,21 @@
 
 ![](/bg/borrow-repay.png)
 
-After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), Umee users can borrow assets from the Umee Market.
+<br>
 
-> Prerequisites
->
-> * Must have an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet)
-> * Must have an [UMEE token balance](/users/getting-started/funding-wallet) to pay for fees on the Umee network
-> * Must have [supplied assets on the Umee market](/users/using-the-web-app/supply-withdraw) as collateral
-> * It's highly recommended to have a strong understanding of how borrowing and liquidations work
+## Borrowing
+
+> After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), Umee users can borrow assets from the Umee Market.
+
+<br>
 
 :::: tabs
 
-::: tab Borrowing
+::: tab Written Guide
 
-## Borrowing Assets from the Umee Market
+### Written Guide
+
+****
 
 #### 1) Select the "Dashboard" section on the navigation bar.
 
@@ -37,9 +38,23 @@ After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw)
 
 :::
 
-::: tab Repaying
+::::
 
-## Repaying a Loan on Umee
+<br>
+
+## Repaying
+
+> Users can partially or fully repay a loan whenever they'd like.
+
+<br>
+
+:::: tabs
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### 1) Select the "Dashboard" section on the navigation bar.
 
