@@ -6,25 +6,7 @@
 
 <br>
 
-## Withdrawing Native UMEE 
-
-> [Confirm your UMEE tokens are in their native format before funding your wallet](/overview/umee-token/token-format).
-
-> If your exchange of choice doesn't support the native UMEE token, skip to the ["Withdrawing Native ATOM" guide](/users/getting-started/funding-wallet.html#withdrawing-native-atom).
-
-#### 1) Select the withdraw option for the UMEE token on your centralized exchange of choice.
-
-#### 2) Open your Umee wallet extension, select "Umee" from the network dropdown list, and copy your Umee wallet address.
-
-![](/bg/copy-umee-address.gif)
-
-#### 3) Select "Withdraw," paste your Umee wallet address in the "withdraw to" section, and wait for the transaction to process. Your UMEE will appear on the Umee network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) shortly.
-
-> Please note that withdrawing from a CEX may take longer than normal transactions on the Umee network. Don't panic if your tokens do not appear instantly. Purchase ATOM from your CEX of choice.
-
-<br>
-
-## Withdrawing Native ATOM
+## Withdrawing Cosmos Assets from an Exchange
 
 > Purchasing and withdrawing ATOM, the native Cosmos Hub token, is one of the easiest ways to start using the [Cosmos ecosystem](/users/blockchai-basics/what-is-cosmos). These tokens can easily be [exchanged for native UMEE tokens](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange).
 
@@ -48,7 +30,11 @@
 
 #### 1) Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
 
+> You can also choose to withdraw other Cosmos assets supported by your exchange, like the [UMEE token](/overview/umee-token).
+
 #### 2) Copy your Cosmos wallet address found under the "Cosmos Hub" network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet), and paste it in the "Send to" section.
+
+> If you're withdrawing a different Cosmos asset like the [UMEE token](/overview/umee-token) you will need to [choose the appropriate network before copying your wallet address](/users/getting-started/using-wallet.html#copying-a-wallet-address).
 
 ![](/bg/copy-cosmos-address.gif)
 
@@ -67,6 +53,6 @@
 
 ## Trading Cosmos Assets on a Decentralized Exchange
 
-> Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a decentralized exchange to exchange Cosmos assets.
+> Anyone with an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) can use a [decentralized exchange](/learn-the-basics/defi-basics/what-is-dex) to exchange Cosmos assets.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5EL_71b9I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
