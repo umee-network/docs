@@ -2,27 +2,17 @@
 
 ![](/bg/transferring-tokens.png)
 
-Umee supports lending and borrowing on the Umee and Ethereum networks, and plans to support several other chains in the future.
-
-> Use the "Cosmos Transfers" guide to easily transfer supported Cosmos assets like ATOM to Umee. This is the fastest, easiest, and most cost efficient method.
-
-> Use the "Ethereum --> Umee Transfers" guide to convert assets from their Ethereum format to their Cosmos format.
-
-> Use the "Umee --> Ethereum Transfers" guide to convert assets from their Cosmos format to their Ethereum format.
+> Umee supports lending and borrowing on the Umee and Ethereum networks, and plans to support several other chains in the future.
 
 <br>
 
 ## Cosmos Transfers
 
-If you have Cosmos assets like ATOM on a different network in your Umee blockchain compatible wallet, follow this guide to transfer them to Umee.
+> If you have [Cosmos](/learn-the-basics/cosmos-basics/what-is-cosmos) assets like ATOM on a different network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet), follow this guide to transfer them to Umee.
 
-> Cosmos transfers only require an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) like Keplr.
+:::: tabs
 
-> Prerequisites
->
-> * [Must have an Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet)
-> * [Must have UMEE tokens to transact on the Umee blockchain](/users/getting-started/funding-wallet)
-> * Must have [Cosmos assets like ATOM](/users/getting-started/funding-wallet.html#withdrawing-native-cosmos-tokens) to transfer to or from Umee.
+::: tab Written Guide
 
 ### Written Guide
 
@@ -52,24 +42,27 @@ If you have Cosmos assets like ATOM on a different network in your Umee blockcha
 
 #### After tokens have been transferred to Umee, users can [supply them on the Umee market](/users/using-the-web-app/supply-withdraw) to start earning lending interest.
 
+:::
+
+::::
+
 <br>
 
 ## Ethereum to Umee Transfers
 
-If you are in possession of ERC-20 UMEE, or if you'd like to access native Ethereum assets while enjoying Umee's fast and inexpensive transactions, use this guide to bridge ERC-20 assets to Umee.
+> If you are in possession of [ERC-20 UMEE](/overview/umee-token/token-format), or if you'd like to access native Ethereum assets while enjoying Umee's fast and inexpensive transactions, use this guide to bridge ERC-20 assets to Umee.
 
-> Prerequisites (Umee <> Ethereum)
->
-> * [Must have an Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet)
-> * Must have an Ethereum wallet (e.g. MetaMask)
-> * [Must have an UMEE balance to pay for transactions on Umee](/users/getting-started/funding-wallet)
-> * Must have an ETH balance to pay for transactions on Ethereum.
+> Ethereum -> Umee transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
+
+:::: tabs
+
+::: tab Written Guide
 
 ### Written Guide
 
 ****
 
-#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both [connected to the web app](/users/using-the-web-app/connecting-app).
+#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet) and Ethereum wallet are both [connected to the web app](/users/using-the-web-app/connecting-app).
 
 #### 2) On the top of the markets page, select "Ethereum."
 
@@ -99,20 +92,21 @@ If you are in possession of ERC-20 UMEE, or if you'd like to access native Ether
 
 > Transfers between Umee and Ethereum may take significantly longer than Cosmos transfers to process.
 
+:::
+
+::::
+
 <br>
 
 ## Umee to Ethereum Transfers
 
-> _**UMEE tokens that are bridged to Ethereum cannot be used to pay for gas fees on the Umee network, staked to earn staking yield, or used to participate in governance.**_
+> Umee -> Ethereum transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
 
-> _**Transactions on Ethereum may be significantly slower and more expensive than transactions on the Umee blockchain. Make sure you have an ETH balance in your Ethereum wallet before transferring tokens to Ethereum.**_
+> Transactions on Ethereum may be significantly slower and more expensive than transactions on the Umee blockchain. Make sure you have an ETH balance in your Ethereum wallet before transferring tokens to Ethereum.
 
-> ### _**Prerequisites (Umee <> Ethereum)**_
->
-> * [Must have an Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet)
-> * _**Must have an Ethereum wallet (e.g. MetaMask);**_
-> * [Must have an UMEE balance to pay for transactions on Umee](/users/getting-started/funding-wallet)
-> * _**Must have an ETH balance to pay for transactions on Ethereum.**_
+:::: tabs
+
+::: tab Written Guide
 
 ### Written Guide
 
@@ -155,3 +149,7 @@ If you are in possession of ERC-20 UMEE, or if you'd like to access native Ether
 ![](/bg/umee-to-eth-7.png)
 
 > Transfers between Umee and Ethereum may take significantly longer than Cosmos transfers to process.
+
+:::
+
+::::

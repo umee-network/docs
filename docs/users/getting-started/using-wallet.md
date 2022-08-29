@@ -8,7 +8,7 @@
 
 ## Changing Networks
 
-> Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. Users do not need to manually change the network when interacting with the Umee web app.
+> Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. 
 
 :::: tabs
 
@@ -50,7 +50,7 @@
 
 ## Copying a Wallet Address
 
->Users will need to copy and paste their wallet address in order to receive tokens to their [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet).
+> Users will need to copy and paste their wallet address in order to receive tokens to their [Umee blockchain compatible wallets](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet).
 
 :::: tabs
 

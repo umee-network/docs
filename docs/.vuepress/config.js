@@ -129,6 +129,7 @@ module.exports = {
             "/learn-the-basics/crypto-basics/what-is-web3",
             "/learn-the-basics/crypto-basics/types-of-crypto",
             "/learn-the-basics/crypto-basics/what-is-a-wallet",
+            "/learn-the-basics/crypto-basics/bridges",
             "/learn-the-basics/crypto-basics/crypto-safety",
           ],
         },
@@ -164,6 +165,7 @@ module.exports = {
           text: "Umee Basics",
           collapsible: true,
           children: [
+            "/learn-the-basics/umee-basics/introduction",
             "/learn-the-basics/umee-basics/asset-types",
             "/learn-the-basics/umee-basics/common-terms",
           ],

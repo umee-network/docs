@@ -2,10 +2,7 @@
 
 ![](/bg/creating-a-proposal.png)
 
-> Prerequisites
->
->* [Must have a Commonwealth account set up](https://docs.commonwealth.im/commonwealth/account-overview/creating-your-account)
-> * [Must join the Umee community on Commonwealth](https://gov.umee.cc/)
+> Anyone is welcome to submit a governance proposal to be voted on by [Umee governance](/governance/governance-overview/introduction).
 
 :::: tabs
 
