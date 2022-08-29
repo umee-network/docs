@@ -8,7 +8,7 @@ Umee is a cross-chain [DeFi](/learn-the-basics/defi-basics/what-is-defi) hub bui
 
 ## What Does Umee Do?
 
-Umee is a [decentralized money market](/learn-the-basics/defi-basics/what-is-defi-money-market) as a [base layer blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain). Umee enables anyone to lend and borrow assets trustlessly, without the need for permission from a centralized third party like a bank. As base layer blockchain created with interoperability in mind, [DeFi applications](/learn-the-basics/defi-basics/what-is-defi) can be built on top of Umee in order to serve various needs that cannot be met by digital banking products or DeFi apps built on top of other more limited blockchains.
+Umee is a [decentralized money market](/learn-the-basics/defi-basics/what-is-defi-money-market) as a [base layer blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain). Umee enables anyone to lend and borrow assets trustlessly, without the need for permission from a centralized third party like a bank. As a base layer blockchain created with interoperability in mind, [DeFi applications](/learn-the-basics/defi-basics/what-is-defi) can be built on top of Umee in order to serve various needs that cannot be met by digital banking products or DeFi apps built on top of other more limited blockchains.
 
 Umee users are able to lend and borrow assets trustlessly because, unlike traditional money markets which allow borrowers to borrow more funds than they provide as collateral, decentralized money markets require proper over-collateralization before a loan can be issued. This means lenders won't be left hanging if borrowers fail to pay off their loans since the borrowers' collateral will automatically be auctioned off to repay the loan.
 
