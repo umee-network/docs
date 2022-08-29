@@ -165,6 +165,7 @@ module.exports = {
           text: "Umee Basics",
           collapsible: true,
           children: [
+            "/learn-the-basics/umee-basics/introduction",
             "/learn-the-basics/umee-basics/asset-types",
             "/learn-the-basics/umee-basics/common-terms",
           ],

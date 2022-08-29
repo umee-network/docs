@@ -26,6 +26,12 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
+          title: "Introduction to Umee",
+          text: "Umee explained for beginners",
+          link: "/learn-the-basics/umee-basics/introduction",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Types of Assets",
           text: "Learn about the differences between collateral and leverage assets",
           link: "/learn-the-basics/umee-basics/asset-types",
