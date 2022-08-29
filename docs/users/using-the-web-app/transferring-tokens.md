@@ -112,7 +112,7 @@
 
 ****
 
-#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both[connected to the web app](/users/using-the-web-app/connecting-app).
+#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both [connected to the web app](/users/using-the-web-app/connecting-app).
 
 #### 2) On the top of the markets page, select "Ethereum."
 

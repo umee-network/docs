@@ -4,8 +4,7 @@
 
 The Umee Blockchain is built on a network of validators that contribute Tendermint BFT consensus to the protocol. Tokens are bonded to validators that stake to provide Proof of Stake consensus to the network. Validators come from an open ecosystem of contributors and infrastructure providers. Tokens can also be delegated to validators by users to participate in the underlying consensus mechanism. This helps ensure the Umee network remains decentralized.
 
-> [Learn more about staking here](/users/blockchain-basics/what-is-staking).
-
+> [Learn more about staking here](/learn-the-basics/staking-basics/what-is-staking).
 > [Learn how to stake UMEE tokens here](/users/staking-umee/staking-umee).
 
 <br>

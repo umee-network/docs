@@ -36,6 +36,12 @@ export default {
           text: "Learn how to propose a new asset to be listed on Umee",
           link: "/governance/asset-listing",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Validator DAO",
+          text: "Learn about the DAO that handles the Umee Foundation's delegation decisions",
+          link: "/governance/validator-dao",
+        },
       ],
     };
   },
