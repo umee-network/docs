@@ -8,6 +8,6 @@ All validators interested in applying for an Umee Foundation delegation should s
 
 <br>
 
-## Validator Delegation Application Form
+## Application Form
 
 At the beginning of March, June, September, and December respectively, the Validator Delegation Application Form will open up to allow validators to apply for the next quarter’s foundation delegation. The form will be shared in the #validator-announcements channel on the [Umee Discord](https://discord.gg/umee), and applications will be accepted for two weeks.
