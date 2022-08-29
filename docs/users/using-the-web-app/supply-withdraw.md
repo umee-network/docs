@@ -6,7 +6,7 @@
 
 ## Supplying Assets 
 
-> Umee users can supply assets on the Umee market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) for [cross chain borrowing](/users/using-the-web-app/borrow-repay).
+> Umee users can supply assets on the Umee Market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) for [cross chain borrowing](/users/using-the-web-app/borrow-repay).
 
 :::: tabs
 

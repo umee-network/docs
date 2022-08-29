@@ -50,6 +50,12 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
+          title: "Bridges",
+          text: "Crypto bridges explained",
+          link: "/learn-the-basics/crypto-basics/bridges",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Crypto Safety",
           text: "Learn how to protect your crypto",
           link: "/learn-the-basics/crypto-basics/crypto-safety",

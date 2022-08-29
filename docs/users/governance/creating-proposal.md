@@ -4,8 +4,6 @@
 
 > Anyone is welcome to submit a governance proposal to be voted on by [Umee governance](/governance/governance-overview/introduction).
 
-<br>
-
 :::: tabs
 
 ::: tab Step 1: Discussion 

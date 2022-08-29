@@ -17,7 +17,7 @@ The composability of crypto enables the Umee blockchain to connect with multiple
 
 ## Centralization Risk
 
-**Centralization risk** takes into consideration the human capital behind the asset and how they impact governance. Specifically, Umee will assess the level of decentralization and ability for select stakeholders to influence control over funds or other attack vectors that can penetrate governance structure and ultimately yield control over funds to a concentrated few. Counterparty risk is gauged by the magnitude of centralization, which is measured by the number of entities that can control an asset’s underlying protocol, the number of holders of the token, and other trust assumptions (e.g., backing of the asset) that may create vulnerabilities. 
+**Centralization risk** takes into consideration the human capital behind the asset and how they impact governance. Specifically, Umee will assess the level of decentralization and ability for select stakeholders to influence control over funds or other attack vectors that can penetrate governance structure and ultimately yield control over funds to a concentrated few. Centralization risk is gauged by the magnitude of centralization, which is measured by the number of entities that can control an asset’s underlying protocol, the number of holders of the token, and other trust assumptions (e.g., backing of the asset) that may create vulnerabilities. 
 
 <br>
 

@@ -8,9 +8,7 @@
 
 ## Cosmos Transfers
 
-> If you have [Cosmos](/learn-the-basics/cosmos-basics/what-is-cosmos) assets like ATOM on a different network in your Umee blockchain compatible wallet, follow this guide to transfer them to Umee.
-
-> Cosmos transfers only require an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) like Keplr.
+> If you have [Cosmos](/learn-the-basics/cosmos-basics/what-is-cosmos) assets like ATOM on a different network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet), follow this guide to transfer them to Umee.
 
 :::: tabs
 
@@ -52,7 +50,7 @@
 
 ## Ethereum to Umee Transfers
 
-> If you are in possession of ERC-20 UMEE, or if you'd like to access native Ethereum assets while enjoying Umee's fast and inexpensive transactions, use this guide to bridge ERC-20 assets to Umee.
+> If you are in possession of [ERC-20 UMEE](/overview/umee-token/token-format), or if you'd like to access native Ethereum assets while enjoying Umee's fast and inexpensive transactions, use this guide to bridge ERC-20 assets to Umee.
 
 > Ethereum -> Umee transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
 

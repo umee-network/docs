@@ -4,8 +4,6 @@
 
 > Active community governance is important in order to help Umee grow while remaining decentralized and secure. Users who [stake UMEE](/users/staking-umee/staking-umee) are able to participate in protocol governance and vote on various proposals to help shape the future of the Umee hub.
 
-<br>
-
 :::: tabs
 
 ::: tab Written Guide
