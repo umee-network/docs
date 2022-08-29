@@ -8,8 +8,6 @@
 
 > After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), Umee users can borrow assets from the Umee Market.
 
-<br>
-
 :::: tabs
 
 ::: tab Written Guide
@@ -45,8 +43,6 @@
 ## Repaying
 
 > Users can partially or fully repay a loan whenever they'd like.
-
-<br>
 
 :::: tabs
 

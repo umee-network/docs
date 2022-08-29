@@ -12,8 +12,6 @@
 
 > Cosmos transfers only require an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) like Keplr.
 
-<br>
-
 :::: tabs
 
 ::: tab Written Guide
@@ -57,8 +55,6 @@
 > If you are in possession of ERC-20 UMEE, or if you'd like to access native Ethereum assets while enjoying Umee's fast and inexpensive transactions, use this guide to bridge ERC-20 assets to Umee.
 
 > Ethereum -> Umee transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
-
-<br>
 
 :::: tabs
 
@@ -109,8 +105,6 @@
 > Umee -> Ethereum transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
 
 > Transactions on Ethereum may be significantly slower and more expensive than transactions on the Umee blockchain. Make sure you have an ETH balance in your Ethereum wallet before transferring tokens to Ethereum.
-
-<br>
 
 :::: tabs
 

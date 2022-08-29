@@ -4,8 +4,6 @@
 
 > [Validators](/learn-the-basics/staking-basics/what-is-validator) play a critical role in maintaining a decentralized and secure network. Get to know validators before staking your tokens with them.
 
-<br>
-
 :::: tabs
 
 ::: tab Voting Power
