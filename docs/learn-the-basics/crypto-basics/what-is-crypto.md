@@ -4,6 +4,8 @@
 
 ![](/bg/what-is-crypto.png)
 
+By using cards rather than cash, much of the population has already chosen to use their currencies of choice digitally rather than physically. When people transition from physical cash to online banking products they may not realize that they are actually trading self-sovereignty for convenience. One of the best things about physical cash is that it can easily be exchanged between two parties without the need for a centralized intermediary (like a bank or a payment service provider). When people choose to do their banking activities digitally, banks have the ability to block transactions and freeze the funds of users without warning. This means that banks and/or the governments that oversee the banks have control over how people spend their “own” money.
+
 Crypto is an entirely new asset class native to the internet that is designed to fix this problem among many others. While there are many different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto), all crypto generally acts as a digital representation of something else (e.g. a dollar, a vote, a ticket). Crypto assets can be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain), a revolutionary system used to maintain virtual records, to document transaction data in a decentralized manner. 
 
 <br>
