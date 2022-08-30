@@ -1,6 +1,6 @@
 # Delegation Applications
 
-## Publicly Share Contributions
+## Sharing Contributions
 
 All validators interested in applying for an Umee Foundation delegation should self-assign the "Validator" role on the [Umee Discord](https://discord.gg/umee). It is best practice to constantly check updates in the relevant channels and also post all of your technical and community contributions to the #vali-contributions channel on Discord as they're made in order to help bring maximum visibility to the overall validator community. The thread function is enabled to allow for discussions and follow up questions, so be prepared to discuss your contributions with the validator community.
 
