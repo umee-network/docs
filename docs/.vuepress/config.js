@@ -81,6 +81,16 @@ module.exports = {
             "/governance/asset-listing/risk-assessment-methodology",
           ],
         },
+        {
+          text: "Validator DAO",
+          collapsible: true,
+          children: [
+            "/governance/validator-dao/overview",
+            "/governance/validator-dao/delegation-applications",
+            "/governance/validator-dao/the-committee",
+            "/governance/validator-dao/important-deadlines",
+          ],
+        },
       ],
       "/overview/": [
         {

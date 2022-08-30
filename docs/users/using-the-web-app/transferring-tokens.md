@@ -100,9 +100,9 @@
 
 ## Umee to Ethereum Transfers
 
-> Umee -> Ethereum transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
-
 > Transactions on Ethereum may be significantly slower and more expensive than transactions on the Umee blockchain. Make sure you have an ETH balance in your Ethereum wallet before transferring tokens to Ethereum.
+
+> Umee -> Ethereum transfers require both an [Umee blockchain compatible wallet](/users/getting-started/creating-wallet) and an Ethereum wallet like MetaMask.
 
 :::: tabs
 
@@ -112,7 +112,7 @@
 
 ****
 
-#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both[connected to the web app](/users/using-the-web-app/connecting-app).
+#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and Ethereum wallet are both [connected to the web app](/users/using-the-web-app/connecting-app).
 
 #### 2) On the top of the markets page, select "Ethereum."
 
