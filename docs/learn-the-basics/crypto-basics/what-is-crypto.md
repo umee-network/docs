@@ -54,6 +54,8 @@ While traditional digital banking services have extravagant sign up processes in
 
 Crypto users have full sovereignty over their funds and are able to use them without interference from a third party. Once a transaction has been entered onto the blockchain it cannot be reversed or altered. Censorship resistance is a large part of the reason why crypto has become popular amongst those in search of financial freedom, particularly in nations with oppressive governments.
 
+> There are more cases where crypto and blockchain projects work with the regulators on sanctioned lists of [wallet addresses](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-is-a-wallet-address). As crypto is an emerging industry, there will be an ongoing effort for the industry to address compliance while balancing off a decentralized market.
+
 :::
 
 ::: tab Transparency

@@ -2,11 +2,17 @@
 
 ## What is a Blockchain?
 
-![](/bg/what-is-a-blockchain-info.png)
-
-In simple terms, a blockchain can be thought of as a system used to keep virtual records. While digital record-keeping has been widely used for decades, blockchain technology is unique because it allows records to be kept in a way that is decentralized, trustless, accessible, and transparent. Blockchain systems are the backbone of [crypto](/learn-the-basics/crypto-basics/what-is-crypto) and web3.
+In simple terms, a blockchain can be thought of as a distributed system used to keep virtual records. While digital record-keeping has been widely used for decades, blockchain technology is unique because it allows records to be kept in a way that is decentralized, trustless, accessible, and transparent. Blockchain systems are the backbone of [crypto](/learn-the-basics/crypto-basics/what-is-crypto) and [web3](/learn-the-basics/crypto-basics/what-is-web3).
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
+
+<br>
+
+## Why Decentralization Matters
+
+All of the digital tools we rely on today are provided by centralized organizations that have the power to revoke access at any time for any reason; therefore we, as users, must play by their rules. For example, if you use your debit card to transact somewhere your bank doesn't approve of, your bank has the power to freeze your funds. If you wish to send money internationally, you must wait to do so during a bank's business hours and pay the excessive fees demanded. Or if you share something on social media that doesn't align with the views of those who run the platform, the platform can delete your account.
+
+So long as people are using their products or services, centralized organizations have the power to be the judge and the jury. This is not to say that all centralized organizations are bad - _in fact, most are good_ - but rather to point out the concerning amount of power these organizations have over their users. 
 
 <br>
 
