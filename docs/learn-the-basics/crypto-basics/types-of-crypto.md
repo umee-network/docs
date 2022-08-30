@@ -2,7 +2,7 @@
 
 ## Cryptocurrencies
 
-Cryptocurrencies are the most well-known type of crypto-asset. Cryptocurrencies are simply digital units of account intended to be used as traditional currencies are used: as a medium of transfer and/or a store of value.
+Cryptocurrencies are the most well-known type of crypto-asset, and can be broadly defined as digital units that originate on [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain). 
 
 > Examples include BTC, ETH, and [UMEE](/overview/umee-token).
 

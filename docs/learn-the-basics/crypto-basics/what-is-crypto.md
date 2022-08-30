@@ -10,13 +10,13 @@ Crypto is an entirely new asset class native to the internet that is designed to
 
 <br>
 
-## Advantages of Crypto
+## Characteristics of Crypto
 
 :::: tabs
 
-::: tab Decentralization
+::: tab Decentralized
 
-### Decentralization
+### Decentralized
 
 ****
 
@@ -26,9 +26,9 @@ Crypto, unlike traditional currencies, commodities, or securities, usually isnâ€
 
 :::
 
-::: tab Security
+::: tab Secure
 
-### Security
+### Secure
 
 ****
 
@@ -48,9 +48,9 @@ While traditional digital banking services have extravagant sign up processes in
 
 :::
 
-::: tab Censorship Resistance
+::: tab Censorship Resistant
 
-### Censorship Resistance
+### Censorship Resistant
 
 ****
 
@@ -60,9 +60,9 @@ Crypto users have full sovereignty over their funds and are able to use them wit
 
 :::
 
-::: tab Transparency
+::: tab Transparent
 
-### Transparency
+### Transparent
 
 ****
 
@@ -72,9 +72,9 @@ One of the most common misconceptions about crypto is that it allows criminals t
 
 :::
 
-::: tab Convenience
+::: tab Convenient
 
-### Convenience
+### Convenient
 
 ****
 
