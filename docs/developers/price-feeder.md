@@ -68,6 +68,7 @@ The current list of supported providers:
 
 * [Binance](https://www.binance.com/en)
 * [Coinbase](https://www.coinbase.com/)
+* [FTX](https://www.ftx.us/)
 * [Gate](https://www.gate.io/)
 * [Huobi](https://www.huobi.com/en-us/)
 * [Kraken](https://www.kraken.com/en-us/)
