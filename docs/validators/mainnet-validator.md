@@ -125,11 +125,11 @@ WantedBy=multi-user.target
 EOF
 ```
 
-9\. Check the sync status. If catching\_up is equal to true, wait until it is false. This process may take a minute.&#x20;
+9\. Check the sync status. If catching_up is equal to true, wait until it is false. This process may take a minute.&#x20;
 
 ```
 umeed status 2>&1 | jq
-#Check "catching_up": false. 
+#Check "catching_up": false.
 ```
 
 10\. Check to see if you have received tokens from the faucet or that you have tokens in your new Umee wallet.&#x20;
@@ -182,8 +182,8 @@ source ~/.profile
 #### Hash of the transaction for delegating ether keys across the bridge:
 
 ```
-gorc --config $HOME/gorc/config.toml sign-delegate-keys ETH_WALLET_NAME $VAL_ADDRESS 
-echo 'export GORC_ETH_SIG=HASH' >> ~/.profile 
+gorc --config $HOME/gorc/config.toml sign-delegate-keys ETH_WALLET_NAME $VAL_ADDRESS
+echo 'export GORC_ETH_SIG=HASH' >> ~/.profile
 source ~/.profile
 ```
 
@@ -210,8 +210,8 @@ sudo systemctl start gorc
 To check logs and confirm that everything is in order use the following commands
 
 ```
-journalctl -u umeed -f 
-journalctl -u gorc -f 
+journalctl -u umeed -f
+journalctl -u gorc -f
 journalctl -u geth -f
 ```
 

@@ -1,11 +1,15 @@
+[comment]: <> (sync contents with https://github.com/umee-network/docs/blob/main/docs/developers/price-feeder.md)
+
 # Price Feeder
 
-The core differences are as follows:
+The `price-feeder` tool is an extension of Umee's `x/oracle` module, both of
+which are based on Terra's [x/oracle](https://github.com/terra-money/classic-core/tree/main/x/oracle)
+module and [oracle-feeder](https://github.com/terra-money/oracle-feeder). The core differences are as follows:
 
-* All exchange rates must be quoted in USD Fiat or USD Stablecoins e.g. USDC
-* No need or use of reference exchange rates (e.g. Luna).
-* No need or use of Tobin tax.
-* The `price-feeder` combines both `feeder` and `price-server` into a single Golang-based application for better UX, testability, and integration.
+- All exchange rates must be quoted in USD Fiat or USD Stablecoins e.g. USDC
+- No need or use of reference exchange rates (e.g. Luna).
+- No need or use of Tobin tax.
+- The `price-feeder` combines both `feeder` and `price-server` into a single Golang-based application for better UX, testability, and integration.
 
 ## Background
 
@@ -30,31 +34,46 @@ If this environment variable is not set, the price feeder will prompt the user f
 
 ## Configuration
 
-`server`
+### `server`
 
 The `server` section contains configuration pertaining to the API served by the `price-feeder` process such as the listening address and various HTTP timeouts.
 
-`currency_pairs`
+### `currency_pairs`
 
 The `currency_pairs` sections contain one or more exchange rates along with the providers from which to get market data. It is important to note that the providers supplied in each `currency_pairs` must support the given exchange rate.
 
 For example, to get multiple price points on ATOM, you could define `currency_pairs` as follows:
 
-\`\[\[currency\_pairs]] base = "ATOM"providers = \[ "binance", ] quote = "USDT"
+```
+[[currency_pairs]]
+base = "ATOM"
+providers = [
+  "binance",
+  "ftx",
+  "okx",
+]
+quote = "USDT"
 
-\[\[currency\_pairs]] base = "ATOM"providers = \[ "kraken", "osmosis", ] quote = "USD"\`
+[[currency_pairs]]
+base = "ATOM"
+providers = [
+  "kraken",
+  "osmosis",
+]
+quote = "USD"
+```
 
 Providing multiple providers is beneficial in case any provider fails to return market data. Prices per exchange rate are submitted on-chain via pre-vote and vote messages using a time-weighted average price (TVWAP).
 
-`account`
+### `account`
 
 The `account` section contains the oracle's feeder and validator account information. These are used to sign and populate data in pre-vote and vote oracle messages.
 
-`keyring`
+### `keyring`
 
 The `keyring` section contains Keyring related material used to fetch the key pair associated with the oracle account that signs pre-vote and vote oracle messages.
 
-`rpc`
+### `rpc`
 
 The `rpc` section contains the Tendermint and Cosmos application gRPC endpoints. These endpoints are used to query on-chain data that pertain to oracle functionality and for broadcasting signed pre-vote and vote oracle messages.
 
@@ -66,10 +85,11 @@ The UMEE keyring must be set up to sign transactions before running the price fe
 
 The current list of supported providers:
 
-* [Binance](https://www.binance.com/en)
-* [Coinbase](https://www.coinbase.com/)
-* [Gate](https://www.gate.io/)
-* [Huobi](https://www.huobi.com/en-us/)
-* [Kraken](https://www.kraken.com/en-us/)
-* [Okx](https://www.okx.com/)
-* [Osmosis](https://app.osmosis.zone/)
+- [Binance](https://www.binance.com/en)
+- [Coinbase](https://www.coinbase.com/)
+- [FTX](https://www.ftx.us/)
+- [Gate](https://www.gate.io/)
+- [Huobi](https://www.huobi.com/en-us/)
+- [Kraken](https://www.kraken.com/en-us/)
+- [Okx](https://www.okx.com/)
+- [Osmosis](https://app.osmosis.zone/)
