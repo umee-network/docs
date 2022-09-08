@@ -230,7 +230,6 @@ wget https://github.com/umee-network/umee/releases/download/price-feeder/v0.3.0/
 tar xf price-feeder-v0.3.0-linux-amd64.tar.gz
 chmod +x price-feeder-v0.3.0-linux-amd64/price-feeder
 sudo mv price-feeder-v0.3.0-linux-amd64/price-feeder /usr/local/bin/
-
 ```
 
 2. Download the example config file
@@ -248,7 +247,7 @@ wget https://raw.githubusercontent.com/umee-network/umee/main/price-feeder/price
 ```
 [account]
 address = "umee15nejfgcaanqpw25ru4arvfd0fwy6j8clccvwx4"
-chain_id = "umee-11"
+chain_id = "umee-1"
 validator = "umeevaloper12tysz6mzrawenca2t3t7ltym4hfjj8a5upsn2k"
 ```
 
