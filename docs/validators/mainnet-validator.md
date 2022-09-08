@@ -274,8 +274,6 @@ User=$USER
 WorkingDirectory=/usr/local/bin
 ExecStart=bash -c 'echo "\n" | price-feeder .price-feeder/config.toml --log-level debug'
 Restart=on-failure
-#Restart=always
-#RuntimeMaxSec=14400s # 4h
 RestartSec=5s
 LimitNOFILE=65535
 
@@ -284,10 +282,12 @@ WantedBy=multi-user.target
 EOF
 ```
 
-> Note: the price-feeder hits a lot of providers endpoints to get prices for assets, sometimes the providers
-> block the price-feeder for exceeding the number of calls. A workaround for this is to set the price-feeder
-> service to restart at an amount of time, in this case maybe 4 hours can be enough. If that happens
-> Uncomment `RuntimeMaxSec` and replace `Restart=on-failure` by `Restart=always`.
+> Note: The price feeder hits a lot of endpoints to get prices for assets. Sometimes the websocket connections disconnect and cannot reconnect. If this is happening, set up the service file to restart the process after a few hours:
+
+```
+Restart=always
+RuntimeMaxSec=14400s # 4h
+```
 
 5. Start your service
 
