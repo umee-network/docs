@@ -215,4 +215,92 @@ journalctl -u gorc -f
 journalctl -u geth -f
 ```
 
-Done, you have successfully ran a node validator with all the required services.
+### Price feeder (Calypso - v3)
+
+The [x/oracle module](https://github.com/umee-network/umee/tree/main/x/oracle/spec) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/umee-network/umee/tree/main/price-feeder#oracle-price-feeder).
+
+Note: If the calypso upgrade has happened successfully, you **absolutely must** vote on prices to avoid being jailed and slashed.
+
+1. First, install the most recent price-feeder binary
+
+> Replace the tar with the correct architecture of the most recent price feeder version Currently: https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv0.3.0
+
+```
+wget https://github.com/umee-network/umee/releases/download/price-feeder/v0.3.0/price-feeder-v0.3.0-linux-amd64.tar.gz
+tar xf price-feeder-v0.3.0-linux-amd64.tar.gz
+chmod +x price-feeder-v0.3.0-linux-amd64/price-feeder
+sudo mv price-feeder-v0.3.0-linux-amd64/price-feeder /usr/local/bin/
+
+```
+
+2. Download the example config file
+
+```
+cd /usr/local/bin/
+wget https://raw.githubusercontent.com/umee-network/umee/main/price-feeder/price-feeder.example.toml
+```
+
+3. Replace the example values in your config
+
+> Set up your keyring using the description (here)[https://github.com/umee-network/umee/tree/main/price-feeder#keyring-1].
+> Update the `[account]` information with the correct chain-id (**umee-1** for mainnet), address, and validator address from your keyring.
+
+```
+[account]
+address = "umee15nejfgcaanqpw25ru4arvfd0fwy6j8clccvwx4"
+chain_id = "umee-11"
+validator = "umeevaloper12tysz6mzrawenca2t3t7ltym4hfjj8a5upsn2k"
+```
+
+> In order to get your address & validator address, given a key with the name `alice`, you can run:
+
+```
+umeed keys show alice -a --bech=acc
+umeed keys show alice -a --bech=val
+```
+
+4. Create a [systemd](https://systemd.io/) service file
+
+```
+sudo tee /etc/systemd/system/price-feeder.service > /dev/null <<EOF
+[Unit]
+Description=Umee Price Feeder
+After=online.target[Service]
+StartLimitIntervalSec=0
+StartLimitBurst=0
+
+[Service]
+Type=simple
+User=$USER
+WorkingDirectory=/usr/local/bin
+ExecStart=bash -c 'echo "\n" | price-feeder .price-feeder/config.toml --log-level debug'
+Restart=on-failure
+RestartSec=5s
+LimitNOFILE=65535
+
+[Install]
+WantedBy=multi-user.target
+EOF
+```
+
+5. Start your service
+
+```
+sudo systemctl daemon-reload
+sudo systemctl enable price-feeder
+sudo systemctl start price-feeder
+```
+
+**Please check to make sure your price feeder is running successfully**
+
+```
+sudo journalctl -u price-feeder.service -f
+```
+
+If it's not, please check your config. Common problems are:
+
+* Wrong address
+* Wrong Chain ID
+* Wrong keyring info
+* Invalid providers / token pairs - check [coingecko](https://www.coingecko.com/en/coins/umee#markets) to see the available providers for a given coin
+* Not voting on all required tokens
