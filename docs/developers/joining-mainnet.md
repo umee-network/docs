@@ -6,9 +6,9 @@ To run a Umee Node you will first need a Ubuntu server.&#x20;
 
 The recommended hardware to run an Umee node will vary depending on the use case and desired functionalities of the node. For example, a significant amount of disk space can be required if the node will act as an archive node, i.e. `pruning=nothing` or if the node is a state-sync snapshot provider. In general, we recommend at a minimum the following specifications:
 
-* 2+ vCPU
-* 4+ GB RAM
-* 120+ GB SSD
+- 2+ vCPU
+- 4+ GB RAM
+- 120+ GB SSD
 
 At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a Umee Node onto your server.&#x20;
 
@@ -29,25 +29,25 @@ sudo tar -C /usr/local -xvf go1.18.5.linux-amd64.tar.gz
 
 # Export environment variables
 
-echo 'export GOPATH="$HOME/go"' >> ~/.profile 
-echo 'export GOBIN="$GOPATH/bin"' >> ~/.profile 
-echo 'export PATH="$GOBIN:$PATH"' >> ~/.profile 
+echo 'export GOPATH="$HOME/go"' >> ~/.profile
+echo 'export GOBIN="$GOPATH/bin"' >> ~/.profile
+echo 'export PATH="$GOBIN:$PATH"' >> ~/.profile
 source ~/.profile
 ```
 
 2\. Check if the variables were set right. If these commands do not return anything similar to these expected outputs then you should double check that you ran the first commands correctly.&#x20;
 
 ```
-go version 
+go version
 # Expected output: go1.18.3 linux/amd64
-echo $GOPATH 
+echo $GOPATH
 # Expected output: /home/umee/go
 ```
 
 3\. Install the umeed binary onto your server.&#x20;
 
 ```
-cd 
+cd
 git clone --depth 1 --branch v1.0.1 https://github.com/umee-network/umee.git
 cd umee && make install
 umeed version
@@ -88,6 +88,8 @@ cd ~/.umee/config
 wget -O $HOME/.umee/config/genesis.json "https://raw.githubusercontent.com/umee-network/umee/main/networks/umeemania-1/genesis.json"
 ```
 
+### Cosmovisor&#x20;
+
 7\. Install Cosmovisor&#x20;
 
 Cosmovisor will allow your node to automatically pull in the latest updates as soon as they released. Making your life easier in the future.&#x20;
@@ -112,7 +114,7 @@ mkdir -p ~/.umee/cosmovisor/genesis/bin
 mkdir -p ~/.umee/cosmovisor/upgrades
 
 make build
-cp ~/umee/build/umeed ~/.umee/cosmovisor/genesis/bin 
+cp ~/umee/build/umeed ~/.umee/cosmovisor/genesis/bin
 
 ```
 
@@ -171,4 +173,3 @@ To check logs you can use this command
 ```
 journalctl -u umeed -f
 ```
-

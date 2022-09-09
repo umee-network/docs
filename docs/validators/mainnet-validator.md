@@ -215,7 +215,11 @@ journalctl -u gorc -f
 journalctl -u geth -f
 ```
 
-### Price feeder (Calypso - v3)
+### Calypso - v3 Upgrade
+
+Calypso-v3-upgraded validators must run Price Feeder, or be jailed and slashed! If [cosmovisor is installed](/developers/joining-mainnet.html#cosmovisor) to swap binaries, following the instructions to setup Price Feeder below is all that is necessary. Otherwise, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), then install Price Feeder.
+
+### Price Feeder
 
 The [x/oracle module](https://github.com/umee-network/umee/tree/main/x/oracle/spec) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/umee-network/umee/tree/main/price-feeder#oracle-price-feeder).
 
@@ -307,8 +311,8 @@ sudo journalctl -u price-feeder.service -f
 
 If it's not, please check your config. Common problems are:
 
-* Wrong address
-* Wrong Chain ID
-* Wrong keyring info
-* Invalid providers / token pairs - check [coingecko](https://www.coingecko.com/en/coins/umee#markets) to see the available providers for a given coin
-* Not voting on all required tokens
+- Wrong address
+- Wrong Chain ID
+- Wrong keyring info
+- Invalid providers / token pairs - check [coingecko](https://www.coingecko.com/en/coins/umee#markets) to see the available providers for a given coin
+- Not voting on all required tokens
