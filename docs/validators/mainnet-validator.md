@@ -221,9 +221,10 @@ The [x/oracle module](https://github.com/umee-network/umee/tree/main/x/oracle/sp
 
 Note: If the calypso upgrade has happened successfully, you **absolutely must** vote on prices to avoid being jailed and slashed.
 
-1. First, install the most recent price-feeder binary
+1. First, install the most recent price-feeder binary:
+   [Releases](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv0.3.0)
 
-> Replace the tar with the correct architecture of the most recent price feeder version Currently: https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv0.3.0
+> Replace the tar with the correct architecture of the most recent price feeder version
 
 ```
 wget https://github.com/umee-network/umee/releases/download/price-feeder/v0.3.0/price-feeder-v0.3.0-linux-amd64.tar.gz
@@ -241,8 +242,9 @@ wget https://raw.githubusercontent.com/umee-network/umee/main/price-feeder/price
 
 3. Replace the example values in your config
 
-> Set up your keyring using the description (here)[https://github.com/umee-network/umee/tree/main/price-feeder#keyring-1].
-> Update the `[account]` information with the correct chain-id (**umee-1** for mainnet), address, and validator address from your keyring.
+> Set up your keyring using the description [here](https://github.com/umee-network/umee/tree/main/price-feeder#keyring-1).
+
+Update the `[account]` information with the correct chain-id (**umee-1** for mainnet), address, and validator address from your keyring.
 
 ```
 [account]
