@@ -217,7 +217,15 @@ journalctl -u geth -f
 
 ### Calypso - v3 Upgrade
 
-Calypso-v3-upgraded validators must run Price Feeder, or be jailed and slashed! If [cosmovisor is installed](/developers/joining-mainnet.html#cosmovisor) to swap binaries, following the instructions to setup Price Feeder below is all that is necessary. Otherwise, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), then install Price Feeder.
+#### Overview
+
+Calypso - v3 is Umee Network's latest blockchain technology release. In addition to Peggo, v3 validators must also run our Price Feeder process or will be jailed and slashed! Price Feeder fetches and aggregates exchange rate price data from various providers, then supplies them to the main oracle process.
+
+#### Installation
+
+> If [cosmovisor](/developers/joining-mainnet.html#cosmovisor) is already installed to automatically swap binaries, [skip to installing Price Feeder below](#price-feeder).
+
+If this upgrade is to an existing validator, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), manually swap the binaries, then [install Price Feeder](#price-feeder). If you would like to setup a new mainnet validator, [follow those instructions first](#mainnet-validator), before proceeding to [install Price Feeder](#price-feeder).
 
 ### Price Feeder
 
