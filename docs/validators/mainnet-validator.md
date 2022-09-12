@@ -215,17 +215,26 @@ journalctl -u gorc -f
 journalctl -u geth -f
 ```
 
-### Calypso - v3 Upgrade
+### Calypso - v3 Upgrade Instructions
 
 #### Overview
 
 Calypso - v3 is Umee Network's latest blockchain technology release. In addition to Peggo, v3 validators must also run our Price Feeder process or will be jailed and slashed! Price Feeder fetches and aggregates exchange rate price data from various providers, then supplies them to the main oracle process.
 
+#### Release Compatibility Matrix
+
+| Umee Version | Mainnet | Experimental | Cosmos SDK |  IBC   | Peggo  | Price Feeder |       Gravity Bridge       |
+| :----------: | :-----: | :----------: | :--------: | :----: | :----: | :----------: | :------------------------: |
+|    v3.x.x    |    ✓    |      ✗       |  v0.46.x   | v5.0.x | v1.0.x |    v0.3.x    | umee/v3 module/v1.5.x-umee |
+
 #### Installation
+
+Ensure that your version of Peggo is compatible above. If not, the latest version 1.0.x is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
 
 > If [cosmovisor](/developers/joining-mainnet.html#cosmovisor) is already installed to automatically swap binaries, [skip to installing Price Feeder below](#price-feeder).
 
-If this upgrade is to an existing validator, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), manually swap the binaries, then [install Price Feeder](#price-feeder). If you would like to setup a new mainnet validator, [follow those instructions first](#mainnet-validator), before proceeding to [install Price Feeder](#price-feeder).
+If this upgrade is to an existing validator, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), manually swap the binaries, and [install Price Feeder](#price-feeder).
+If you would like to setup a new mainnet validator, [follow those instructions first](#mainnet-validator), before proceeding to [install Price Feeder](#price-feeder).
 
 ### Price Feeder
 
