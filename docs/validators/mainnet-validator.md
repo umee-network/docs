@@ -223,9 +223,7 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 #### Release Compatibility Matrix
 
-| Umee Version | Mainnet | Experimental | Cosmos SDK |  IBC   | Peggo  | Price Feeder |       Gravity Bridge       |
-| :----------: | :-----: | :----------: | :--------: | :----: | :----: | :----------: | :------------------------: |
-|    v3.x.x    |    ✓    |      ✗       |  v0.46.x   | v5.0.x | v1.0.x |    v0.3.x    | umee/v3 module/v1.5.x-umee |
+Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what versions are compatible.
 
 #### Installation
 
@@ -240,7 +238,9 @@ If you would like to setup a new mainnet validator, [follow those instructions f
 
 The [x/oracle module](https://github.com/umee-network/umee/tree/main/x/oracle/spec) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/umee-network/umee/tree/main/price-feeder#oracle-price-feeder).
 
-Note: If the calypso upgrade has happened successfully, you **absolutely must** vote on prices to avoid being jailed and slashed.
+Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary. It is not necessary for umeed v1.0.x.
+
+If the calypso (V3) upgrade has happened successfully, you **absolutely must** vote on prices to avoid being jailed and slashed.
 
 1. First, install the most recent price-feeder binary:
    [Releases](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv0.3.0)
