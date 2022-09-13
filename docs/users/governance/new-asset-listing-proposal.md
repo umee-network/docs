@@ -69,6 +69,8 @@ Brief overview of the token and project.
 
 Once a new asset listing proposal has been created, it's time to [submit it as a text proposal](/users/governance/creating-proposal) through Umee's governance process. 
 
+> To increase the chances of a proposal being passed, [consider following these steps before submitting the proposal on-chain](/users/governance/creating-proposal).
+
 ### To Submit a Text Proposal:
 
 #### 1) Start by connecting your wallet to [Umee's governance forum](https://gov.umee.cc/).
