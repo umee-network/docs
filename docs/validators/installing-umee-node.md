@@ -1,8 +1,8 @@
 # Installing Umee Node
 
-###
-
 At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a Umee Node onto your server.&#x20;
+
+> Umee has an [automatic installer](https://install.umee.cc)
 
 1. Install the required packages & updates.&#x20;
 
