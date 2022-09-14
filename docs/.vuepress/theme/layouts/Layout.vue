@@ -41,7 +41,7 @@ export default {
       dataLayer.push(arguments);
     };
     gtag('js', new Date());
-    gtag('config', id);
+    gtag('config', gtmId);
   },
   components: {
     ParentLayout,
