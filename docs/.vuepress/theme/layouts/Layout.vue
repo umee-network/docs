@@ -22,6 +22,27 @@ export default {
   data() {
     return {};
   },
+  mounted() {
+    if (window.dataLayer && window.gtag) {
+      return;
+    }
+    // insert gtag `<script>` tag
+    const gtagScript = document.createElement('script');
+    const gtmId = 'GTM-N3TTX43'
+
+    gtagScript.src = `https://www.googletagmanager.com/gtag/js?id=${gtmId}`;
+    gtagScript.async = true;
+    document.head.appendChild(gtagScript);
+    // insert gtag snippet
+    window.dataLayer = window.dataLayer || [];
+    // the gtag function must use `arguments` object to forward parameters
+    window.gtag = function () {
+      // eslint-disable-next-line prefer-rest-params
+      dataLayer.push(arguments);
+    };
+    gtag('js', new Date());
+    gtag('config', id);
+  },
   components: {
     ParentLayout,
     PageFooter,
