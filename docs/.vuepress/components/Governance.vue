@@ -38,6 +38,12 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
+          title: "Community DAO",
+          text: "Learn how to get involved through Umee's Community DAO",
+          link: "/governance/community-dao",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Validator DAO",
           text: "Learn about the DAO that handles the Umee Foundation's delegation decisions",
           link: "/governance/validator-dao",

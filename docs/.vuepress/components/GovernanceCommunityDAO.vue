@@ -26,6 +26,12 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
+          title: "Overview",
+          text: "Read about how the Community DAO operates",
+          link: "/governance/community-dao/overview",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Educators",
           text: "Learn how to contribute as an educator",
           link: "/governance/community-dao/educators",

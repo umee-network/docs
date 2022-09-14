@@ -85,6 +85,7 @@ module.exports = {
           text: "Community DAO",
           collapsible: true,
           children: [
+            "/governance/community-dao/overview",
             "/governance/community-dao/educators",
             "/governance/community-dao/community-support",
             "/governance/community-dao/translators",

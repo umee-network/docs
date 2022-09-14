@@ -61,7 +61,7 @@ _These educational libraries do a great job recognizing the intended audience fo
 
 <br>
 
-**Investopedia**
+**[Investopedia](https://www.investopedia.com/)**
 
 _It's important to have a strong understanding of finance before diving into decentralized finance. Investopedia recognizes that many basic financial concepts may be foreign to readers and does an exceptional job giving in depth explanations on all sorts of financial terms._
 
@@ -168,8 +168,6 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 
 > The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee]().
 
-<br>
-
 ### Explainer Videos, Articles, and/or Twitter Threads
 - Introduction to decentralized lending and borrowing
 - Introduction to the Cosmos Ecosystem and the major DeFi chains like Umee
@@ -201,6 +199,16 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 ### Other
 - Useful infographics that can be used in Umee's official documentation
 - High quality gifs that can be used in Umee's user guides
+
+<br>
+
+## Criteria
+
+- Amount of value the contribution has brought or is expected to bring to Umee; 
+- Clarity of contributions on the submission form;
+- Accuracy of the content; 
+- Quality of the content; 
+- Reach and engagement levels of the content submitted (content needs to be shared or easily shareable and actively utilized in order to be considered valuable).
 
 <br>
 
