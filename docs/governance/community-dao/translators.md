@@ -111,7 +111,7 @@ _Notion is another organizational tool that can be used to share translated blog
 
 ## Contribution Ideas
 
-> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee]().
+> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
 
 ### Content
 

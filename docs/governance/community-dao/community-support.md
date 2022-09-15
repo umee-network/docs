@@ -65,13 +65,13 @@ When submitting your work, providing a link to the community channel is enough -
 
 ## Contribution Ideas
 
-> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee]().
+> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
 
 - Create and moderate regional community channels (e.g. an "Umee Spanish Community" Telegram channel) on regionally significant platforms as needed
-- Lead regional communities on [Umee's official Discord](https://discord.gg/umee)
+- Translate important announcements and lead regional communities on [Umee's official Discord](https://discord.gg/umee)
 - Help troubleshoot common issues on Discord and/or other community channels
 - Create and distribute useful resources like infographics and tutorial gifs to help with troubleshooting 
-- Lead productive conversations across community channels
+- Lead productive conversations across community channels like Discord, Telegram, Reddit, and Commonwealth
 
 <br>
 

@@ -2,13 +2,13 @@
 
 ## Submission Guidelines
 
-> All submissions will be judged at the sole discretion of the Umee Community DAO Committee. Participants are by no means guaranteed to receive UMEE tokens for their contributions. Contributors who are selected to receive UMEE tokens may be required to pass any and all KYC/AML checks requested by the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee).
+> All submissions will be judged at the sole discretion of the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee). Participants are by no means guaranteed to receive UMEE tokens for their contributions. Contributors who are selected to receive UMEE tokens may be required to pass any and all KYC/AML checks requested by the Umee Community DAO Committee.
 
-> By submitting your contribution to the Umee Community DAO Committee, you confirm that you have read, understood, and agreed to the following guidelines.
+> By submitting your contribution to the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee), you confirm that you have read, understood, and agreed to the following guidelines.
 
 ### All contributors MUST:
 
-- Reference the appropriate contributor section ([Educators](/governance/community-dao/educators), [Community Support](/governance/community-dao/community-support), [Translators](/governance/community-dao/translators), [Other]()) and follow the outlined requirements before submitting a contribution. 
+- Reference the appropriate contributor section ([Educators](/governance/community-dao/educators), [Community Support](/governance/community-dao/community-support), [Translators](/governance/community-dao/translators), [Other](/governance/community-dao/other)) and follow the outlined requirements before submitting a contribution. 
 - Always treat others how they would like to be treated.
 - Submit one form per contribution, with the exception of Community Support Leaders who should submit one form per channel managed per period.
 - Submit completed contributions in a way that can easily be shared or presented without additional work.
@@ -23,15 +23,13 @@
 - Provide any financial advice or speculate on the value of the UMEE token.
 - Submit incomplete content that is not published or ready to be published.
 
-<br>
-
 > Failure to comply may result in the contributor being blacklisted from future Community DAO rewards.
 
 <br>
 
 ## Submission Forms
 
-> All participants must be a member of the [Umee Discord](https://discord.gg/umee) in order to submit a contribution. Please make sure you are connected to the correct Discord account when completing the form.
+> All participants must be members of the [Umee Discord](https://discord.gg/umee) in order to submit contributions. Please make sure you are connected to the correct Discord account when completing the form.
 
 :::: tabs
 

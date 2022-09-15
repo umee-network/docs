@@ -166,7 +166,7 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 
 ## Contribution Ideas
 
-> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee]().
+> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
 
 ### Explainer Videos, Articles, and/or Twitter Threads
 - Introduction to decentralized lending and borrowing

@@ -10,6 +10,8 @@ Contributors aren't limited to the outlined contributions. If you have a skillse
 
 ## Contribution Ideas
 
+> The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
+
 ### Community Events
 
 - Host and record community calls/Twitter Spaces to discuss all things Umee with other key community contributors
