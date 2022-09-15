@@ -8,7 +8,7 @@
 
 Create and share high quality educational content that is easily understandable and ENGAGING! Avoid creating unnecessarily long content if it can be condensed and shared in a shorter format. 
 
-Educators are encouraged to focus on what they're good at, since quality is significantly more important than quantity. It's important to distribute educational content to the appropriate audience in order for it to be deemed valuable. Collaborate with your local community and the greater [Umee community on Discord]() in order to determine the most effective distribution methods.
+Educators are encouraged to focus on what they're good at, since quality is significantly more important than quantity. It's important to distribute educational content to the appropriate audience in order for it to be deemed valuable. Collaborate with your local community and the greater [Umee community on Discord](https://discord.gg/umee) in order to determine the most effective distribution methods.
 
 > The purpose of educational content is to EDUCATE new and prospective users. Platforms like Medium will remove posts it determines to be advertisements or promotions.
 

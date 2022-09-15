@@ -40,7 +40,7 @@ When submitting your work, providing a link to the community channel is enough -
 ****
 
 - Turn on post notifications for Umee's official channels so updates can be shared with your community in a timely manner;
-- Use Umee's official channels as a source of truth - if you're unsure of the answer to a question, ask on [Umee's Discord]() instead of guessing.
+- Use Umee's official channels as a source of truth - if you're unsure of the answer to a question, ask on [Umee's Discord](https://discord.gg/umee) instead of guessing.
 
 :::
 
@@ -68,7 +68,7 @@ When submitting your work, providing a link to the community channel is enough -
 > The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee]().
 
 - Create and moderate regional community channels (e.g. an "Umee Spanish Community" Telegram channel) on regionally significant platforms as needed
-- Lead regional communities on [Umee's official Discord]()
+- Lead regional communities on [Umee's official Discord](https://discord.gg/umee)
 - Help troubleshoot common issues on Discord and/or other community channels
 - Create and distribute useful resources like infographics and tutorial gifs to help with troubleshooting 
 - Lead productive conversations across community channels

@@ -32,6 +32,12 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
+          title: "Submit Contributions",
+          text: "Contribution submission guidelines and forms",
+          link: "/governance/community-dao/submit-contributions",
+        },
+        {
+          img: "/img/docs-users-icon.png",
           title: "Educators",
           text: "Learn how to contribute as an educator",
           link: "/governance/community-dao/educators",
@@ -47,6 +53,12 @@ export default {
           title: "Translators",
           text: "Learn how to contribute as a translator",
           link: "/governance/community-dao/translators",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Other",
+          text: "Learn about other ways to contribute",
+          link: "/governance/community-dao/other",
         },
       ],
     };

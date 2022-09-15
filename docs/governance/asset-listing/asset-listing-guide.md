@@ -6,7 +6,7 @@ Anyone can submit a proposal for a new asset to be listed on Umee through Umee's
 
 <br>
 
-## Step 1: Drafting the Proposal
+## Drafting the Proposal
 
 :::: tabs
 
@@ -65,9 +65,7 @@ Brief overview of the token and project.
 
 <br>
 
-## Step 2: Submitting the Proposal
-
-Once a new asset listing proposal has been created, it's time to [submit it as a text proposal](/users/governance/creating-proposal) through Umee's governance process. 
+## Submitting the Proposal
 
 > To increase the chances of a proposal being passed, [consider following these steps before submitting the proposal on-chain](/users/governance/creating-proposal).
 

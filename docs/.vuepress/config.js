@@ -86,9 +86,11 @@ module.exports = {
           collapsible: true,
           children: [
             "/governance/community-dao/overview",
+            "/governance/community-dao/submit-contributions",
             "/governance/community-dao/educators",
             "/governance/community-dao/community-support",
             "/governance/community-dao/translators",
+            "/governance/community-dao/other",
           ],
         },
         {

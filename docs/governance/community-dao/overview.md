@@ -191,3 +191,58 @@ The observer may not serve more than two consecutive terms or 6 months, whicheve
 At start, a total of 6,000,000 UMEE from the community pool will be allocated in order to fund the Community DAO for a quarter. The 6,000,000 UMEE will be used to incentivize and reward contributors as needed, and any leftover tokens at the end of a quarter will be rolled over into the next quarter.
 
 Community DAO Committee members will be compensated in predetermined USD amounts following the completion of each period. Each month $8,000 USD in UMEE from the community pool will be used to compensate the Community DAO Committee. An additional $1,000 USD in UMEE will be reserved for unforseen operational expenses, bringing the Community DAO's quarterly operational budet to $25,000.
+
+<br>
+
+## Precautions
+
+:::: tabs
+
+::: tab Contributors
+
+### Contributor Precautions
+
+****
+
+1. Contributors must follow the [submission guidelines]() in order to be eligible to receive a token reward.
+2. Contributors who fail to meet the submission guidelines may be blacklisted and unable to earn rewards for their contributions in the future.
+3. Validators are prohibited from earning through the Umee Community DAO. Validators are encouraged to reference the Umee Community DAO for contribution ideas and should continue to submit their work through [Umee's Validator DAO](/governance/validator-dao).
+4. All translations must be native. Translators with a proven track record will be prioritized over new translators in order to help the committee avoid rewarding low-effort translations.
+5. Contributions will be reviewed in the order in which they are submitted. To help avoid bad actors claiming credit for work they didn't complete, contributors should submit their contributions as they are made.
+6. The contribution submission form will require Discord sign-in to further help ensure the wallet addresses provided for rewards are accurate.
+7. Contributors are unable to earn more than 100,000 UMEE in a single period.
+8. By submitting a contribution, contributors acknowledge that they are buy no means guaranteed to receive compensation for their work. While the Community DAO Committee will make an effort to reward all valuable contributions, the definition of a valuable contribution may be subjective. 
+
+:::
+
+::: tab Committee
+
+### Committee Precautions
+
+****
+
+1. All committee members will have veto rights for any decision proposed. For every Community DAO decision there must be at least four votes of approval, and less than two vetoes.
+2. Committee members will be compensated in predetermined USD amounts calculated at the time of disbursement to help protect their earnings against market volatility.
+3. All community members will be able to view completed contribution forms within the #cd-contributions channel on Discord to help signal support or dissent for contributions and hold committee members responsible for their decisions.
+4. The observer will audit committee decisions with a focus on identifying significant inefficiencies, inconsistencies, and potential signs of corruption. In the event that the DAO is not operating as intended, the observer will organize an internal vote to replace one or more committee members.
+5. In the event that a committee member is no longer able to perform his or her duties before the end of the term, he or she can request to step down. A committee vote will require four of the remaining six committee members to be in agreement in order to add a replacement without requiring a vote through community governance. Replacement committee members will be paid pro-rata for their time on the committee.
+6. The Community DAO Committee will be responsible for providing easily auditable transparency reports at the time of rewards disbursement each month/period.
+7. The Community DAO committee will host community calls on the cd-calls channel on Umee's Discord at least once a month in which they give an overview and feedback on the contributions submitted during the ongoing period, and comment on what they will be looking for in the upcoming month. Community members are encouraged to share their questions and concerns during these calls.
+
+:::
+
+::: tab Validators
+
+### Validator Precautions
+
+****
+
+Validators are an important part of the Umee community, and often make some of the most valuable contributions. While validators are allowed to serve as Community DAO Committee members, they are unable to earn rewards through Umee's Community DAO. In order to properly incentivize validators who sit on the Community DAO Committee, validators will receive the same compensation as other members. 
+
+Umee's core team does not make decisions related to quarterly validator delegations; this is handled by [Umee's Validator DAO](/governance/validator-dao).  Therefore validators who serve on Umee's Community DAO are expected to serve the Umee community and will not be disproportionately influenced by the core team. Since it is a paid role, validators who sit on the Umee Community DAO Committee will be unable to use this role as a contribution for the Validator DAO and are expected to submit their additional contributions through the Validator DAO each quarter in order to be eligible to receive a delegation.
+
+Validators are encouraged to reference the Umee Community DAO for community contribution ideas. All submission forms require contributors to identify if they are a validator or not. Contributors who identify validators will be filtered out when the Community DAO Committee reviews contributions each period, and their community contributions will be forwarded to the Validator DAO Committee after the end of a period. 
+
+:::
+
+::::
