@@ -85,7 +85,7 @@ Brief overview of the token and project.
 
 #### 5) Title the proposal and complete the template for the asset being proposed.
 
-![](title-new-asset-listing-proposal.png)
+![](/bg/title-new-asset-listing-proposal.png)
 
 #### 6) Create the New Asset Listing Proposal thread.
 
