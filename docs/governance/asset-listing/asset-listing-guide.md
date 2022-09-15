@@ -57,7 +57,7 @@ Brief overview of the token and project.
 
 ****
 
-> Coming soon!
+> [A sample New Asset Listing Proposal can be found here](https://gov.umee.cc/discussion/6955-sample-listing-proposal-add-support-for-atom).
 
 :::
 
@@ -65,36 +65,58 @@ Brief overview of the token and project.
 
 <br>
 
-## Submitting the Proposal
-
-> To increase the chances of a proposal being passed, [consider following these steps before submitting the proposal on-chain](/users/governance/creating-proposal).
-
-### To Submit a Text Proposal:
+## Sharing the Proposal
 
 #### 1) Start by connecting your wallet to [Umee's governance forum](https://gov.umee.cc/).
 
 ![](/bg/select-login.png)
 
-#### 2) Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
+#### 2) Select the "New Asset Listing Proposals" section.
 
-![](/bg/new-proposal.png)
+![](/bg/select-new-asset-section.png)
 
-#### 3) In the Proposal Type dropdown, select "Text Proposal."
+#### 3) Select the New thread button and choose "New New Asset Listing Proposals Thread."
 
-![](/bg/text-proposal.png)
+![](/bg/choose-new-asset-listing-thread.png)
 
-#### 4) Enter the proposal title and details in the format shown in the template above.
+#### 4) You will now see a template for the New Asset Listing Proposal. In the Proposal Type dropdown, select "New Asset Listings Proposal."
 
-> If a governance thread was created to discuss the New Asset Listing Proposal draft, include it as a link at the very bottom of the proposal.
+![](/bg/select-new-asset-listing-topic.png)
 
-![](/bg/add-title-details.png)
+#### 5) Title the proposal and complete the template for the asset being proposed.
 
-#### 5) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
+![](/bg/title-new-asset-listing-proposal.png)
+
+#### 6) Create the New Asset Listing Proposal thread.
+
+![](/bg/create-new-asset-listing-thread.png)
+
+<br>
+
+## Submitting the Proposal
+
+> To increase the chances of success, consider discussing the proposal with the community before submitting it on-chain.
+
+<br>
+
+#### 1) Select the New thread button and choose "New On-Chain Proposal" from the dropdown.
+
+![](/bg/new-on-chain-prop.png)
+
+#### 2) In the Proposal Type dropdown, select "Text Proposal."
+
+![](/bg/choose-text-prop.png)
+
+#### 3) Enter the proposal title and a brief description with a link to the discussion thread.
+
+![](/bg/enter-title-description.png)
+
+#### 4) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
 
 > - The deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000." 
 > - Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
 > - [Learn more about how Umee governance deposits work here](/governance/governance-overview/how-it-works).
 
-![](/bg/input-deposit-amount.png)
+![](/bg/send-tx.png)
 
-#### 6) Once the New Asset Listing Proposal has been submitted on chain, spread the word to encourage community participation.
+#### 5) Once the New Asset Listing Proposal has been submitted on chain, spread the word to encourage community participation.
