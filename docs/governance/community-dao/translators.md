@@ -12,6 +12,8 @@ Work with others in your community to determine what needs to be translated, and
 
 ## Documentation
 
+> [Umee's official documentation can be found here](https://umeeversity.umee.cc/).
+
 :::: tabs
 
 ::: tab Requirements
@@ -57,6 +59,8 @@ _Gitbook and Notion are easily usable tools that allows translators to organize 
 <br>
 
 ## Blog Posts
+
+> [Official Umee blog posts can be found here](https://umee.cc/blog/).
 
 :::: tabs
 

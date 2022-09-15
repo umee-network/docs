@@ -79,7 +79,7 @@ Brief overview of the token and project.
 
 ![](/bg/choose-new-asset-listing-thread.png)
 
-#### 4) You will now see a template for the New Asset Listing Proposal. In the Proposal Type dropdown, select "New Asset Listings Proposal."
+#### 4) You will now see a template for the New Asset Listing Proposal. In the Proposal Type dropdown, select "New Asset Listing Proposals."
 
 ![](/bg/select-new-asset-listing-topic.png)
 
