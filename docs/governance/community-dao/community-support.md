@@ -2,6 +2,8 @@
 
 > TLDR: Community Support leaders help organize, moderate, and support community members across all active Umee community channels.
 
+> To get started as a community support leader visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee).
+
 <br>
 
 ## Overview

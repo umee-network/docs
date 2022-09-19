@@ -2,6 +2,8 @@
 
 > TLDR: Translators are responsible for translating, organizing, and sharing official Umee content with the community members who need it.
 
+> To get started as an translator visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee).
+
 <br>
 
 ## Overview

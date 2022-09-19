@@ -2,6 +2,8 @@
 
 > TLDR: Educators are expected to create and distribute high quality educational content to help onboard the next generation of DeFi users to Umee.
 
+> To get started as an educator visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee).
+
 <br>
 
 ## Overview
