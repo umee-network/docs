@@ -243,15 +243,15 @@ Please [click here](https://github.com/umee-network/umee#release-compatibility-m
 If the calypso (V3) upgrade has happened successfully, you **absolutely must** vote on prices to avoid being jailed and slashed.
 
 1. First, install the most recent price-feeder binary:
-   [Releases](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv0.3.0)
+   [Releases](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv1.0.0)
 
 > Replace the tar with the correct architecture of the most recent price feeder version
 
 ```
-wget https://github.com/umee-network/umee/releases/download/price-feeder/v0.3.0/price-feeder-v0.3.0-linux-amd64.tar.gz
-tar xf price-feeder-v0.3.0-linux-amd64.tar.gz
-chmod +x price-feeder-v0.3.0-linux-amd64/price-feeder
-sudo mv price-feeder-v0.3.0-linux-amd64/price-feeder /usr/local/bin/
+wget https://github.com/umee-network/umee/releases/download/price-feeder/v1.0.0/price-feeder-v1.0.0-linux-amd64.tar.gz
+tar xf price-feeder-v1.0.0-linux-amd64.tar.gz
+chmod +x price-feeder-v1.0.0-linux-amd64/price-feeder
+sudo mv price-feeder-v1.0.0-linux-amd64/price-feeder /usr/local/bin/
 ```
 
 2. Download the example config file
