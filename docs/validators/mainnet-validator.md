@@ -55,12 +55,14 @@ geth account list
 sudo tee /etc/systemd/system/geth.service > /dev/null <<EOF
 [Unit]
 Description=Geth node
-After=online.target[Service]
+After=online.target
+[Service]
 User=$USER
 ExecStart=/usr/local/bin/geth --syncmode light --http --http.addr=0.0.0.0 --http.port=8545 --goerli
 Restart=on-failure
 RestartSec=3
-LimitNOFILE=4096[Install]
+LimitNOFILE=4096
+[Install]
 WantedBy=multi-user.target
 EOF
 ```
@@ -73,21 +75,20 @@ sudo systemctl enable geth
 sudo systemctl start geth
 ```
 
-5\. Install the gravity bridge orchestrator. This is the client for cross-chain interaction.
+5\. Install Peggo gravity bridge orchestrator [release for your architecture](https://github.com/umee-network/peggo/releases), the client for cross-chain interaction, eg. on Linux/x86:
 
 ```
-wget https://github.com/PeggyJV/gravity-bridge/releases/download/v0.1.20/gorc
-chmod +x gorc
-sudo mv gorc /usr/local/bin/
+wget https://github.com/umee-network/peggo/releases/download/v0.4.1/peggo-v0.4.1-linux-amd64.tar.gz
+sudo mv peggo /usr/local/bin/
 ```
 
 6\. Create a home folder for the orchestrator and make a config file for it.
 
 ```
-mkdir ~/gorc
-#Create config file
-tee $HOME/gorc/config.toml <<EOF
-keystore = "$HOME/gorc/keystore/"
+mkdir $HOME/peggo
+# Create config file
+tee $HOME/peggo/config.toml <<EOF
+keystore = "$HOME/peggo/keystore/"
 [gravity]
 contract = "0xc846512f680a2161D2293dB04cbd6C294c5cFfA7"
 fees_denom = "uumee"
@@ -105,19 +106,21 @@ EOF
 7\. Add keys from both networks in the orchestrator&#x20;
 
 ```
-gorc --config $HOME/gorc/config.toml keys cosmos recover UMEE_WALLET_NAME "UMEE WALLET MNEMONIC"
-gorc --config $HOME/gorc/config.toml keys eth import ETH_WALLET_NAME "ETH_PRIVATE_KEY"
+peggo --config $HOME/peggo/config.toml keys cosmos recover UMEE_WALLET_NAME "UMEE WALLET MNEMONIC"
+peggo --config $HOME/peggo/config.toml keys eth import ETH_WALLET_NAME "ETH_PRIVATE_KEY"
 ```
 
 8\. Create a service file for the orchestrator
 
 ```
-sudo tee /etc/systemd/system/gorc.service > /dev/null <<EOF
+sudo tee /etc/systemd/system/peggo.service > /dev/null <<EOF
 [Unit]
 Description=Gravity Bridge Orchestrator
-After=online.target[Service]User=$USER
+After=online.target
+[Service]
+User=$USER
 Environment="RUST_LOG=INFO"
-ExecStart=/usr/local/bin/gorc --config $HOME/gorc/config.toml orchestrator start --cosmos-key ИМЯ_КОШЕЛЬКА_UMEE --ethereum-key ИМЯ_КОШЕЛЬКА_ЭФИРА
+ExecStart=/usr/local/bin/peggo --config $HOME/peggo/config.toml orchestrator start --cosmos-key ИМЯ_КОШЕЛЬКА_UMEE --ethereum-key ИМЯ_КОШЕЛЬКА_ЭФИРА
 Restart=on-failure
 RestartSec=3
 LimitNOFILE=4096[Install]
@@ -128,8 +131,7 @@ EOF
 9\. Check the sync status. If catching_up is equal to true, wait until it is false. This process may take a minute.&#x20;
 
 ```
-umeed status 2>&1 | jq
-#Check "catching_up": false.
+umeed status 2>&1 | jq -r '.SyncInfo.catching_up'
 ```
 
 10\. Check to see if you have received tokens from the faucet or that you have tokens in your new Umee wallet.&#x20;
@@ -168,29 +170,29 @@ echo 'export VAL_ADDRESS=VALIDATOR_ADDRESS' >> ~/.profile
 
 ```
 umeed keys show UMEE_WALLET_NAME -a
-echo 'export GORC_UMEE_KEY=UMEE_WALLET_ADDRESS' >> ~/.profile
+echo 'export PEGGO_UMEE_KEY=UMEE_WALLET_ADDRESS' >> ~/.profile
 ```
 
 #### Ethereum wallet address:
 
 ```
-gorc --config $HOME/gorc/config.toml keys eth show ETH_WALLET_NAME
-echo 'export GORC_ETH_KEY=ETH_WALLET_ADDRESS' >> ~/.profile
+peggo --config $HOME/peggo/config.toml keys eth show ETH_WALLET_NAME
+echo 'export PEGGO_ETH_KEY=ETH_WALLET_ADDRESS' >> ~/.profile
 source ~/.profile
 ```
 
 #### Hash of the transaction for delegating ether keys across the bridge:
 
 ```
-gorc --config $HOME/gorc/config.toml sign-delegate-keys ETH_WALLET_NAME $VAL_ADDRESS
-echo 'export GORC_ETH_SIG=HASH' >> ~/.profile
+peggo --config $HOME/peggo/config.toml sign-delegate-keys ETH_WALLET_NAME $VAL_ADDRESS
+echo 'export PEGGO_ETH_SIG=HASH' >> ~/.profile
 source ~/.profile
 ```
 
 13\. Link all keys on the bridge&#x20;
 
 ```
-umeed tx gravity set-delegate-keys $VAL_ADDRESS $GORC_UMEE_KEY $GORC_ETH_KEY $GORC_ETH_SIG --chain-id="umee-betanet-1" --from=UMEE_WALLET_NAME --fees=200uumee --gas auto
+umeed tx gravity set-delegate-keys $VAL_ADDRESS $PEGGO_UMEE_KEY $PEGGO_ETH_KEY $PEGGO_ETH_SIG --chain-id="umee-betanet-1" --from=UMEE_WALLET_NAME --fees=200uumee --gas auto
 ```
 
 Carefully check if that transaction failed. It requires a lot of gas that can be a source of the issue.
@@ -203,15 +205,15 @@ Repeat last 3 commands from step 12.
 
 ```
 sudo systemctl daemon-reload
-sudo systemctl enable gorc
-sudo systemctl start gorc
+sudo systemctl enable peggo
+sudo systemctl start peggo
 ```
 
 To check logs and confirm that everything is in order use the following commands
 
 ```
 journalctl -u umeed -f
-journalctl -u gorc -f
+journalctl -u peggo -f
 journalctl -u geth -f
 ```
 
