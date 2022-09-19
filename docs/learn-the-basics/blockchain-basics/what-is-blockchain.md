@@ -38,6 +38,12 @@ The decentralized networks that blockchains run on help ensure that the data bei
 
 ****
 
+Most existing systems require some level of trust between the provider/manufacturer and user/consumer.
+
+> Someone who transfers money through a payment app trusts that payment service will deliver the funds promptly without stealing or freezing them.
+
+> Someone who checks their local weather station trusts that the station is reporting the weather as accurately and timely as possible.
+
 When a blockchain is properly decentralized, no single entity has authority over the record-keeping system. This means that users do not need to trust each other or a third party for the source of truth, or for a system to function as intended. The accuracy of data is verified by network participants who must reach a consensus before it is added to the blockchain.
 
 :::
@@ -47,6 +53,12 @@ When a blockchain is properly decentralized, no single entity has authority over
 ### Accessible
 
 ****
+
+Products and services on the internet aren’t as easily accessible as they may seem. Centralized institutions act as gatekeepers and not everyone is treated equally.
+
+> Banking services are typically only offered to users that meet certain profile requirements in specific jurisdictions.
+
+> Digital content is often censored by governments.
 
 Blockchains allow anyone with an internet connection to access the blockchain-based products and services they need. All users are treated equally, regardless of their identity, location, or financial status. This makes it easier for anyone to gain access to helpful products, services, and content that may otherwise be restricted.
 
@@ -58,19 +70,15 @@ Blockchains allow anyone with an internet connection to access the blockchain-ba
 
 ****
 
+Traditional record-keeping systems are rarely transparent. Data is often collected, organized, and presented as fact without actual proof. 
+
+> Manufacturers can mislead consumers about the origin of their products.
+
+> Companies can manipulate financial numbers to appear more attractive to investors.
+
+> Researchers can alter data to secure more funding or gain regulatory approval.
+
 Since the data being added to a blockchain is recorded by all of the network’s participants, transparency is required in order for a blockchain to operate. The transparency provided by blockchains can be beneficial to both regulators and companies by providing permanent records of all transactions and simplifying the auditing process. Everyone has the ability to gain access to all transactional data on a blockchain.
-
-:::
-
-::: tab Self-Sovereign
-
-### Self-Sovereign
-
-****
-
-Lastly, self-sovereignty is a distinct property in crypto. Crypto users maintain full ownership and control over things that belong to them, be it data, money, or access to services. In the traditional world, we are used to giving control to third party softwares to store and access our data, and we rely on third party intermediaries such as banks to facilitate transactions.
-
-In crypto, the underlying blockchain technology gives full sovereignty to the individuals and each individual is able to perform activities in a peer to peer or peer to protocol fashion facilitated by algorithms and smart contract code instead of a centralized intermediary, hence the popular meme “_be your own bank_.”
 
 :::
 

@@ -4,9 +4,13 @@
 
 ![](/bg/what-is-crypto.png)
 
-By using cards rather than cash, much of the population has already chosen to use their currencies of choice digitally rather than physically. When people transition from physical cash to online banking products they may not realize that they are actually trading self-sovereignty for convenience. One of the best things about physical cash is that it can easily be exchanged between two parties without the need for a centralized intermediary (like a bank or a payment service provider). When people choose to do their banking activities digitally, banks have the ability to block transactions and freeze the funds of users without warning. This means that banks and/or the governments that oversee the banks have control over how people spend their “own” money.
+One of the best things about physical cash is that it can easily be exchanged between two parties without the need for a centralized intermediary (like a bank or a payment service provider). When people transition from physical cash to online banking products they may not realize that they are actually trading self-sovereignty for convenience, since banks have the ability to block transactions and freeze users' funds without warning. This means that banks and/or the governments that oversee the banks have control over how people can spend their “own” money.
 
 Crypto is an entirely new asset class native to the internet that is designed to fix this problem among many others. While there are many different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto), all crypto generally acts as a digital representation of something else (e.g. a dollar, a vote, a ticket). Crypto assets can be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain), a revolutionary system used to maintain virtual records, to document transaction data in a decentralized manner. 
+
+> Similarly to how an entry is made into a virtual accounting system whenever a debit card is used or an e-ticket is redeemed, an entry is made to a blockchain whenever a crypto transaction occurs.
+
+Since crypto lives on blockchains, crypto users have full sovereignty over their digital assets. This means crypto users can use their digital assets whenever and however they'd like without needing to rely on a centralized intermediary. 
 
 <br>
 
@@ -34,7 +38,7 @@ Crypto, unlike traditional currencies, commodities, or securities, usually isn�
 
 Crypto is extremely secure thanks to the self-sovereignty provided by [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain). On [Cosmos-based Proof of Stake blockchains](/learn-the-basics/cosmos-basics/what-is-cosmos) like Umee, an attacker needs to control ⅔ of the entire network in order to seize the funds of another user. Typically, the cost associated with attacking a network makes such attempts financially unpractical.
 
-> When crypto is “stolen” it is usually due to a centralized exchange being hacked or a user error. This is why it’s important for crypto users to familiarize themselves with basic [safety measures](/learn-the-basics/crypto-basics/crypto-safety) and [withdraw their crypto from centralized exchanges](/users/getting-started/funding-wallet).
+> When crypto is “stolen” it is usually due to a centralized exchange being hacked or a user error. This is why it’s important for crypto users to familiarize themselves with basic [safety measures](/learn-the-basics/crypto-basics/what-is-a-wallet.html#wallet-safety) and [withdraw their crypto from centralized exchanges](/users/getting-started/funding-wallet).
 
 :::
 

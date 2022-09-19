@@ -12,19 +12,33 @@ A crypto wallet is a tool that allows users to easily interact with blockchain-b
 
 ## What is a Wallet Address?
 
-_Websites typically require a profile in order for a user to be able to access all of their services. Usually a user must provide a public username or email address and create a private password. The profile is generally used to keep track of a user’s activity and make things like checkout processes easier._
+Similarly to how a Twitter handle can be used to find any Twitter user and the information associated with their account, a wallet address can be used to find any crypto user on a specific blockchain and the transaction history associated with their wallet. Unlike a Twitter handle which is only used across Twitter, a single wallet address can be used to interact with all of the applications built on top of a blockchain - this is incredbily convenient for users who can securely use a single wallet address for all of their online activities.
 
-Wallet addresses can be thought of as crypto users’ public profiles. Unlike traditional public profiles, wallet addresses are not created by the user but rather generated and assigned to the user during the wallet creation process. Wallet addresses are publicly visible on a blockchain, and the blockchain keeps a record of the activity associated with each wallet address. While traditional digital profiles usually can only be used on an individual website, a single wallet address can be used to interact with all of a blockchain’s applications - and often all applications on many different blockchains. This is incredibly convenient for users who can securely use one wallet address for all of their online activities.
+Wallet addresses aren’t chosen by users, but rather generated and assigned to them when they create wallets. Wallet addresses are usually displayed as random strings of letters and numbers - and wallet addresses on different blockchains generally have different prefixes. 
+
+> All Umee wallet addresses start with “umee.”
 
 <br>
 
 ## What are Private Keys?
 
-_Imagine you have an impenetrable safe that you store all of your valuables in. The safe has a built-in lock that can never be replaced, and can only be opened by a single key. In order to protect your valuables, you make a few copies of the key and hide them somewhere only you know about. If someone else obtains a copy of the key to the safe, they have the ability to take all of the valuables stored in the safe. If you lose the keys to the safe, you lose all of the valuables stored in the safe since it is impossible to break into._
+In order to actually control a Twitter account, users also need to have the password associated with the specific username. In crypto, in order to actually transact from an account, users also need to have the private keys associated with the wallet address. 
 
-Now imagine that same safe exists in a digital format, and holds crypto assets. Private keys are simply a form of keys that are needed by crypto users to interact with the assets associated with their wallet addresses. Private keys are generated during the wallet creation process and can never be changed, meaning anyone who has access to the private keys associated with a wallet address has the ability to use the wallet address’ crypto assets. If private keys are lost they cannot be recovered.
+While a Twitter password is created by a user and can be reset if compromised or forgotten, private keys are randomly generated during the wallet creation process and can never be altered. Private keys are incredibly long strings of letters and numbers that are difficult for humans to handle as they would with a password. When a crypto user approves a transaction from their wallet, their wallet uses their private keys to prove to the blockchain that they have authorized the transaction.
 
 ![](/bg/what-is-crypto-wallet-info.png)
+
+<br>
+
+## What is a Seed Phrase
+
+During the wallet creation process users are instructed to write down a series of 12 or more words called a seed phrase. A seed phrase is simply a reformatted version of private keys that is easier for humans to keep track of. If a user loses access to their crypto wallet, the seed phrase can be used to restore their account. 
+
+Since a seed phrase is just a different format for private keys and private keys can never be altered, it’s incredibly important for all crypto users to write down their seed phrase and hide it somewhere safe. Anyone who has access to the seed phrase will be able to access the funds associated with the wallet it represents.
+
+> A seed phrase cannot be reset if lost. If you lose your seed phrase you will be unable to recover the wallet it is associated with.
+
+> The only time a crypto user will need to enter their seed phrase ANYWHERE is when they are restoring their wallet on a new device.
 
 <br>
 
@@ -65,6 +79,20 @@ A “_hardware wallet_” (also known as a “_cold wallet_”) is a piece of ha
 :::
 
 ::::
+
+<br>
+
+## Wallet Safety
+
+Since [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) are permissionless, no single person's transactions can be blocked or censored without a network wide consensus being reached. While this decentralized and trustless system makes it more easily accessible for people all over the world, it also attracts bad actors who will attempt to scam newcomers and take advantage of these irreversible and permissionless transactions.
+
+### Essential Safety Practices:
+- Never share your seed phrase or mnemonic with anyone for any reason;
+- Never enter your seed phrase or mnemonic anywhere;
+- Never engage with unknown links that are shared with you;
+- Never screen share with a stranger;
+- Never sign unknown transactions;
+- Use a [hardware wallet](/learn-the-basics/crypto-basics/what-is-a-wallet.html#types-of-crypto-wallets) for extra security.
 
 <br>
 

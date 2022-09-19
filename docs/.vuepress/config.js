@@ -139,8 +139,8 @@ module.exports = {
             "/learn-the-basics/crypto-basics/what-is-web3",
             "/learn-the-basics/crypto-basics/types-of-crypto",
             "/learn-the-basics/crypto-basics/what-is-a-wallet",
+            "/learn-the-basics/crypto-basics/what-is-dao",
             "/learn-the-basics/crypto-basics/bridges",
-            "/learn-the-basics/crypto-basics/crypto-safety",
           ],
         },
         {

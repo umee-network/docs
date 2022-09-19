@@ -50,15 +50,15 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Bridges",
-          text: "Crypto bridges explained",
-          link: "/learn-the-basics/crypto-basics/bridges",
+          title: "DAOs",
+          text: "Learn about decentralized autonomous organizations",
+          link: "/learn-the-basics/crypto-basics/what-is-dao",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Crypto Safety",
-          text: "Learn how to protect your crypto",
-          link: "/learn-the-basics/crypto-basics/crypto-safety",
+          title: "Bridges",
+          text: "Crypto bridges explained",
+          link: "/learn-the-basics/crypto-basics/bridges",
         },
       ],
     };
