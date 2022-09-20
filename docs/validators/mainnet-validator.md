@@ -75,6 +75,8 @@ sudo systemctl enable geth
 sudo systemctl start geth
 ```
 
+### Peggo
+
 5\. Install Peggo gravity bridge orchestrator [release for your architecture](https://github.com/umee-network/peggo/releases), the client for cross-chain interaction, eg. on Linux/x86:
 
 ```
@@ -82,82 +84,7 @@ wget https://github.com/umee-network/peggo/releases/download/v0.4.1/peggo-v0.4.1
 sudo mv peggo /usr/local/bin/
 ```
 
-6\. Create a home folder for the orchestrator and make a config file for it.
-
-```
-mkdir $HOME/peggo
-# Create config file
-tee $HOME/peggo/config.toml <<EOF
-keystore = "$HOME/peggo/keystore/"
-[gravity]
-contract = "0xc846512f680a2161D2293dB04cbd6C294c5cFfA7"
-fees_denom = "uumee"
-[ethereum]
-key_derivation_path = "m/44'/60'/0'/0/0"
-rpc = "http://localhost:8545"
-[cosmos]
-key_derivation_path = "m/44'/118'/0'/0/0"
-grpc = "http://localhost:9090"
-gas_price = { amount = 0.00001, denom = "uumee" }
-prefix = "umee"
-EOF
-```
-
-7\. Add keys from both networks in the orchestrator&#x20;
-
-```
-peggo --config $HOME/peggo/config.toml keys cosmos recover UMEE_WALLET_NAME "UMEE WALLET MNEMONIC"
-peggo --config $HOME/peggo/config.toml keys eth import ETH_WALLET_NAME "ETH_PRIVATE_KEY"
-```
-
-8\. Create a service file for the orchestrator
-
-```
-sudo tee /etc/systemd/system/peggo.service > /dev/null <<EOF
-[Unit]
-Description=Gravity Bridge Orchestrator
-After=online.target
-[Service]
-User=$USER
-Environment="RUST_LOG=INFO"
-ExecStart=/usr/local/bin/peggo --config $HOME/peggo/config.toml orchestrator start --cosmos-key ИМЯ_КОШЕЛЬКА_UMEE --ethereum-key ИМЯ_КОШЕЛЬКА_ЭФИРА
-Restart=on-failure
-RestartSec=3
-LimitNOFILE=4096[Install]
-WantedBy=multi-user.target
-EOF
-```
-
-9\. Check the sync status. If catching_up is equal to true, wait until it is false. This process may take a minute.&#x20;
-
-```
-umeed status 2>&1 | jq -r '.SyncInfo.catching_up'
-```
-
-10\. Check to see if you have received tokens from the faucet or that you have tokens in your new Umee wallet.&#x20;
-
-```
-umeed q bank balances $(umeed keys show UMEE_WALLET_NAME -a)
-```
-
-11\. If the node was synced and you have tokens you can now create a validator using the following commands
-
-```
-umeed tx staking create-validator \
---from UMEE_WALLET_NAME \
---amount 990000000uumee \
---pubkey $(umeed tendermint show-validator) \
---chain-id umee-betanet-1 \
---moniker=YOUR_MONIKER \
---commission-max-change-rate=0.10 \
---commission-max-rate=1.0 \
---commission-rate=0.08 \
---min-self-delegation="1" \
---fees=200uumee
-#--amount can be different just keep on the wallet 10000000uumee
-```
-
-12\. Let’s export some additional variables. In all commands below in the first command you will receive the value you need to replace part of the next command
+6\. Let’s export some additional variables. In all commands below in the first command you will receive the value you need to replace part of the next command
 
 #### Validator address:
 
@@ -166,7 +93,7 @@ umeed keys show UMEE_WALLET_NAME --bech val -a
 echo 'export VAL_ADDRESS=VALIDATOR_ADDRESS' >> ~/.profile
 ```
 
-#### UMEE wallet address:
+#### Umee wallet address:
 
 ```
 umeed keys show UMEE_WALLET_NAME -a
@@ -176,17 +103,92 @@ echo 'export PEGGO_UMEE_KEY=UMEE_WALLET_ADDRESS' >> ~/.profile
 #### Ethereum wallet address:
 
 ```
-peggo --config $HOME/peggo/config.toml keys eth show ETH_WALLET_NAME
+peggo keys eth show ETH_WALLET_NAME
 echo 'export PEGGO_ETH_KEY=ETH_WALLET_ADDRESS' >> ~/.profile
 source ~/.profile
 ```
 
-#### Hash of the transaction for delegating ether keys across the bridge:
+7\. Register the validator's Ethereum key. This key will be used to sign claims going from Ethereum to Umee and to sign any transactions sent to Ethereum (batches or validator set updates).
+
+> Note: do not include the enclosing `{}` when filling out those variables
 
 ```
-peggo --config $HOME/peggo/config.toml sign-delegate-keys ETH_WALLET_NAME $VAL_ADDRESS
-echo 'export PEGGO_ETH_SIG=HASH' >> ~/.profile
-source ~/.profile
+$ umeed tx gravity set-orchestrator-address \
+  {VAL_ADDRESS} \
+  {VAL_ADDRESS or different ORCHESTRATOR_ADDRESS} \
+  {PEGGO_ETH_KEY} \
+  --eth-priv-key="..." \
+  --chain-id="..." \
+  --fees="..." \
+  --keyring-backend=... \
+  --keyring-dir=... \
+  --from=...
+```
+
+8\. Run the Orchestrator
+
+```
+export PEGGO_ETH_PK={ETHEREUM_PRIVATE_KEY_HERE}
+$ /usr/local/bin/peggo orchestrator {GRAVITY_ADDRESS} \
+  --eth-rpc=$ETH_RPC \
+  --relay-batches=true \
+  --valset-relay-mode=minimum \
+  --cosmos-chain-id=... \
+  --cosmos-grpc="tcp://..." \
+  --tendermint-rpc="http://..." \
+  --cosmos-keyring=... \
+  --cosmos-keyring-dir=... \
+  --cosmos-from=...
+```
+
+9\. Optionally create a service file to automatically start the orchestrator
+
+```
+sudo tee /etc/systemd/system/peggo.service > /dev/null <<EOF
+[Unit]
+Description=Gravity Bridge Orchestrator
+After=online.target
+[Service]
+User=$USER
+Environment="RUST_LOG=INFO"
+ExecStart={COMMAND-FROM-STEP-8-ABOVE}
+Restart=on-failure
+RestartSec=3
+LimitNOFILE=4096
+[Install]
+WantedBy=multi-user.target
+EOF
+```
+
+> [Go more in-depth with Peggo here](https://github.com/umee-network/peggo/blob/main/README.md#how-to-run)
+
+10\. Check the sync status. If catching_up is equal to true, wait until it is false. This process may take a minute.&#x20;
+
+```
+umeed status 2>&1 | jq -r '.SyncInfo.catching_up'
+```
+
+11\. Check to see if you have received tokens from the faucet or that you have tokens in your new Umee wallet.&#x20;
+
+```
+umeed q bank balances $(umeed keys show UMEE_WALLET_NAME -a)
+```
+
+12\. If the node was synced and you have tokens you can now create a validator using the following commands
+
+```
+umeed tx staking create-validator \
+--from UMEE_WALLET_NAME \
+--amount 990000000uumee \
+--pubkey $(umeed tendermint show-validator) \
+--chain-id umee-betanet-1 \
+--moniker=YOUR-MONIKER \
+--commission-max-change-rate=0.10 \
+--commission-max-rate=1.0 \
+--commission-rate=0.08 \
+--min-self-delegation="1" \
+--fees=200uumee
+#--amount can be different just keep on the wallet 10000000uumee
 ```
 
 13\. Link all keys on the bridge&#x20;
