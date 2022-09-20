@@ -97,8 +97,8 @@ module.exports = {
           text: "Umee Overview",
           collapsible: true,
           children: [
-            "/overview/umee-overview/what-is-umee",
-            "/overview/umee-overview/why-umee",
+            "/overview/umee-overview/introduction",
+            "/overview/umee-overview/umee-vision",
             "/overview/umee-overview/security-audits",
           ],
         },

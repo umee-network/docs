@@ -26,15 +26,15 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "What is Umee?",
-          text: "Learn what Umee offers",
-          link: "/overview/umee-overview/what-is-umee",
+          title: "Introduction",
+          text: "Umee basics",
+          link: "/overview/umee-overview/introduction",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Why Umee?",
+          title: "Umee's Vision",
           text: "Learn why Umee exists",
-          link: "/overview/umee-overview/why-umee",
+          link: "/overview/umee-overview/umee-vision",
         },
         {
           img: "/img/docs-users-icon.png",
