@@ -10,7 +10,7 @@ A crypto wallet is a tool that allows users to easily interact with blockchain-b
 
 <br>
 
-## What is a Wallet Address?
+## Wallet Address
 
 Similarly to how a Twitter handle can be used to find any Twitter user and the information associated with their account, a wallet address can be used to find any crypto user on a specific blockchain and the transaction history associated with their wallet. Unlike a Twitter handle which is only used across Twitter, a single wallet address can be used to interact with all of the applications built on top of a blockchain - this is incredbily convenient for users who can securely use a single wallet address for all of their online activities.
 
@@ -20,7 +20,7 @@ Wallet addresses aren’t chosen by users, but rather generated and assigned to 
 
 <br>
 
-## What are Private Keys?
+## Private Keys
 
 In order to actually control a Twitter account, users also need to have the password associated with the specific username. In crypto, in order to actually transact from an account, users also need to have the private keys associated with the wallet address. 
 
@@ -30,7 +30,7 @@ While a Twitter password is created by a user and can be reset if compromised or
 
 <br>
 
-## What is a Seed Phrase
+## Seed Phrase
 
 During the wallet creation process users are instructed to write down a series of 12 or more words called a seed phrase. A seed phrase is simply a reformatted version of private keys that is easier for humans to keep track of. If a user loses access to their crypto wallet, the seed phrase can be used to restore their account. 
 

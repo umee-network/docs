@@ -6,7 +6,7 @@
 
 It’s incredibly important for any blockchain to be secure and decentralized or the assets held by users of the blockchain are at risk. On certain Proof of Stake blockchains like Umee, an attacker needs to control ⅓ of the total staked tokens in order to censor transactions, and ⅔ of the total staked tokens in order to corrupt the network. If the value of assets stored on a blockchain is greater than ⅔ of the value of assets staked on a blockchain, the blockchain becomes profitable to exploit and thus becomes a target for attackers. Generally, the mature blockchains with a proven history of success capture and maintain the majority of value. Therefore, as more blockchains are developed for different use cases less capital is available to help secure each individual new network, and thus newer networks are more likely to suffer attacks. 
 
-It can also be difficult for newer blockchains to rally the support of a large network of decentralized validators. There is a cost associated with running a validator, and all validators need to have some level of technical expertise in order for the blockchain to operate as intended. Validators generally only want to validate on blockchains where the likelihood of profit is high, and are less likely to support certain experimental endeavors. If a Proof of Stake blockchain is unable to attain a highly decentralized validator set, it doesn’t offer much of an advantage over a regular database.
+It can also be difficult for newer blockchains to rally the support of a large network of decentralized [validators](/learn-the-basics/staking-basics/what-is-validator). There is a cost associated with running a validator, and all validators need to have some level of technical expertise in order for the blockchain to operate as intended. Validators generally only want to validate on blockchains where the likelihood of profit is high, and are less likely to support certain experimental endeavors. If a Proof of Stake blockchain is unable to attain a highly decentralized validator set, it doesn’t offer much of an advantage over a regular database.
 
 <br>
 
@@ -16,7 +16,7 @@ Interchain Security is a technology built for [Cosmos blockchains](/learn-the-ba
 
 <br>
 
-## Advantages of Interchain Security
+## Advantages
 
 :::: tabs
 

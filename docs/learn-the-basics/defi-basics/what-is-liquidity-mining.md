@@ -2,7 +2,7 @@
 
 ## What is a Liquidity Pool?
 
-In real life when groups of people “pool” their funds they’re combining their money for a common purpose. By combining funds these groups of people are able to access various opportunities they’d be unable to as individuals. 
+*In real life when groups of people “pool” their funds they’re combining their money for a common purpose. By combining funds these groups of people are able to access various opportunities they’d be unable to as individuals.*
 
 When [crypto](/learn-the-basics/crypto-basics/what-is-crypto) users deposit assets into a liquidity pool they’re also combining their assets for a common purpose. While different types of liquidity pools vary greatly in their purposes and levels of risk, all liquidity pools generally enable crypto users called liquidity providers to access opportunities they’d otherwise be unable to as individuals.
 
@@ -10,13 +10,13 @@ When [crypto](/learn-the-basics/crypto-basics/what-is-crypto) users deposit asse
 
 <br>
 
-## What are LP Tokens?
+## LP Tokens
 
 When users deposit assets into liquidity pools they receive **LP tokens** (liquidity provider tokens) to represent their contributions. LP tokens are essentially claim tickets that can be redeemed by the holders at any time for the share of the liquidity pool that they represent. The redeemability of LP tokens gives them value, therefore LP tokens are often traded or used as collateral to borrow other assets on various DeFi protocols. This composability enables unique use cases for various types of LP tokens. 
 
 <br>
 
-## What are Liquidity Pools Used For?
+## What is Liquidity Mining?
 
 As a whole, liquidity pools allow crypto users to trustlessly interact with each other without the need for a centralized third party. When two parties interact with a liquidity pool they don’t need to trust each other since they’re interacting with a smart contract rather than a stranger. Since anyone can contribute to a liquidity pool, liquidity pools also allow anyone to earn a share of the revenues generated from liquidity provisioning in a process known as **liquidity mining**.
 
@@ -68,7 +68,7 @@ The risks associated with yield aggregators heavily depend on the strategy being
 
 <br>
 
-## What are Liquidity Mining Incentives?
+## Liquidity Mining Incentives
 
 Although liquidity pools theoretically remove the need for a third party when performing various DeFi activities like trading, lending, and borrowing, they still face some challenges. DeFi protocols, like all other products, are worthless without users. In order for DeFi applications to attract users, lots of liquidity is needed. Greater liquidity on decentralized exchanges allows users to trade more assets with less slippage, while greater liquidity on decentralized money markets helps stabilize rates and guarantee consistent liquidity for both lenders and borrowers. DeFi technologies are still in their earliest stages and are considered highly experimental, so significant incentives are needed in order to attract large amounts of liquidity.
 

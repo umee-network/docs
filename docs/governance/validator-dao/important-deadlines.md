@@ -20,7 +20,7 @@
 
 ## Delegation Review Period
 
-> The Validator DAO Committee must review delegation applications and reach a consensus during the last two weeks for the third month of every quarter (March, June, Spetember, December).
+> The Validator DAO Committee must review delegation applications and reach a consensus during the last two weeks for the third month of every quarter (March, June, September, December).
 
 <br>
 

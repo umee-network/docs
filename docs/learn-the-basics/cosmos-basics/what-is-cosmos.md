@@ -12,15 +12,7 @@ Cosmos provides the scalability, interoperability, and sovereignty needed for bl
 
 <br>
 
-## Advantages of Cosmos
-
-:::: tabs
-
-::: tab Scalability
-
-### Scalability
-
-****
+## Scalability
 
 *Imagine a world where everyone who wants to connect to the internet must share the same internet service provider. When smaller amounts of people are using the internet it will work fine, but as more users connect the service will gradually become slower for individual users as the bandwidth is divided until eventually it becomes unusable. Realistically the internet service provider would increase the cost of service, and only those who can afford the higher rates could enjoy reasonable internet speeds. Currently, blockchains can be thought of as internet service providers in this scenario.*
 
@@ -30,13 +22,9 @@ Cosmos blockchains are horizontally scalable, meaning that if one Cosmos blockch
 
 While most blockchains focus on attracting developers to build applications on top of them, the Cosmos ecosystem is focused on building an internet of thousands of application-specific blockchains. Since most applications in the Cosmos ecosystem are built as their own blockchains, the user experience is enhanced significantly - this is why Umee users are able to enjoy cheap fast-finality transactions!
 
-:::
+<br>
 
-::: tab Interoperability
-
-### Interoperability
-
-****
+## Interoperability
 
 *In the world we know not all physical currencies are universally accepted, so people typically must use local currencies to transact depending on which country they’re in. In order to obtain local currencies, people usually must go through a bank or foreign currency exchange; a process which can be both inconvenient and costly.*
 
@@ -46,13 +34,9 @@ Cosmos blockchains are natively interoperable with each other. Cosmos blockchain
 
 The IBC enables users to instantly and securely transfer tokens between independent blockchains in a completely decentralized manner. Native Cosmos tokens can be transferred across Cosmos blockchains without the need for a third party bridge. Through IBC, applications built within the Cosmos ecosystem are interoperable seamlessly across different blockchains, allowing borderless transactions and money-lego potentials. 
 
-:::
+<br>
 
-::: tab Sovereignty
-
-### Sovereignty
-
-****
+## Sovereignty
 
 *Regular businesses are all subject to rules and regulations in the jurisdictions in which they operate. When an organization is no longer willing or able to follow the rules in one jurisdiction, they may choose to relocate to an area with less restrictions.*
 
@@ -60,18 +44,10 @@ In crypto, decentralized applications are not limited by a single jurisdiction a
 
 Cosmos’ vision for an ecosystem of interoperable application-specific blockchains gives developers more freedom to customize a blockchain for their specific needs. Rather than having thousands of decentralized applications relying on the same underlying blockchain and thus being subject to the governance decisions (or lack of action) by that blockchain’s governance, Cosmos blockchains can focus on making the changes needed to enhance the key application(s) on top without affecting other unrelated apps. 
 
-:::
+<br>
 
-::: tab Environmental Impact
-
-### Environmental Impact
-
-****
+## Environmental Impact
 
 Many of the most well known blockchains like Bitcoin use a [Proof of Work consensus mechanism](/learn-the-basics/blockchain-basics/types-of-blockchains) that involves an unlimited number of network participants competing to propose transaction data and earn crypto for their work. This highly competitive process requires serious network participants to operate a lot of equipment in order to increase their chances of earning rewards, and thus consumes a lot of energy. Many people are hesitant to embrace blockchain technology due to the environmental concerns commonly associated with it.
 
 Cosmos blockchains like Umee use a [Proof of Stake consensus mechanism](/learn-the-basics/blockchain-basics/types-of-blockchains) that involves a limited number of network participants taking turns proposing transaction data. Since network participants are randomly selected to propose transaction data, there is no need for them to compete against each other and consume large amounts of energy in order to profit. Additionally, network participants often use renewable energy to offset their carbon footprint. Proof of Stake blockchains are viewed as environmentally friendly.
-
-:::
-
-::::
