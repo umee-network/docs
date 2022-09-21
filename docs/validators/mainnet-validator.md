@@ -230,7 +230,33 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 #### Release Notes
 
-Umee Official [release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md). Additional information, including binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1).
+Umee Official [release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md).
+
+##### Canon-1
+
+Additional information, including an export, genesis, peers and binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1).
+
+```
+peggo version
+> version: v0.4.1
+> commit: b22361c4821dceb9d1a67d42be4b344fefef5eca
+> sdk: v0.46.0-umee.0.20220812010629-4d5bb2e3f73c
+> go: go1.18.6 linux/amd64
+
+umeed version
+> v3.0.0-rc4
+> (also could be) HEAD-c54d166b163235be67db076dafb3b785f7398f90 depending on how it was built
+
+price-feeder version
+> version: ae66523e0521fe2e2f37175973d09033097a5a91
+> commit: ae66523e0521fe2e2f37175973d09033097a5a91
+> sdk: v0.46.1-umee
+> go: go1.19.1 linux/amd64
+```
+
+##### Champagne-1
+
+Additional information, including genesis, peers and binary releases for Champagne-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/champagne-1).
 
 #### Release Compatibility Matrix
 
