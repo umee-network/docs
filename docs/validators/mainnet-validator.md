@@ -232,7 +232,7 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 Umee Official [release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md).
 
-##### Canon-1
+##### Canon-1 Testnet
 
 Additional information, including an export, genesis, peers and binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1).
 
@@ -254,7 +254,7 @@ price-feeder version
 > go: go1.19.1 linux/amd64
 ```
 
-##### Champagne-1
+##### Champagne-1 Testnet
 
 Additional information, including genesis, peers and binary releases for Champagne-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/champagne-1).
 
@@ -271,7 +271,7 @@ Ensure that your version of Peggo is compatible above. If not, the latest versio
 If this upgrade is to an existing validator, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), manually swap the binaries, and [install Price Feeder](#price-feeder).
 If you would like to setup a new mainnet validator, [follow those instructions first](#mainnet-validator), before proceeding to [install Price Feeder](#price-feeder).
 
-> [Validators must set a mempool version `version = "v1"`](https://github.com/umee-network/umee/pull/1427/files)
+> [Validators must set a mempool version before the update `version = "v1"`](https://github.com/umee-network/umee/pull/1427/files)
 
 ### Price Feeder
 
