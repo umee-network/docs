@@ -4,6 +4,9 @@ Turn a current node into a validator on the mainnet&#x20;
 
 This guide contains instructions on how to setup and run an Umee validator. First, be sure to check out the full node [instructions](installing-umee-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
 
+There are three (3) crucial processes required for a healthy validator node:
+[Umeed](installing-umee-node.md), [Peggo](#peggo) and [Price-Feeder](#price-feeder)
+
 In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/umee/validators). You may still execute the following steps, but you will not be active and therefore won't receive staking rewards.
 
 ### Keyring
@@ -343,3 +346,9 @@ If it's not, please check your config. Common problems are:
 - Wrong keyring info
 - Invalid providers / token pairs - check [coingecko](https://www.coingecko.com/en/coins/umee#markets) to see the available providers for a given coin
 - Not voting on all required tokens
+
+6.  When ready to delegate feed consent, the `price-feeder_address` argument is the same as the `address = ` from your price-feeder.toml, eg.
+
+```
+umeed tx oracle delegate-feed-consent <validator_adress> <price-feeder_address> --chain-id canon-1 --fees 2000uumee
+```
