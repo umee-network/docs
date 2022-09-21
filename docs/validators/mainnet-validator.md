@@ -225,6 +225,10 @@ journalctl -u geth -f
 
 Calypso - v3 is Umee Network's latest blockchain technology release. In addition to Peggo, v3 validators must also run our Price Feeder process or will be jailed and slashed! Price Feeder fetches and aggregates exchange rate price data from various providers, then supplies them to the main oracle process.
 
+#### Release Notes
+
+Umee Official [release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md). Additional information, including binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1).
+
 #### Release Compatibility Matrix
 
 Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what versions are compatible.
@@ -237,6 +241,8 @@ Ensure that your version of Peggo is compatible above. If not, the latest versio
 
 If this upgrade is to an existing validator, first choose the correct Umee release for your architecture [here](https://github.com/umee-network/umee/releases/), manually swap the binaries, and [install Price Feeder](#price-feeder).
 If you would like to setup a new mainnet validator, [follow those instructions first](#mainnet-validator), before proceeding to [install Price Feeder](#price-feeder).
+
+> [Validators must set a mempool version `version = "v1"`](https://github.com/umee-network/umee/pull/1427/files)
 
 ### Price Feeder
 
