@@ -96,8 +96,7 @@ In an extreme scenario where a committee is no longer able to fulfill its missio
 ****
 
 **The Umee Community DAO's primary goals will be to:**
-- Properly guide and incentivize community members to make contributions that add value to Umee and grow the community; 
-- Source impactful contributions that can be used to grow, educate, and nurture an ever growing Umee community; 
+- Guide and incentivize community members to make contributions that help educate, nurture, and grow the Umee community;
 - Identify top contributors within the Umee community who can help lead focused working groups/guilds in future iterations of the Community DAO;
 - Distribute UMEE tokens to as many valuable contributors as possible.
 
@@ -163,7 +162,7 @@ Reviewers should expect to commit a minimum of 20 hours per month to the Communi
 
 An additional $1,000 USD in UMEE will be reserved for unforseen operational expenses.
 
-The payments above bring the Community DAO’s maximum quarterly operational budget to $25,000.
+The payments above bring the Community DAO Committee's quarterly expenses to $25,000.
 
 > The Umee Core team will initially handle all token disbursements.
 
@@ -195,7 +194,7 @@ The observer may not serve more than two consecutive terms or 6 months, whicheve
 
 ## Funding
 
-At start, a total of 6,000,000 UMEE from the community treasury will be allocated in order to fund the Community DAO for a quarter. The 6,000,000 UMEE will be used to incentivize and reward contributors as needed, and any leftover tokens at the end of a quarter will be rolled over into the next quarter.
+At start, a total of _______ UMEE from the community treasury will be allocated in order to fund the Community DAO for a quarter. The _______ UMEE will be used to incentivize and reward contributors as needed, and any leftover tokens at the end of a quarter will be rolled over into the next quarter.
 
 Community DAO Committee members will be compensated separately in predetermined USD amounts following the completion of each period. Each month $8,000 USD in UMEE from the community treasury will be used to compensate the Community DAO Committee as outlined in "[Compensation](/governance/community-dao/overview.html#compensation)". An additional $1,000 USD in UMEE will be reserved for unforseen operational expenses, bringing the Community DAO's quarterly operational budet to $25,000.
 
