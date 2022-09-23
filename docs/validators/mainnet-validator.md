@@ -234,7 +234,7 @@ Umee Official [release notes are here](https://github.com/umee-network/umee/blob
 
 ##### Canon-1 Testnet
 
-Additional information, including an export, genesis, peers and binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1).
+Additional information, including an export, genesis, peers and binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1). A detailed walkthrough, starting from genesis is [here](https://mzonder.notion.site/UMEE-start-from-genesis-canon-1-8ac7abccfcd94d7d97431b0d1558bf8b).
 
 ```
 peggo version
@@ -256,7 +256,7 @@ price-feeder version
 
 ##### Champagne-1 Testnet
 
-Additional information, including genesis, peers and binary releases for Champagne-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/champagne-1).
+Additional information, including genesis, peers and binary releases for Champagne-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/champagne-1). You may follow the walkthrough for Canon-1 above, swapping testnet information for Champagne-1 as a guide.
 
 #### Release Compatibility Matrix
 
