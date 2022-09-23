@@ -8,7 +8,7 @@
 
 ## Overview
 
-Work with others in your community to determine what needs to be translated, and where translated content should be organized. Present the content in a professional, well-organized, and easily accessible format. Once the content has been properly translated and published, work with regional [community support leaders](/governance/community-dao/community-support) to share the translations with users.
+Use [Umee's Crowdin](https://crowdin.com/project/umeeversity-translation) to work with others in your community to determine what needs to be translated, and where translated content should be organized. Present the content in a professional, well-organized, and easily accessible format. Once the content has been properly translated and published, work with regional [community support leaders](/governance/community-dao/community-support) to share the translations with users.
 
 <br>
 
@@ -25,8 +25,9 @@ Work with others in your community to determine what needs to be translated, and
 ****
 
 - Only translate if you are capable of providing a native translation;
-- Collaborate with contributors in your regional community to identify and and keep track of who is working on translating documentation to avoid duplicate translations;
-- Work with your community to choose a platform to organize all translated documentation on;
+- Sign up for [Crowdin]() using your Discord ID as your username so others can easily identify you;
+- Reference [Crowdin]() to identify which parts of the documentation need to be translated in your language and claim translations as desired;
+- Work with your community to choose a platform to organize all translated documentation on (Gitbook is recommended);
 - Clearly disclose that the content is translated by community volunteers and include links to the original documentation;
 - Share the published translation with an audience that will find it useful;
 - If multiple translators work together, include the Discord ID of each translator on the submission form.
@@ -50,9 +51,9 @@ Work with others in your community to determine what needs to be translated, and
 
 ***
 
-**[Gitbook](https://www.gitbook.com/) & [Notion](https://www.notion.so/product)**
+**[Gitbook](https://www.gitbook.com/)**
 
-_Gitbook and Notion are easily usable tools that allows translators to organize and publish the documentation they translate._
+_Gitbook allows translators to easily organize and publish the documentation they translate for free._
 
 :::
 
@@ -73,8 +74,9 @@ _Gitbook and Notion are easily usable tools that allows translators to organize 
 ****
 
 - Only translate if you are capable of providing a native translation;
-- Collaborate with other contributors in your regional community to identify and and keep track of who is working on translating various blog posts to avoid duplicate translations;
-- Work with your community to choose a platform to organize all translated blog posts on;
+- Sign up for [Crowdin]() using your Discord ID as your username so others can easily identify you;
+- Reference [Crowdin]() to identify which blog posts need to be translated in your language and claim translations as desired;
+- Work with your community to choose a platform to organize all translated blog posts on (Medium is recommended);
 - Prioritize translating new blog posts and avoid translating blog posts that are no longer relevant, like announcements for events that have already ended;
 - Clearly disclose that the content is translated by community volunteers and include a link to the original blog post;
 - Share the published translation with an audience that will find it useful;
@@ -129,17 +131,15 @@ _Notion is another organizational tool that can be used to share translated blog
 
 ### Languages
 
-- Cantonese
+- Russian
 - French
 - German
-- Indonesian
 - Italian
 - Japanese
 - Korean
 - Mandarin
 - Polish
 - Portuguese
-- Russian
 - Spanish
 - Thai
 - Turkish
