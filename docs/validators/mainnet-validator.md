@@ -230,33 +230,31 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 #### Release Notes
 
-Umee Official [release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md).
+[Full Umee release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md)
 
-##### Canon-1 Testnet
+[Umeed official release, v3.0.0](https://github.com/umee-network/umee/releases/tag/v3.0.0)
 
-Additional information, including an export, genesis, peers and binary releases, for validators taking part in our Canon-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/canon-1). A detailed walkthrough, starting from genesis is [here](https://mzonder.notion.site/UMEE-start-from-genesis-canon-1-8ac7abccfcd94d7d97431b0d1558bf8b).
+[Peggo official release, v1.0.1](https://github.com/umee-network/peggo/releases/tag/v1.0.1)
+
+[Price Feeder official release, v1.0.0](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv1.0.0)
 
 ```
 peggo version
-> version: v0.4.1
-> commit: b22361c4821dceb9d1a67d42be4b344fefef5eca
+> version: v1.0.1
+> commit: 13fb428b9348590bb6f8ed05e16b4ce4185dce09
 > sdk: v0.46.0-umee.0.20220812010629-4d5bb2e3f73c
 > go: go1.18.6 linux/amd64
 
 umeed version
-> v3.0.0-rc4
-> (also could be) HEAD-c54d166b163235be67db076dafb3b785f7398f90 depending on how it was built
+> v3.0.0
+> (also could be) HEAD-ae43ccbd25c382cdfc5bcde26f21bc2002be5bf3 if built from `Makefile`
 
 price-feeder version
-> version: ae66523e0521fe2e2f37175973d09033097a5a91
+> version: v1.0.0
 > commit: ae66523e0521fe2e2f37175973d09033097a5a91
 > sdk: v0.46.1-umee
 > go: go1.19.1 linux/amd64
 ```
-
-##### Champagne-1 Testnet
-
-Additional information, including genesis, peers and binary releases for Champagne-1 testnet is [here](https://github.com/umee-network/testnets/tree/main/networks/champagne-1). You may follow the walkthrough for Canon-1 above, swapping testnet information for Champagne-1 as a guide.
 
 #### Release Compatibility Matrix
 
@@ -264,7 +262,7 @@ Please [click here](https://github.com/umee-network/umee#release-compatibility-m
 
 #### Installation
 
-Ensure that your version of Peggo is compatible above. If not, the latest version 1.0.x is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
+Ensure that your version of Peggo is compatible above. If not, the latest version 1.0.1 is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
 
 > If [cosmovisor](/developers/joining-mainnet.html#cosmovisor) is already installed to automatically swap binaries, [skip to installing Price Feeder below](#price-feeder).
 
@@ -293,7 +291,7 @@ chmod +x price-feeder-v1.0.0-linux-amd64/price-feeder
 sudo mv price-feeder-v1.0.0-linux-amd64/price-feeder /usr/local/bin/
 ```
 
-2. Download the example config file
+2. Download the example config file, [also on Github](https://github.com/umee-network/umee/blob/main/price-feeder/price-feeder.example.toml)
 
 ```
 cd /usr/local/bin/
