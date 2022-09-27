@@ -234,7 +234,7 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 [Umeed official release, v3.0.0](https://github.com/umee-network/umee/releases/tag/v3.0.0)
 
-[Peggo official release, v1.0.1](https://github.com/umee-network/peggo/releases/tag/v1.0.1)
+[Peggo official release, v1.1.0](https://github.com/umee-network/peggo/releases/tag/v1.1.0)
 
 [Price Feeder official release, v1.0.0](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv1.0.0)
 
