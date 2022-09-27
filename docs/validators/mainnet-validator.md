@@ -374,5 +374,5 @@ If it's not, please check your config. Common problems are:
 6.  When ready to delegate feed consent, the `price-feeder_address` argument is the same as the `address = ` from your price-feeder.toml, eg.
 
 ```
-umeed tx oracle delegate-feed-consent <validator_adress> <price-feeder_address> --chain-id canon-1 --fees 2000uumee
+umeed tx oracle delegate-feed-consent <validator_adress> <price-feeder_address> --chain-id umee-1 --fees 2000uumee
 ```
