@@ -238,6 +238,8 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 [Price Feeder official release, v1.0.0](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv1.0.0)
 
+> Make sure to configure `app.toml` to include `set minimum-gas-prices = "0uumee"` at thet top level
+
 ```
 peggo version
 > version: v1.1.0
