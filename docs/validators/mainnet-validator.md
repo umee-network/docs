@@ -83,7 +83,7 @@ sudo systemctl start geth
 5\. Install Peggo gravity bridge orchestrator [release for your architecture](https://github.com/umee-network/peggo/releases), the client for cross-chain interaction, eg. on Linux/x86:
 
 ```
-wget https://github.com/umee-network/peggo/releases/download/v0.4.1/peggo-v0.4.1-linux-amd64.tar.gz
+wget https://github.com/umee-network/peggo/releases/download/v1.1.0/peggo-v1.1.0-linux-amd64.tar.gz
 sudo mv peggo /usr/local/bin/
 ```
 
