@@ -48,10 +48,10 @@ echo $GOPATH
 
 ```
 cd
-git clone --depth 1 --branch v3.0.0 https://github.com/umee-network/umee.git
+git clone --depth 1 --branch v3.0.1 https://github.com/umee-network/umee.git
 cd umee && make install
 umeed version
-# Expected output: v3.0.0 or HEAD-ae43ccbd25c382cdfc5bcde26f21bc2002be5bf3
+# Expected output: v3.0.1 or HEAD-ae43ccbd25c382cdfc5bcde26f21bc2002be5bf3
 ```
 
 4\. Initialize node and create a wallet
