@@ -2,7 +2,7 @@
 
 ![Native UMEE tokens are used across the Cosmos ecosystem, while ERC-20 UMEE tokens are used across the Ethereum ecosystem.](/bg/token-format.png)
 
-Different blockchains typically use different versions of tokens. Most tokens can be used across blockchains if converted to the correct format. It’s important to know which type of tokens you are in possession of before interacting with any web3 applications.
+Different [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) typically use different versions of tokens. Most tokens can be used across blockchains if converted to the correct format. It’s important to know which type of tokens you are in possession of before interacting with any [web3](/learn-the-basics/crypto-basics/what-is-web3) applications.
 
 
 > The UMEE token exists in two forms: a Cosmos native version (the native UMEE token) and an ERC-20 token version native to Ethereum. The two forms of UMEE tokens can be freely [converted to one another](/users/using-the-web-app/transferring-tokens).
@@ -15,7 +15,7 @@ Different blockchains typically use different versions of tokens. Most tokens ca
 
 ****
 
-> Most Cosmos tokens like the native UMEE token are interoperable with other Cosmos blockchains by design. Cosmos ecosystem users can easily transfer tokens between chains in a fast and trustless manner.
+> Most Cosmos tokens like the native UMEE token are interoperable with other Cosmos blockchains by design. [Cosmos ecosystem](/learn-the-basics/cosmos-basics) users can easily transfer tokens between chains in a fast and trustless manner.
 
 _**The main purpose of the native UMEE token** is to participate in the PoS consensus mechanism to help secure the Umee blockchain and earn PoS staking yield, pay gas fees on the Umee blockchain to execute Umee’s cross chain DeFi transactions, and to be able to vote and participate in protocol governance decisions._
 

@@ -14,11 +14,7 @@ Bridges are tools intended to allow crypto users to transfer value from one bloc
 
 Since blockchains are sovereign by design, it’s not possible to truly transfer a token from one blockchain to another. In order to move the data (value) these tokens represent between chains a bridging mechanism is required to lock the tokens on the original blockchain and unlock or mint a representation of the token on the destination chain. Currently, many bridges offer different “wrapped” versions of the same assets on various destination chains.
 
-<br>
-
 > For example, if a Bitcoin user has BTC they’d like to use within the Ethereum ecosystem they’re able to use a bridge to receive “wrapped Bitcoin” (wBTC), an Ethereum token pegged to the price of Bitcoin that can be used across the Ethereum ecosystem. 
-
-<br>
 
 In this scenario, no actual Bitcoin is being moved across chains; rather the original BTC is being sent to a custodian for safekeeping and wBTC is being minted and distributed to the user on the Ethereum blockchain. By issuing an Ethereum-specific token to represent the original Bitcoin, the bridge allows crypto users to feel as if they’re using their Bitcoin across the Ethereum ecosystem. While not all bridges are custodial, most operate similarly. 
 
