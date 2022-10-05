@@ -1,5 +1,7 @@
 # Other
 
+> To get started visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee).
+
 ## Overview
 
 Contributors aren't limited to the outlined contributions. If you have a skillset that can be used to help educate, onboard, or improve the overall community experience feel free to put it to use and submit your miscellaneous contributions.

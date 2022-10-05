@@ -23,7 +23,7 @@ There are certain types of contributions that will always be considered valuable
 ### Contributions that are always deemed valuable include:
 
 - High quality [educational content](/governance/community-dao/educators) that is actively used or can be used to onboard new users and increase the overall usage of Umee;
-- Active [user support](/governance/community-dao/community-support) provided by volunteer community leaders across Umee’s community channels and community-led regional channels; 
+- Active [user support](/governance/community-dao/community-support) provided by volunteer community leaders across Umee’s community channels (Discord, Telegram, Reddit, Twitter) and community-led regional channels; 
 - [Native translations](/governance/community-dao/translators) of Umee documentation and blog posts that are actively being utilized by previously underserved communities; 
 - Community events that further educate, engage, and/or grow the community; 
 - Other miscellaneous contributions like dashboards, bots, and high quality design work;
@@ -110,10 +110,9 @@ In an extreme scenario where a committee is no longer able to fulfill its missio
 
 **The following metrics will be used to monitor the performance of the Community DAO:**
 
-- Number of submissions each period; 
 - Contributor retention rates;
 - Number of new Umee users (unique wallets interacting with Umee); 
-- Number of valuable contributions rewarded.
+- Number of valuable contributions awarded each period.
 
 <br>
 
@@ -121,8 +120,7 @@ In an extreme scenario where a committee is no longer able to fulfill its missio
 
 - General sentiment of the Umee community; 
 - Levels of community support across relevant Umee channels; 
-- Community growth; 
-- Improvement to Umee’s brand and positioning in the market.
+- Community growth.
 
 :::
 
