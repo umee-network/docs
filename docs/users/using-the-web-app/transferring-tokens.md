@@ -12,6 +12,16 @@
 
 :::: tabs
 
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
+
+![](/bg/transfer-assets-on.gif)
+
+:::
+
 ::: tab Written Guide
 
 ### Written Guide

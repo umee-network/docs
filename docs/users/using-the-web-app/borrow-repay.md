@@ -10,6 +10,16 @@
 
 :::: tabs
 
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
+
+![](/bg/borrow-assets.gif)
+
+:::
+
 ::: tab Written Guide
 
 ### Written Guide
