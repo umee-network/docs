@@ -1,11 +1,5 @@
 # Transferring Tokens
 
-![](/bg/transferring-tokens.png)
-
-> Umee supports lending and borrowing on the Umee and Ethereum networks, and plans to support several other chains in the future.
-
-<br>
-
 ## Cosmos Transfers
 
 > If you have [Cosmos](/learn-the-basics/cosmos-basics/what-is-cosmos) assets like ATOM on a different network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet), follow this guide to transfer them to Umee.

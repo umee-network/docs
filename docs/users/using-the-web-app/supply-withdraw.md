@@ -1,9 +1,5 @@
 # Supplying & Withdrawing
 
-![](/bg/supply-withdraw.png)
-
-<br>
-
 ## Supplying Assets 
 
 > Umee users can supply assets on the Umee Market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) for [cross chain borrowing](/users/using-the-web-app/borrow-repay).
@@ -49,6 +45,16 @@
 > Users can withdraw some or all of their assets from the Umee Market at any time.
 
 :::: tabs
+
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
+
+![](/bg/withdraw-assets.gif)
+
+:::
 
 ::: tab Written Guide
 

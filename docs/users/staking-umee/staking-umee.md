@@ -6,6 +6,18 @@
 
 :::: tabs
 
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
+
+![](/bg/stake-umee.gif)
+
+> The validator portrayed was randomly selected. [Always do your own research before selecting a validator to stake with](/users/staking-umee/selecting-validator).
+
+:::
+
 ::: tab Written Guide
 
 ### Written Guide
