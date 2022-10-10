@@ -106,7 +106,7 @@ module.exports = {
       ],
       "/overview/": [
         {
-          text: "Umee Overview",
+          text: "Umee",
           collapsible: true,
           children: [
             "/overview/umee-overview/introduction",

@@ -26,8 +26,8 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee Overview",
-          text: "Learn what Umee is",
+          title: "Umee",
+          text: "Learn about Umee",
           link: "/overview/umee-overview",
         },
         {
