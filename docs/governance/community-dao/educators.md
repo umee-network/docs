@@ -2,7 +2,11 @@
 
 > TLDR: Educators are expected to create and distribute high quality educational content to help onboard the next generation of DeFi users to Umee.
 
-> To get started as an educator visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee).
+> To get started as an educator:
+> - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
+> - Assign yourself the "CD Contributor" role and "CD Educator" role;
+> - Check the #cd-announcements and #education-rfc channels to get an idea of what contributions the committee will be looking for;
+> - [Use this form to submit each piece of original educational content you create](https://dyno.gg/form/d8092e21).
 
 <br>
 
@@ -215,6 +219,8 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 <br>
 
 ## Submitting Contributions
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzIiLYZuEQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Contributors who create and distribute educational content should submit each individual piece of content separately immediately following publication.**
 

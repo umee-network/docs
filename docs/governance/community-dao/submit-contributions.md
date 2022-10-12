@@ -39,6 +39,8 @@
 
 ****
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DzIiLYZuEQE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Contributors who create and distribute educational content should submit each individual piece of content separately immediately following publication.
 
 > [Use this form to submit each piece of educational content you create](https://dyno.gg/form/d8092e21).
