@@ -1,6 +1,10 @@
 # Other
 
-> To get started visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee).
+> To get started: 
+> - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
+> - Assign yourself the "CD Contributor" role and "CD Other" role;
+> - Check the #cd-announcements and #other-rfc channels to get an idea of what contributions the committee will be looking for;
+> - [Use this form to submit other contributions](https://dyno.gg/form/6adc91d9).
 
 ## Overview
 

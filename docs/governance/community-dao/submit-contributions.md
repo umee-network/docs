@@ -2,7 +2,9 @@
 
 ## Submission Guidelines
 
-> All submissions will be judged at the sole discretion of the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee). Participants are by no means guaranteed to receive UMEE tokens for their contributions. Contributors who are selected to receive UMEE tokens may be required to pass any and all KYC/AML checks requested by the Umee Community DAO Committee.
+> All submissions will be judged at the sole discretion of the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee). Participants are by no means guaranteed to receive UMEE tokens for their contributions. 
+
+> Contributors located in the USA are prohibited from earning rewards through the Umee Community DAO. Contributors who are selected to receive UMEE tokens may be required to pass any and all KYC/AML checks requested by the Umee Community DAO Committee.
 
 > By submitting your contribution to the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee), you confirm that you have read, understood, and agreed to the following guidelines.
 
