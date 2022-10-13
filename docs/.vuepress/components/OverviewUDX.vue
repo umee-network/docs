@@ -32,7 +32,7 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Features,
+          title: "Features",
           text: "Learn about UDX's unique offerings",
           link: "/overview/udx/features",
         },
