@@ -12,7 +12,9 @@
 
 ## Overview
 
-Work with others in your community to determine what needs to be translated, and where translated content should be organized. Present the content in a professional, well-organized, and easily accessible format. Once the content has been properly translated and published, work with regional [community support leaders](/governance/community-dao/community-support) to share the translations with users.
+Use the [translation lists provided on Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview) to apply for a translation task. Provide previous translations you've completed to help expedite the application process. Once approved, translate, organize, and share Umee content with the users who need it.
+
+> Translations are the only Community DAO task which contributors must apply for before submitting work. 
 
 <br>
 
@@ -28,9 +30,8 @@ Work with others in your community to determine what needs to be translated, and
 
 ****
 
+- [Apply through Dework before completing a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
 - Only translate if you are capable of providing a native translation;
-- Use the [translation organization sheet]() provided by the committee to claim translations using your Discord ID as desired;
-- Work with your community to choose a platform to organize all translated documentation on (Gitbook is recommended);
 - Clearly disclose that the content is translated by community volunteers and include links to the original documentation;
 - Share the published translation with an audience that will find it useful;
 - If multiple translators work together, include the Discord ID of each translator on the submission form.
@@ -76,10 +77,8 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 ****
 
+- [Apply through Dework before completing a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
 - Only translate if you are capable of providing a native translation;
-- Use the [translation organization sheet]() provided by the committee to claim translations using your Discord ID as desired;
-- Work with your community to choose a platform to organize all translated blog posts on (Medium is recommended);
-- Prioritize translating new blog posts and avoid translating blog posts that are no longer relevant, like announcements for events that have already ended;
 - Clearly disclose that the content is translated by community volunteers and include a link to the original blog post;
 - Share the published translation with an audience that will find it useful;
 - If multiple translators work together, include the Discord ID of each translator on the submission form.

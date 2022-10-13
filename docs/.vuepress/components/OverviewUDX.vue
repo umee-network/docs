@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Overview</h1>
-    <p>Learn all about Umee's cross-chain DeFi capabilities.</p>
+    <h1>UDX</h1>
+    <p></p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -26,27 +26,21 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee",
-          text: "Learn about Umee",
-          link: "/overview/umee-overview",
+          title: "Intoduction",
+          text: "A brief overview of UDX",
+          link: "/overview/udx/introduction",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "UDX",
-          text: "Learn about Umee's official institutional lending DAO",
-          link: "/overview/udx",
+          title: "Features,
+          text: "Learn about UDX's unique offerings",
+          link: "/overview/udx/features",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Gravity Bridge",
-          text: "Learn how Umee's Gravity Bridge works",
-          link: "/overview/umee-gravity-bridge",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "The UMEE Token",
-          text: "Learn about the token that powers Umee's ecosystem",
-          link: "/overview/umee-token",
+          title: "The Guardian Guild",
+          text: "Learn about the guild responsible for analyzing creditworthiness",
+          link: "/overview/udx/guardian-guild",
         },
       ],
     };

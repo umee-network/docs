@@ -115,6 +115,15 @@ module.exports = {
           ],
         },
         {
+          text: "UDX",
+          collapsible: true,
+          children: [
+            "/overview/udx/introduction",
+            "/overview/udx/features",
+            "/overview/udx/guardian-guild",
+          ],
+        },
+        {
           text: "Umee's Gravity Bridge",
           collapsible: true,
           children: [
