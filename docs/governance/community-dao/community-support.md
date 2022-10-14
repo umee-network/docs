@@ -5,7 +5,7 @@
 > To get started as a community support leader:
 > - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Support" role;
-> - Check the #cd-announcements and #support-rfc channels to get an idea of what contributions the committee will be looking for;
+> - Check the #cd-announcements and #support-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit community support related contributions at the end of a period](https://dyno.gg/form/1e31964c).
 
 <br>

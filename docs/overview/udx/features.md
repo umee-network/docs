@@ -24,7 +24,7 @@ UDX will contract experts from a [Guardian Guild](/overview/udx/guardian-guild) 
 
 ****
 
-Anyone can deposit stablecoins into a public pool to earn lending interest and a portion of Umee’s [staking rewards](/learn-the-basics/staking-basics/what-is-staking.html#staking-rewards). Public pools allow DeFi users to receive fixed rates for lending their assets over certain time periods rather than being subject to the constantly fluctuating rates based on current supply in demand seen in decentralized money market protocols.
+Anyone can deposit stablecoins into a public pool to earn lending interest and a portion of Umee’s [staking rewards](/learn-the-basics/staking-basics/what-is-staking.html#staking-rewards). Public pools allow DeFi users to receive fixed rates for lending their assets over certain time periods rather than being subject to the constantly fluctuating rates based on current supply and demand seen in decentralized money market protocols.
 
 :::
 

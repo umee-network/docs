@@ -26,7 +26,7 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Getting started",
+          title: "Getting Started",
           text: "Learn how to set up and fund an interchain wallet",
           link: "/users/getting-started",
         },

@@ -5,7 +5,7 @@
 > To get started as an educator:
 > - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Educator" role;
-> - Check the #cd-announcements and #education-rfc channels to get an idea of what contributions the committee will be looking for;
+> - Check the #cd-announcements and #education-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit each piece of original educational content you create](https://dyno.gg/form/d8092e21).
 
 <br>
@@ -61,6 +61,12 @@ Educators are encouraged to focus on what they're good at, since quality is sign
 
 ****
 
+**[@Flowslikeosmo's Twitter Threads](https://twitter.com/Flowslikeosmo/status/1580362702517547008?s=20&t=M0XYwUPp277sp2KWYPu44w)**
+
+_@Flowslikeosmo does a great job writing highly relevant and engaging Twitter threads. Reference his formatting, high level of detail, and usage of images._
+
+<br>
+
 **[Binance Academy](https://academy.binance.com/) & [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)**
 
 _These educational libraries do a great job recognizing the intended audience for each crypto topic they cover and breaking down the content accordingly. In most articles they identify which questions a reader may have and address them in the appropriate order while remaining focused on the topic at hand._
@@ -78,6 +84,12 @@ _It's important to have a strong understanding of finance before diving into dec
 ### Tools
 
 ****
+
+**[Typefully](https://typefully.com/)**
+
+_Typefully provides an easy-to-use interface which allows anyone to edit Twitter threads and save drafts._
+
+<br>
 
 **[Google Docs](https://docs.google.com/)**
 

@@ -1,11 +1,12 @@
 # Translators
 
-> TLDR: Translators are responsible for translating, organizing, and sharing official Umee content with the community members who need it.
+> TLDR: Translators are responsible for translating, organizing, and sharing official Umee content with the community members who need it. Translators must [apply for a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview) and be approved before completing it.
 
 > To get started as an translator:
 > - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Translator" role;
-> - Check the #cd-announcements and #translations-rfc channels to get an idea of what contributions the committee will be looking for;
+> - Check the #cd-announcements and #translations-rfc channels to see which translations the CD Committee is looking for;
+> - [Apply for the translation through Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
 > - [Use this form to submit each native translation completed](https://dyno.gg/form/a16fa490).
 
 <br>
