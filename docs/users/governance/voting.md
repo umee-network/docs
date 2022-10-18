@@ -34,7 +34,7 @@
 
 ![](/bg/click-vote.png)
 
-#### 3) Choose which way you'd like to cast your vote ans select the vote button.
+#### 3) Choose which way you'd like to cast your vote and select the vote button.
 
 ![](/bg/choose-vote-option.png)
 
