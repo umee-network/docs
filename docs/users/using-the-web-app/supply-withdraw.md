@@ -6,9 +6,9 @@
 
 :::: tabs
 
-::: tab Video Tutorial
+::: tab Web App
 
-### Video Tutorial
+### Web App
 
 ****
 
@@ -16,23 +16,13 @@
 
 :::
 
-::: tab Written Guide
+::: tab Mobile App
 
-### Written Guide
+### Mobile App
 
 ****
 
-#### 1) Select the “Dashboard” section on the navigation bar.
-
-#### 2) At the bottom left of the screen in the "Supply" section, select the asset you’d like to supply on the Umee market from the "Available Markets" list.
-
-#### 3) In the pop-up, input the amount of tokens you’d like to supply and select “Supply.” Confirm the transaction in your wallet.
-
-> DO NOT SUPPLY 100% OF YOUR UMEE Tokens! All transactions on the Umee Network will require a small UMEE balance for the gas fee.
-
-![](/bg/supply-3.png)
-
-#### You have now supplied assets on the Umee market and will begin earning lending interest on your deposit! You may now use your deposit as collateral to [borrow from the Umee market](/users/using-the-web-app/borrow-repay) if you'd like.
+![](/bg/mobile-supply.gif)
 
 :::
 

@@ -6,9 +6,9 @@
 
 :::: tabs
 
-::: tab Video Tutorial
+::: tab Web App
 
-### Video Tutorial
+### Web App
 
 ****
 
@@ -16,35 +16,13 @@
 
 :::
 
-::: tab Written Guide
+::: tab Mobile App
 
-### Written Guide
+### Mobile App
 
 ****
 
-#### 1) Make sure your [Umee wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet) and the wallet you're transferring from are [connected to the web app](/users/using-the-web-app/connecting-app).
-
-#### 2) On the "Markets" page, select "Cosmos."
-
-> When "Cosmos" is selected tokens will be transferred between their native chains and the Umee blockchain, with the exception of native UMEE tokens which are already on the Umee blockchain.
-
-![](/bg/ibc-1.png)
-
-#### 3) Identify which asset you’d like to transfer on to Umee and select “Transfer” in the appropriate row.
-
-![For this example we will be transferring ATOM from the Cosmos Hub.](/bg/ibc-2.png)
-
-#### 4) Select which network you'd like to transfer _**to**_ on the top of the pop-up.
-
-> To transfer assets off of Umee and back to their native chain, simply select the destination chain here.
-
-![We will be selecting "UMEE" since we are transferring ATOM onto the Umee blockchain.](/bg/ibc-3.png)
-
-#### 5) In the pop-up, input the amount of tokens you’d like to transfer, select “Transfer,” and approve the transaction in your wallet.
-
-![](/bg/ibc-4.png)
-
-#### After tokens have been transferred to Umee, users can [supply them on the Umee market](/users/using-the-web-app/supply-withdraw) to start earning lending interest.
+![](/bg/mobile-transfer.gif)
 
 :::
 

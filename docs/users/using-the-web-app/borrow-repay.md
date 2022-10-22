@@ -6,9 +6,9 @@
 
 :::: tabs
 
-::: tab Video Tutorial
+::: tab Web App
 
-### Video Tutorial
+### Web App
 
 ****
 
@@ -16,28 +16,13 @@
 
 :::
 
-::: tab Written Guide
+::: tab Mobile App
 
-### Written Guide
+### Mobile App
 
 ****
 
-#### 1) Select the "Dashboard" section on the navigation bar.
-
-#### 2) At the bottom right of the screen in the "Borrow" section, select the asset you’d like to borrow from the Umee market from the "Available Markets" list.
-
-#### 3) In the pop-up, input the amount of tokens you’d like to borrow and select “Borrow.” Confirm the transaction in your wallet.
-
-> To decrease your risk of [liquidation](/learn-the-basics/umee-basics/common-terms.html#liquidation), avoid using a large percentage of your [borrow limit](/learn-the-basics/umee-basics/common-terms.html#borrow-limit).
-
-![](/bg/borrow-3.png)
-
-#### You have now borrowed an asset from the Umee market! Check out the Dashboard to monitor the health of your position to avoid being liquidated.
-
-> Borrowers can decrease their chances of [liquidation](/learn-the-basics/umee-basics/common-terms.html#liquidation) by doing things like:
-> * Borrowing smaller amounts relative to the [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) provided
-> * Depositing more collateral as a borrow position gets closer to the [liquidation threshold](/learn-the-basics/umee-basics/common-terms.html#liquidation-threshold)
-> * Repaying part or all of a loan when the position becomes unhealthy
+![](/bg/mobile-borrow.gif)
 
 :::
 
