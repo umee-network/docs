@@ -4,6 +4,8 @@
 
 ![](/bg/markets-page.png)
 
+> All transfer, lend, and borrow actions can be performed from the Markets section.
+
 :::: tabs
 
 ::: tab A
@@ -57,7 +59,7 @@ This list shows each asset available for leverage and/or collateral on the block
 
 ![](/bg/atom-info.png)
 
-> Select an asset on the markets page to view its parameters.
+> Select any asset in the Markets section to view its parameters.
 
 :::: tabs
 
@@ -205,6 +207,8 @@ Borrow APR is the annual percentage rate a borrower will owe for borrowing the a
 ## Dashboard
 
 ![](/bg/dashboard-page.png)
+
+> The Dashboard section allows users to easily monitor their individual positions.
 
 :::: tabs
 
