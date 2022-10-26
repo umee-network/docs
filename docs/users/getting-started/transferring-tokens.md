@@ -16,9 +16,9 @@
 
 :::
 
-::: tab Mobile App
+::: tab Keplr Mobile App
 
-### Mobile App
+### Keplr Mobile App
 
 ****
 
