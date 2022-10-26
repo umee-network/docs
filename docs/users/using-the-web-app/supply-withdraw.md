@@ -2,7 +2,7 @@
 
 ## Supplying Assets 
 
-> Umee users can supply assets on the Umee Market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) for [cross chain borrowing](/users/using-the-web-app/borrow-repay).
+> After assets have been [transferred to Umee](/users/using-the-web-app/transferring-tokens) they can be supplied on the Umee Market to start earning [lending yield](/learn-the-basics/umee-basics/common-terms.html#supply-apr). Certain assets supplied on the Umee Market can be used as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) for [cross chain borrowing](/users/using-the-web-app/borrow-repay).
 
 :::: tabs
 
@@ -16,9 +16,9 @@
 
 :::
 
-::: tab Mobile App
+::: tab Keplr Mobile App
 
-### Mobile App
+### Keplr Mobile App
 
 ****
 
@@ -36,9 +36,9 @@
 
 :::: tabs
 
-::: tab Video Tutorial
+::: tab Web App
 
-### Video Tutorial
+### Web App
 
 ****
 
@@ -46,25 +46,13 @@
 
 :::
 
-::: tab Written Guide
+::: tab Keplr Mobile App
 
-### Written Guide
+### Keplr Mobile App
 
 ****
 
-> Withdrawing assets that are being used as collateral will negatively impact users' [loan to value ratios](/learn-the-basics/umee-basics/common-terms.html#maximum-ltv) and increase their risk of liquidation.
-
-#### 1) Select the “Dashboard” section on the navigation bar.
-
-#### 2) At the lower left of the screen in the "Supply" section, select the asset you’d like to withdraw.
-
-#### 3) Select “Withdraw” on the top of the pop-up.
-
-![](/bg/withdraw-2.png)
-
-#### 4) Input the amount of tokens you’d like to withdraw, and click “Withdraw” on the bottom of the pop up. Confirm the transaction in your wallet.
-
-![](/bg/withdraw-3.png)
+![](/bg/mobile-withdraw.gif)
 
 :::
 

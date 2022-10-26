@@ -6,9 +6,9 @@
 
 :::: tabs
 
-::: tab Video Tutorial
+::: tab Web App
 
-### Video Tutorial
+### Web App
 
 ****
 
@@ -18,9 +18,9 @@
 
 :::
 
-::: tab Written Guide
+::: tab Keplr Mobile App
 
-### Written Guide
+### Keplr Mobile App
 
 ****
 
