@@ -4,7 +4,7 @@
 
 ![](/bg/markets-page.png)
 
-> All transfer, lend, and borrow actions can be performed from the [Markets section](https://app.umee.cc/#/markets).
+> All [transfer](/users/using-the-web-app/transferring-tokens), [lend](/users/using-the-web-app/supply-withdraw), and [borrow](/users/using-the-web-app/borrow-repay) actions can be performed from the [Markets section](https://app.umee.cc/#/markets).
 
 :::: tabs
 
