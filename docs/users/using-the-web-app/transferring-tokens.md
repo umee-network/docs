@@ -16,9 +16,9 @@
 
 :::
 
-::: tab Mobile App
+::: tab Keplr Mobile App
 
-### Mobile App
+### Keplr Mobile App
 
 ****
 
@@ -34,12 +34,10 @@
 
 > If you have assets on Ethereum like [the ERC-20 UMEE token](/overview/umee-token/token-format) you can use [Umee's Gravity Bridge](/overview/umee-gravity-bridge) to transfer them to the Umee blockchain.
 
-#### 1) Find the slider panel on the "Markets" page and select "Ethereum."
+#### 1) Select the asset which you'd like to transfer to or from Ethereum and select "Transfer"
 
-#### 2) Find the asset you'd like to transfer to or from Umee in the "Available Assets" section and select "Transfer."
+#### 2) Select the appropriate chains you'd like to transfer assets to/from.
 
-#### 3) At the top of the pop-up select the blockchain which you'd like to transfer the asset _to._
+#### 3) Input the amount of tokens you'd like to transfer and confirm the receiving wallet address before selecting "Transfer."
 
-#### 4) Input the amount of tokens you'd like to transfer and confirm the receiving wallet address before selecting "Transfer."
-
-#### 5) Confirm the transaction in the appropriate wallet.
+#### 4) Confirm the transaction in the appropriate wallet.
