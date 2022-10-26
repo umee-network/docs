@@ -38,4 +38,8 @@
 
 #### 2) Find the asset you'd like to transfer to or from Umee in the "Available Assets" section and select "Transfer."
 
-#### 3)
+#### 3) At the top of the pop-up select the blockchain which you'd like to transfer the asset _to._
+
+#### 4) Input the amount of tokens you'd like to transfer and confirm the receiving wallet address before selecting "Transfer."
+
+#### 5) Confirm the transaction in the appropriate wallet.

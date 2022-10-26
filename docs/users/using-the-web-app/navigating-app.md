@@ -89,11 +89,10 @@ Total borrowed represents the total amount of the asset selected that is activel
 
 The maximum loan-to-value ratio represents the maximum amount that can be borrowed against the selected asset when the selected asset is supplied as collateral.
 
-**If a user deposits $100 of ATOM they can borrow up to $70 in other assets against it.**
-
-> - Loan = $70
-> - Collateral value = $100
-> - LTV = 70/100 = 70%
+**If the maximum LTV of ATOM is 70% a user can deposit $100 of ATOM and borrow up to $70 in other assets against it.**
+- _Loan = $70_
+- _Collateral value = $100_
+- _LTV = 70/100 = 70%_
 
 :::
 
@@ -105,11 +104,12 @@ The maximum loan-to-value ratio represents the maximum amount that can be borrow
 
 The liquidation threshold represents the loan-to-value ratio at which a user should expect to be liquidated. The liquidation threshold may be reached if the value of a user's collateral decreases relative to the value of the outstanding loan or the value of the outstanding loan increases relative to value of the collateral deposited.
 
-**If the liquidation threshold is 80%:**
+<br>
 
-> - Loan = $70
-> - Collateral value = $87
-> - This user will be liquidated because 70/87 > 80%
+**If the liquidation threshold is 80%:**
+- _Loan = $70_
+- _Collateral value = $87_
+- _This user will be liquidated because 70/87 > 80%_
 
 :::
 
@@ -149,7 +149,7 @@ The supply position represents the amount of an asset a user is actively supplyi
 
 ****
 
-The wallet balance represents the amount of an asset that a user currently has on the Umee network in their Umee wallet. Assets must be [transferred to Umee](/users/using-the-web-app/transferring-tokens) before they will appear here.
+The wallet balance represents the amount of an asset that an individual user currently has on the Umee network in his/her Umee wallet. Assets must be [transferred to Umee](/users/using-the-web-app/transferring-tokens) before they will appear here.
 
 :::
 
@@ -171,7 +171,7 @@ The supply APR is the annual percentage rate a user may receive for lending the 
 
 ****
 
-The borrow position represents the amount of an asset a user is actively borrowing from the Umee Market. In order to withdraw all of their collateral, users must repay their borrow position in full.
+The borrow position represents the amount of an asset a user is actively borrowing from the Umee Market. In order to withdraw all of their collateral, users must repay their borrow positions in full.
 
 :::
 
