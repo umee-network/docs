@@ -2,6 +2,8 @@
 
 ## What is a Blockchain?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5RIdR4n_gA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 In simple terms, a blockchain can be thought of as a distributed system used to keep virtual records. While digital record-keeping has been widely used for decades, blockchain technology is unique because it allows records to be kept in a way that is decentralized, trustless, accessible, and transparent. Blockchain systems are the backbone of [crypto](/learn-the-basics/crypto-basics/what-is-crypto) and [web3](/learn-the-basics/crypto-basics/what-is-web3).
 
 Blockchain is considered one of the most disruptive technologies because its decentralized and trustless nature ensures that the truth of a state (facts, data, financial balances) is kept and maintained without relying on any centralized third party (centralized databases, financial institutions, or any authorities) and can be openly accessed by anyone with an internet connection, anywhere in the world.
@@ -83,3 +85,9 @@ Since the data being added to a blockchain is recorded by all of the network’s
 :::
 
 ::::
+
+<br>
+
+## Take the Quiz
+
+> [Take this 5 question quiz on blockchains to unlock an Umee NFT Badge!](https://forms.gle/e2jDRHEMH8xrQDtw5)
