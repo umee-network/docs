@@ -16,9 +16,9 @@
 
 :::
 
-::: tab Mobile App
+::: tab Keplr Mobile App
 
-### Mobile App
+### Keplr Mobile App
 
 ****
 
@@ -38,7 +38,7 @@
 
 ::: tab Video Tutorial
 
-### Video Tutorial
+### Web App
 
 ****
 
@@ -46,23 +46,13 @@
 
 :::
 
-::: tab Written Guide
+::: tab Keplr Mobile App
 
-### Written Guide
+### Keplr Mobile App
 
 ****
 
-#### 1) Select the "Dashboard" section on the navigation bar.
-
-#### 2) At the lower right of the screen in the "Borrow" section, select the loan you’d like to repay.
-
-#### 3) Select “Repay” at the top of the pop-up.
-
-![](/bg/repay-2.png)
-
-#### 4) Input the amount of tokens you’d like to repay, click repay, and confirm the transaction in your wallet.
-
-![](/bg/repay-3.png)
+![](/bg/mobile-repay.gif)
 
 :::
 

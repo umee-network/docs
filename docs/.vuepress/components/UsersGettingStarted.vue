@@ -42,6 +42,12 @@ export default {
           text: "Learn how to fund an interchain wallet",
           link: "/users/getting-started/funding-wallet",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Transferring Tokens",
+          text: "Learn how to transfer tokens on to Umee",
+          link: "/users/getting-started/transferring-tokens",
+        },
       ],
     };
   },

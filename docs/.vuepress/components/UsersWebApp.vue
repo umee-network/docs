@@ -26,40 +26,34 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Test Before You Try",
-          text: "Learn how to use the Umee testnet",
-          link: "/users/using-the-web-app/test-before"
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "Connecting to the App",
-          text: "Learn how to fund an existing wallet",
-          link: "/users/using-the-web-app/connecting-app"
+          title: "Navigating the App",
+          text: "Familiarize yourself with Umee's web app",
+          link: "/users/using-the-web-app/navigating-app",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Transferring Tokens",
           text: "Learn how to transfer tokens to and from Umee",
-          link: "/users/using-the-web-app/transferring-tokens"
+          link: "/users/using-the-web-app/transferring-tokens",
         },
-                {
+        {
           img: "/img/docs-users-icon.png",
           title: "Supplying and Withdrawing",
           text: "Learn how to supply and withdraw assets",
-          link: "/users/using-the-web-app/supply-withdraw"
+          link: "/users/using-the-web-app/supply-withdraw",
         },
-                {
+        {
           img: "/img/docs-users-icon.png",
           title: "Borrowing and Repaying",
           text: "Learn how to borrow and repay assets",
-          link: "/users/using-the-web-app/borrow-repay"
+          link: "/users/using-the-web-app/borrow-repay",
         },
-                {
+        {
           img: "/img/docs-users-icon.png",
           title: "Troubleshooting Errors",
           text: "Learn how to handle errors",
-          link: "/users/using-the-web-app/troubleshooting"
-        }
+          link: "/users/using-the-web-app/troubleshooting",
+        },
       ],
     };
   },

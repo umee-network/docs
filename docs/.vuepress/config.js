@@ -30,6 +30,7 @@ module.exports = {
             "/users/getting-started/creating-wallet",
             "/users/getting-started/using-wallet",
             "/users/getting-started/funding-wallet",
+            "/users/getting-started/transferring-tokens",
           ],
         },
         {
@@ -44,8 +45,7 @@ module.exports = {
           text: "Using the Web App",
           collapsible: true,
           children: [
-            "/users/using-the-web-app/test-before",
-            "/users/using-the-web-app/connecting-app",
+            "/users/using-the-web-app/navigating-app",
             "/users/using-the-web-app/transferring-tokens",
             "/users/using-the-web-app/supply-withdraw",
             "/users/using-the-web-app/borrow-repay",

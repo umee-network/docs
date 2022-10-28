@@ -66,4 +66,4 @@ A validator's self bonded percentage represents the amount of tokens a validator
 
 ::::
 
-[View active validators on Mintscan](https://www.mintscan.io/umee/validators).
+View active validators on [Umee's staking dashboard](https://app.umee.cc/#/stake) or [Mintscan](https://www.mintscan.io/umee/validators)
