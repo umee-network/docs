@@ -1,6 +1,6 @@
 # Risk Assessment Methodology
 
-The composability of crypto enables the Umee blockchain to connect with multiple ecosystems within [Cosmos](/learn-the-basics/cosmos-basics) and beyond. As a lending platform, Umee lists tokens for lending and borrowing. The first steps in the listing process include a risk assessment from Umee the four key domains of risk Umee will assess are protocol risk, market risk, operations risk, and counterparty risk.
+The composability of crypto enables the Umee blockchain to connect with multiple ecosystems within [Cosmos](/learn-the-basics/cosmos-basics) and beyond. As a lending platform, Umee lists tokens for lending and borrowing. The first steps in the listing process include a risk assessment from Umee. The four key domains of risk Umee will assess are protocol risk, market risk, operations risk, and counterparty risk.
 
 The Umee risk team uses a scorecard with sub-components within the broader framework. Below is a sample card with the highest possible score of 10. Each sub-component is weighted based on importance relative to the other risk metrics. 
 

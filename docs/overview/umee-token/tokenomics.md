@@ -40,7 +40,7 @@ In the future community governance can also make decisions related to the usage 
 
 ## Distribution & Release Schedule
 
-![UMEE Token Genesis Distribution](/bg/distribution-schedule.png)
+![UMEE Token Genesis Distribution](/bg/genesis-distribution.png)
 
 ![UMEE Token Release Schedule](/bg/distribution-schedule-2.png)
 

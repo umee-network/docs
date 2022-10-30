@@ -162,7 +162,7 @@ _loom lets users record their screen and camera at the same time, which can be p
 
 **[OBS Studio](https://obsproject.com/)**
 
-_OBS Studio is a free screen recording software that allows users to capture high quality screen recordings needed for walkthroughs and tutorials. OBS Studio is extremely customizable and also also allows users to record audio._
+_OBS Studio is a free screen recording software that allows users to capture high quality screen recordings needed for walkthroughs and tutorials. OBS Studio is extremely customizable and also allows users to record audio._
 
 <br>
 

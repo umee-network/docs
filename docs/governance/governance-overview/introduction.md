@@ -2,7 +2,7 @@
 
 ![](/bg/governance.png)
 
-In crypto, blockchains and applications are commonly governed by their users. By distibuting [governance tokens](/learn-the-basics/crypto-basics/types-of-crypto.html#utility-tokens) to users, contributors, and investors, a project is able to better align the decision making process with the interests of all stakeholders. 
+In crypto, blockchains and applications are commonly governed by their users. By distributing [governance tokens](/learn-the-basics/crypto-basics/types-of-crypto.html#utility-tokens) to users, contributors, and investors, a project is able to better align the decision making process with the interests of all stakeholders. 
 
 Umee uses an on-chain governance structure where governance proposals are [voted on](/users/governance/voting) by community members who [stake UMEE](/users/staking-umee/staking-umee). Each staked [UMEE token](/overview/umee-token/) represents a single vote, so users who stake more UMEE tokens obtain greater influence over Umee's future. When community members who stake their UMEE fail to vote before a deadline, their votes are inherited by the [validator](/learn-the-basics/staking-basics/what-is-validator) they have delegated their stake to. 
 
