@@ -90,4 +90,4 @@ Since the data being added to a blockchain is recorded by all of the network’s
 
 ## Take the Quiz
 
-> [Take this 5 question quiz on blockchains to unlock an Umee NFT Badge!](https://forms.gle/e2jDRHEMH8xrQDtw5)
+> [Take this 5 question quiz on blockchains to unlock an Umeeversity NFT badge!](https://forms.gle/e2jDRHEMH8xrQDtw5)

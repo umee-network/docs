@@ -113,3 +113,9 @@ Since there is no limit to the amount of miners that can participate in PoW cons
 :::
 
 ::::
+
+<br>
+
+## Take the Quiz
+
+> [Take this 5 question quiz on types of blockchains to unlock an Umeeversity NFT badge!](https://forms.gle/jHcSaY8LPp3sZvP1A)
