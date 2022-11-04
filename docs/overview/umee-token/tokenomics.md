@@ -112,7 +112,7 @@ _These tokens are subject to a six month cliff which will begin at the TGE on or
 
 ****
 
-**10%** of the genesis supply is allocated to Umee Labs, the corporate entity that funded the development of the Umee protocol and is owned by the founding team. In order to best align the long term interest of the Umee community and not receive tokens in advance of any other Umee participants, the entity has an eight year lockup schedule, beginning with a twelve month cliff.
+**10%** of the genesis supply is allocated to Umee Labs, the corporate entity that funded the development of the Umee protocol and is owned by the founding team and angel investors. In order to best align the long term interest of the Umee community and not receive tokens in advance of any other Umee participants, the entity has an eight year lockup schedule, beginning with a twelve month cliff.
 
 _These tokens are subject to a twelve month cliff which will begin at the TGE on or around February 15th, 2022. After twelve months, these tokens will be vested linearly for eighty-four months._
 
