@@ -62,6 +62,12 @@ export default {
           link: "/overview",
         },
         {
+          img: "/img/docs-users-icon.png",
+          title: "User Guides",
+          text: "View user guides and tutorials to better understand Umee.",
+          link: "/users",
+        },
+        {
           img: "/img/docs-overview-icon.png",
           title: "Governance",
           text: "Umee's governance processes.",
@@ -72,12 +78,6 @@ export default {
           title: "Learn the Basics",
           text: "Introduction to basic crypto concepts.",
           link: "/learn-the-basics",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "User Guides",
-          text: "View user guides and tutorials to better understand Umee.",
-          link: "/users",
         },
         {
           img: "/img/docs-validator-icon.png",
