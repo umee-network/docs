@@ -265,7 +265,7 @@ Please [click here](https://github.com/umee-network/umee#release-compatibility-m
 
 #### Installation
 
-Ensure that your version of Peggo is compatible above. If not, the latest version 1.0.1 is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
+Ensure that your version of Peggo is compatible above. If not, the latest version 1.3.0 is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
 
 > If [cosmovisor](/developers/joining-mainnet.html#cosmovisor) is already installed to automatically swap binaries, [skip to installing Price Feeder below](#price-feeder).
 
