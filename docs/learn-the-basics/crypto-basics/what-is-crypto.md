@@ -87,3 +87,9 @@ Crypto is the fastest and easiest way for friends or strangers to transact with 
 :::
 
 ::::
+
+<br>
+
+## Take the Quiz
+
+[Take this 5 question quiz to show what you've learned and unlock an Umeeversity NFT badge!](https://forms.gle/Q1WHxe5QvXxuipnp9)
