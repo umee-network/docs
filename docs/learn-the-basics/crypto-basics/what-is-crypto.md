@@ -2,7 +2,7 @@
 
 ## What is Crypto?
 
-![](/bg/what-is-crypto.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xCdsFD70h94" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 One of the best things about physical cash is that it can easily be exchanged between two parties without the need for a centralized intermediary (like a bank or a payment service provider). When people transition from physical cash to online banking products they may not realize that they are actually trading self-sovereignty for convenience, since banks have the ability to block transactions and freeze users' funds without warning. This means that banks and/or the governments that oversee the banks have control over how people can spend their “own” money.
 
