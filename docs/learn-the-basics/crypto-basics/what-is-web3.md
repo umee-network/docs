@@ -1,5 +1,7 @@
 # Web3
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QbW2GvWSWZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Web1
 
 In its early days, the internet mostly consisted of static websites. Web1 is often referred to as the “read-only web” because there was minimal interaction between users and online content. The purpose of web1 was simply to provide information to its users; it can be thought of as a digital encyclopedia where a few people were providing content for a large audience of content consumers (users). On web1, it was difficult for creators to publish and monetize content, and difficult for users to find the content they were looking for.
