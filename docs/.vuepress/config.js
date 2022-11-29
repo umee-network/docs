@@ -58,7 +58,7 @@ module.exports = {
           children: [
             "/users/governance/voting",
             "/users/governance/creating-proposal",
-            "/users/governance/new-asset-listing-proposal",
+            "/governance/asset-listing/asset-listing-guide",
           ],
         },
       ],

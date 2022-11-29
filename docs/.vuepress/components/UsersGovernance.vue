@@ -38,9 +38,9 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Creating a New Asset Listing Proposal",
+          title: "New Asset Listings",
           text: "Learn how to request support for a new asset on Umee",
-          link: "/users/governance/new-asset-listing-proposal",
+          link: "/governance/asset-listing/asset-listing-guide",
         },
       ],
     };
