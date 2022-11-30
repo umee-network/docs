@@ -8,7 +8,17 @@ While all assets that are accepted by Umee's governance will be listed on Umee, 
 
 <br>
 
-## Creating the Proposal
+## Creating & Submitting the Proposal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SHYTqcitoDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+:::: tabs
+
+::: tab Creating the Proposal
+
+### Creating the Proposal
+
+****
 
 #### 1) Start by connecting your wallet to [Umee's governance forum](https://gov.umee.cc/).
 
@@ -50,4 +60,38 @@ While all assets that are accepted by Umee's governance will be listed on Umee, 
 
 #### 10) Spread the word to get eyes on the proposal, and engage with the community to answer any questions related to the proposal.
 
-> If there is clear support for the proposal on Umee's governance forum, an Umee core team member will create and submit an on-chain "Token Registry Proposal" to add support for the asset on Umee as soon as possible. Nothing more is needed from the proposer.
+:::
+
+::: tab Submitting the Proposal
+
+### Submitting the Proposal
+
+****
+
+> It's recommended that proposal authors wait at least four days, or until significant discussion has taken place, before submitting their New Asset Listing Proposals on-chain for a vote. Authors who submit poor proposals on-chain may risk losing their [UMEE deposits](/governance/governance-overview/how-it-works.html#the-deposit-period).
+
+#### 1) Select the "+" in the upper righthand corner of [Umee's governance forum](https://gov.umee.cc/) and then select the "New On-Chain Proposal" button.
+
+![](/bg/select-new-proposal.png)
+
+#### 2) Choose "Text Proposal" from the Proposal Type dropdown.
+
+#### 3) Title the proposal "Signaling Proposal: Add Support for [Asset Name]"
+
+#### 4) Provide a brief description and be sure to include the link to the New Asset Listing Proposal thread and discussion.
+
+#### 5) Double check that all details are correct. Once a proposal has been submitted on-chain it cannot be altered.
+
+#### 6) Enter the amount of UMEE tokens you'd like to contribute towards the deposit. To make the full deposit, 100,000 UMEE tokens are required. 
+
+> Make note that deposits are denominated in uumee (100,000 UMEE = 100,000,000,000 uumee).
+
+> Proposals must reach the 100,000 UMEE deposit threshold within 14 days in order to enter the voting period. Deposits for proposals which fail to reach the deposit threshold within 14 days will NOT be returned to the depositors.
+
+#### 7) Select "Send transaction" and approve the transaction in your wallet.
+
+> Once the New Asset Listing Proposal has been submitted on-chain, nothing more is needed from the proposer. The Umee core team will review the results of signaling proposals and submit "Token Registry Proposals" with carefully crafted risk parameters on-chain as soon as the asset in question can safely be supported on Umee.
+
+:::
+
+::::
