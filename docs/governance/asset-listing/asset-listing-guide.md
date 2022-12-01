@@ -1,10 +1,16 @@
 # New Asset Listing Guide
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc. 
+## The Listing Process 
 
-Anyone can submit a proposal for a new asset to be listed on Umee by creating a "New Asset Listing Proposal" thread on [Umee's governance forum](https://gov.umee.cc/). An off-chain poll is used to gauge community sentiment around a New Asset Listing Proposal, and the Umee Core team will submit an on-chain "Token Registry Proposal" for assets that gain clear support.
+1. Anyone can draft a proposal for a new asset to be listed on Umee by following the guide ([seen below](/governance/asset-listing/asset-listing-guide.html#creating-submitting-the-proposal)) to create a "New Asset Listing Proposal" thread on [Umee's governance forum](https://gov.umee.cc/). 
 
-While all assets that are accepted by Umee's governance will be listed on Umee, different assets have different levels of risk that will be assessed by a risk team. Proposers should provide as much of the relevant information as possible to help Umee make an informed decision. 
+2. Once the thread has been shared and discussed, the proposal author can follow the guide ([seen below](/governance/asset-listing/asset-listing-guide.html#creating-submitting-the-proposal)) to submit the New Asset Listing Proposal on-chain for a signaling vote. 
+
+3. After community governance has signaled support for a New Asset Listing Proposal, Umee’s risk team will begin assessing the individual asset’s risk profile using a [targeted risk framework](/governance/asset-listing/risk-assessment-methodology) which includes extensive market simulation modeling in order to customize risk parameters for each individual asset.
+
+4. Once the appropriate risk parameters have been determined for an asset, Umee's governance facilitators will submit a Token Registry Proposal on-chain.
+
+5. When the Token Registry Proposal has passed the assets will automatically be available on Umee's markets. It is up to the Umee Core Team and other developers building on Umee to make timely adjustments to front ends to better incorporate new assets.
 
 <br>
 
