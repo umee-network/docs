@@ -2,7 +2,7 @@
 
 ## What is a Crypto Wallet?
 
-![](/bg/what-is-a-crypto-wallet.png)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0fLAYSt-4UM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A crypto wallet is a tool that allows users to easily interact with blockchain-based applications. Interestingly, crypto wallets don’t actually store [crypto](/learn-the-basics/crypto-basics/what-is-crypto), but rather the “_[private keys](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-are-private-keys)_” required to approve crypto transactions on a [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain). Crypto always remains on a blockchain regardless of who owns it or how it is used, and crypto wallets serve as an interface to let a user interact with the crypto associated with his/her “_[wallet address](/learn-the-basics/crypto-basics/what-is-a-wallet.html#what-is-a-wallet-address)_.” 
 
@@ -103,3 +103,9 @@ Since [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) are 
 - [Learn how to use an Umee wallet.](/users/getting-started/using-wallet)
 
 - [Learn how to fund an Umee wallet.](/users/getting-started/funding-wallet)
+
+<br>
+
+## Take the Quiz
+
+[Take this 5 question quiz to show what you've learned and unlock an Umeeversity NFT badge!](https://forms.gle/hn6rGzT7a59hELuQ7)

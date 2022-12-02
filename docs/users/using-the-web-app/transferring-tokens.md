@@ -32,7 +32,23 @@
 
 ## Ethereum Transfers
 
-> If you have assets on Ethereum like [the ERC-20 UMEE token](/overview/umee-token/token-format) you can use [Umee's Gravity Bridge](/overview/umee-gravity-bridge) to transfer them to the Umee blockchain.
+:::: tabs
+
+::: tab Video Tutorial
+
+### Video Tutorial
+
+****
+
+![](/bg/bridge-usdc.gif)
+
+:::
+
+::: tab Written Guide
+
+### Written Guide
+
+****
 
 #### 1) Select the Ethereum asset which you'd like to transfer to or from Umee and select "Transfer"
 
@@ -41,3 +57,7 @@
 #### 3) Input the amount of tokens you'd like to transfer and confirm the receiving wallet address before selecting "Transfer."
 
 #### 4) Confirm the transaction in the appropriate wallet.
+
+:::
+
+::::
