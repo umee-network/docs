@@ -82,19 +82,29 @@
 
 #### 2) Choose "Text Proposal" from the Proposal Type dropdown.
 
-#### 3) Title the proposal "Signaling Proposal: Add Support for [Asset Name]"
+![](/bg/choose-type.png)
+
+#### 3) Title the proposal "Listing Proposal: Add Support for [Asset Name]"
+
+![](/bg/name-it.png)
 
 #### 4) Provide a brief description and be sure to include the link to the New Asset Listing Proposal thread and discussion.
+
+![](/bg/description.png)
 
 #### 5) Double check that all details are correct. Once a proposal has been submitted on-chain it cannot be altered.
 
 #### 6) Enter the amount of UMEE tokens you'd like to contribute towards the deposit. To make the full deposit, 100,000 UMEE tokens are required. 
+
+![](/bg/send-transaction.png)
 
 > Make note that deposits are denominated in uumee (100,000 UMEE = 100,000,000,000 uumee).
 
 > Proposals must reach the 100,000 UMEE deposit threshold within 14 days in order to enter the voting period. Deposits for proposals which fail to reach the deposit threshold within 14 days will NOT be returned to the depositors.
 
 #### 7) Select "Send transaction" and approve the transaction in your wallet.
+
+![](/bg/approve-it.png)
 
 > Once the New Asset Listing Proposal has been submitted on-chain, nothing more is needed from the proposer. The Umee core team will review the results of signaling proposals and submit "Token Registry Proposals" with carefully crafted risk parameters on-chain as soon as the asset in question can safely be supported on Umee.
 
