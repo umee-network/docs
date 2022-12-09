@@ -12,6 +12,8 @@ This is an example of a principal-agent problem, where the incentives of two par
 
 ## What is a DAO?
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pMOUa-mlWUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 A Decentralized Autonomous Organization, or DAO, is a new type of organizational model commonly used by crypto projects to help solve the principal-agent problem by aligning incentives and distributing decision making power to all [stakeholders](/learn-the-basics/crypto-basics/what-is-dao.html#stakeholders). 
 
 DAOs often issue [governance tokens](/learn-the-basics/crypto-basics/types-of-crypto.html#governance-tokens) in order to enable the [decentralized governance](/governance) of the organization. Usually a specific amount of governance tokens must be deposited in order to [submit a governance proposal](/users/governance/creating-proposal), and all governance token holders are able to [vote on the proposal](/users/governance/voting) (1 token typically equals 1 vote). Governance tokens are usually distributed between all stakeholders in an attempt to properly balance the decision making powers and to help align their interests by incentivizing them all to bring more value to the protocol.
@@ -81,3 +83,9 @@ On-chain governance means that a DAO’s governance decisions can be automatical
 :::
 
 ::::
+
+<br>
+
+## Take the Quiz
+
+[Take this 5 question quiz to show what you've learned and unlock an Umeeversity NFT badge!](https://forms.gle/5riPqa5fsihrEx2T7)
