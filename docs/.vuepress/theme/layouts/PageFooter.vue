@@ -55,7 +55,7 @@
             <span class="menu-title">DOCUMENTATION</span>
             <div class="menus">
               <div class="menu">
-                <app-link :external="true" :link="'https://docs.umee.cc/umee/'"
+                <app-link :external="true" :link="'https://umeeversity.umee.cc/'"
                   >Docs</app-link
                 >
               </div>
