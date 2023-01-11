@@ -2,7 +2,7 @@
 
 ## What is Umee?
 
-Umee is a permissionless, autonomous, rate algorithm built as a blockchain that is pioneering the next generation of globally accessible financial markets. As a base layer [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage, liquidity, and debt instruments. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum, side chain architectures, layer two scaling solutions, rollups, and alternative base layer protocols.
+Umee is a permissionless, autonomous, interest rate algorithm built as a blockchain that is pioneering the next generation of globally accessible financial markets. As a base layer [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage, liquidity, and debt instruments. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum, side chain architectures, layer two scaling solutions, rollups, and alternative base layer protocols.
 
 <br>
 
