@@ -83,7 +83,7 @@ sudo systemctl start geth
 5\. Install Peggo gravity bridge orchestrator [release for your architecture](https://github.com/umee-network/peggo/releases), the client for cross-chain interaction, eg. on Linux/x86:
 
 ```
-wget https://github.com/umee-network/peggo/releases/download/v1.1.0/peggo-v1.1.0-linux-amd64.tar.gz
+wget https://github.com/umee-network/peggo/releases/download/v1.3.0/peggo-v1.3.0-linux-amd64.tar.gz
 sudo mv peggo /usr/local/bin/
 ```
 
@@ -232,9 +232,9 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 [Full Umee release notes are here](https://github.com/umee-network/umee/blob/main/RELEASE_NOTES.md)
 
-[Umeed official release, v3.0.1](https://github.com/umee-network/umee/releases/tag/v3.0.1)
+[Umeed official release, v3.1.0](https://github.com/umee-network/umee/releases/tag/v3.1.0)
 
-[Peggo official release, v1.1.0](https://github.com/umee-network/peggo/releases/tag/v1.1.0)
+[Peggo official release, v1.3.0](https://github.com/umee-network/peggo/releases/tag/v1.3.0)
 
 [Price Feeder official release, v1.0.0](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv1.0.0)
 
@@ -242,14 +242,15 @@ Calypso - v3 is Umee Network's latest blockchain technology release. In addition
 
 ```
 peggo version
-> version: v1.1.0
-> commit: 36d872d46a9c43c88f4ee00d37703954e72108c1
-> sdk: v0.46.0-umee.0.20220812010629-4d5bb2e3f73c
+> version: v1.3.0
+> commit: 3d335aa68c33117cb594950e23f41b298a08f1d8
+> sdk: v0.46.1-umee
 > go: go1.18.6 linux/amd64
 
+
 umeed version
-> v3.0.1
-> (also could be) HEAD-ae43ccbd25c382cdfc5bcde26f21bc2002be5bf3 if built from `Makefile`
+> v3.1.0
+> commit: ff503f4b760ad0423d7dab42d7b5da91a9c001a1
 
 price-feeder version
 > version: v1.0.0
@@ -264,7 +265,7 @@ Please [click here](https://github.com/umee-network/umee#release-compatibility-m
 
 #### Installation
 
-Ensure that your version of Peggo is compatible above. If not, the latest version 1.0.1 is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
+Ensure that your version of Peggo is compatible above. If not, the latest version 1.3.0 is available as an [official release](https://github.com/umee-network/peggo/releases) or from [source](https://github.com/umee-network/peggo#installation).
 
 > If [cosmovisor](/developers/joining-mainnet.html#cosmovisor) is already installed to automatically swap binaries, [skip to installing Price Feeder below](#price-feeder).
 
