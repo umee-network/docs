@@ -1,10 +1,10 @@
 # Creating a New Asset Listing Proposal
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc. 
+Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc.
 
 Anyone can submit a proposal for a new asset to be listed on Umee by creating a "New Asset Listing Proposal" thread on [Umee's governance forum](https://gov.umee.cc/). An off-chain poll is used to gauge community sentiment around a New Asset Listing Proposal, and the Umee Core team will submit an on-chain "Token Registry Proposal" for assets that gain clear support.
 
-While all assets that are accepted by Umee's governance will be listed on Umee, different assets have different levels of risk that will be assessed by a risk team. Proposers should provide as much of the relevant information as possible to help Umee make an informed decision. 
+While all assets that are accepted by Umee's governance will be listed on Umee, different assets have different levels of risk that will be assessed by a risk team. Proposers should provide as much of the relevant information as possible to help Umee make an informed decision.
 
 <br>
 

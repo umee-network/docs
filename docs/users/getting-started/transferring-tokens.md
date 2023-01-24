@@ -10,7 +10,7 @@
 
 ### Web App
 
-****
+---
 
 ![](/bg/transfer-assets-on.gif)
 
@@ -20,7 +20,7 @@
 
 ### Keplr Mobile App
 
-****
+---
 
 ![](/bg/mobile-transfer.gif)
 

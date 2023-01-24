@@ -10,7 +10,7 @@
 
 ### Web App
 
-****
+---
 
 ![](/bg/stake-umee.gif)
 
@@ -22,7 +22,7 @@
 
 ### Keplr Mobile App
 
-****
+---
 
 > Coming soon!
 

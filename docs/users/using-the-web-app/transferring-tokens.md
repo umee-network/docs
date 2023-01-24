@@ -10,7 +10,7 @@
 
 ### Web App
 
-****
+---
 
 ![](/bg/transfer-assets-on.gif)
 
@@ -20,7 +20,7 @@
 
 ### Keplr Mobile App
 
-****
+---
 
 ![](/bg/mobile-transfer.gif)
 
@@ -38,7 +38,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 ![](/bg/bridge-usdc.gif)
 
@@ -48,7 +48,7 @@
 
 ### Written Guide
 
-****
+---
 
 #### 1) Select the Ethereum asset which you'd like to transfer to or from Umee and select "Transfer"
 

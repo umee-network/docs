@@ -10,7 +10,7 @@
 
 ### Web App
 
-****
+---
 
 ![](/bg/borrow-assets.gif)
 
@@ -20,7 +20,7 @@
 
 ### Keplr Mobile App
 
-****
+---
 
 ![](/bg/mobile-borrow.gif)
 
@@ -40,7 +40,7 @@
 
 ### Web App
 
-****
+---
 
 ![](/bg/repaying-loan.gif)
 
@@ -50,7 +50,7 @@
 
 ### Keplr Mobile App
 
-****
+---
 
 ![](/bg/mobile-repay.gif)
 

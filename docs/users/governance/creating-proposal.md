@@ -6,7 +6,7 @@
 
 :::: tabs
 
-::: tab Step 1: Discussion 
+::: tab Step 1: Discussion
 
 ## Step 1: Discussion
 
@@ -14,12 +14,12 @@ It’s very important for community members to discuss their ideas and receive t
 
 #### Some things to take into consideration include:
 
-* How will this proposal bring value to the Umee community?
-* Are there any significant risks or tradeoffs associated with this idea?
-* Which stakeholders will be impacted the most if this proposal is implemented?
-* Is there clear community demand for this proposal?
+- How will this proposal bring value to the Umee community?
+- Are there any significant risks or tradeoffs associated with this idea?
+- Which stakeholders will be impacted the most if this proposal is implemented?
+- Is there clear community demand for this proposal?
 
-****
+---
 
 ### Creating a Discussion Thread
 
@@ -37,7 +37,7 @@ It’s very important for community members to discuss their ideas and receive t
 
 :::
 
-::: tab Step 2: Draft 
+::: tab Step 2: Draft
 
 ## Step 2: Draft the Proposal
 
@@ -45,11 +45,11 @@ Community members should take any and all feedback and suggestions into consider
 
 #### When posting a drafted proposal:
 
-* Include a short title that summarizes the content;
-* Always use the “**Drafted: Pre-Voting**” stage tag to help keep the forum organized;
-* Include an off-chain poll to help gauge sentiment.
+- Include a short title that summarizes the content;
+- Always use the “**Drafted: Pre-Voting**” stage tag to help keep the forum organized;
+- Include an off-chain poll to help gauge sentiment.
 
-****
+---
 
 ### Sharing a Drafted Proposal
 
@@ -77,15 +77,15 @@ Community members should take any and all feedback and suggestions into consider
 
 Once the drafted proposal has been shared on Commonwealth, the author should:
 
-* Encourage key community members (well respected contributors, validators, large stakers, etc.) to share their questions, concerns and/or constructive criticism.
-* Spread the word to bring attention to the proposal. Use tools like Twitter, Discord, Telegram, and Reddit to alert the community.
-* Answer relevant questions on Commonwealth and the #governance-discussion channel on the [Umee Discord](https://discord.gg/umee).
+- Encourage key community members (well respected contributors, validators, large stakers, etc.) to share their questions, concerns and/or constructive criticism.
+- Spread the word to bring attention to the proposal. Use tools like Twitter, Discord, Telegram, and Reddit to alert the community.
+- Answer relevant questions on Commonwealth and the #governance-discussion channel on the [Umee Discord](https://discord.gg/umee).
 
 If the community’s feedback and off-chain poll demonstrate clear support for the governance proposal, the author should make any necessary changes and prepare to submit the proposal on-chain.
 
 :::
 
-::: tab Step 4: Submit 
+::: tab Step 4: Submit
 
 ## Step 4: Submit the On-Chain Proposal
 
@@ -95,11 +95,11 @@ Once there has been ample discussion and all feedback has been taken into consid
 
 #### When submitting an on-chain proposal:
 
-* Pay close attention to fine details - once a proposal has been submitted on chain it cannot be altered;
-* Include the links to any relevant discussions that have already taken place;
-* Update the tag on the edited draft from “Drafted: Pre-Voting” to “**On Chain Proposal**” to help keep the forum organized.
+- Pay close attention to fine details - once a proposal has been submitted on chain it cannot be altered;
+- Include the links to any relevant discussions that have already taken place;
+- Update the tag on the edited draft from “Drafted: Pre-Voting” to “**On Chain Proposal**” to help keep the forum organized.
 
-****
+---
 
 ### Creating an On-Chain Proposal
 
@@ -119,7 +119,7 @@ Once there has been ample discussion and all feedback has been taken into consid
 
 #### 4) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
 
-> - The deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000." 
+> - The deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000."
 > - Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
 > - [Learn more about how Umee governance deposits work here](/governance/governance-overview/how-it-works).
 

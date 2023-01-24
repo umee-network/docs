@@ -8,7 +8,7 @@
 
 ### Error Message
 
-****
+---
 
 ![](/bg/error-out-of-gas.png)
 
@@ -18,7 +18,7 @@
 
 ### Solution
 
-****
+---
 
 Your gas limit is not high enough. Select "set gas" and manually enter an amount greater than the number after "gasUsed" before confirming the transaction.
 
@@ -38,7 +38,7 @@ Your gas limit is not high enough. Select "set gas" and manually enter an amount
 
 ### Error Message
 
-****
+---
 
 ![](/bg/error-account-sequence-mismatch.png)
 
@@ -48,7 +48,7 @@ Your gas limit is not high enough. Select "set gas" and manually enter an amount
 
 ### Solution
 
-****
+---
 
 This error means that another transaction is still pending. Wait a minute and try the same transaction again. Patience is key - avoid spamming the same transaction.
 
@@ -66,7 +66,7 @@ This error means that another transaction is still pending. Wait a minute and tr
 
 ### Error Message
 
-****
+---
 
 ![](/bg/error-receiving-chain-height.png)
 
@@ -76,13 +76,13 @@ This error means that another transaction is still pending. Wait a minute and tr
 
 ### Solution
 
-****
+---
 
 There are a number of ways this error may be resolved, including:
 
-* Increasing your gas limit;
-* Clearing cache;
-* Disconnecting and reconnecting your device to the internet.
+- Increasing your gas limit;
+- Clearing cache;
+- Disconnecting and reconnecting your device to the internet.
 
 :::
 

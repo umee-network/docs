@@ -10,7 +10,7 @@
 
 ### Voting Power
 
-****
+---
 
 A validator's voting power represents the sum of tokens that are self-bonded and delegated to the validator. When a community member fails to [vote on a governance proposal](/users/governance/voting), the validator they have delegated their stake to will inherit their vote.
 
@@ -22,7 +22,7 @@ A validator's voting power represents the sum of tokens that are self-bonded and
 
 ### Participation
 
-****
+---
 
 Active governance is important for the growth of the network. Validators have a responsibility to actively participate in governance, and vote in the interests of their delegators. Community members should delegate to validators who actively participate in governance.
 
@@ -34,7 +34,7 @@ Active governance is important for the growth of the network. Validators have a 
 
 ### Uptime
 
-****
+---
 
 Uptime represents the validator's reliability. Validators with significant downtime may be jailed and potentially removed from the active set, resulting in the slashing of their stake.
 
@@ -46,7 +46,7 @@ Uptime represents the validator's reliability. Validators with significant downt
 
 ### Commission
 
-****
+---
 
 A validator's commission is the percent of staking rewards that a validator will keep for the services provided. It's not cheap or easy to run an Umee validator node, so it's important that validators earn a commission for their services.
 
@@ -58,7 +58,7 @@ A validator's commission is the percent of staking rewards that a validator will
 
 ### Self Bond
 
-****
+---
 
 A validator's self bonded percentage represents the amount of tokens a validator has delegated to themselves. This is a good indicator of whether a validator has "skin in the game" or not.
 

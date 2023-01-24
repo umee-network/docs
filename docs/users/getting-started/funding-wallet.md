@@ -14,7 +14,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2CI7xGxCRl4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -24,7 +24,7 @@
 
 ### Written Guide
 
-****
+---
 
 #### 1) Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
 
@@ -40,8 +40,8 @@
 
 #### Once you have received the ATOM on the Cosmos Hub network in your Umee blockchain compatible wallet you can:
 
-* [Transfer it to a decentralized exchange to trade it for other assets like UMEE](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange)
-* [Transfer it to the Umee blockchain](/users/using-the-web-app/transferring-tokens) to [supply on the Umee market](/users/using-the-web-app/supply-withdraw) and start earning supply yield
+- [Transfer it to a decentralized exchange to trade it for other assets like UMEE](/users/getting-started/funding-wallet.html#trading-cosmos-assets-on-a-decentralized-exchange)
+- [Transfer it to the Umee blockchain](/users/using-the-web-app/transferring-tokens) to [supply on the Umee market](/users/using-the-web-app/supply-withdraw) and start earning supply yield
 
 :::
 
@@ -59,7 +59,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/d5EL_71b9I8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -69,7 +69,7 @@
 
 ### Written Guide
 
-****
+---
 
 > Coming soon!
 

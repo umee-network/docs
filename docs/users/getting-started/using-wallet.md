@@ -8,7 +8,7 @@
 
 ## Changing Networks
 
-> Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens. 
+> Changing networks within a wallet extension allows users to view their wallet addresses, token balances, and send or receive tokens.
 
 :::: tabs
 
@@ -16,7 +16,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 ![](/bg/change-network.gif)
 
@@ -26,7 +26,7 @@
 
 ### Written Guide
 
-****
+---
 
 #### 1) Open up the Keplr wallet browser extension and select the network list drop down at the top of the extension.
 
@@ -58,7 +58,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 ![](/bg/copy-umee-address.gif)
 
@@ -68,7 +68,7 @@
 
 ### Written Guide
 
-****
+---
 
 #### 1) Open the wallet extension and select _**the network which tokens are being sent from**_ in the network dropdown list.
 
@@ -90,7 +90,7 @@
 
 ## Sending Tokens
 
->Crypto users can use their wallets to instantly send assets to another user without the need for a centralized third party.
+> Crypto users can use their wallets to instantly send assets to another user without the need for a centralized third party.
 
 :::: tabs
 
@@ -98,7 +98,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 ![](/bg/send-umee.gif)
 
@@ -108,7 +108,7 @@
 
 ### Written Guide
 
-****
+---
 
 #### 1) Open the wallet extension and select the network you'd like to send tokens on.
 

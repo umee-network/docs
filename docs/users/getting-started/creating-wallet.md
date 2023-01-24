@@ -1,6 +1,6 @@
 # Creating a Wallet
 
-> In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed. 
+> In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed.
 > [Users can learn about crypto wallets here](/users/blockchain-basics/what-is-wallet).
 
 :::: tabs
@@ -9,7 +9,7 @@
 
 ### Video Tutorial
 
-****
+---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/41IYlJHU5Ac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,13 +19,13 @@
 
 ### Written Guide
 
-****
+---
 
 #### Before creating an Umee wallet, review the following security tips.
 
 ![](/bg/creating-umee-wallet-info.png)
 
-****
+---
 
 #### 1) Go to [keplr.app](https://www.keplr.app/) and select "Install Keplr for Chrome."
 
