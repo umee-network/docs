@@ -60,11 +60,14 @@
         </div>
         <div>
           <GradientBox>
-            <form class="newsletter-form-input">
-              <input type="email" required placeholder="Your email" />
-              <button type="submit" class="gradient-text">SIGN UP</button>
+            <form class="newsletter-form-input" @submit.prevent="onSubmit()">
+              <input type="email" required placeholder="Your email" v-model="email"/>
+              <button v-if="!loading" type="submit" class="gradient-text">SIGN UP</button>
             </form>
           </GradientBox>
+          <div v-show="message" class="newsletter-form-error">
+            {{ message }}
+          </div>
           <p class="unsubscribe">You can unsubscribe any time.</p>
         </div>
       </div>
@@ -76,6 +79,9 @@
 export default {
   data() {
     return {
+      loading: false,
+      email: '',
+      message: '',
       darkMode: false,
       imageArr: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
     };
@@ -88,6 +94,23 @@ export default {
       if (localStorage.getItem("dark-theme")) {
         this.darkMode = true;
       }
+    },
+    onSubmit() {
+      this.loading = true
+      const data = {
+        email: this.email,
+      }
+      fetch('https://umee.cc/.netlify/functions/subscribe', {method: 'post', body: JSON.stringify(data)})
+        .then(
+          (_response) => {
+            this.message = "You have been added to Umee's mailing list"
+            this.loading = false
+          },
+          (_response) => {
+            this.message = 'There was a problem adding you to the mailing list.'
+            this.loading = false
+          }
+        )
     },
   },
 };
@@ -217,7 +240,10 @@ export default {
         cursor: pointer;
       }
     }
-
+    &-error {
+      margin-top: .5rem;
+    }
+  
     margin-left: 280px;
     width: 100%;
 
