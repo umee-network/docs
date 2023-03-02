@@ -3,7 +3,7 @@
 ****
 :::: tabs
 
-::: tab **Q1 2023**
+::: tab Q1 2023
 
 - Historacle upgrade
 - Lending Security Enhancement
@@ -12,16 +12,16 @@
 
 :::
 
-::: tab **Q2 2023**
+::: tab Q2 2023
 
-- $UMEE 2.0_
-- CosmWasm upgrade_
+- $UMEE 2.0
+- CosmWasm upgrade
 - Capital Efficiency 1.0
 - Flash loan features
 
 :::
 
-::: tab **Q3 2023**
+::: tab Q3 2023
 
 - Capital efficiency 2.0 
 - Lending Security Enhancement 
@@ -30,7 +30,7 @@
 
 :::
 
-::: tab **Q4 2023**
+::: tab Q4 2023
 
 - CosmWasm applications
 - Fixed term loans
