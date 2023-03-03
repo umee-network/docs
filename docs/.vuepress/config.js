@@ -112,6 +112,7 @@ module.exports = {
             "/overview/umee-overview/introduction",
             "/overview/umee-overview/umee-vision",
             "/overview/umee-overview/security-audits",
+            "/overview/umee-overview/umee-roadmap",
           ],
         },
         {

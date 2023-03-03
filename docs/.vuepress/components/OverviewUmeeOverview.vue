@@ -42,6 +42,12 @@ export default {
           text: "Review Umee's security measures",
           link: "/overview/umee-overview/security-audits",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Umee's Roadmap",
+          text: "Review Umee's Roadmap",
+          link: "/overview/umee-overview/umee-roadmap",
+        },
       ],
     };
   },
