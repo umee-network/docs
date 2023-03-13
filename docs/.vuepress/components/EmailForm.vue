@@ -61,8 +61,15 @@
         <div>
           <GradientBox>
             <form class="newsletter-form-input" @submit.prevent="onSubmit()">
-              <input type="email" required placeholder="Your email" v-model="email"/>
-              <button v-if="!loading" type="submit" class="gradient-text">SIGN UP</button>
+              <input
+                type="email"
+                required
+                placeholder="Your email"
+                v-model="email"
+              />
+              <button v-if="!loading" type="submit" class="gradient-text">
+                SIGN UP
+              </button>
             </form>
           </GradientBox>
           <div v-show="message" class="newsletter-form-error">
@@ -91,26 +98,26 @@ export default {
   },
   methods: {
     checkUserPreference() {
-      if (localStorage.getItem("dark-theme")) {
+      if (localStorage.getItem('dark-theme')) {
         this.darkMode = true;
       }
     },
     onSubmit() {
-      this.loading = true
+      this.loading = true;
       const data = {
         email: this.email,
-      }
-      fetch('https://umee.cc/.netlify/functions/subscribe', {method: 'post', body: JSON.stringify(data)})
-        .then(
-          (_response) => {
-            this.message = "You have been added to Umee's mailing list"
-            this.loading = false
-          },
-          (_response) => {
-            this.message = 'There was a problem adding you to the mailing list.'
-            this.loading = false
-          }
-        )
+      };
+      fetch('https://umee.cc/.netlify/functions/subscribe', {
+        method: 'post',
+        body: JSON.stringify(data),
+      })
+        .then((_response) => {
+          this.message = "You have been added to Umee's mailing list";
+        })
+        .catch((_response) => {
+          console.log(_response)
+          this.message = 'There was a problem adding you to the mailing list.';
+        }).finally(() => this.loading = false);
     },
   },
 };
@@ -139,9 +146,9 @@ export default {
   align-items: center;
 
   .unsubscribe {
-    margin-top: .5rem;
+    margin-top: 0.5rem;
     font-size: 0.9rem;
-    opacity: .5;
+    opacity: 0.5;
   }
 
   &:hover &-image-item {
@@ -200,7 +207,7 @@ export default {
         width: 45%;
       }
 
-      @media(max-width: 1024px) {
+      @media (max-width: 1024px) {
         display: block;
 
         & > div {
@@ -212,7 +219,7 @@ export default {
         }
       }
 
-      @media(max-width: 768px) {
+      @media (max-width: 768px) {
         padding: 1.5rem;
       }
     }
@@ -241,13 +248,13 @@ export default {
       }
     }
     &-error {
-      margin-top: .5rem;
+      margin-top: 0.5rem;
     }
-  
+
     margin-left: 280px;
     width: 100%;
 
-    @media(max-width: 768px) {
+    @media (max-width: 768px) {
       margin-left: 0;
       margin-top: 280px;
     }
