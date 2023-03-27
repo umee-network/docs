@@ -27,7 +27,6 @@
 - Lending Security Enhancement 
 - CosmWasm applications
 
-
 :::
 
 ::: tab Q4 2023
