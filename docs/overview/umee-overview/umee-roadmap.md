@@ -22,18 +22,17 @@
 
 ::: tab Q3 2023
 
-- $UMEE Restructuring
-- Capital efficiency 1.0 
+- $UMEE 2.0 Tokenomics
 - Lending Security Enhancement 
 - CosmWasm applications
+- meTOKEN release
 
 :::
 
 ::: tab Q4 2023
 
-- Capital Efficiency 2.0
+- Capital Efficiency 1.0
 - CosmWasm applications
-- Fixed term loans
 - Bridgeless lending and borrowing
 - Institutional Lending Markets
 
