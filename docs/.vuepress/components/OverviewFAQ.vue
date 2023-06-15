@@ -1,7 +1,7 @@
 <template>
   <div>
-    <h1>Overview</h1>
-    <p>Learn all about Umee's cross-chain DeFi capabilities.</p>
+    <h1>FAQ</h1>
+    <p>Frequently Asked Questions</p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -25,27 +25,21 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee",
-          text: "Learn about Umee",
-          link: "/overview/umee-overview",
+          title: "General",
+          text: "General FAQ",
+          link: "/overview/faq/general",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "UDX",
-          text: "Learn about Umee's official institutional lending DAO",
-          link: "/overview/udx",
+          title: "Umee Token",
+          text: "Umee Token FAQ",
+          link: "/overview/faq/umee-token",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "The UMEE Token",
-          text: "Learn about the token that powers Umee's ecosystem",
-          link: "/overview/umee-token",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "FAQ",
-          text: "Frequently Asked Questions",
-          link: "/overview/faq",
+          title: "Umee App",
+          text: "Umee App FAQ",
+          link: "/overview/faq/umee-app",
         },
       ],
     };
