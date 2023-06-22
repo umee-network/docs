@@ -10,7 +10,8 @@ const { tabsPlugin } = require("./theme/plugins/vuepress-plugin-tabs");
 module.exports = {
   lang: "en-US",
   title: "Umeeversity",
-  description: "Umee Cross Chain DeFi",
+  description:
+    "Learn more about DeFi, Crypto, Web3, cross chain applications as well as the Cosmos ecosystem and Umee here.This is the start of your Web3 journey! ",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   theme: localTheme({
     logo: "/img/Logo.svg",
@@ -125,16 +126,6 @@ module.exports = {
           ],
         },
         {
-          text: "Umee's Gravity Bridge",
-          collapsible: true,
-          children: [
-            "/overview/umee-gravity-bridge/gravity-bridge-overview",
-            "/overview/umee-gravity-bridge/peggo",
-            "/overview/umee-gravity-bridge/umee-relayers",
-            "/overview/umee-gravity-bridge/faq",
-          ],
-        },
-        {
           text: "UMEE Token",
           collapsible: true,
           children: [
@@ -142,6 +133,20 @@ module.exports = {
             "/overview/umee-token/token-format",
             "/overview/umee-token/tokenomics",
           ],
+        },
+        {
+          text: "FAQ",
+          collapsible: true,
+          children: [
+            "/overview/faq/general",
+            "/overview/faq/umee-token",
+            "/overview/faq/umee-app",
+          ],
+        },
+        {
+          text: "Risk Parameters",
+          collapsible: true,
+          children: ["/overview/risk-parameters"],
         },
       ],
       "/learn-the-basics/": [

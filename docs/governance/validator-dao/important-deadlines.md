@@ -12,12 +12,6 @@
 
 <br>
 
-## Committee Applications & Formation
-
-> Committee applications will be open for 24 hours following the closure of the delegation applications, from 12:00 PM (UTC) on the 14th of the month to 12:00 PM (UTC) on the 15th of the month.
-
-<br>
-
 ## Delegation Review Period
 
 > The Validator DAO Committee must review delegation applications and reach a consensus during the last two weeks for the third month of every quarter (March, June, September, December).
