@@ -11,11 +11,11 @@ The "base_denom" parameter is the IBC code of the token recognized in the Cosmos
 
 ### reserve_factor
 
-The"reserve_factor" is a parameter that determines what portion of the interest earned from lending a token goes into Umee’s reserves. The reserve is used as an insurance fund to compensate lenders if bad debt ever occurs. It's an important factor in ensuring the stability and sustainability of the Umee lending platform over time.
+The"reserve_factor" is a parameter that determines what portion of the interest earned from lending a token goes into UX’s reserves. The reserve is used as an insurance fund to compensate lenders if bad debt ever occurs. It's an important factor in ensuring the stability and sustainability of the UX platform over time.
 
 ### collateral_weight
 
-The parameter "collateral_weight" determines the proportion of an asset's total value that can be used to borrow assets. This parameter measures how much borrowing power an asset can provide when used as collateral. Not all assets are listed as collateral assets on Umee.
+The parameter "collateral_weight" determines the proportion of an asset's total value that can be used to borrow assets. This parameter measures how much borrowing power an asset can provide when used as collateral. Not all assets are listed as collateral assets on UX.
 
 ### liquidation_threshold
 
@@ -50,11 +50,11 @@ The "Symbol_denom" parameter corresponds to the symbol associated with the token
 
 ### max_collateral_share
 
-The “max_collateral_value” parameter determines the max percentage of a token’s total collateral value compared to the total collateral value on the Umee platform. It acts as risk control, limiting the risk exposure to any specific tokens used as collateral.
+The “max_collateral_value” parameter determines the max percentage of a token’s total collateral value compared to the total collateral value on the UX platform. It acts as risk control, limiting the risk exposure to any specific tokens used as collateral.
 
 This parameter is influenced by three factors:
 
-- The specific token’s total collateral value on Umee
+- The specific token’s total collateral value on UX
 - The overall collateral value on the platform
 - Price fluctuation of all the collateral assets
 
@@ -70,4 +70,4 @@ The "min_collateral_liquidity" parameter sets the minimum percentage of liquidit
 
 ### max_supply
 
-The "Max_supply" parameter establishes the highest amount of tokens that an asset can be supplied to Umee. Attempting to add additional supply of the given token into the protocol is not possible. It is a risk parameter used to manage the risk exposure of any specific token on the platform.
+The "Max_supply" parameter establishes the highest amount of tokens that an asset can be supplied to UX. Attempting to add additional supply of the given token into the protocol is not possible. It is a risk parameter used to manage the risk exposure of any specific token on the platform.
