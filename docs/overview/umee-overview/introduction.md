@@ -1,8 +1,8 @@
 # Introduction
 
-## What is Umee?
+## What is UX?
 
-Umee is the most programmable, safety-first lending algorithm built as a blockchain. As a base layer [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of Umee to access cross chain leverage, liquidity, and debt instruments. The Umee Blockchain facilitates interoperability between the [Cosmos ecosystem](/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum, side chain architectures, layer two scaling solutions, rollups, and alternative base layer protocols.
+UX is the most programmable, safety-first lending algorithm built as a blockchain. As a base layer [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain), applications and money lego primitives can be built on top of UX to access cross chain leverage, liquidity, and debt instruments. The UX chain facilitates interoperability between the [Cosmos ecosystem](/learn-the-basics/cosmos-basics/what-is-cosmos), Ethereum, side chain architectures, layer two scaling solutions, rollups, and alternative base layer protocols.
 
 <br>
 
@@ -24,7 +24,7 @@ Billions of people around the world are unable to access debt markets as they do
 
 ****
 
-As a base layer blockchain secured by a decentralized [validator](/learn-the-basics/staking-basics/what-is-validator) set, anyone with an internet connection is able to access Umee's services. Umee is permissionless, meaning anyone can access debt markets on Umee regardless of things like their location or financial history.
+As a base layer blockchain secured by a decentralized [validator](/learn-the-basics/staking-basics/what-is-validator) set, anyone with an internet connection is able to access UX's services. UX is permissionless, meaning anyone can access debt markets on UX regardless of things like their location or financial history.
 
 :::
 
@@ -42,9 +42,9 @@ Legacy debt markets give participants little to no visibility on their processes
 
 ****
 
-As a public blockchain Umee operates transparently, making it easier for Umee users to assess risks.  The same rules apply to all market participants on Umee, regardless of their individual circumstances. 
+As a public blockchain UX operates transparently, making it easier for UX users to assess risks.  The same rules apply to all market participants on UX, regardless of their individual circumstances. 
 
-All Umee users must be properly over-collateralized at all times in order to borrow funds. Users who fail to remain properly over-collateralized will have their collateral [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation) in order to minimize risks of insolvency and provide a high degree of security to lenders.
+All UX users must be properly over-collateralized at all times in order to borrow funds. Users who fail to remain properly over-collateralized will have their collateral [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation) in order to minimize risks of insolvency and provide a high degree of security to lenders.
 
 :::
 
@@ -62,7 +62,7 @@ There is often a conflict of interest between clients who provide liquidity and 
 
 ****
 
-Umee will be owned and [governed](/governance) by its users and contributors. Umee's on-chain [governance structure](/governance/governance-overview) can help align interests between different stakeholder groups.
+UX will be owned and [governed](/governance) by its users and contributors. UX's on-chain [governance structure](/governance/governance-overview) can help align interests between different stakeholder groups.
 
 :::
 
@@ -88,7 +88,7 @@ Existing DeFi markets are driven almost entirely by speculation. Yields don’t 
 
 ****
 
-Rather than setting rates based entirely off of current supply and demand, Umee is building a term structure for [crypto](/learn-the-basics/crypto-basics/what-is-crypto) that uses time-to-maturity and credit-worthiness to determine rates.
+Rather than setting rates based entirely off of current supply and demand, UX is building a term structure for [crypto](/learn-the-basics/crypto-basics/what-is-crypto) that uses time-to-maturity and credit-worthiness to determine rates.
 
 :::
 
@@ -106,9 +106,9 @@ There is a lack of understanding of what the base rate (risk-free rate) should b
 
 ****
 
-By replicating a yield curve and using time-to-maturity and credit-worthiness to build the foundational base rates for crypto, Umee is rebuilding the term structure of interest rates with web3 technology. External assets will reference Umee's markets when determining risk-free rates.
+By replicating a yield curve and using time-to-maturity and credit-worthiness to build the foundational base rates for crypto, UX is rebuilding the term structure of interest rates with web3 technology. External assets will reference UX's markets when determining risk-free rates.
 
-Once the foundational interest rates are built, the crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets can be built on top of Umee.
+Once the foundational interest rates are built, the crypto format for debt primitives such as notes, bills, bonds, CDS, structured products, and other assets can be built on top of UX.
 
 :::
 
@@ -126,7 +126,7 @@ Most existing DeFi markets are short-term focused with unsustainable rates or un
 
 ****
 
-Debt primitives can be built on top of Umee to support those focused on long term building and growth.
+Debt primitives can be built on top of UX to support those focused on long term building and growth.
 
 :::
 
