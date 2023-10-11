@@ -12,9 +12,9 @@ Many different products built on different blockchains are complementary by desi
 
 Thanks to the flexibility provided by [IBC](/learn-the-basics/cosmos-basics/what-is-ibc), Interchain Accounts can be used to allow users of a blockchain to securely create and interact with accounts on other blockchains without the need to use separate interfaces or wallets. In other words, Interchain Accounts enhance the web3 user experience by enabling users to interact with different applications built on separate sovereign blockchains all from a single “controller chain” of choice.
 
-_**Without Interchain Accounts**,  an Umee user who wants to stake ATOM and participate in governance on the Cosmos Hub needs to transfer ATOM from the Umee blockchain to the Cosmos Hub, and then connect to the Cosmos Hub through a separate interface in order to stake the ATOM and vote on a governance proposal._
+_**Without Interchain Accounts**,  an UX user who wants to stake ATOM and participate in governance on the Cosmos Hub needs to transfer ATOM from the UX chain to the Cosmos Hub, and then connect to the Cosmos Hub through a separate interface in order to stake the ATOM and vote on a governance proposal._
 
-_**With Interchain Accounts**, an Umee user can express that he/she wishes to transfer the ATOM to the Cosmos Hub and stake it within an IBC transaction originating from the Umee blockchain. If the user wants to vote on a Cosmos Hub governance proposal, he/she can do so from his/her account on the Umee blockchain._
+_**With Interchain Accounts**, an UX user can express that he/she wishes to transfer the ATOM to the Cosmos Hub and stake it within an IBC transaction originating from the UX chain. If the user wants to vote on a Cosmos Hub governance proposal, he/she can do so from his/her account on the UX chain._
 
 <br>
 
