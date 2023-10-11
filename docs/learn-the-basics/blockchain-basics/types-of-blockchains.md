@@ -10,7 +10,7 @@ The most common blockchains utilize [Proof of Stake](/learn-the-basics/blockchai
 
 ## Proof of Stake
 
-> Umee is a Proof of Stake blockchain. Other well known Proof of Stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
+> UX chain is a Proof of Stake blockchain. Other well known Proof of Stake blockchains include Cosmos Hub, Solana, Polkadot, and Cardano.
 
 Proof of Stake (PoS) blockchains require network participants called "[validators](/learn-the-basics/staking-basics/what-is-validator)" to lock up crypto as collateral to ensure that they properly “_validate_” the data being included in a new entry on the distributed ledger. Validators are randomly selected to validate a block based on the amount of collateral they have locked up, or “[staked](/learn-the-basics/staking-basics/what-is-staking),” hence the name “Proof of Stake.” Once a randomly selected validator validates a block, other validators verify its accuracy and the "_block rewards_," or newly minted units of crypto, are released.
 
@@ -22,7 +22,7 @@ Proof of Stake (PoS) blockchains require network participants called "[validator
 
 ****
 
-PoS blockchains limit the amount of validators that can take turns creating new blocks, making it faster and cheaper to reach a consensus. Users of PoS blockchains like Umee typically enjoy cheap, near-instant transactions.
+PoS blockchains limit the amount of validators that can take turns creating new blocks, making it faster and cheaper to reach a consensus. Users of PoS blockchains like UX typically enjoy cheap, near-instant transactions.
 
 :::
 
@@ -44,7 +44,7 @@ In the case of blockchains that utilize Cosmos' Tendermint BFT consensus, acquir
 
 ****
 
-PoS consensus tends to reward network participants with the greatest stakes. This means that those who have the most skin in the game will receive the greatest amount of block rewards. In many PoS blockchains like Umee, token holders have the ability to [delegate their tokens to a validator](/users/staking-umee/staking-umee) who then splits block rewards with all delegators proportional to the amount of tokens they delegated. This allows all stakeholders to receive block rewards rather than only those with technical expertise.
+PoS consensus tends to reward network participants with the greatest stakes. This means that those who have the most skin in the game will receive the greatest amount of block rewards. In many PoS blockchains like UX Chain, token holders have the ability to [delegate their tokens to a validator](/users/staking-umee/staking-umee) who then splits block rewards with all delegators proportional to the amount of tokens they delegated. This allows all stakeholders to receive block rewards rather than only those with technical expertise.
 
 :::
 
@@ -54,7 +54,7 @@ PoS consensus tends to reward network participants with the greatest stakes. Thi
 
 ****
 
-There is typically a limit to the amount of validators that can participate in a blockchain’s PoS consensus. Since validators are chosen randomly, they do not need to compete and use large amounts of energy to create new blocks, which is why newer PoS blockchains like Umee are viewed as an environmentally-friendly solution.
+There is typically a limit to the amount of validators that can participate in a blockchain’s PoS consensus. Since validators are chosen randomly, they do not need to compete and use large amounts of energy to create new blocks, which is why newer PoS blockchains like UX chain are viewed as an environmentally-friendly solution.
 
 :::
 
