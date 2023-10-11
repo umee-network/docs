@@ -4,7 +4,7 @@
 
 Cryptocurrencies are the most well-known type of crypto-asset, and can be broadly defined as digital units that originate on [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain). 
 
-> Examples include BTC, ETH, and [UMEE](/overview/umee-token).
+> Examples include BTC, ETH, and [UX](/overview/umee-token).
 
 <br>
 
@@ -104,7 +104,7 @@ In the real world people often purchase or receive gift cards which can be used 
 
 In crypto, people must purchase or earn utility tokens to be able to access a specific product or service within a [web3](/learn-the-basics/crypto-basics/what-is-web3) application or blockchain ecosystem. The value of utility tokens generally fluctuate in relation to the perceived value of the products or services they can be redeemed for. This allows a free market to determine the fair price associated with different products and services. Unlike gift cards which are limited by various terms and conditions, utility tokens are fungible and can be freely lent, borrowed, or traded thanks to the accessibility and trustless nature of blockchains. 
 
-> Examples include LINK, BAT, and [UMEE](/overview/umee-token).
+> Examples include LINK, BAT, and [UX](/overview/umee-token).
 
 <br>
 
@@ -114,4 +114,4 @@ In traditional organizations all decision making power often lies in the hands o
 
 In crypto, governance tokens are often issued to users, contributors, and investors of a specific project in order to help distribute the decision making power and align the interests of all stakeholders. Governance tokens grant holders the ability to [vote on issues](/users/governance/voting) related to the specific application or network they represent - usually one token equals one vote, and a specific amount of governance tokens are required in order for an individual to [submit a governance proposal](/users/governance/creating-proposal) to be voted on by other token holders. 
 
-> Examples include YFI, SNX, and [UMEE](/overview/umee-token).
+> Examples include YFI, SNX, and [UX](/overview/umee-token).
