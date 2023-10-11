@@ -4,7 +4,7 @@
 
 ![As seen on the Markets page.](/bg/borrow-apr.png)
 
-Borrow APR is the annual interest rate borrowers _**OWE**_ for borrowing assets from the Umee market.
+Borrow APR is the annual interest rate borrowers _**OWE**_ for borrowing assets from the UX market.
 
 > These rates are variable, and may change over time based on supply and demand.
 
@@ -65,9 +65,9 @@ The liquidation threshold is the [LTV ratio](/learn-the-basics/umee-basics/commo
 
 <details><summary>Liquidation Threshold Example</summary>
 
-Assuming UMEE has a liquidation threshold of 15%, and the value of ATOM remains constant:
+Assuming UX has a liquidation threshold of 15%, and the value of ATOM remains constant:
 
-*A user provides $1,000 USD worth of UMEE and borrows the maximum allowable amount of $100 worth of other assets (10% LTV). The value of the borrowed assets increases to $150, bringing the user’s LTV ratio to 55%. This borrower will be liquidated in order to ensure their position stays properly over-collateralized.*
+*A user provides $1,000 USD worth of UX and borrows the maximum allowable amount of $100 worth of other assets (10% LTV). The value of the borrowed assets increases to $150, bringing the user’s LTV ratio to 55%. This borrower will be liquidated in order to ensure their position stays properly over-collateralized.*
 
 </details>
 
@@ -75,7 +75,7 @@ Assuming UMEE has a liquidation threshold of 15%, and the value of ATOM remains 
 
 ## LTV Ratio
 
-LTV stands for “loan to value” ratio. A loan-to-value ratio represents the value of assets borrowed relative to the value of [assets supplied as collateral](/learn-the-basics/umee-basics/common-terms.html#collateral-assets). It is important for all Umee users to monitor their LTV ratio in order to avoid being [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation).
+LTV stands for “loan to value” ratio. A loan-to-value ratio represents the value of assets borrowed relative to the value of [assets supplied as collateral](/learn-the-basics/umee-basics/common-terms.html#collateral-assets). It is important for all UX users to monitor their LTV ratio in order to avoid being [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation).
 
 <br>
 
@@ -99,7 +99,7 @@ Assuming ATOM has a maximum LTV of 50%:
 
 ![As seen on Markets page.](/bg/supply-apr.png)
 
-Supply APR is the annual interest rate lenders _**RECEIVE**_ for supplying their assets on the Umee market.
+Supply APR is the annual interest rate lenders _**RECEIVE**_ for supplying their assets on the UX market.
 
 > These rates are variable, and may change over time based on supply and demand.
 
