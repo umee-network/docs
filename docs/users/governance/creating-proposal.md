@@ -2,7 +2,7 @@
 
 ![](/bg/creating-a-proposal.png)
 
-> Anyone is welcome to submit a governance proposal to be voted on by [Umee governance](/governance/governance-overview/introduction).
+> Anyone is welcome to submit a governance proposal to be voted on by [UX governance](/governance/governance-overview/introduction).
 
 :::: tabs
 
@@ -10,11 +10,11 @@
 
 ## Step 1: Discussion
 
-It’s very important for community members to discuss their ideas and receive thorough feedback before starting the proposal process. Community members are encouraged to use Umee community channels to discuss early stage governance ideas including the "General" channel on [Umee's Governance forum](https://gov.umee.cc/discussions/General). Always use the "**General**" topic and the “**Discussion**” stage tag when sharing ideas to help keep the forum organized.
+It’s very important for community members to discuss their ideas and receive thorough feedback before starting the proposal process. Community members are encouraged to use UX community channels to discuss early stage governance ideas including the "General" channel on [UX's Governance forum](https://gov.umee.cc/discussions/General). Always use the "**General**" topic and the “**Discussion**” stage tag when sharing ideas to help keep the forum organized.
 
 #### Some things to take into consideration include:
 
-- How will this proposal bring value to the Umee community?
+- How will this proposal bring value to the UX community?
 - Are there any significant risks or tradeoffs associated with this idea?
 - Which stakeholders will be impacted the most if this proposal is implemented?
 - Is there clear community demand for this proposal?
@@ -41,7 +41,7 @@ It’s very important for community members to discuss their ideas and receive t
 
 ## Step 2: Draft the Proposal
 
-Community members should take any and all feedback and suggestions into consideration when drafting a proposal. It’s important to anticipate which questions other community members may ask when drafting a proposal, and try to include details to address them in advance. Once the proposal has been drafted, it’s time to post it with the "**Proposal Discussion**" topic on [Umee's governance forum](https://gov.umee.cc/).
+Community members should take any and all feedback and suggestions into consideration when drafting a proposal. It’s important to anticipate which questions other community members may ask when drafting a proposal, and try to include details to address them in advance. Once the proposal has been drafted, it’s time to post it with the "**Proposal Discussion**" topic on [UX's governance forum](https://gov.umee.cc/).
 
 #### When posting a drafted proposal:
 
@@ -79,7 +79,7 @@ Once the drafted proposal has been shared on Commonwealth, the author should:
 
 - Encourage key community members (well respected contributors, validators, large stakers, etc.) to share their questions, concerns and/or constructive criticism.
 - Spread the word to bring attention to the proposal. Use tools like Twitter, Discord, Telegram, and Reddit to alert the community.
-- Answer relevant questions on Commonwealth and the #governance-discussion channel on the [Umee Discord](https://discord.gg/umee).
+- Answer relevant questions on Commonwealth and the #governance-discussion channel on the [UX Discord](https://discord.gg/umee).
 
 If the community’s feedback and off-chain poll demonstrate clear support for the governance proposal, the author should make any necessary changes and prepare to submit the proposal on-chain.
 
@@ -91,7 +91,7 @@ If the community’s feedback and off-chain poll demonstrate clear support for t
 
 Once there has been ample discussion and all feedback has been taken into consideration, the governance proposal should be submitted on-chain.
 
-> Please note that a 100,000 UMEE deposit is required for all on-chain governance proposals and is fully refundable as long as the according proposal reaches the quorum and is not deemed malicious and therefore vetoed. The full amount does not need to come from the proposer but from any supporters who are willing to give support.
+> Please note that a 100,000 UX deposit is required for all on-chain governance proposals and is fully refundable as long as the according proposal reaches the quorum and is not deemed malicious and therefore vetoed. The full amount does not need to come from the proposer but from any supporters who are willing to give support.
 
 #### When submitting an on-chain proposal:
 
@@ -117,11 +117,11 @@ Once there has been ample discussion and all feedback has been taken into consid
 
 ![](/bg/add-title-details.png)
 
-#### 4) In the deposit section, input the amount of UMEE you'd like to contribute towards the minimum deposit threshold of 100,000 UMEE. Select "Send transaction" and approve the transaction in your Umee wallet.
+#### 4) In the deposit section, input the amount of UX you'd like to contribute towards the minimum deposit threshold of 100,000 UX. Select "Send transaction" and approve the transaction in your UX wallet.
 
-> - The deposit is denominated in micro UMEEs, so users who wish to make the deposit in full should enter "100,000,000,000."
-> - Users are welcomed to [borrow UMEE](/users/using-the-web-app/borrow-repay) from the Umee market in order to make a deposit.
-> - [Learn more about how Umee governance deposits work here](/governance/governance-overview/how-it-works).
+> - The deposit is denominated in micro UXs, so users who wish to make the deposit in full should enter "100,000,000,000."
+> - Users are welcomed to [borrow UX](/users/using-the-web-app/borrow-repay) from the UX market in order to make a deposit.
+> - [Learn more about how UX governance deposits work here](/governance/governance-overview/how-it-works).
 
 ![](/bg/input-deposit-amount.png)
 
