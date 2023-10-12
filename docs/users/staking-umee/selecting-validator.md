@@ -14,7 +14,7 @@
 
 A validator's voting power represents the sum of tokens that are self-bonded and delegated to the validator. When a community member fails to [vote on a governance proposal](/users/governance/voting), the validator they have delegated their stake to will inherit their vote.
 
-> In order to support the decentralization and security of the Umee network, it's important that voting power is evenly distributed between validators. Community members are encouraged to delegate to validators who hold less voting power - often found outside the top 25.
+> In order to support the decentralization and security of the UX network, it's important that voting power is evenly distributed between validators. Community members are encouraged to delegate to validators who hold less voting power - often found outside the top 25.
 
 :::
 
@@ -66,4 +66,4 @@ A validator's self bonded percentage represents the amount of tokens a validator
 
 ::::
 
-View active validators on [Umee's staking dashboard](https://app.umee.cc/#/stake) or [Mintscan](https://www.mintscan.io/umee/validators)
+View active validators on [UX's staking dashboard](https://app.umee.cc/#/stake) or [Mintscan](https://www.mintscan.io/umee/validators)
