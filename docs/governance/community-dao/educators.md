@@ -1,9 +1,9 @@
 # Educators
 
-> TLDR: Educators are expected to create and distribute high quality educational content to help onboard the next generation of DeFi users to Umee.
+> TLDR: Educators are expected to create and distribute high quality educational content to help onboard the next generation of DeFi users to UX.
 
 > To get started as an educator:
-> - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Educator" role;
 > - Check the #cd-announcements and #education-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit each piece of original educational content you create](https://dyno.gg/form/d8092e21).
@@ -14,7 +14,7 @@
 
 Create and share high quality educational content that is easily understandable and ENGAGING! Avoid creating unnecessarily long content if it can be condensed and shared in a shorter format. 
 
-Educators are encouraged to focus on what they're good at, since quality is significantly more important than quantity. It's important to distribute educational content to the appropriate audience in order for it to be deemed valuable. Collaborate with your local community and the greater [Umee community on Discord](https://discord.gg/umee) in order to determine the most effective distribution methods.
+Educators are encouraged to focus on what they're good at, since quality is significantly more important than quantity. It's important to distribute educational content to the appropriate audience in order for it to be deemed valuable. Collaborate with your local community and the greater [UX community on Discord](https://discord.gg/umee) in order to determine the most effective distribution methods.
 
 > The purpose of educational content is to EDUCATE new and prospective users. Platforms like Medium will remove posts it determines to be advertisements or promotions.
 
@@ -30,11 +30,11 @@ Educators are encouraged to focus on what they're good at, since quality is sign
 
 ****
 
-- Anyone who writes educational Umee content should do so without the expectation of UMEE token rewards - platforms like Medium will flag and remove any content that appears to be an advertisement or promotion;
+- Anyone who writes educational UX content should do so without the expectation of UX token rewards - platforms like Medium will flag and remove any content that appears to be an advertisement or promotion;
 - Content must be original;
 - Content must be accurate, engaging, and read smoothly;
 - Be respectful and avoid spamming community channels with written content;
-- Content that includes images with Umee's branding assets must follow [Umee's branding guidelines](https://umee.cc/brand/).
+- Content that includes images with UX's branding assets must follow [UX's branding guidelines](https://umee.cc/brand/).
 
 :::
 
@@ -120,7 +120,7 @@ _Medium allows anyone to create their own blog. Medium users can easily publish 
 - Video content must be accurate, engaging, and easy to follow;
 - Video content must be viewable in at least 720p resolution, preferably 1080p+;
 - Video content must be edited when necessary and presented in a professional manner;
-- Video content that includes any of Umee's branding assets must follow Umee's [branding guidelines](https://umee.cc/brand/).
+- Video content that includes any of UX's branding assets must follow UX's [branding guidelines](https://umee.cc/brand/).
 
 :::
 
@@ -178,7 +178,7 @@ _Audacity is a free audio recording and editing software that allows users to ea
 
 ## Other Content
 
-Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/bg/what-is-crypto-wallet-info.png), [tutorial gifs](https://umeeversity.umee.cc/bg/out-of-gas-solution.gif), and other forms of content that serve the Umee community's educational needs are all welcomed.
+Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/bg/what-is-crypto-wallet-info.png), [tutorial gifs](https://umeeversity.umee.cc/bg/out-of-gas-solution.gif), and other forms of content that serve the UX community's educational needs are all welcomed.
 
 <br>
 
@@ -188,41 +188,41 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 
 ### Explainer Videos, Articles, and/or Twitter Threads
 - Introduction to decentralized lending and borrowing
-- Introduction to the Cosmos Ecosystem and the major DeFi chains like Umee
-- What are the flaws in legacy debt markets and current DeFi lending markets, and how does Umee address them?
-- How is Umee bringing the fundamentals of traditional debt markets to DeFi?
-- Where does yield come from on Umee?
-- How are lending and borrowing rates determined on Umee?
-- How is Umee different from projects like Aave and Compound?
+- Introduction to the Cosmos Ecosystem and the major DeFi chains like UX
+- What are the flaws in legacy debt markets and current DeFi lending markets, and how does UX address them?
+- How is UX bringing the fundamentals of traditional debt markets to DeFi?
+- Where does yield come from on UX?
+- How are lending and borrowing rates determined on UX?
+- How is UX different from projects like Aave and Compound?
 - What is governance and why should someone participate?
 - Why are PoS based interest rates needed?
-- How can Umee enable decentralized credit rating systems?
-- What possibilities can Umee provide in the future? (think scalability, interoperability, and privacy)
+- How can UX enable decentralized credit rating systems?
+- What possibilities can UX provide in the future? (think scalability, interoperability, and privacy)
 
 <br>
 
 ### Twitter Thread Tutorials
-- Transfer assets on to Umee
-- Stake UMEE tokens
-- Navigate Umee’s web app
-- Bridge Ethereum assets to Umee
-- Lend stablecoins on Umee
-- Borrow responsibly with Umee
-- Use Umee & Osmosis to leverage key assets
+- Transfer assets on to UX
+- Stake UX tokens
+- Navigate UX’s web app
+- Bridge Ethereum assets to UX
+- Lend stablecoins on UX
+- Borrow responsibly with UX
+- Use UX & Osmosis to leverage key assets
 - Participate in leveraged staking
-- Short assets with Umee
+- Short assets with UX
 
 <br>
 
 ### Other
-- Useful infographics that can be used in Umee's official documentation
-- High quality gifs that can be used in Umee's user guides
+- Useful infographics that can be used in UX's official documentation
+- High quality gifs that can be used in UX's user guides
 
 <br>
 
 ## Criteria
 
-- Amount of value the contribution has brought or is expected to bring to Umee; 
+- Amount of value the contribution has brought or is expected to bring to UX; 
 - Clarity of contributions on the submission form;
 - Accuracy of the content; 
 - Quality of the content; 
