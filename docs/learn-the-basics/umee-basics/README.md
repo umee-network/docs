@@ -1,5 +1,5 @@
 ---
-title: Umee Basics
+title: UX Basics
 contributors: false
 ---
 
