@@ -2,7 +2,7 @@
 
 ## Cosmos Transfers
 
-> If you have [Cosmos](/learn-the-basics/cosmos-basics/what-is-cosmos) assets like ATOM on a different network in your [Umee blockchain compatible wallet](/users/getting-started/creating-wallet), follow this guide to transfer them to Umee.
+> If you have [Cosmos](/learn-the-basics/cosmos-basics/what-is-cosmos) assets like ATOM on a different network in your [UX chain compatible wallet](/users/getting-started/creating-wallet), follow this guide to transfer them to UX.
 
 :::: tabs
 
@@ -50,7 +50,7 @@
 
 ---
 
-#### 1) Select the Ethereum asset which you'd like to transfer to or from Umee and select "Transfer"
+#### 1) Select the Ethereum asset which you'd like to transfer to or from UX and select "Transfer"
 
 #### 2) Select the appropriate chains you'd like to transfer assets to/from.
 
