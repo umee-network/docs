@@ -1,24 +1,24 @@
 # Asset Risk
 
-While the interoperability offered by DeFi protocols like Umee presents many benefits, it also exposes the protocols to individual asset risks. DeFi protocols need to support several assets in order to give users the best possible experience while also avoiding certain assets that may expose these protocols to unnecessary risks.
+While the interoperability offered by DeFi protocols like UX presents many benefits, it also exposes the protocols to individual asset risks. DeFi protocols need to support several assets in order to give users the best possible experience while also avoiding certain assets that may expose these protocols to unnecessary risks.
 
 ## Asset Listing Process
 
-Umee allows users to lend and borrow assets across chains in a trustless manner. Users who deposit their assets on Umee receive uTokens, minted by Umee. uTokens represent the assets lent by a user plus the interest earned from lending the assets. uTokens allow users to lend and borrow across chains in a trustless way.
+UX allows users to lend and borrow assets across chains in a trustless manner. Users who deposit their assets on UX receive uTokens, minted by UX. uTokens represent the assets lent by a user plus the interest earned from lending the assets. uTokens allow users to lend and borrow across chains in a trustless way.
 
 #### Since uTokens can represent different deposited assets, it’s important to understand the following constraints:
 
-* Every time Umee accepts a new asset as collateral, the protocol’s risk of insolvency grows. Since there are different risks associated with every token, more different tokens mean there is a greater risk of one of the tokens failing in some way.
+* Every time UX accepts a new asset as collateral, the protocol’s risk of insolvency grows. Since there are different risks associated with every token, more different tokens mean there is a greater risk of one of the tokens failing in some way.
 * Accepting centralized assets as collateral may introduce centralization risk to the protocol. The single point of failure associated with centralized assets can be a threat to the protocols that support them.
 * Assets that can only be deposited and lent, without being used as collateral, offer lower risk to the protocol.
 * Greater volume of various assets across lending pools further lessens risk.
 
-#### Before an asset can be added to Umee, a proposal must pass through Umee’s governance process. Proposals should be formatted as follows:
+#### Before an asset can be added to UX, a proposal must pass through UX’s governance process. Proposals should be formatted as follows:
 
 * Title: Asset Request - \[asset name], \[native blockchain or token format], \[type of support being sought (lending/borrowing, collateral)]
 * Body: Analysis that clearly explains why the benefits of adding x asset outweigh the drawbacks. Links to relevant forums.
 
-Anyone can submit a governance proposal through [Umee's Governance Forum](https://commonwealth.im/umee/).
+Anyone can submit a governance proposal through [UX's Governance Forum](https://commonwealth.im/umee/).
 
 ## Asset Risk Framework
 
@@ -79,9 +79,9 @@ Anyone can submit a governance proposal through [Umee's Governance Forum](https:
 
 ### Maximum LTV
 
-Every asset available on Umee has a maximum LTV rate, representing the maximum amount of the asset a user can borrow relative to the collateral provided.
+Every asset available on UX has a maximum LTV rate, representing the maximum amount of the asset a user can borrow relative to the collateral provided.
 
-> If UMEE has a maximum LTV of 75% and the price of UMEE is $1.00 then a user who has provided $100 worth of collateral can borrow up to 75 UMEE.
+> If UX has a maximum LTV of 75% and the price of UX is $1.00 then a user who has provided $100 worth of collateral can borrow up to 75 UX.
 
 :::
 
