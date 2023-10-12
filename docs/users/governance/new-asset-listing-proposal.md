@@ -1,16 +1,16 @@
 # Creating a New Asset Listing Proposal
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc.
+UX allows users to lend and borrow a wide variety of assets across chains in a trustless manner. UX follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc.
 
-Anyone can submit a proposal for a new asset to be listed on Umee by creating a "New Asset Listing Proposal" thread on [Umee's governance forum](https://gov.umee.cc/). An off-chain poll is used to gauge community sentiment around a New Asset Listing Proposal, and the Umee Core team will submit an on-chain "Token Registry Proposal" for assets that gain clear support.
+Anyone can submit a proposal for a new asset to be listed on UX by creating a "New Asset Listing Proposal" thread on [UX's governance forum](https://gov.umee.cc/). An off-chain poll is used to gauge community sentiment around a New Asset Listing Proposal, and the UX Core team will submit an on-chain "Token Registry Proposal" for assets that gain clear support.
 
-While all assets that are accepted by Umee's governance will be listed on Umee, different assets have different levels of risk that will be assessed by a risk team. Proposers should provide as much of the relevant information as possible to help Umee make an informed decision.
+While all assets that are accepted by UX's governance will be listed on UX, different assets have different levels of risk that will be assessed by a risk team. Proposers should provide as much of the relevant information as possible to help UX make an informed decision.
 
 <br>
 
 ## Creating the Proposal
 
-#### 1) Start by connecting your wallet to [Umee's governance forum](https://gov.umee.cc/).
+#### 1) Start by connecting your wallet to [UX's governance forum](https://gov.umee.cc/).
 
 ![](/bg/select-login.png)
 
@@ -50,4 +50,4 @@ While all assets that are accepted by Umee's governance will be listed on Umee, 
 
 #### 10) Spread the word to get eyes on the proposal, and engage with the community to answer any questions related to the proposal.
 
-> If there is clear support for the proposal on Umee's governance forum, an Umee core team member will create and submit an on-chain "Token Registry Proposal" to add support for the asset on Umee as soon as possible. Nothing more is needed from the proposer.
+> If there is clear support for the proposal on UX's governance forum, an UX core team member will create and submit an on-chain "Token Registry Proposal" to add support for the asset on UX as soon as possible. Nothing more is needed from the proposer.
