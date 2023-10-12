@@ -1,8 +1,8 @@
-# Staking UMEE
+# Staking UX
 
-![Stake UMEE to help secure the blockchain, vote on governance proposals, and earn steady staking rewards](/bg/why-stake.png)
+![Stake UX to help secure the blockchain, vote on governance proposals, and earn steady staking rewards](/bg/why-stake.png)
 
-> [Staking](/learn-the-basics/staking-basics/what-is-staking) is the safest and easiest way for UMEE holders to earn more [UMEE tokens](/overview/umee-token). By staking UMEE tokens, a user is delegating their tokens to a validator to help secure the Umee blockchain in return for a proportional share of block rewards being earned by the validator.
+> [Staking](/learn-the-basics/staking-basics/what-is-staking) is the safest and easiest way for UX holders to earn more [UX tokens](/overview/umee-token). By staking UX tokens, a user is delegating their tokens to a validator to help secure the UX chain in return for a proportional share of block rewards being earned by the validator.
 
 :::: tabs
 
