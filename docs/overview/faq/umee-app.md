@@ -1,4 +1,4 @@
-# Umee App FAQ
+# UX App FAQ
 
 ---
 
