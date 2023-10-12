@@ -1,5 +1,5 @@
 ---
-title: Staking Umee
+title: Staking UX
 contributors: false
 ---
 
