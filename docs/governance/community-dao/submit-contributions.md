@@ -2,11 +2,11 @@
 
 ## Submission Guidelines
 
-> All submissions will be judged at the sole discretion of the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee). Participants are by no means guaranteed to receive UMEE tokens for their contributions. 
+> All submissions will be judged at the sole discretion of the [UX Community DAO Committee](/governance/community-dao/overview.html#the-committee). Participants are by no means guaranteed to receive UX tokens for their contributions. 
 
-> Contributors located in the USA are prohibited from earning rewards through the Umee Community DAO. Contributors who are selected to receive UMEE tokens may be required to pass any and all KYC/AML checks requested by the Umee Community DAO Committee.
+> Contributors located in the USA are prohibited from earning rewards through the UX Community DAO. Contributors who are selected to receive UX tokens may be required to pass any and all KYC/AML checks requested by the UX Community DAO Committee.
 
-> By submitting your contribution to the [Umee Community DAO Committee](/governance/community-dao/overview.html#the-committee), you confirm that you have read, understood, and agreed to the following guidelines.
+> By submitting your contribution to the [UX Community DAO Committee](/governance/community-dao/overview.html#the-committee), you confirm that you have read, understood, and agreed to the following guidelines.
 
 ### All contributors MUST:
 
@@ -21,8 +21,8 @@
 
 - Submit pre-existing content.
 - Plagiarize any form of content.
-- Spam any official or unofficial Umee community channels, or send unsolicited messages to the Umee core team and/or community members.
-- Provide any financial advice or speculate on the value of the UMEE token.
+- Spam any official or unofficial UX community channels, or send unsolicited messages to the UX core team and/or community members.
+- Provide any financial advice or speculate on the value of the UX token.
 - Submit incomplete content that is not published or ready to be published.
 
 > Failure to comply may result in the contributor being blacklisted from future Community DAO rewards.
@@ -31,7 +31,7 @@
 
 ## Submission Forms
 
-> All participants must be members of the [Umee Discord](https://discord.gg/umee) in order to submit contributions. Please make sure you are connected to the correct Discord account when completing the form.
+> All participants must be members of the [UX Discord](https://discord.gg/umee) in order to submit contributions. Please make sure you are connected to the correct Discord account when completing the form.
 
 :::: tabs
 
@@ -67,9 +67,9 @@ Contributors who provide community support should submit their contributions for
 
 ****
 
-Contributors who translate and distribute Umee content should submit each translation after it has been distributed.
+Contributors who translate and distribute UX content should submit each translation after it has been distributed.
 
-> [Use this form to submit natively translated Umee content](https://dyno.gg/form/a16fa490).
+> [Use this form to submit natively translated UX content](https://dyno.gg/form/a16fa490).
 
 :::
 
