@@ -2,7 +2,7 @@
 
 ## Borrowing
 
-> After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), Umee users can borrow assets from the Umee Market.
+> After [supplying assets as collateral](/users/using-the-web-app/supply-withdraw), UX users can borrow assets from the UX Market.
 
 :::: tabs
 
