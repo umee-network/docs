@@ -1,5 +1,5 @@
 ---
-title: UMEE Token
+title: UX Token
 contributors: false
 ---
 
