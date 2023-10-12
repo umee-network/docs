@@ -1,9 +1,9 @@
 # Translators
 
-> TLDR: Translators are responsible for translating, organizing, and sharing official Umee content with the community members who need it. Translators must [apply for a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview) and be approved before completing it.
+> TLDR: Translators are responsible for translating, organizing, and sharing official UX content with the community members who need it. Translators must [apply for a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview) and be approved before completing it.
 
 > To get started as an translator:
-> - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Translator" role;
 > - Check the #cd-announcements and #translations-rfc channels to see which translations the CD Committee is looking for;
 > - [Apply for the translation through Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
@@ -13,7 +13,7 @@
 
 ## Overview
 
-Use the [translation lists provided on Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview) to apply for a translation task. Provide previous translations you've completed to help expedite the application process. Once approved, translate, organize, and share Umee content with the users who need it.
+Use the [translation lists provided on Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview) to apply for a translation task. Provide previous translations you've completed to help expedite the application process. Once approved, translate, organize, and share UX content with the users who need it.
 
 > Translations are the only Community DAO task which contributors must apply for before submitting work. 
 
@@ -21,7 +21,7 @@ Use the [translation lists provided on Dework](https://app.dework.xyz/umee-commu
 
 ## Documentation
 
-> [Umee's official documentation can be found here](https://umeeversity.umee.cc/).
+> [UX's official documentation can be found here](https://umeeversity.umee.cc/).
 
 :::: tabs
 
@@ -68,7 +68,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 ## Blog Posts
 
-> [Official Umee blog posts can be found here](https://umee.cc/blog/).
+> [Official UX blog posts can be found here](https://umee.cc/blog/).
 
 :::: tabs
 
@@ -105,7 +105,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 **[Medium](https://medium.com/)**
 
-_Medium is likely the easiest platform to publish and organize professional looking translations of blog posts on. Medium publications can be used to allow multiple writers to contribute to the same blog to help stay organized. If a Medium publication is created, be sure to disclose that it is a community account used solely to translate official blog posts, and follow Umee's [branding guidelines](https://umee.cc/brand/)._
+_Medium is likely the easiest platform to publish and organize professional looking translations of blog posts on. Medium publications can be used to allow multiple writers to contribute to the same blog to help stay organized. If a Medium publication is created, be sure to disclose that it is a community account used solely to translate official blog posts, and follow UX's [branding guidelines](https://umee.cc/brand/)._
 
 <br>
 
@@ -126,8 +126,8 @@ _Notion is another organizational tool that can be used to share translated blog
 ### Content
 
 - [Umee's official documentation and user guides](https://umeeversity.umee.cc/)
-- [Relevant Umee blog posts](https://umee.cc/blog/)
-- Articles published by major outlets which mention Umee
+- [Relevant UX blog posts](https://umee.cc/blog/)
+- Articles published by major outlets which mention UX
 
 <br>
 
@@ -151,7 +151,7 @@ _Notion is another organizational tool that can be used to share translated blog
 
 ## Criteria
 
-- Amount of value the contribution has brought or is expected to bring to Umee; 
+- Amount of value the contribution has brought or is expected to bring to UX; 
 - Clarity of contributions on the submission form;
 - Accuracy - only native translations will be rewarded; 
 - Translator reputation - translators’ previous work and reputation among the community is heavily accounted for; 
