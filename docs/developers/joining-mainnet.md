@@ -2,15 +2,15 @@
 
 ### Hardware Requirements
 
-To run a Umee Node you will first need a Ubuntu server.
+To run a UX Node you will first need a Ubuntu server.
 
-The recommended hardware to run an Umee node will vary depending on the use case and desired functionalities of the node. For example, a significant amount of disk space can be required if the node will act as an archive node, i.e. `pruning=nothing` or if the node is a state-sync snapshot provider. In general, we recommend at a minimum the following specifications:
+The recommended hardware to run an UX node will vary depending on the use case and desired functionalities of the node. For example, a significant amount of disk space can be required if the node will act as an archive node, i.e. `pruning=nothing` or if the node is a state-sync snapshot provider. In general, we recommend at a minimum the following specifications:
 
 - 2+ vCPU
 - 4+ GB RAM
 - 120+ GB SSD
 
-At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a Umee Node onto your server.
+At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a UX Node onto your server.
 
 1. Install the required packages & updates. Below we assume you use debian / ubuntu based OS.
 
@@ -59,7 +59,7 @@ If you are running a testnet node then be sure to copy the wallet address and us
 
 6. Overwriting default genesis.json file
 
-   Once initialized, overwrite the default `genesis.json` file with genesis state file for the particular network that you are joining. You may retrieve the genesis state file from the Umee [repository](https://github.com/umee-network/umee) or another trusted source:
+   Once initialized, overwrite the default `genesis.json` file with genesis state file for the particular network that you are joining. You may retrieve the genesis state file from the UX [repository](https://github.com/umee-network/umee) or another trusted source:
 
    Mainnet Node
 
@@ -72,7 +72,7 @@ wget -O $HOME/.umee/config/genesis.json "https://raw.githubusercontent.com/umee-
 
 7. Install Cosmovisor
 
-See Umee [readme#cosmovisor](https://github.com/umee-network/umee/blob/main/README.md#cosmovisor) for details.
+See UX [readme#cosmovisor](https://github.com/umee-network/umee/blob/main/README.md#cosmovisor) for details.
 
 8. Add peers to CometBFT (formerly Tendermint) config;
 
