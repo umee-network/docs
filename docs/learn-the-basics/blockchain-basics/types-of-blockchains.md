@@ -44,7 +44,7 @@ In the case of blockchains that utilize Cosmos' Tendermint BFT consensus, acquir
 
 ****
 
-PoS consensus tends to reward network participants with the greatest stakes. This means that those who have the most skin in the game will receive the greatest amount of block rewards. In many PoS blockchains like UX Chain, token holders have the ability to [delegate their tokens to a validator](/users/staking-umee/staking-umee) who then splits block rewards with all delegators proportional to the amount of tokens they delegated. This allows all stakeholders to receive block rewards rather than only those with technical expertise.
+PoS consensus tends to reward network participants with the greatest stakes. This means that those who have the most skin in the game will receive the greatest amount of block rewards. In many PoS blockchains like UX Chain, token holders have the ability to [delegate their tokens to a validator](/users/staking-UX/staking-UX) who then splits block rewards with all delegators proportional to the amount of tokens they delegated. This allows all stakeholders to receive block rewards rather than only those with technical expertise.
 
 :::
 

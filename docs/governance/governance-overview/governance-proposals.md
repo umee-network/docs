@@ -10,7 +10,7 @@
 
 ****
 
-Umee allows users to lend and borrow a wide variety of assets across chains in a trustless manner. Umee follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc. Project teams should provide as much of the relevant information as possible to help Umee make an informed decision. 
+UX allows users to lend and borrow a wide variety of assets across chains in a trustless manner. UX follows a formal listing process that allows the protocol to [assess risk using a targeted framework](/governance/asset-listing/risk-assessment-methodology) that scrutinizes key risk areas including market risk (volume, volatility, market cap), centralization of asset, protocol risk, etc. Project teams should provide as much of the relevant information as possible to help UX make an informed decision. 
 
 > Anyone can use the 'New Asset Listing Template' to [submit a new asset listing proposal](/governance/asset-listing/asset-listing-guide).
 
@@ -66,7 +66,7 @@ Brief overview of the token and project.
 Foundation Spend Proposals are used to request funds from the community & ecosystem pools to be sent to a specific wallet address. How community pool and ecosystem pool funds are spent is entirely up to community governance decisions. 
 
 **A few ways in which the funds might be spent include:**
-- _Creating and funding various Umee DAOs;_
+- _Creating and funding various UX DAOs;_
 - _Liquidity mining incentives;_ 
 - _Funding large scale community events;_
 - _Grants to top contributors;_

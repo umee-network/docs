@@ -4,7 +4,7 @@
 
 Validators may also elect to delegate voting rights to another key to prevent the block signing key from being kept online. To do so, they must submit a `MsgDelegateFeedConsent`, delegating their oracle voting rights to a `Delegate` that sign `MsgExchangeRatePrevote` and `MsgExchangeRateVote` on behalf of the validator.
 
-> Delegate validators will likely require you to deposit some funds (in Umee) which they can use to pay fees, sent in a separate MsgSend. This agreement is made off-chain and not enforced by the Umee protocol.
+> Delegate validators will likely require you to deposit some funds (in UX) which they can use to pay fees, sent in a separate MsgSend. This agreement is made off-chain and not enforced by the UX protocol.
 
 The `Operator` field contains the operator address of the validator (prefixed `umeevaloper-`). The `Delegate` field is the account address (prefixed `umee-`) of the delegate account that will be submitting exchange rate related votes and prevotes on behalf of the `Operator`.
 

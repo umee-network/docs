@@ -2,7 +2,7 @@
 
 Turn a current node into a validator on the mainnet.
 
-This guide contains instructions on how to setup and run an Umee validator. First, be sure to check out the full node [instructions](installing-umee-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
+This guide contains instructions on how to setup and run an UX validator. First, be sure to check out the full node [instructions](installing-umee-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
 
 There are three (3) crucial processes required for a healthy validator node:
 
@@ -18,7 +18,7 @@ Please consult [**release compatibility matrix**](https://github.com/umee-networ
 
 ### Keyring
 
-Prior to creating your validator, you must first create your "operator" key. Note, this is not your consensus key and will not be used for signing. Instead, it is used to identify you validator in the Umee network.
+Prior to creating your validator, you must first create your "operator" key. Note, this is not your consensus key and will not be used for signing. Instead, it is used to identify you validator in the UX network.
 
 ```bash
 umeed keys add <key-name> [flags]
@@ -34,9 +34,9 @@ Visit the Cosmos SDK's keyring [documentation](https://docs.cosmos.network/v0.43
 
 The Gravity Bridge requires that validators also run a `peggo` orchestrator in addition to the `umeed` process. The orchestrator requires access to a `geth` node's RPC instance. A `geth` light client can be used, **but a full node is preferable**.
 
-You may choose to operate your own `geth` node or use a publicly available one. However, in production environments, it is recommended that you run your own. Depending on what network you're running your Umee validator on, you'll want to connect to or setup your `geth` node to the appropriate Ethereum network. See the `geth` CLI [documentation](https://geth.ethereum.org/docs/interface/command-line-options) for more information on how to connect to different Ethereum networks.
+You may choose to operate your own `geth` node or use a publicly available one. However, in production environments, it is recommended that you run your own. Depending on what network you're running your UX validator on, you'll want to connect to or setup your `geth` node to the appropriate Ethereum network. See the `geth` CLI [documentation](https://geth.ethereum.org/docs/interface/command-line-options) for more information on how to connect to different Ethereum networks.
 
-Follow these steps to install a GETH node and turn your Umee node into a validator
+Follow these steps to install a GETH node and turn your UX node into a validator
 
 1.  First install the go-ethereum binary;
 

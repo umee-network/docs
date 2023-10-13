@@ -28,11 +28,11 @@
 
 #### 1) Select the "Withdraw" option for the ATOM token on your centralized exchange of choice.
 
-> You can also choose to withdraw other Cosmos assets supported by your exchange, like the [UX token](/overview/umee-token).
+> You can also choose to withdraw other Cosmos assets supported by your exchange, like the [UX token](/overview/UX-token).
 
 #### 2) Copy your Cosmos wallet address found under the "Cosmos Hub" network in your [UX chain compatible wallet](/users/getting-started/creating-wallet.html#creating-an-umee-blockchain-compatible-wallet), and paste it in the "Send to" section.
 
-> If you're withdrawing a different Cosmos asset like the [UX token](/overview/umee-token) you will need to [choose the appropriate network before copying your wallet address](/users/getting-started/using-wallet.html#copying-a-wallet-address).
+> If you're withdrawing a different Cosmos asset like the [UX token](/overview/UX-token) you will need to [choose the appropriate network before copying your wallet address](/users/getting-started/using-wallet.html#copying-a-wallet-address).
 
 ![](/bg/copy-cosmos-address.gif)
 

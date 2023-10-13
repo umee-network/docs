@@ -48,7 +48,7 @@ Uptime represents the validator's reliability. Validators with significant downt
 
 ---
 
-A validator's commission is the percent of staking rewards that a validator will keep for the services provided. It's not cheap or easy to run an Umee validator node, so it's important that validators earn a commission for their services.
+A validator's commission is the percent of staking rewards that a validator will keep for the services provided. It's not cheap or easy to run an UX validator node, so it's important that validators earn a commission for their services.
 
 > Between 5% & 10% is typically a fair commission rate for the services provided.
 

@@ -20,7 +20,7 @@ Borrow APR is the annual interest rate borrowers _**OWE**_ for borrowing assets 
 
 ## Borrow Limit
 
-The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once the borrow limit reaches 100%, a user is at risk of [liquidation](/learn-the-basics/umee-basics/common-terms.html#liquidation).
+The borrow limit is the maximum amount a user can borrow against the collateral they have provided. Once the borrow limit reaches 100%, a user is at risk of [liquidation](/learn-the-basics/UX-basics/common-terms.html#liquidation).
 
 <br>
 
@@ -28,18 +28,18 @@ The borrow limit is the maximum amount a user can borrow against the collateral 
 
 ![As seen on the asset details page.](/bg/collateral-yes-no.png)
 
-If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a [liquidation](/users/using-the-web-app/common-terms.html#liquidation) occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the [liquidation penalty](/learn-the-basics/umee-basics/common-terms.html#liquidation-penalty).
+If an asset can be used as collateral, it means that a user who deposits the asset will be able to borrow against it. When a [liquidation](/users/using-the-web-app/common-terms.html#liquidation) occurs, a portion of the assets being used as collateral will be used to pay off the outstanding loan plus the [liquidation penalty](/learn-the-basics/UX-basics/common-terms.html#liquidation-penalty).
 
 <br>
 
 ## Liquidation
 
-When users supply assets as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral) and borrow against them, the assets supplied as collateral are at risk of being liquidated, or sold off in order to cover the borrower’s debts and ensure the protocol remains solvent.
+When users supply assets as [collateral](/learn-the-basics/UX-basics/common-terms.html#collateral) and borrow against them, the assets supplied as collateral are at risk of being liquidated, or sold off in order to cover the borrower’s debts and ensure the protocol remains solvent.
 
-Liquidations occur when a user’s [loan-to-value ratio](/learn-the-basics/umee-basics/common-terms.html#ltv-ratio) exceeds the liquidation threshold. This can happen when:
-- The value of the [collateral asset](/learn-the-basics/umee-basics/common-terms.html#collateral-assets) deposited depreciates compared to the value of the asset borrowed;
+Liquidations occur when a user’s [loan-to-value ratio](/learn-the-basics/UX-basics/common-terms.html#ltv-ratio) exceeds the liquidation threshold. This can happen when:
+- The value of the [collateral asset](/learn-the-basics/UX-basics/common-terms.html#collateral-assets) deposited depreciates compared to the value of the asset borrowed;
 - The value of the asset borrowed appreciates relative to the value of the asset supplied as collateral;
-- A user’s [borrow interest](/learn-the-basics/umee-basics/common-terms.html#borrow-apr) accrues to the point that the amount owed exceeds the [liquidation threshold](/learn-the-basics/umee-basics/common-terms.html#liquidation-threshold).
+- A user’s [borrow interest](/learn-the-basics/UX-basics/common-terms.html#borrow-apr) accrues to the point that the amount owed exceeds the [liquidation threshold](/learn-the-basics/UX-basics/common-terms.html#liquidation-threshold).
 
 <br>
 
@@ -61,7 +61,7 @@ The liquidation penalty is the fee paid by a borrower in the event that they are
 
 ![As seen in asset details.](/bg/liquidation-threshold.png)
 
-The liquidation threshold is the [LTV ratio](/learn-the-basics/umee-basics/common-terms.html#ltv-ratio) at which a borrower should expect to be [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation).
+The liquidation threshold is the [LTV ratio](/learn-the-basics/UX-basics/common-terms.html#ltv-ratio) at which a borrower should expect to be [liquidated](/learn-the-basics/UX-basics/common-terms.html#liquidation).
 
 <details><summary>Liquidation Threshold Example</summary>
 
@@ -75,7 +75,7 @@ Assuming UX has a liquidation threshold of 15%, and the value of ATOM remains co
 
 ## LTV Ratio
 
-LTV stands for “loan to value” ratio. A loan-to-value ratio represents the value of assets borrowed relative to the value of [assets supplied as collateral](/learn-the-basics/umee-basics/common-terms.html#collateral-assets). It is important for all UX users to monitor their LTV ratio in order to avoid being [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation).
+LTV stands for “loan to value” ratio. A loan-to-value ratio represents the value of assets borrowed relative to the value of [assets supplied as collateral](/learn-the-basics/UX-basics/common-terms.html#collateral-assets). It is important for all UX users to monitor their LTV ratio in order to avoid being [liquidated](/learn-the-basics/UX-basics/common-terms.html#liquidation).
 
 <br>
 
@@ -83,7 +83,7 @@ LTV stands for “loan to value” ratio. A loan-to-value ratio represents the v
 
 ![As seen in asset details.](/bg/max-ltv.png)
 
-The maximum LTV is the maximum amount that can be borrowed against the asset supplied as [collateral](/learn-the-basics/umee-basics/common-terms.html#collateral).
+The maximum LTV is the maximum amount that can be borrowed against the asset supplied as [collateral](/learn-the-basics/UX-basics/common-terms.html#collateral).
 
 <details><summary>Maximum LTV Example</summary>
 

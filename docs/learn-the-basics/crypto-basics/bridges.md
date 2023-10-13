@@ -32,6 +32,6 @@ With significant amounts of crypto locked in smart contracts, bridges make an in
 
 ## How are Bridging Issues Being Addressed?
 
-> Bridging solutions like [UX’s Gravity Bridge](/overview/umee-gravity-bridge) seek to make the cross-chain bridging process as safe as possible for users by having an entire set of validators securing the bridge.
+> Bridging solutions like [UX’s Gravity Bridge](/overview/UX-gravity-bridge) seek to make the cross-chain bridging process as safe as possible for users by having an entire set of validators securing the bridge.
 
 > Blockchains like UX use the [Inter-Blockchain Communication Protocol](/learn-the-basics/cosmos-basics/what-is-ibc)(IBC) to securely transfer data with other blockchains without the risks commonly associated with bridging.

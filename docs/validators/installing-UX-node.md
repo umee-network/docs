@@ -1,14 +1,14 @@
 # Installing Umee Node
 
-At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a Umee Node onto your server.
+At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a UX Node onto your server.
 
-> Umee has an [automatic installer](https://install.umee.cc)
+> UX has an [automatic installer](https://install.umee.cc)
 
 #### Release Compatibility Matrix
 
 Please consult [**release compatibility matrix**](https://github.com/umee-network/umee/#release-compatibility-matrix) to make sure you install the right version.
 
-Before installing, check [**latest Umee Release Notes**](https://github.com/umee-network/umee/releases).
+Before installing, check [**latest UX Release Notes**](https://github.com/umee-network/umee/releases).
 
 ## Installation
 

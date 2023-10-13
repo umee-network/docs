@@ -44,7 +44,7 @@ Legacy debt markets give participants little to no visibility on their processes
 
 As a public blockchain UX operates transparently, making it easier for UX users to assess risks.  The same rules apply to all market participants on UX, regardless of their individual circumstances. 
 
-All UX users must be properly over-collateralized at all times in order to borrow funds. Users who fail to remain properly over-collateralized will have their collateral [liquidated](/learn-the-basics/umee-basics/common-terms.html#liquidation) in order to minimize risks of insolvency and provide a high degree of security to lenders.
+All UX users must be properly over-collateralized at all times in order to borrow funds. Users who fail to remain properly over-collateralized will have their collateral [liquidated](/learn-the-basics/UX-basics/common-terms.html#liquidation) in order to minimize risks of insolvency and provide a high degree of security to lenders.
 
 :::
 
