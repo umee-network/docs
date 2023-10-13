@@ -2,7 +2,7 @@
 
 # Price Feeder
 
-The `price-feeder` tool is an extension of Umee's `x/oracle` module, both of
+The `price-feeder` tool is an extension of UX's `x/oracle` module, both of
 which are based on Terra's [x/oracle](https://github.com/terra-money/classic-core/tree/main/x/oracle)
 module and [oracle-feeder](https://github.com/terra-money/oracle-feeder). The core differences are as follows:
 
@@ -16,7 +16,7 @@ module and [oracle-feeder](https://github.com/terra-money/oracle-feeder). The co
 The `price-feeder` tool is responsible for performing the following:
 
 1. Fetching and aggregating exchange rate price data from various providers, e.g. Binance and Osmosis, based on the operator configuration. These exchange rates are exposed via API and are used to feed up to the minute pricing into the main oracle process.
-2. Aggregating exchange rate price data and submitting those exchange rates on-chain to Umee's `x/oracle` module following the Umee's [Oracle](https://github.com/umee-network/umee/tree/main/x/oracle/spec) specification.
+2. Aggregating exchange rate price data and submitting those exchange rates on-chain to UX's `x/oracle` module following the UX's [Oracle](https://github.com/umee-network/UX/tree/main/x/oracle/spec) specification.
 
 ## Usage
 
@@ -79,7 +79,7 @@ The `rpc` section contains the Tendermint and Cosmos application gRPC endpoints.
 
 ## Keyring
 
-The UMEE keyring must be set up to sign transactions before running the price feeder. Additional info on the different keyring modes is available [here](https://docs.cosmos.network/master/run-node/keyring.html). **Please note that the `test` and `memory` modes are only for testing purposes.** **Do not use these modes for running the price feeder against the mainnet.**
+The UX keyring must be set up to sign transactions before running the price feeder. Additional info on the different keyring modes is available [here](https://docs.cosmos.network/master/run-node/keyring.html). **Please note that the `test` and `memory` modes are only for testing purposes.** **Do not use these modes for running the price feeder against the mainnet.**
 
 ## Providers
 
