@@ -38,8 +38,8 @@ module.exports = {
           text: "Staking UX",
           collapsible: true,
           children: [
-            "/users/staking-umee/selecting-validator",
-            "/users/staking-umee/staking-umee",
+            "/users/staking-UX/selecting-validator",
+            "/users/staking-UX/staking-UX",
           ],
         },
         {
@@ -110,10 +110,10 @@ module.exports = {
           text: "UX",
           collapsible: true,
           children: [
-            "/overview/umee-overview/introduction",
-            "/overview/umee-overview/umee-vision",
-            "/overview/umee-overview/security-audits",
-            "/overview/umee-overview/umee-roadmap",
+            "/overview/UX-overview/introduction",
+            "/overview/UX-overview/UX-vision",
+            "/overview/UX-overview/security-audits",
+            "/overview/UX-overview/UX-roadmap",
           ],
         },
         {
@@ -129,9 +129,9 @@ module.exports = {
           text: "UX Token",
           collapsible: true,
           children: [
-            "/overview/umee-token/token-utility",
-            "/overview/umee-token/token-format",
-            "/overview/umee-token/tokenomics",
+            "/overview/UX-token/token-utility",
+            "/overview/UX-token/token-format",
+            "/overview/UX-token/tokenomics",
           ],
         },
         {
@@ -139,8 +139,8 @@ module.exports = {
           collapsible: true,
           children: [
             "/overview/faq/general",
-            "/overview/faq/umee-token",
-            "/overview/faq/umee-app",
+            "/overview/faq/UX-token",
+            "/overview/faq/UX-app",
           ],
         },
         {
@@ -221,7 +221,7 @@ module.exports = {
           children: [
             "/developers/source-code",
             "/developers/ide-setup",
-            "/developers/umee-daemon",
+            "/developers/UX-daemon",
             {
               text: "Modules",
               collapsible: true,

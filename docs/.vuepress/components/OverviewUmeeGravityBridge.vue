@@ -27,26 +27,26 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Gravity Bridge Overview",
-          text: "Learn about Umee's Gravity Bridge",
-          link: "/overview/umee-gravity-bridge/gravity-bridge-overview",
+          text: "Learn about UX's Gravity Bridge",
+          link: "/overview/UX-gravity-bridge/gravity-bridge-overview",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Peggo",
           text: "Learn about the Gravity Bridge's orchestrator",
-          link: "/overview/umee-gravity-bridge/peggo",
+          link: "/overview/UX-gravity-bridge/peggo",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Relayers",
           text: "Learn about Gravity Bridge's relayers",
-          link: "/overview/umee-gravity-bridge/umee-relayers",
+          link: "/overview/UX-gravity-bridge/UX-relayers",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "FAQ",
           text: "Frequently asked questions",
-          link: "/overview/umee-gravity-bridge/faq",
+          link: "/overview/UX-gravity-bridge/faq",
         },
       ],
     };

@@ -20,7 +20,7 @@ _The UX token has been issued. The token was issued to Coinlist buyers during th
 
 <details><summary>What is the UX token used for?</summary>
 
-_UX tokens are used to pay for network fees on the UX chain, to provide Proof of Stake consensus to the UX network, and for protocol governance. You can read more about UX token uses in Umee’s [documentation](https://umeeversity.umee.cc/overview/umee-token/token-utility.html)_
+_UX tokens are used to pay for network fees on the UX chain, to provide Proof of Stake consensus to the UX network, and for protocol governance. You can read more about UX token uses in UX [documentation](https://umeeversity.umee.cc/overview/UX-token/token-utility.html)_
 
 </details>
 
@@ -28,7 +28,7 @@ _UX tokens are used to pay for network fees on the UX chain, to provide Proof of
 
 <details><summary>What is the total UX token supply?</summary>
 
-_10 billion. You can learn more about the inflation and deflation mechanisms in place [here](https://umeeversity.umee.cc/overview/umee-token/tokenomics.html#supply)_
+_10 billion. You can learn more about the inflation and deflation mechanisms in place [here](https://umeeversity.umee.cc/overview/UX-token/tokenomics.html#supply)_
 
 </details>
 
@@ -36,7 +36,7 @@ _10 billion. You can learn more about the inflation and deflation mechanisms in 
 
 <details><summary>What is the initial distribution and release schedule of the UX token?</summary>
 
-_Details about UX’s token distribution and release schedule can be found [here](https://umeeversity.umee.cc/overview/umee-token/tokenomics.html#supply)_
+_Details about UX’s token distribution and release schedule can be found [here](https://umeeversity.umee.cc/overview/UX-token/tokenomics.html#supply)_
 
 </details>
 
@@ -44,7 +44,7 @@ _Details about UX’s token distribution and release schedule can be found [here
 
 <details><summary>What is the blockchain configuration of the UX token?</summary>
 
-_The UX token will exist in both ERC20 and Cosmos SDK format. If users want to convert from one blockchain to another, all they need to do is to go to the UX Application page and use the convert function through UX’s gravity bridge; such transactions will take sub minutes. Find more details [here](https://umeeversity.umee.cc/overview/umee-token/token-format.html)_
+_The UX token will exist in both ERC20 and Cosmos SDK format. If users want to convert from one blockchain to another, all they need to do is to go to the UX Application page and use the convert function through UX’s gravity bridge; such transactions will take sub minutes. Find more details [here](https://umeeversity.umee.cc/overview/UX-token/token-format.html)_
 
 </details>
 

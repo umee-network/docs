@@ -124,7 +124,7 @@ _For example, let's assume you deposited $100 worth of USDC as collateral and bo
 
 _You can repay your loans by accessing the UX web app and selecting the loan you wish to repay. There's no set due date for repaying your loans, as long as you maintain a healthy LTV ratio._
 
-_However, the accrued interest will grow over time, so it’s recommended to pay off small amounts from time to time, to ensure your health factor does not decrease heavily. ([see borrow APR](https://umeeversity.umee.cc/learn-the-basics/umee-basics/common-terms.html#borrow-apr))._
+_However, the accrued interest will grow over time, so it’s recommended to pay off small amounts from time to time, to ensure your health factor does not decrease heavily. ([see borrow APR](https://umeeversity.umee.cc/learn-the-basics/UX-basics/common-terms.html#borrow-apr))._
 
 </details>
 
@@ -204,6 +204,6 @@ _In order to maximize their profits, liquidators are incentivized to prioritize 
 
 <details><summary>Are there resources available to help me understand the terminology?</summary>
 
-_Understanding financial terms is crucial, you can find a comprehensive list with commonly used terms and their explanation [here](https://umeeversity.umee.cc/learn-the-basics/umee-basics/common-terms.html)._
+_Understanding financial terms is crucial, you can find a comprehensive list with commonly used terms and their explanation [here](https://umeeversity.umee.cc/learn-the-basics/UX-basics/common-terms.html)._
 
 </details>
