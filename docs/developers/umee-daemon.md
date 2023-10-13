@@ -1,3 +1,3 @@
 # Umee Daemon
 
-> Umee has an [automatic installer](https://install.umee.cc)
+> UX has an [automatic installer](https://install.umee.cc)
