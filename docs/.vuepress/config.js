@@ -11,7 +11,7 @@ module.exports = {
   lang: "en-US",
   title: "Umeeversity",
   description:
-    "Learn more about DeFi, Crypto, Web3, cross chain applications as well as the Cosmos ecosystem and Umee here.This is the start of your Web3 journey! ",
+    "Learn more about DeFi, Crypto, Web3, cross chain applications as well as the Cosmos ecosystem and UX here.This is the start of your Web3 journey! ",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   theme: localTheme({
     logo: "/img/Logo.svg",
@@ -35,7 +35,7 @@ module.exports = {
           ],
         },
         {
-          text: "Staking Umee",
+          text: "Staking UX",
           collapsible: true,
           children: [
             "/users/staking-umee/selecting-validator",
@@ -107,7 +107,7 @@ module.exports = {
       ],
       "/overview/": [
         {
-          text: "Umee",
+          text: "UX",
           collapsible: true,
           children: [
             "/overview/umee-overview/introduction",
@@ -126,7 +126,7 @@ module.exports = {
           ],
         },
         {
-          text: "UMEE Token",
+          text: "UX Token",
           collapsible: true,
           children: [
             "/overview/umee-token/token-utility",
@@ -202,9 +202,9 @@ module.exports = {
           text: "UX Basics",
           collapsible: true,
           children: [
-            "/learn-the-basics/Umee-basics/introduction",
-            "/learn-the-basics/Umee-basics/asset-types",
-            "/learn-the-basics/Umee-basics/common-terms",
+            "/learn-the-basics/umee-basics/introduction",
+            "/learn-the-basics/umee-basics/asset-types",
+            "/learn-the-basics/umee-basics/common-terms",
           ],
         },
       ],
