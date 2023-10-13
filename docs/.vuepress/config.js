@@ -202,9 +202,9 @@ module.exports = {
           text: "UX Basics",
           collapsible: true,
           children: [
-            "/learn-the-basics/UX-basics/introduction",
-            "/learn-the-basics/UX-basics/asset-types",
-            "/learn-the-basics/UX-basics/common-terms",
+            "/learn-the-basics/Umee-basics/introduction",
+            "/learn-the-basics/Umee-basics/asset-types",
+            "/learn-the-basics/Umee-basics/common-terms",
           ],
         },
       ],
