@@ -1,9 +1,9 @@
 # Community Support
 
-> TLDR: Community Support leaders help organize, moderate, and support community members across all active Umee community channels.
+> TLDR: Community Support leaders help organize, moderate, and support community members across all active UX community channels.
 
 > To get started as a community support leader:
-> - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Support" role;
 > - Check the #cd-announcements and #support-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit community support related contributions at the end of a period](https://dyno.gg/form/1e31964c).
@@ -12,7 +12,7 @@
 
 ## Overview
 
-Identify underserved platforms and create and lead regional Umee Community channels. Coordinate with other contributors to avoid unnecessary work - there is no need to volunteer as a moderator on channels that are already well-covered or channels that don't have an active community.
+Identify underserved platforms and create and lead regional UX Community channels. Coordinate with other contributors to avoid unnecessary work - there is no need to volunteer as a moderator on channels that are already well-covered or channels that don't have an active community.
 
 When submitting your work, providing a link to the community channel is enough - please don't link individual messages.
 
@@ -45,8 +45,8 @@ When submitting your work, providing a link to the community channel is enough -
 
 ****
 
-- Turn on post notifications for Umee's official channels so updates can be shared with your community in a timely manner;
-- Use Umee's official channels as a source of truth - if you're unsure of the answer to a question, ask on [Umee's Discord](https://discord.gg/umee) instead of guessing.
+- Turn on post notifications for UX's official channels so updates can be shared with your community in a timely manner;
+- Use UX's official channels as a source of truth - if you're unsure of the answer to a question, ask on [UX's Discord](https://discord.gg/umee) instead of guessing.
 
 :::
 
@@ -65,7 +65,7 @@ When submitting your work, providing a link to the community channel is enough -
 - Appoint at least one other trusted community member as an admin so the account does not rely entirely on a single contributor;
 - Use a unique password and require 2fa for any admins;
 - Be respectful and avoid spamming existing channels in an effort to grow the channel;
-- Follow Umee's [branding guidelines](https://umee.cc/brand/).
+- Follow UX's [branding guidelines](https://umee.cc/brand/).
 
 <br>
 
@@ -73,8 +73,8 @@ When submitting your work, providing a link to the community channel is enough -
 
 > The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
 
-- Create and moderate regional community channels (e.g. an "Umee Spanish Community" Telegram channel) on regionally significant platforms as needed
-- Translate important announcements and lead regional communities on [Umee's official Discord](https://discord.gg/umee)
+- Create and moderate regional community channels (e.g. an "UX Spanish Community" Telegram channel) on regionally significant platforms as needed
+- Translate important announcements and lead regional communities on [UX's official Discord](https://discord.gg/umee)
 - Help troubleshoot common issues on Discord and/or other community channels
 - Create and distribute useful resources like infographics and tutorial gifs to help with troubleshooting 
 - Lead productive conversations across community channels like Discord, Telegram, Reddit, and Commonwealth
@@ -83,7 +83,7 @@ When submitting your work, providing a link to the community channel is enough -
 
 ## Criteria
 
-- Amount of value the contribution has brought or is expected to bring to Umee; 
+- Amount of value the contribution has brought or is expected to bring to UX; 
 - Clarity of contributions on the submission form;
 - Professionalism; 
 - Total amount of activity within managed channels; 

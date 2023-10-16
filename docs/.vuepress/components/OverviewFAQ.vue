@@ -31,15 +31,15 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee Token",
-          text: "Umee Token FAQ",
-          link: "/overview/faq/umee-token",
+          title: "UX Token",
+          text: "UX Token FAQ",
+          link: "/overview/faq/UX-token",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee App",
-          text: "Umee App FAQ",
-          link: "/overview/faq/umee-app",
+          title: "UX App",
+          text: "UX App FAQ",
+          link: "/overview/faq/UX-app",
         },
       ],
     };

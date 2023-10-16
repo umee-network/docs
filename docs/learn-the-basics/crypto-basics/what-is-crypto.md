@@ -36,7 +36,7 @@ Crypto, unlike traditional currencies, commodities, or securities, usually isn�
 
 ****
 
-Crypto is extremely secure thanks to the self-sovereignty provided by [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain). On [Cosmos-based Proof of Stake blockchains](/learn-the-basics/cosmos-basics/what-is-cosmos) like Umee, an attacker needs to control ⅔ of the entire network in order to seize the funds of another user. Typically, the cost associated with attacking a network makes such attempts financially unpractical.
+Crypto is extremely secure thanks to the self-sovereignty provided by [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain). On [Cosmos-based Proof of Stake blockchains](/learn-the-basics/cosmos-basics/what-is-cosmos) like UX, an attacker needs to control ⅔ of the entire network in order to seize the funds of another user. Typically, the cost associated with attacking a network makes such attempts financially unpractical.
 
 > When crypto is “stolen” it is usually due to a centralized exchange being hacked or a user error. This is why it’s important for crypto users to familiarize themselves with basic [safety measures](/learn-the-basics/crypto-basics/what-is-a-wallet.html#wallet-safety) and [withdraw their crypto from centralized exchanges](/users/getting-started/funding-wallet).
 
@@ -82,7 +82,7 @@ One of the most common misconceptions about crypto is that it allows criminals t
 
 ****
 
-Crypto is the fastest and easiest way for friends or strangers to transact with each other and handle their banking activities. Unlike many traditional banking services, crypto can be exchanged or used 24 hours a day, every day of the year. Crypto transactions on blockchains like Umee typically occur in ~5 seconds, and cost users just a fraction of a penny.
+Crypto is the fastest and easiest way for friends or strangers to transact with each other and handle their banking activities. Unlike many traditional banking services, crypto can be exchanged or used 24 hours a day, every day of the year. Crypto transactions on blockchains like UX typically occur in ~5 seconds, and cost users just a fraction of a penny.
 
 :::
 

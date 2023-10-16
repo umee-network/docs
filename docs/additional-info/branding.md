@@ -1,13 +1,13 @@
 # Branding
 
-**The following uses of Umee's branding assets are strictly forbidden:**
+**The following uses of UX's branding assets are strictly forbidden:**
 
 * Any use of derivative names that imply official endorsement;
-  * If you'd like to create an Umee community group, it must be clear that it is community-run.
+  * If you'd like to create an UX community group, it must be clear that it is community-run.
 * The use of brand assets to create digital or physical products for sale;
 * The use of brand assets in your product's name, logo, etc.
 
-**Please avoid altering Umee's logo and other branding assets in any way including:**
+**Please avoid altering UX's logo and other branding assets in any way including:**
 
 * Rotating or animating the logo or any other brand asset;
 * Surrounding the logo with other objects or elements;
@@ -32,7 +32,7 @@
 
 ## Adora
 
-**Meet Adora - the cutest and most charming mascot created for Umee. Adora is our lucky charm and therefore we made it simple, yet loveable.**&#x20;
+**Meet Adora - the cutest and most charming mascot created for UX. Adora is our lucky charm and therefore we made it simple, yet loveable.**&#x20;
 
 > _**Adora is drawn mostly in navy blue (#16183c), if you want to use it in another color please reach out to us.**_
 
@@ -50,6 +50,6 @@
 
 ## Typeface
 
-**While giving words to our vision, we’ve chosen Moret and Suisse as the fonts to be used in our online and offline text communications. Both of the fonts signify the elegance and boldness of Umee.**
+**While giving words to our vision, we’ve chosen Moret and Suisse as the fonts to be used in our online and offline text communications. Both of the fonts signify the elegance and boldness of UX.**
 
 <!-- ![](/zip/umee_typefaces.zip) -->

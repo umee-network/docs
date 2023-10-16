@@ -2,7 +2,7 @@
 
 ## Delegation Durations
 
-> Each round of Umee Foundation delegations will last for one quarter (3 months).
+> Each round of UX Foundation delegations will last for one quarter (3 months).
 
 <br>
 
@@ -20,4 +20,4 @@
 
 ## Delegation Assignment
 
-> The Umee Foundation will assign delegations as directed by the Validator DAO Committee during the first week of each quarter.
+> The UX Foundation will assign delegations as directed by the Validator DAO Committee during the first week of each quarter.

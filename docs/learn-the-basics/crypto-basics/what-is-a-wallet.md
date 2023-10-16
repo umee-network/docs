@@ -16,7 +16,7 @@ Similarly to how a Twitter handle can be used to find any Twitter user and the i
 
 Wallet addresses aren’t chosen by users, but rather generated and assigned to them when they create wallets. Wallet addresses are usually displayed as random strings of letters and numbers - and wallet addresses on different blockchains generally have different prefixes. 
 
-> All Umee wallet addresses start with “umee.”
+> All UX wallet addresses start with “umee.”
 
 <br>
 
@@ -98,11 +98,11 @@ Since [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain) are 
 
 ## Learn More
 
-- [Learn how to create an Umee compatible wallet.](/users/getting-started/creating-wallet)
+- [Learn how to create an UX compatible wallet.](/users/getting-started/creating-wallet)
 
-- [Learn how to use an Umee wallet.](/users/getting-started/using-wallet)
+- [Learn how to use an UX wallet.](/users/getting-started/using-wallet)
 
-- [Learn how to fund an Umee wallet.](/users/getting-started/funding-wallet)
+- [Learn how to fund an UX wallet.](/users/getting-started/funding-wallet)
 
 <br>
 

@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>The UMEE Token</h1>
+    <h1>The UX Token</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -27,20 +27,20 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Token Utility",
-          text: "Learn what the UMEE token is used for",
-          link: "/overview/umee-token/token-utility",
+          text: "Learn what the UX token is used for",
+          link: "/overview/UX-token/token-utility",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Token Format",
-          text: "Learn about the two formats of the UMEE token",
-          link: "/overview/umee-token/token-format",
+          text: "Learn about the two formats of the UX token",
+          link: "/overview/UX-token/token-format",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Tokenomics",
-          text: "Learn the economics behind the UMEE token",
-          link: "/overview/umee-token/tokenomics",
+          text: "Learn the economics behind the UX token",
+          link: "/overview/UX-token/tokenomics",
         },
       ],
     };

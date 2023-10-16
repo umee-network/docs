@@ -11,7 +11,7 @@ module.exports = {
   lang: "en-US",
   title: "Umeeversity",
   description:
-    "Learn more about DeFi, Crypto, Web3, cross chain applications as well as the Cosmos ecosystem and Umee here.This is the start of your Web3 journey! ",
+    "Learn more about DeFi, Crypto, Web3, cross chain applications as well as the Cosmos ecosystem and UX here.This is the start of your Web3 journey! ",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],
   theme: localTheme({
     logo: "/img/Logo.svg",
@@ -35,11 +35,11 @@ module.exports = {
           ],
         },
         {
-          text: "Staking Umee",
+          text: "Staking UX",
           collapsible: true,
           children: [
-            "/users/staking-umee/selecting-validator",
-            "/users/staking-umee/staking-umee",
+            "/users/staking-UX/selecting-validator",
+            "/users/staking-UX/staking-UX",
           ],
         },
         {
@@ -107,13 +107,13 @@ module.exports = {
       ],
       "/overview/": [
         {
-          text: "Umee",
+          text: "UX",
           collapsible: true,
           children: [
-            "/overview/umee-overview/introduction",
-            "/overview/umee-overview/umee-vision",
-            "/overview/umee-overview/security-audits",
-            "/overview/umee-overview/umee-roadmap",
+            "/overview/UX-overview/introduction",
+            "/overview/UX-overview/UX-vision",
+            "/overview/UX-overview/security-audits",
+            "/overview/UX-overview/UX-roadmap",
           ],
         },
         {
@@ -126,12 +126,12 @@ module.exports = {
           ],
         },
         {
-          text: "UMEE Token",
+          text: "UX Token",
           collapsible: true,
           children: [
-            "/overview/umee-token/token-utility",
-            "/overview/umee-token/token-format",
-            "/overview/umee-token/tokenomics",
+            "/overview/UX-token/token-utility",
+            "/overview/UX-token/token-format",
+            "/overview/UX-token/tokenomics",
           ],
         },
         {
@@ -139,8 +139,8 @@ module.exports = {
           collapsible: true,
           children: [
             "/overview/faq/general",
-            "/overview/faq/umee-token",
-            "/overview/faq/umee-app",
+            "/overview/faq/UX-token",
+            "/overview/faq/UX-app",
           ],
         },
         {
@@ -199,12 +199,12 @@ module.exports = {
           ],
         },
         {
-          text: "Umee Basics",
+          text: "UX Basics",
           collapsible: true,
           children: [
-            "/learn-the-basics/umee-basics/introduction",
-            "/learn-the-basics/umee-basics/asset-types",
-            "/learn-the-basics/umee-basics/common-terms",
+            "/learn-the-basics/UX-basics/introduction",
+            "/learn-the-basics/UX-basics/asset-types",
+            "/learn-the-basics/UX-basics/common-terms",
           ],
         },
       ],
@@ -221,7 +221,7 @@ module.exports = {
           children: [
             "/developers/source-code",
             "/developers/ide-setup",
-            "/developers/umee-daemon",
+            "/developers/UX-daemon",
             {
               text: "Modules",
               collapsible: true,

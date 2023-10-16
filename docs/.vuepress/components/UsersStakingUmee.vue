@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Staking Umee</h1>
+    <h1>Staking UX</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -28,13 +28,13 @@ export default {
           img: "/img/docs-users-icon.png",
           title: "Selecting a Validator",
           text: "Learn how to select a validator",
-          link: "/users/staking-umee/selecting-validator",
+          link: "/users/staking-UX/selecting-validator",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Staking UMEE",
-          text: "Learn how to stake UMEE tokens",
-          link: "/users/staking-umee/staking-umee",
+          title: "Staking UX",
+          text: "Learn how to stake UX tokens",
+          link: "/users/staking-UX/staking-UX",
         },
       ],
     };

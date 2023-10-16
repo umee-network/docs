@@ -8,6 +8,6 @@ Simply put, Gravity Bridge would not be able to operate effectively without the 
 
 <br>
 
-## Umee's Gravity Bridge Solution
+## UX's Gravity Bridge Solution
 
-Umee utilizes Gravity Bridge as a module and developed its own relayer written in Go called Peggo. The primary goal of Peggo is to act as a relayer that is compatible with any network using Gravity Bridge. The Gravity contract (deployed on Ethereum) is trustless and acts as a self-updating multisignature wallet that is controlled by the validator set. Everytime the power of Umee’s validators change, a new “valset update” is created and signed. This update is then sent to Ethereum via any participant in the network. Providing this update to Ethereum is incentivised by monetary rewards, there exists no pre-selection of who relays the message to Ethereum. 
+UX utilizes Gravity Bridge as a module and developed its own relayer written in Go called Peggo. The primary goal of Peggo is to act as a relayer that is compatible with any network using Gravity Bridge. The Gravity contract (deployed on Ethereum) is trustless and acts as a self-updating multisignature wallet that is controlled by the validator set. Everytime the power of UX’s validators change, a new “valset update” is created and signed. This update is then sent to Ethereum via any participant in the network. Providing this update to Ethereum is incentivised by monetary rewards, there exists no pre-selection of who relays the message to Ethereum. 

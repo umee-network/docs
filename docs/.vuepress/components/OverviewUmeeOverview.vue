@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Umee Overview</h1>
+    <h1>UX Overview</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -27,26 +27,26 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Introduction",
-          text: "Umee basics",
-          link: "/overview/umee-overview/introduction",
+          text: "UX basics",
+          link: "/overview/UX-overview/introduction",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee's Vision",
-          text: "Learn why Umee exists",
-          link: "/overview/umee-overview/umee-vision",
+          title: "UX's Vision",
+          text: "Learn why UX exists",
+          link: "/overview/UX-overview/UX-vision",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Security & Audits",
-          text: "Review Umee's security measures",
-          link: "/overview/umee-overview/security-audits",
+          text: "Review UX's security measures",
+          link: "/overview/UX-overview/security-audits",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee's Roadmap",
-          text: "Review Umee's Roadmap",
-          link: "/overview/umee-overview/umee-roadmap",
+          title: "UX's Roadmap",
+          text: "Review UX's Roadmap",
+          link: "/overview/UX-overview/UX-roadmap",
         },
       ],
     };

@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Getting Started</h1>
-    <p>Read all about Umee from a variety of perspectives.</p>
+    <p>Read all about UX from a variety of perspectives.</p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -58,19 +58,19 @@ export default {
         {
           img: "/img/docs-overview-icon.png",
           title: "Overview",
-          text: "High-level overview of Umee money markets.",
+          text: "High-level overview of UX money markets.",
           link: "/overview",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "User Guides",
-          text: "View user guides and tutorials to better understand Umee.",
+          text: "View user guides and tutorials to better understand UX.",
           link: "/users",
         },
         {
           img: "/img/docs-overview-icon.png",
           title: "Governance",
-          text: "Umee's governance processes.",
+          text: "UX's governance processes.",
           link: "/governance",
         },
         {
@@ -88,7 +88,7 @@ export default {
         {
           img: "/img/docs-developer-icon.png",
           title: "Developers",
-          text: "Learn everything you need to know to build on Umee.",
+          text: "Learn everything you need to know to build on UX.",
           link: "/developers",
         },
       ],
@@ -118,15 +118,15 @@ export default {
       supports: [
         {
           img: "/img/umee.png",
-          title: "Umee App",
-          text: "Launch the Umee money markets app",
+          title: "UX App",
+          text: "Launch the UX money markets app",
           link: "https://app.umee.cc/",
           external: true,
         },
         {
           img: "/img/discord.png",
           title: "Discord",
-          text: "Chat with the Umee community on Discord",
+          text: "Chat with the UX community on Discord",
           link: "https://discord.gg/umee",
           external: true,
         },

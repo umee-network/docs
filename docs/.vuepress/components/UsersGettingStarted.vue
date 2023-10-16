@@ -45,7 +45,7 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Transferring Tokens",
-          text: "Learn how to transfer tokens on to Umee",
+          text: "Learn how to transfer tokens on to UX",
           link: "/users/getting-started/transferring-tokens",
         },
       ],

@@ -2,7 +2,7 @@
 
 ![](/bg/test-before-try.png)
 
-> Umee aims to make [DeFi](/learn-the-basics/defi-basics/what-is-defi) as easy and accessible as possible, and encourages new users to test out features on [Umee's testnet](https://testnet.umee.cc/) **before using real money.**
+> UX aims to make [DeFi](/learn-the-basics/defi-basics/what-is-defi) as easy and accessible as possible, and encourages new users to test out features on [UX's testnet](https://testnet.umee.cc/) **before using real money.**
 
 <br>
 
@@ -16,6 +16,6 @@ Testnets use testnet tokens, valueless versions of real tokens that help simulat
 
 ## Who Should Use a Testnet?
 
-- Anyone who is brand new to crypto should try out Umee's testnet before using mainnet.
+- Anyone who is brand new to crypto should try out UX's testnet before using mainnet.
 
-- Users who are familiar with crypto but have never used a money market protocol are also encouraged to try out Umee's testnet before using mainnet.
+- Users who are familiar with crypto but have never used a money market protocol are also encouraged to try out UX's testnet before using mainnet.

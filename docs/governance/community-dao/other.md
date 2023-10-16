@@ -1,7 +1,7 @@
 # Other
 
 > To get started: 
-> - Visit the #start-here channel in the "Community DAO" section of [Umee's Discord](https://discord.gg/umee);
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
 > - Assign yourself the "CD Contributor" role and "CD Other" role;
 > - Check the #cd-announcements and #other-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit other contributions](https://dyno.gg/form/6adc91d9).
@@ -20,11 +20,11 @@ Contributors aren't limited to the outlined contributions. If you have a skillse
 
 ### Community Events
 
-- Host and record community calls/Twitter Spaces to discuss all things Umee with other key community contributors
+- Host and record community calls/Twitter Spaces to discuss all things UX with other key community contributors
 - Host virtual workshops to educate and assist in onboarding processes
 - Collaborate with other communities to co-host engaging events
-- Represent Umee at local crypto events
-- Host IRL events to educate your local crypto community about Umee
+- Represent UX at local crypto events
+- Host IRL events to educate your local crypto community about UX
 
 <br>
 
@@ -39,8 +39,8 @@ Contributors aren't limited to the outlined contributions. If you have a skillse
 
 ### Creative
 
-- High quality designs for Umee's social media, documentation, or blogs
-- Any other contributions that may be valuable for the Umee community
+- High quality designs for UX's social media, documentation, or blogs
+- Any other contributions that may be valuable for the UX community
 
 <br>
 

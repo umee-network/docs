@@ -56,9 +56,9 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Umee Basics",
-          text: "Things every Umee user should know",
-          link: "/learn-the-basics/umee-basics",
+          title: "UX Basics",
+          text: "Things every UX user should know",
+          link: "/learn-the-basics/UX-basics",
         },
       ],
     };

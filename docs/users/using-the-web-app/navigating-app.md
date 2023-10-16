@@ -14,9 +14,9 @@
 
 ---
 
-Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain) you're interacting with Umee's web app through. Different types of assets and rates are available on different chains.
+Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain) you're interacting with UX's web app through. Different types of assets and rates are available on different chains.
 
-> - When "Cosmos" is selected users are interacting with [IBC](/learn-the-basics/cosmos-basics/what-is-ibc) assets on the [Umee blockchain](/overview/umee-overview).
+> - When "Cosmos" is selected users are interacting with [IBC](/learn-the-basics/cosmos-basics/what-is-ibc) assets on the [UX chain](/overview/umee-overview).
 > - When "Ethereum" is selected users are interacting with ERC-20 assets on the Ethereum blockchain.
 
 :::
@@ -27,7 +27,7 @@ Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/w
 
 ---
 
-This represents the total value of all assets supplied on Umee's Markets on the blockchain selected.
+This represents the total value of all assets supplied on UX's Markets on the blockchain selected.
 
 :::
 
@@ -37,7 +37,7 @@ This represents the total value of all assets supplied on Umee's Markets on the 
 
 ---
 
-This represents the total value of all assets borrowed from Umee's Markets on the blockchain selected.
+This represents the total value of all assets borrowed from UX's Markets on the blockchain selected.
 
 :::
 
@@ -47,7 +47,7 @@ This represents the total value of all assets borrowed from Umee's Markets on th
 
 ---
 
-This list shows each asset available for leverage and/or collateral on the blockchain selected. All available assets can be lent and borrowed from the Umee Market, but users must supply collateral assets in order to be able to borrow assets.
+This list shows each asset available for leverage and/or collateral on the blockchain selected. All available assets can be lent and borrowed from the UX Market, but users must supply collateral assets in order to be able to borrow assets.
 
 :::
 
@@ -69,7 +69,7 @@ This list shows each asset available for leverage and/or collateral on the block
 
 ---
 
-Available liquidity represents the total amount of the asset selected that can be borrowed from the Umee Market by overcollateralized users.
+Available liquidity represents the total amount of the asset selected that can be borrowed from the UX Market by overcollateralized users.
 
 :::
 
@@ -79,7 +79,7 @@ Available liquidity represents the total amount of the asset selected that can b
 
 ---
 
-Total borrowed represents the total amount of the asset selected that is actively being borrowed from the Umee Market.
+Total borrowed represents the total amount of the asset selected that is actively being borrowed from the UX Market.
 
 :::
 
@@ -143,7 +143,7 @@ If an asset is supported as collateral, anyone who supplies the asset is able to
 
 ---
 
-The supply position represents the amount of an asset a user is actively supplying on the Umee Market.
+The supply position represents the amount of an asset a user is actively supplying on the UX Market.
 
 :::
 
@@ -153,7 +153,7 @@ The supply position represents the amount of an asset a user is actively supplyi
 
 ---
 
-The wallet balance represents the amount of an asset that an individual user currently has on the Umee network in his/her Umee wallet. Assets must be [transferred to Umee](/users/using-the-web-app/transferring-tokens) before they will appear here.
+The wallet balance represents the amount of an asset that an individual user currently has on the UX network in his/her UX wallet. Assets must be [transferred to UX](/users/using-the-web-app/transferring-tokens) before they will appear here.
 
 :::
 
@@ -163,7 +163,7 @@ The wallet balance represents the amount of an asset that an individual user cur
 
 ---
 
-The supply APR is the annual percentage rate a user may receive for lending the asset on the Umee Market.
+The supply APR is the annual percentage rate a user may receive for lending the asset on the UX Market.
 
 > Supply APRs are floating rates and will change based on current supply and demand.
 
@@ -175,7 +175,7 @@ The supply APR is the annual percentage rate a user may receive for lending the 
 
 ---
 
-The borrow position represents the amount of an asset a user is actively borrowing from the Umee Market. In order to withdraw all of their collateral, users must repay their borrow positions in full.
+The borrow position represents the amount of an asset a user is actively borrowing from the UX Market. In order to withdraw all of their collateral, users must repay their borrow positions in full.
 
 :::
 
@@ -219,9 +219,9 @@ Borrow APR is the annual percentage rate a borrower will owe for borrowing the a
 
 ---
 
-Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain) you'd like to view your Umee positions on.
+Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain) you'd like to view your UX positions on.
 
-> - When "Cosmos" is selected users can view their [IBC](/learn-the-basics/cosmos-basics/what-is-ibc) assets and positions on the [Umee blockchain](/overview/umee-overview).
+> - When "Cosmos" is selected users can view their [IBC](/learn-the-basics/cosmos-basics/what-is-ibc) assets and positions on the [UX chain](/overview/umee-overview).
 > - When "Ethereum" is selected users can view their ERC-20 assets and positions on the Ethereum blockchain.
 
 :::
@@ -232,7 +232,7 @@ Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/w
 
 ---
 
-Total collateral represents the total value of collateral assets an individual user has supplied on Umee on the blockchain selected.
+Total collateral represents the total value of collateral assets an individual user has supplied on UX on the blockchain selected.
 
 :::
 
@@ -242,7 +242,7 @@ Total collateral represents the total value of collateral assets an individual u
 
 ---
 
-Total borrowed represents the total value of assets an individual user has borrowed from Umee's Markets on the blockchain selected.
+Total borrowed represents the total value of assets an individual user has borrowed from UX's Markets on the blockchain selected.
 
 :::
 
@@ -281,7 +281,7 @@ The bar visual is an indicator of the health of an individual user's loans. It s
 
 ---
 
-The supply section represents the assets an individual user has supplied to the Umee Market on the blockchain selected, and annual percentage rate he/she is currently earning on the assets supplied.
+The supply section represents the assets an individual user has supplied to the UX Market on the blockchain selected, and annual percentage rate he/she is currently earning on the assets supplied.
 
 :::
 
@@ -291,7 +291,7 @@ The supply section represents the assets an individual user has supplied to the 
 
 ---
 
-The borrow section represents the assets and individual user has borrowed from the Umee Market on the blockchain selected, and the annual percentage rate his/her borrow interest is currently accruing at.
+The borrow section represents the assets and individual user has borrowed from the UX Market on the blockchain selected, and the annual percentage rate his/her borrow interest is currently accruing at.
 
 :::
 

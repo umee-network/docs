@@ -1,8 +1,8 @@
-# Umee Relayers
+# UX Relayers
 
 ## Relayer Responsibility
 
-The Umee validators usually take the role of the relayers. As a requirement, validators must validate and sign transactions in order for relaying transactions to reach consensus; not participating as an orchestrator will cause them to be slashed. Validators are not required to participate in the relaying work and instead can assign a third party to run Peggo.
+The UX validators usually take the role of the relayers. As a requirement, validators must validate and sign transactions in order for relaying transactions to reach consensus; not participating as an orchestrator will cause them to be slashed. Validators are not required to participate in the relaying work and instead can assign a third party to run Peggo.
 
 As part of the security mechanism of Gravity Bridge, there are punishments if a relayer fails to take a required action, produce an incorrect message, or takes malicious behavior. Relayers will risk being slashed or kicked out of the Gravity Bridge validator set.  
 
@@ -18,13 +18,13 @@ Relayers are able to adjust their profit margin requirement to conduct a relay b
 
 ## Relaying Costs
 
-Users pay a gas fee using Umee (for the transaction) in addition to a bridge fee. It’s important to note that the bridge fee is paid in the token that is being sent. On the other hand, relayers must pay an Ethereum gas fee (regardless of if their relay was successful). Relayers must pay the Ethereum gas fee using ETH however they will get their reward in the batch’s denom token. This is the primary factor that influences the profit margin (if any) of a relay. 
+Users pay a gas fee using UX (for the transaction) in addition to a bridge fee. It’s important to note that the bridge fee is paid in the token that is being sent. On the other hand, relayers must pay an Ethereum gas fee (regardless of if their relay was successful). Relayers must pay the Ethereum gas fee using ETH however they will get their reward in the batch’s denom token. This is the primary factor that influences the profit margin (if any) of a relay. 
 
 <br>
 
 ## Relayer Economic Decisions
 
-The Umee blockchain could produce a list of batches, however it is up to the relayers to weigh gas costs vs potential rewards from relaying a batch. The relayer must perform a check on each batch in order to decide whether they should relay. Relayers relay all batches that are deemed profitable. To achieve this, relayers will query from the Umee blockchain the list of batches and will navigate through each one. 
+The UX chain could produce a list of batches, however it is up to the relayers to weigh gas costs vs potential rewards from relaying a batch. The relayer must perform a check on each batch in order to decide whether they should relay. Relayers relay all batches that are deemed profitable. To achieve this, relayers will query from the UX chain the list of batches and will navigate through each one. 
 
 At each batch in the list relayers will check for the following:
 - If the batch has enough signatures or not;

@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Modules</h1>
-    <p>Umee has custom modules built for specific functionalities. Learn more about what these modules do and how to use them to build.</p>
+    <p>UX has custom modules built for specific functionalities. Learn more about what these modules do and how to use them to build.</p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -27,13 +27,13 @@ export default {
         {
           img: "/img/docs-developer-icon.png",
           title: "Leverage",
-          text: "Learn more about Umee's custom leverage module",
+          text: "Learn more about UX's custom leverage module",
           link: "/developers/modules/leverage",
         },
         {
           img: "/img/docs-developer-icon.png",
           title: "Oracle",
-          text: "Learn more about Umee's custom oracle module",
+          text: "Learn more about UX's custom oracle module",
           link: "/developers/modules/oracle",
         },
       ],

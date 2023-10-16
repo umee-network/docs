@@ -1,6 +1,6 @@
 # Creating a Wallet
 
-> In order to enjoy Umee's cross chain DeFi capabilities, an Umee blockchain compatible wallet is needed.
+> In order to enjoy UX's cross chain DeFi capabilities, an UX chain compatible wallet is needed.
 > [Users can learn about crypto wallets here](/users/blockchain-basics/what-is-wallet).
 
 :::: tabs
@@ -21,7 +21,7 @@
 
 ---
 
-#### Before creating an Umee wallet, review the following security tips.
+#### Before creating an UX wallet, review the following security tips.
 
 ![](/bg/creating-umee-wallet-info.png)
 
@@ -55,7 +55,7 @@
 
 ![](/bg/umee-wallet-6.png)
 
-#### Congratulations, you’ve officially set up an Umee blockchain compatible wallet!
+#### Congratulations, you’ve officially set up an UX chain compatible wallet!
 
 _Now is a good time to store your secret recovery phrase somewhere safe._
 

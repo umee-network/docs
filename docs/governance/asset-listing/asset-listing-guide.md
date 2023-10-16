@@ -2,15 +2,15 @@
 
 ## The Listing Process 
 
-1. Anyone can draft a proposal for a new asset to be listed on Umee by following the guide ([seen below](/governance/asset-listing/asset-listing-guide.html#creating-submitting-the-proposal)) to create a "New Asset Listing Proposal" thread on [Umee's governance forum](https://gov.umee.cc/). 
+1. Anyone can draft a proposal for a new asset to be listed on UX by following the guide ([seen below](/governance/asset-listing/asset-listing-guide.html#creating-submitting-the-proposal)) to create a "New Asset Listing Proposal" thread on [UX's governance forum](https://gov.umee.cc/). 
 
 2. Once the thread has been shared and discussed, the proposal author can follow the guide ([seen below](/governance/asset-listing/asset-listing-guide.html#creating-submitting-the-proposal)) to submit the New Asset Listing Proposal on-chain for a signaling vote. 
 
-3. After community governance has signaled support for a New Asset Listing Proposal, Umee’s risk team will begin assessing the individual asset’s risk profile using a [targeted risk framework](/governance/asset-listing/risk-assessment-methodology) which includes extensive market simulation modeling in order to customize risk parameters for each individual asset.
+3. After community governance has signaled support for a New Asset Listing Proposal, UX’s risk team will begin assessing the individual asset’s risk profile using a [targeted risk framework](/governance/asset-listing/risk-assessment-methodology) which includes extensive market simulation modeling in order to customize risk parameters for each individual asset.
 
-4. Once the appropriate risk parameters have been determined for an asset, Umee's governance facilitators will submit a Token Registry Proposal on-chain.
+4. Once the appropriate risk parameters have been determined for an asset, UX's governance facilitators will submit a Token Registry Proposal on-chain.
 
-5. When the Token Registry Proposal has passed the assets will automatically be available on Umee's markets. It is up to the Umee Core Team and other developers building on Umee to make timely adjustments to front ends to better incorporate new assets.
+5. When the Token Registry Proposal has passed the assets will automatically be available on UX's markets. It is up to the UX Core Team and other developers building on UX to make timely adjustments to front ends to better incorporate new assets.
 
 <br>
 
@@ -26,7 +26,7 @@
 
 ****
 
-#### 1) Start by connecting your wallet to [Umee's governance forum](https://gov.umee.cc/).
+#### 1) Start by connecting your wallet to [UX's governance forum](https://gov.umee.cc/).
 
 ![](/bg/select-login.png)
 
@@ -74,9 +74,9 @@
 
 ****
 
-> It's recommended that proposal authors wait at least four days, or until significant discussion has taken place, before submitting their New Asset Listing Proposals on-chain for a vote. Authors who submit poor proposals on-chain may risk losing their [UMEE deposits](/governance/governance-overview/how-it-works.html#the-deposit-period).
+> It's recommended that proposal authors wait at least four days, or until significant discussion has taken place, before submitting their New Asset Listing Proposals on-chain for a vote. Authors who submit poor proposals on-chain may risk losing their [UX deposits](/governance/governance-overview/how-it-works.html#the-deposit-period).
 
-#### 1) Select the "+" in the upper righthand corner of [Umee's governance forum](https://gov.umee.cc/) and then select the "New On-Chain Proposal" button.
+#### 1) Select the "+" in the upper righthand corner of [UX's governance forum](https://gov.umee.cc/) and then select the "New On-Chain Proposal" button.
 
 ![](/bg/select-new-proposal.png)
 
@@ -94,19 +94,19 @@
 
 #### 5) Double check that all details are correct. Once a proposal has been submitted on-chain it cannot be altered.
 
-#### 6) Enter the amount of UMEE tokens you'd like to contribute towards the deposit. To make the full deposit, 100,000 UMEE tokens are required. 
+#### 6) Enter the amount of UX tokens you'd like to contribute towards the deposit. To make the full deposit, 100,000 UX tokens are required. 
 
 ![](/bg/send-transaction.png)
 
-> Make note that deposits are denominated in uumee (100,000 UMEE = 100,000,000,000 uumee).
+> Make note that deposits are denominated in uUX (100,000 UX = 100,000,000,000 uUX).
 
-> Proposals must reach the 100,000 UMEE deposit threshold within 14 days in order to enter the voting period. Deposits for proposals which fail to reach the deposit threshold within 14 days will NOT be returned to the depositors.
+> Proposals must reach the 100,000 UX deposit threshold within 14 days in order to enter the voting period. Deposits for proposals which fail to reach the deposit threshold within 14 days will NOT be returned to the depositors.
 
 #### 7) Select "Send transaction" and approve the transaction in your wallet.
 
 ![](/bg/approve-it.png)
 
-> Once the New Asset Listing Proposal has been submitted on-chain, nothing more is needed from the proposer. The Umee core team will review the results of signaling proposals and submit "Token Registry Proposals" with carefully crafted risk parameters on-chain as soon as the asset in question can safely be supported on Umee.
+> Once the New Asset Listing Proposal has been submitted on-chain, nothing more is needed from the proposer. The UX core team will review the results of signaling proposals and submit "Token Registry Proposals" with carefully crafted risk parameters on-chain as soon as the asset in question can safely be supported on UX.
 
 :::
 

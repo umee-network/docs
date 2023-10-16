@@ -27,19 +27,19 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Voting",
-          text: "Learn how to vote on Umee",
+          text: "Learn how to vote on UX",
           link: "/users/governance/voting",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Creating a Proposal",
-          text: "Learn how to propose changes to the Umee network",
+          text: "Learn how to propose changes to the UX network",
           link: "/users/governance/creating-proposal",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "New Asset Listings",
-          text: "Learn how to request support for a new asset on Umee",
+          text: "Learn how to request support for a new asset on UX",
           link: "/governance/asset-listing/asset-listing-guide",
         },
       ],

@@ -8,7 +8,7 @@ Peggo is an orchestrator for the Gravity Bridge. It acts as a relayer between a 
 
 #### Are validators required to run Peggo?
 
-Yes, one of the requirements to be a validator on Umee is to run Peggo, failing to do so will result in a jailing event.
+Yes, one of the requirements to be a validator on UX is to run Peggo, failing to do so will result in a jailing event.
 
 **If a user cancels a bridged transaction to Ethereum, does the bridge fee get refunded?**
 
@@ -16,27 +16,27 @@ Yes, the fee gets refunded!
 
 #### How long does a bridge transaction take?
 
-Bridging from Ethereum to Umee is a straightforward procedure. After the user sends a deposit, using the `sendToCosmos` method on the Umee Gravity contract, the orchestrators will start to send over events to confirm that this event happened after 13 blocks have passed. So the usual time for bridging assets from Ethereum to Umee is around **\~5m**.
+Bridging from Ethereum to UX is a straightforward procedure. After the user sends a deposit, using the `sendToCosmos` method on the UX Gravity contract, the orchestrators will start to send over events to confirm that this event happened after 13 blocks have passed. So the usual time for bridging assets from Ethereum to UX is around **\~5m**.
 
-Bridging assets from Umee to Ethereum is a more complex process given that transactions get batched along with other transactions of the same type of asset. This means that the bridge speed scales up with the traffic, if there's very low traffic at the moment and you want your transaction to get relayed fast then you'll need to pay a fee high enough to cross the bridge by itself. If you can wait, just go with the average fee and your transaction will get processed as soon as enough transactions are collected. This process can take **from a couple of minutes to hours**, depending on the token, traffic of the moment, and **most importantly the bridge fee**.
+Bridging assets from UX to Ethereum is a more complex process given that transactions get batched along with other transactions of the same type of asset. This means that the bridge speed scales up with the traffic, if there's very low traffic at the moment and you want your transaction to get relayed fast then you'll need to pay a fee high enough to cross the bridge by itself. If you can wait, just go with the average fee and your transaction will get processed as soon as enough transactions are collected. This process can take **from a couple of minutes to hours**, depending on the token, traffic of the moment, and **most importantly the bridge fee**.
 
 #### How are suggested fees calculated?
 
-Currently, we use some simple math to estimate the fees to pay for a bridge from Umee to Ethereum:
+Currently, we use some simple math to estimate the fees to pay for a bridge from UX to Ethereum:
 
-_Suggested Average Fee in Umee_
-
-$$
-fee = (((735,000 * currentETHGasPriceGwei * 1.3) / 10^9 / 20) * $ETHUSD)/$UMEEUSD
-$$
-
-_Suggested Fast Fee in Umee_
+_Suggested Average Fee in UX_
 
 $$
-fee = (((735,000 * currentETHGasPriceGwei * 1.3)/ 10^9) * $ETHUSD)/$UMEEUSD
+fee = (((735,000 * currentETHGasPriceGwei * 1.3) / 10^9 / 20) * $ETHUSD)/$UXUSD
 $$
 
-Ethereum to Umee fees depend 100% on Ethereum just like any other ETH transaction.
+_Suggested Fast Fee in UX_
+
+$$
+fee = (((735,000 * currentETHGasPriceGwei * 1.3)/ 10^9) * $ETHUSD)/$UXUSD
+$$
+
+Ethereum to UX fees depend 100% on Ethereum just like any other ETH transaction.
 
 {% hint style="info" %}
 Note, our roadmap contains improvements to provide better fee estimations to minimize time and costs.
@@ -65,7 +65,7 @@ A validator will be slashed if it does not sign an outgoing validator set update
 * `--eth-gas-limit-adjustment`: Ethereum estimations aren't always accurate, so this value increases it by default by `1.2`. Unless Peggo is throwing an error related to the limit, this value should be left untouched.
 * `--eth-gas-price-adjustment`: This value is used to increase the current estimated gas price to improve the chances of any outgoing transaction getting processed faster. By default, this value is `1.3`.
 * `--relayer-loop-multiplier`: This is a multiplier for the loop that checks and relays any profitable batches. By default, the value is `3.0` (meaning approximately 3 Ethereum blocks), which is fast enough to send batches periodically but also slow enough that new transactions won't collide with previous transactions sent by the same relayer.
-* `--requester-loop-multiplier`: This multiplier is set in Umee blocks and its default value is 60 (so around 5 minutes). It's used to request new batches to be created on-chain. The default value is the recommended one and doesn't affect relaying or profit.
+* `--requester-loop-multiplier`: This multiplier is set in UX blocks and its default value is 60 (so around 5 minutes). It's used to request new batches to be created on-chain. The default value is the recommended one and doesn't affect relaying or profit.
 
 ## Troubleshooting
 
@@ -83,7 +83,7 @@ This is _not_ an error, it means that your orchestrator tried to create a new ba
 
 These errors can be seen in longer messages but usually, it boils down to:
 
-* The Umee node you are connecting to has a gas price > 0 and you didn't adjust for that in Peggo.
+* The UX node you are connecting to has a gas price > 0 and you didn't adjust for that in Peggo.
 * You don't have any funds in your orchestrator account.
 * Your node is out of sync.
 

@@ -2,7 +2,7 @@
 
 ## What is the Guardian Guild?
 
-The Guardian Guild is a working group which is responsible for analyzing borrower creditworthiness before loans are issued by UDX. Guardians will be compensated based on the spread of the loans issued to borrowers in addition to UMEE token incentives. 
+The Guardian Guild is a working group which is responsible for analyzing borrower creditworthiness before loans are issued by UDX. Guardians will be compensated based on the spread of the loans issued to borrowers in addition to UX token incentives. 
 
 <br>
 

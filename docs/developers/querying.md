@@ -1,6 +1,6 @@
-# Querying the Umee Blockchain
+# Querying the UX Blockchain
 
-There are multiple ways to perform queries within the Umee network such as using the CLI, Tendermint's RPC, and the application's gRPC and API instances. Note, this guide is not a comprehensive overview of all the possible queries and how to invoke them.
+There are multiple ways to perform queries within the UX network such as using the CLI, Tendermint's RPC, and the application's gRPC and API instances. Note, this guide is not a comprehensive overview of all the possible queries and how to invoke them.
 
 ## CLI
 
