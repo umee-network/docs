@@ -55,8 +55,8 @@
     <div class="newsletter-form">
       <div class="newsletter-form-content">
         <div>
-          <p class="title">Get Umee updates</p>
-          <p>You’ll be notified with Umee updates, news, and announcements.</p>
+          <p class="title">Get UX updates</p>
+          <p>You’ll be notified with UX updates, news, and announcements.</p>
         </div>
         <div>
           <GradientBox>
@@ -103,7 +103,7 @@ export default {
       fetch('https://umee.cc/.netlify/functions/subscribe', {method: 'post', body: JSON.stringify(data)})
         .then(
           (_response) => {
-            this.message = "You have been added to Umee's mailing list"
+            this.message = "You have been added to UX's mailing list"
             this.loading = false
           },
           (_response) => {
