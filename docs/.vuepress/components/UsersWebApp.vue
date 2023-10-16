@@ -27,13 +27,13 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Navigating the App",
-          text: "Familiarize yourself with Umee's web app",
+          text: "Familiarize yourself with UX's web app",
           link: "/users/using-the-web-app/navigating-app",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Transferring Tokens",
-          text: "Learn how to transfer tokens to and from Umee",
+          text: "Learn how to transfer tokens to and from UX",
           link: "/users/using-the-web-app/transferring-tokens",
         },
         {

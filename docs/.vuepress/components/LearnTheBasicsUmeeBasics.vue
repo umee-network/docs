@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Umee Basics</h1>
+    <h1>UX Basics</h1>
     <p></p>
     <div class="row two-columns">
       <menu-card
@@ -26,21 +26,21 @@ export default {
       menus: [
         {
           img: "/img/docs-users-icon.png",
-          title: "Introduction to Umee",
-          text: "Umee explained for beginners",
-          link: "/learn-the-basics/umee-basics/introduction",
+          title: "Introduction to UX",
+          text: "UX explained for beginners",
+          link: "/learn-the-basics/UX-basics/introduction",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Types of Assets",
           text: "Learn about the differences between collateral and leverage assets",
-          link: "/learn-the-basics/umee-basics/asset-types",
+          link: "/learn-the-basics/UX-basics/asset-types",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Common Terms",
-          text: "Basic terms every Umee user should understand",
-          link: "/learn-the-basics/umee-basics/common-terms",
+          text: "Basic terms every UX user should understand",
+          link: "/learn-the-basics/UX-basics/common-terms",
         },
       ],
     };

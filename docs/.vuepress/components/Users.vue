@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>User Guides</h1>
-    <p>Supply and borrow funds for ultimate DeFi composability using Umee money markets.</p>
+    <p>Supply and borrow funds for ultimate DeFi composability using UX money markets.</p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
