@@ -40,6 +40,14 @@ _Max LTV is the maximum Loan-To-Value ratio that the platform allows for a speci
 
 <br>
 
+<details><summary>What is the Close Factor in UX's lending and borrowing system?</summary>
+
+_The Close Factor is a mechanism that limits how much a liquidator can liquidate when a borrower exceeds their borrowing limit. It is a borrower protection feature designed to prevent unnecessary amounts of collateral being liquidated for borrowers when their borrowing position slightly goes over their borrowing limit._
+
+</details>
+
+<br>
+
 <details><summary>What is Borrow Limit?</summary>
 
 _Borrow limit works similarly to Loan-To-Value ratio (LTV), and compared to LTV, it **explicitly shows the borrowing limit of a user’s position** based on the collateral provided._

@@ -141,6 +141,7 @@ module.exports = {
             "/overview/faq/general",
             "/overview/faq/UX-token",
             "/overview/faq/UX-app",
+            "/overview/faq/UX-functionality",
           ],
         },
         {
