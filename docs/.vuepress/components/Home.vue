@@ -48,7 +48,7 @@
 </template>
 
 <script>
-import EmailForm from './EmailForm.vue';
+import EmailForm from "./EmailForm.vue";
 import MenuCard from "./MenuCard.vue";
 export default {
   components: { MenuCard, EmailForm },
@@ -127,7 +127,7 @@ export default {
           img: "/img/discord.png",
           title: "Discord",
           text: "Chat with the UX community on Discord",
-          link: "https://discord.gg/umee",
+          link: "https://discord.gg/uxchain",
           external: true,
         },
         {

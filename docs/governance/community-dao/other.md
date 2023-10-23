@@ -1,7 +1,8 @@
 # Other
 
-> To get started: 
-> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
+> To get started:
+>
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/uxchain);
 > - Assign yourself the "CD Contributor" role and "CD Other" role;
 > - Check the #cd-announcements and #other-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit other contributions](https://dyno.gg/form/6adc91d9).
@@ -10,7 +11,7 @@
 
 Contributors aren't limited to the outlined contributions. If you have a skillset that can be used to help educate, onboard, or improve the overall community experience feel free to put it to use and submit your miscellaneous contributions.
 
-> Check with the community on [Discord](https://discord.gg/umee) to make sure there is demand for the contribution in question before spending time on it.
+> Check with the community on [Discord](https://discord.gg/uxchain) to make sure there is demand for the contribution in question before spending time on it.
 
 <br>
 

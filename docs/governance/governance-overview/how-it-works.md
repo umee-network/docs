@@ -2,7 +2,7 @@
 
 ## Creating a Proposal
 
-First, an idea should gain traction within the community and a proposal should be drafted. Community members should utilize the appropriate channels on [UX’s Governance Forum](https://gov.umee.cc/) and [UX's Discord](https://discord.gg/umee) to discuss potential proposals before starting the draft process. Proposal ideas should be reviewed rigorously before taking any further steps. 
+First, an idea should gain traction within the community and a proposal should be drafted. Community members should utilize the appropriate channels on [UX’s Governance Forum](https://gov.umee.cc/) and [UX's Discord](https://discord.gg/uxchain) to discuss potential proposals before starting the draft process. Proposal ideas should be reviewed rigorously before taking any further steps.
 
 > Refer to the ["Creating a Proposal" user guide](/users/governance/creating-proposal) to learn the process for creating and submitting an on-chain governance proposal.
 
@@ -20,9 +20,9 @@ Anyone can contribute to the deposit, and deposits of both passed and failed pro
 
 ::: tab Expiration
 
-### Expiration 
+### Expiration
 
-****
+---
 
 If the deposit period ends before the minimum deposit of 100,000 UX is reached, the deposits will be burned. This helps prevent people from spamming governance proposals.
 
@@ -32,7 +32,7 @@ If the deposit period ends before the minimum deposit of 100,000 UX is reached, 
 
 ### Failure to Reach Quorum
 
-****
+---
 
 If less than 40% of eligible votes are cast, deposits will be burned. This helps encourage mass participation and prevent certain proposals from being quietly passed.
 
@@ -42,7 +42,7 @@ If less than 40% of eligible votes are cast, deposits will be burned. This helps
 
 ### Vetoed
 
-****
+---
 
 If more than 33% of the voting power votes “NoWithVeto,” deposits will be burned. This is an extra precaution in case poor or destructive proposals are able to meet the minimum deposit before the deadline.
 
@@ -56,12 +56,12 @@ If more than 33% of the voting power votes “NoWithVeto,” deposits will be bu
 
 After the minimum deposit has been met for a proposal, the proposal enters the voting period. The voting period is a fixed **5 day period** where eligible community members can vote on the proposal. Votes can be cast in the following four ways:
 
-| Option |  Implication  |
-|:--------:| -------------------------------------------------- |
-|   Yes   | The voter approves the proposal in its existing form. |
-|    No   | The voter does not approve the proposal in its existing form.|
-|NoWithVeto| The voter strongly disagrees with the proposal and feels the deposits made should be burned. Community members should use “NoWithVeto” when they determine a proposal is spam, or harmful to the UX Hub.|
-| Abstain | The voter has no preference on the outcome of the vote, but has still participated in the voting process.|
+|   Option   | Implication                                                                                                                                                                                              |
+| :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Yes     | The voter approves the proposal in its existing form.                                                                                                                                                    |
+|     No     | The voter does not approve the proposal in its existing form.                                                                                                                                            |
+| NoWithVeto | The voter strongly disagrees with the proposal and feels the deposits made should be burned. Community members should use “NoWithVeto” when they determine a proposal is spam, or harmful to the UX Hub. |
+|  Abstain   | The voter has no preference on the outcome of the vote, but has still participated in the voting process.                                                                                                |
 
 <br>
 

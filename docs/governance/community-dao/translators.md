@@ -3,7 +3,8 @@
 > TLDR: Translators are responsible for translating, organizing, and sharing official UX content with the community members who need it. Translators must [apply for a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview) and be approved before completing it.
 
 > To get started as an translator:
-> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
+>
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/uxchain);
 > - Assign yourself the "CD Contributor" role and "CD Translator" role;
 > - Check the #cd-announcements and #translations-rfc channels to see which translations the CD Committee is looking for;
 > - [Apply for the translation through Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
@@ -15,7 +16,7 @@
 
 Use the [translation lists provided on Dework](https://app.dework.xyz/umee-community-dao/translations-42914/overview) to apply for a translation task. Provide previous translations you've completed to help expedite the application process. Once approved, translate, organize, and share UX content with the users who need it.
 
-> Translations are the only Community DAO task which contributors must apply for before submitting work. 
+> Translations are the only Community DAO task which contributors must apply for before submitting work.
 
 <br>
 
@@ -29,7 +30,7 @@ Use the [translation lists provided on Dework](https://app.dework.xyz/umee-commu
 
 ### Requirements
 
-****
+---
 
 - [Apply through Dework before completing a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
 - Only translate if you are capable of providing a native translation;
@@ -43,7 +44,7 @@ Use the [translation lists provided on Dework](https://app.dework.xyz/umee-commu
 
 ### Tips
 
-****
+---
 
 - Contributors are encouraged to review each others' work in order to provide the best translations possible;
 - Creating new translated images, gifs, or videos within key sections can be a nice touch.
@@ -54,7 +55,7 @@ Use the [translation lists provided on Dework](https://app.dework.xyz/umee-commu
 
 ### Tools
 
-***
+---
 
 **[Gitbook](https://www.gitbook.com/)**
 
@@ -76,7 +77,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 ### Requirements
 
-****
+---
 
 - [Apply through Dework before completing a translation](https://app.dework.xyz/umee-community-dao/translations-42914/overview);
 - Only translate if you are capable of providing a native translation;
@@ -90,7 +91,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 ### Tips
 
-****
+---
 
 - Contributors are encouraged to review each others' work in order to provide the best translations possible;
 - Try to format translated blog posts in a way that is easy for readers to follow by using various headers and other features.
@@ -101,7 +102,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 ### Tools
 
-****
+---
 
 **[Medium](https://medium.com/)**
 
@@ -151,11 +152,11 @@ _Notion is another organizational tool that can be used to share translated blog
 
 ## Criteria
 
-- Amount of value the contribution has brought or is expected to bring to UX; 
+- Amount of value the contribution has brought or is expected to bring to UX;
 - Clarity of contributions on the submission form;
-- Accuracy - only native translations will be rewarded; 
-- Translator reputation - translators’ previous work and reputation among the community is heavily accounted for; 
-- Relevance of content - user guides, documentation and the most recent blog posts are most important; 
+- Accuracy - only native translations will be rewarded;
+- Translator reputation - translators’ previous work and reputation among the community is heavily accounted for;
+- Relevance of content - user guides, documentation and the most recent blog posts are most important;
 - Organization and presentation.
 
 <br>

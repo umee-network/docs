@@ -55,7 +55,9 @@
             <span class="menu-title">DOCUMENTATION</span>
             <div class="menus">
               <div class="menu">
-                <app-link :external="true" :link="'https://umeeversity.umee.cc/'"
+                <app-link
+                  :external="true"
+                  :link="'https://umeeversity.umee.cc/'"
                   >Docs</app-link
                 >
               </div>
@@ -106,7 +108,7 @@ export default {
           img: "/img/twitter.svg",
           link: "https://twitter.com/Umee_CrossChain",
         },
-        { img: "/img/discord.svg", link: "https://discord.gg/umee" },
+        { img: "/img/discord.svg", link: "https://discord.gg/uxchain" },
         { img: "/img/github.svg", link: "https://github.com/umee-network" },
         { img: "/img/telegram.svg", link: "https://t.me/umeecrosschain" },
         {

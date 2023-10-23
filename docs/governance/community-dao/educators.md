@@ -3,7 +3,8 @@
 > TLDR: Educators are expected to create and distribute high quality educational content to help onboard the next generation of DeFi users to UX.
 
 > To get started as an educator:
-> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
+>
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/uxchain);
 > - Assign yourself the "CD Contributor" role and "CD Educator" role;
 > - Check the #cd-announcements and #education-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit each piece of original educational content you create](https://dyno.gg/form/d8092e21).
@@ -12,9 +13,9 @@
 
 ## Overview
 
-Create and share high quality educational content that is easily understandable and ENGAGING! Avoid creating unnecessarily long content if it can be condensed and shared in a shorter format. 
+Create and share high quality educational content that is easily understandable and ENGAGING! Avoid creating unnecessarily long content if it can be condensed and shared in a shorter format.
 
-Educators are encouraged to focus on what they're good at, since quality is significantly more important than quantity. It's important to distribute educational content to the appropriate audience in order for it to be deemed valuable. Collaborate with your local community and the greater [UX community on Discord](https://discord.gg/umee) in order to determine the most effective distribution methods.
+Educators are encouraged to focus on what they're good at, since quality is significantly more important than quantity. It's important to distribute educational content to the appropriate audience in order for it to be deemed valuable. Collaborate with your local community and the greater [UX community on Discord](https://discord.gg/uxchain) in order to determine the most effective distribution methods.
 
 > The purpose of educational content is to EDUCATE new and prospective users. Platforms like Medium will remove posts it determines to be advertisements or promotions.
 
@@ -28,7 +29,7 @@ Educators are encouraged to focus on what they're good at, since quality is sign
 
 ### Requirements
 
-****
+---
 
 - Anyone who writes educational UX content should do so without the expectation of UX token rewards - platforms like Medium will flag and remove any content that appears to be an advertisement or promotion;
 - Content must be original;
@@ -42,7 +43,7 @@ Educators are encouraged to focus on what they're good at, since quality is sign
 
 ### Tips
 
-****
+---
 
 - Contributors who write about topics that interest them are more likely to create valuable content - DO NOT write solely in an effort to earn rewards;
 - It's often better to focus on a specific topic in depth rather than trying to cover several topics at once;
@@ -59,7 +60,7 @@ Educators are encouraged to focus on what they're good at, since quality is sign
 
 ### References
 
-****
+---
 
 **[@Flowslikeosmo's Twitter Threads](https://twitter.com/Flowslikeosmo/status/1580362702517547008?s=20&t=M0XYwUPp277sp2KWYPu44w)**
 
@@ -83,7 +84,7 @@ _It's important to have a strong understanding of finance before diving into dec
 
 ### Tools
 
-****
+---
 
 **[Typefully](https://typefully.com/)**
 
@@ -115,7 +116,7 @@ _Medium allows anyone to create their own blog. Medium users can easily publish 
 
 ### Requirements
 
-****
+---
 
 - Video content must be accurate, engaging, and easy to follow;
 - Video content must be viewable in at least 720p resolution, preferably 1080p+;
@@ -128,7 +129,7 @@ _Medium allows anyone to create their own blog. Medium users can easily publish 
 
 ### References
 
-****
+---
 
 **[Whiteboard Crypto](https://www.youtube.com/c/WhiteboardCrypto) & [Finematics](https://www.youtube.com/c/Finematics)**
 
@@ -146,7 +147,7 @@ _Every Bit Helps creates some great in-depth tutorial videos. She does a good jo
 
 ### Tools
 
-****
+---
 
 **[OpenShot](https://www.openshot.org/)**
 
@@ -187,6 +188,7 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 > The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
 
 ### Explainer Videos, Articles, and/or Twitter Threads
+
 - Introduction to decentralized lending and borrowing
 - Introduction to the Cosmos Ecosystem and the major DeFi chains like UX
 - What are the flaws in legacy debt markets and current DeFi lending markets, and how does UX address them?
@@ -202,6 +204,7 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 <br>
 
 ### Twitter Thread Tutorials
+
 - Transfer assets on to UX
 - Stake UX tokens
 - Navigate UX’s web app
@@ -215,6 +218,7 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 <br>
 
 ### Other
+
 - Useful infographics that can be used in UX's official documentation
 - High quality gifs that can be used in UX's user guides
 
@@ -222,10 +226,10 @@ Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/b
 
 ## Criteria
 
-- Amount of value the contribution has brought or is expected to bring to UX; 
+- Amount of value the contribution has brought or is expected to bring to UX;
 - Clarity of contributions on the submission form;
-- Accuracy of the content; 
-- Quality of the content; 
+- Accuracy of the content;
+- Quality of the content;
 - Reach and engagement levels of the content submitted (content needs to be shared or easily shareable and actively utilized in order to be considered valuable).
 
 <br>

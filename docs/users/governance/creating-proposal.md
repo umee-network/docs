@@ -79,7 +79,7 @@ Once the drafted proposal has been shared on Commonwealth, the author should:
 
 - Encourage key community members (well respected contributors, validators, large stakers, etc.) to share their questions, concerns and/or constructive criticism.
 - Spread the word to bring attention to the proposal. Use tools like Twitter, Discord, Telegram, and Reddit to alert the community.
-- Answer relevant questions on Commonwealth and the #governance-discussion channel on the [UX Discord](https://discord.gg/umee).
+- Answer relevant questions on Commonwealth and the #governance-discussion channel on the [UX Discord](https://discord.gg/uxchain).
 
 If the community’s feedback and off-chain poll demonstrate clear support for the governance proposal, the author should make any necessary changes and prepare to submit the proposal on-chain.
 

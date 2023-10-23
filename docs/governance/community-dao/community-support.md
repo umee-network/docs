@@ -3,7 +3,8 @@
 > TLDR: Community Support leaders help organize, moderate, and support community members across all active UX community channels.
 
 > To get started as a community support leader:
-> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/umee);
+>
+> - Visit the #start-here channel in the "Community DAO" section of [UX's Discord](https://discord.gg/uxchain);
 > - Assign yourself the "CD Contributor" role and "CD Support" role;
 > - Check the #cd-announcements and #support-rfc channels to get an idea of the type of contributions the committee will be looking for;
 > - [Use this form to submit community support related contributions at the end of a period](https://dyno.gg/form/1e31964c).
@@ -26,7 +27,7 @@ When submitting your work, providing a link to the community channel is enough -
 
 ### Requirements
 
-****
+---
 
 - Lead by example and help grow the community through kindness;
 - Properly translate and share important announcements in a timely manner;
@@ -43,10 +44,10 @@ When submitting your work, providing a link to the community channel is enough -
 
 ### Tips
 
-****
+---
 
 - Turn on post notifications for UX's official channels so updates can be shared with your community in a timely manner;
-- Use UX's official channels as a source of truth - if you're unsure of the answer to a question, ask on [UX's Discord](https://discord.gg/umee) instead of guessing.
+- Use UX's official channels as a source of truth - if you're unsure of the answer to a question, ask on [UX's Discord](https://discord.gg/uxchain) instead of guessing.
 
 :::
 
@@ -58,7 +59,7 @@ When submitting your work, providing a link to the community channel is enough -
 
 ### Requirements
 
-****
+---
 
 - Communicate with your local community to ensure there is clear demand for the channel before creating it - only channels that are actively used can be considered valuable;
 - Disclose that it is a community-run channel and include links to official channels;
@@ -74,19 +75,19 @@ When submitting your work, providing a link to the community channel is enough -
 > The following ideas are examples of contributions that may be considered valuable. Actual token allocations will be assigned at the sole discretion of the [Community DAO Committee](/governance/community-dao/overview.html#the-committee).
 
 - Create and moderate regional community channels (e.g. an "UX Spanish Community" Telegram channel) on regionally significant platforms as needed
-- Translate important announcements and lead regional communities on [UX's official Discord](https://discord.gg/umee)
+- Translate important announcements and lead regional communities on [UX's official Discord](https://discord.gg/uxchain)
 - Help troubleshoot common issues on Discord and/or other community channels
-- Create and distribute useful resources like infographics and tutorial gifs to help with troubleshooting 
+- Create and distribute useful resources like infographics and tutorial gifs to help with troubleshooting
 - Lead productive conversations across community channels like Discord, Telegram, Reddit, and Commonwealth
 
 <br>
 
 ## Criteria
 
-- Amount of value the contribution has brought or is expected to bring to UX; 
+- Amount of value the contribution has brought or is expected to bring to UX;
 - Clarity of contributions on the submission form;
-- Professionalism; 
-- Total amount of activity within managed channels; 
+- Professionalism;
+- Total amount of activity within managed channels;
 - Accuracy.
 
 <br>
