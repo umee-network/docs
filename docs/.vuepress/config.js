@@ -9,7 +9,7 @@ const { tabsPlugin } = require("./theme/plugins/vuepress-plugin-tabs");
 
 module.exports = {
   lang: "en-US",
-  title: "Umeeversity",
+  title: "UX Learning",
   description:
     "Learn more about DeFi, Crypto, Web3, cross chain applications as well as the Cosmos ecosystem and UX here.This is the start of your Web3 journey! ",
   head: [["link", { rel: "icon", href: "/favicon.ico" }]],

@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -27,7 +26,7 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "New Asset Listings Guide",
-          text: "Learn how to request support for a new asset on Umee",
+          text: "Learn how to request support for a new asset on UX",
           link: "/governance/asset-listing/asset-listing-guide",
         },
         {

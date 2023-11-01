@@ -8,7 +8,7 @@
 
 _UX's IBC rate limit is a chain-level security feature designed to safeguard your assets. UX’s IBC rate limit sets a maximum cap on the daily outflow from the UX chain. When the outflow exceeds the predefined limit, the IBC rate limit will be triggered and IBC transactions for outflow will be shut down._
 
-_For more in-depth information, check out our blog on [IBC Rate Limiting](https://umee.cc/blog/ibc-rate-limiting/) and [Github link](https://github.com/umee-network/umee/releases/tag/v4.2.0)._
+_For more in-depth information, check out our blog on [IBC Rate Limiting](https://ux.xyz/blog/ibc-rate-limiting/) and [Github link](https://github.com/umee-network/umee/releases/tag/v4.2.0)._
 
 </details>
 
@@ -41,7 +41,7 @@ _Examples of special asset pairs: [ATOM/stATOM, OSMO/stOSMO, IST/USK]_
 
 <br>
 
-<details><summary>How do special asset pairs affect borrowing on Umee?</summary>
+<details><summary>How do special asset pairs affect borrowing on UX?</summary>
 
 _Special asset pairs can result in the most borrowing capacity and maximum capital efficiency between specific asset pairs._
 

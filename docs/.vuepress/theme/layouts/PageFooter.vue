@@ -38,8 +38,8 @@
               <div class="menu">
                 <app-link
                   :external="true"
-                  :link="'https://www.umee.cc/umeemania'"
-                  >Umeemania</app-link
+                  :link="'https://www.ux.xyz/umeemania'"
+                  >UXmania</app-link
                 >
               </div>
               <div class="menu">
@@ -62,7 +62,7 @@
                 >
               </div>
               <div class="menu">
-                <app-link :external="true" :link="'https://www.umee.cc/faqs'"
+                <app-link :external="true" :link="'https://www.ux.xyz/faqs'"
                   >Faq</app-link
                 >
               </div>
@@ -72,7 +72,7 @@
             <span class="menu-title">CONNECT</span>
             <div class="menus">
               <div class="menu">
-                <app-link :external="true" :link="'https://www.umee.cc/careers'"
+                <app-link :external="true" :link="'https://www.ux.xyz/careers'"
                   >Careers</app-link
                 >
               </div>

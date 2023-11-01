@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -27,7 +26,7 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "Overview",
-          text: "An introduction to Umee's Validator DAO",
+          text: "An introduction to UX's Validator DAO",
           link: "/governance/validator-dao/overview",
         },
         {

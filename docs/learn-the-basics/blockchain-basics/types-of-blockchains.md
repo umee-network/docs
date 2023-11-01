@@ -20,7 +20,7 @@ Proof of Stake (PoS) blockchains require network participants called "[validator
 
 ### User Experience
 
-****
+---
 
 PoS blockchains limit the amount of validators that can take turns creating new blocks, making it faster and cheaper to reach a consensus. Users of PoS blockchains like UX typically enjoy cheap, near-instant transactions.
 
@@ -30,11 +30,11 @@ PoS blockchains limit the amount of validators that can take turns creating new 
 
 ### Security Measures
 
-****
+---
 
 If a [validator](/learn-the-basics/staking-basics/what-is-validator) is selected to validate a block and they fail to do so accurately or in a timely manner they will have a portion of their stake (collateral) “_slashed_,” or removed. Depending on the severity of the offense, validators who misbehave may be removed from the validator set and unable to continue participating in the PoS consensus. Slashing penalties act as a mechanism to ensure validators do their part in keeping the network operational and secure.
 
-In the case of blockchains that utilize Cosmos' Tendermint BFT consensus, acquiring the security threshold of ⅓ of a blockchain’s computing power enables an attacker to change the blockchain state and manipulate transactions. In [Cosmos](learn-the-basics/cosmos-basics/what-is-cosmos), this means the attacker would need to amass at least ⅓ of the total crypto staked on the blockchain. This would essentially be an acquisition of the network, and be very difficult to perform on networks with communities that value decentralization. 
+In the case of blockchains that utilize Cosmos' Tendermint BFT consensus, acquiring the security threshold of ⅓ of a blockchain’s computing power enables an attacker to change the blockchain state and manipulate transactions. In [Cosmos](learn-the-basics/cosmos-basics/what-is-cosmos), this means the attacker would need to amass at least ⅓ of the total crypto staked on the blockchain. This would essentially be an acquisition of the network, and be very difficult to perform on networks with communities that value decentralization.
 
 :::
 
@@ -42,7 +42,7 @@ In the case of blockchains that utilize Cosmos' Tendermint BFT consensus, acquir
 
 ### Block Rewards
 
-****
+---
 
 PoS consensus tends to reward network participants with the greatest stakes. This means that those who have the most skin in the game will receive the greatest amount of block rewards. In many PoS blockchains like UX Chain, token holders have the ability to [delegate their tokens to a validator](/users/staking-UX/staking-UX) who then splits block rewards with all delegators proportional to the amount of tokens they delegated. This allows all stakeholders to receive block rewards rather than only those with technical expertise.
 
@@ -52,7 +52,7 @@ PoS consensus tends to reward network participants with the greatest stakes. Thi
 
 ### Environmental Impact
 
-****
+---
 
 There is typically a limit to the amount of validators that can participate in a blockchain’s PoS consensus. Since validators are chosen randomly, they do not need to compete and use large amounts of energy to create new blocks, which is why newer PoS blockchains like UX chain are viewed as an environmentally-friendly solution.
 
@@ -74,7 +74,7 @@ Proof of Work (PoW) blockchains require network participants called “miners”
 
 ### User Experience
 
-****
+---
 
 PoW blockchains allow an unlimited number of network participants to compete against one another to create new blocks, and the equipment and energy used can be costly. These costs are often felt by users through expensive transaction fees and slower transactions.
 
@@ -84,7 +84,7 @@ PoW blockchains allow an unlimited number of network participants to compete aga
 
 ### Security Measures
 
-****
+---
 
 Miners who fail to accurately create a new block are not penalized aside from missing out on block rewards. Since there are significant operational costs associated with participating in PoW networks, miners are financially incentivized to behave.
 
@@ -96,9 +96,9 @@ If an attacker is able to acquire 51% of a blockchain’s computing power, the a
 
 ### Block Rewards
 
-****
+---
 
-PoW consensus tends to reward network participants who are able to purchase and operate the most and highest quality equipment since these participants have a greater chance of being able to solve the puzzle the fastest. While there is some level of randomness, it is difficult for an independent miner to create new blocks in order to capture block rewards so most block rewards end up going to large scale miners with the deepest pockets, or groups of miners that work together. 
+PoW consensus tends to reward network participants who are able to purchase and operate the most and highest quality equipment since these participants have a greater chance of being able to solve the puzzle the fastest. While there is some level of randomness, it is difficult for an independent miner to create new blocks in order to capture block rewards so most block rewards end up going to large scale miners with the deepest pockets, or groups of miners that work together.
 
 :::
 
@@ -106,9 +106,9 @@ PoW consensus tends to reward network participants who are able to purchase and 
 
 ### Environmental Impact
 
-****
+---
 
-Since there is no limit to the amount of miners that can participate in PoW consensus, and the immense amount of computing power needed to create a new block on a PoW blockchain requires large amounts of energy, popular PoW blockchains like the Bitcoin network are often viewed as harmful to the environment. 
+Since there is no limit to the amount of miners that can participate in PoW consensus, and the immense amount of computing power needed to create a new block on a PoW blockchain requires large amounts of energy, popular PoW blockchains like the Bitcoin network are often viewed as harmful to the environment.
 
 :::
 
@@ -118,4 +118,4 @@ Since there is no limit to the amount of miners that can participate in PoW cons
 
 ## Take the Quiz
 
-> [Take this 5 question quiz on types of blockchains to unlock an Umeeversity NFT badge!](https://forms.gle/jHcSaY8LPp3sZvP1A)
+> [Take this 5 question quiz on types of blockchains to unlock an UX Learning NFT badge!](https://forms.gle/jHcSaY8LPp3sZvP1A)
