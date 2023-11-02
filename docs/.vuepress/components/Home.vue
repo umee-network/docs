@@ -117,7 +117,7 @@ export default {
       ],
       supports: [
         {
-          img: "/img/umee.png",
+          img: "/img/ux.png",
           title: "UX App",
           text: "Launch the UX money markets app",
           link: "https://app.umee.cc/",

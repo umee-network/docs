@@ -61,8 +61,15 @@
         <div>
           <GradientBox>
             <form class="newsletter-form-input" @submit.prevent="onSubmit()">
-              <input type="email" required placeholder="Your email" v-model="email"/>
-              <button v-if="!loading" type="submit" class="gradient-text">SIGN UP</button>
+              <input
+                type="email"
+                required
+                placeholder="Your email"
+                v-model="email"
+              />
+              <button v-if="!loading" type="submit" class="gradient-text">
+                SIGN UP
+              </button>
             </form>
           </GradientBox>
           <div v-show="message" class="newsletter-form-error">
@@ -80,8 +87,8 @@ export default {
   data() {
     return {
       loading: false,
-      email: '',
-      message: '',
+      email: "",
+      message: "",
       darkMode: false,
       imageArr: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
     };
@@ -96,21 +103,23 @@ export default {
       }
     },
     onSubmit() {
-      this.loading = true
+      this.loading = true;
       const data = {
         email: this.email,
-      }
-      fetch('https://umee.cc/.netlify/functions/subscribe', {method: 'post', body: JSON.stringify(data)})
-        .then(
-          (_response) => {
-            this.message = "You have been added to UX's mailing list"
-            this.loading = false
-          },
-          (_response) => {
-            this.message = 'There was a problem adding you to the mailing list.'
-            this.loading = false
-          }
-        )
+      };
+      fetch("https://umee.cc/.netlify/functions/subscribe", {
+        method: "post",
+        body: JSON.stringify(data),
+      }).then(
+        (_response) => {
+          this.message = "You have been added to UX's mailing list";
+          this.loading = false;
+        },
+        (_response) => {
+          this.message = "There was a problem adding you to the mailing list.";
+          this.loading = false;
+        }
+      );
     },
   },
 };
@@ -139,9 +148,9 @@ export default {
   align-items: center;
 
   .unsubscribe {
-    margin-top: .5rem;
+    margin-top: 0.5rem;
     font-size: 0.9rem;
-    opacity: .5;
+    opacity: 0.5;
   }
 
   &:hover &-image-item {
@@ -200,7 +209,7 @@ export default {
         width: 45%;
       }
 
-      @media(max-width: 1024px) {
+      @media (max-width: 1024px) {
         display: block;
 
         & > div {
@@ -212,7 +221,7 @@ export default {
         }
       }
 
-      @media(max-width: 768px) {
+      @media (max-width: 768px) {
         padding: 1.5rem;
       }
     }
@@ -241,13 +250,13 @@ export default {
       }
     }
     &-error {
-      margin-top: .5rem;
+      margin-top: 0.5rem;
     }
-  
+
     margin-left: 280px;
     width: 100%;
 
-    @media(max-width: 768px) {
+    @media (max-width: 768px) {
       margin-left: 0;
       margin-top: 280px;
     }

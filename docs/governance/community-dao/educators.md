@@ -35,7 +35,7 @@ Educators are encouraged to focus on what they're good at, since quality is sign
 - Content must be original;
 - Content must be accurate, engaging, and read smoothly;
 - Be respectful and avoid spamming community channels with written content;
-- Content that includes images with UX's branding assets must follow [UX's branding guidelines](https://umee.cc/brand/).
+- Content that includes images with UX's branding assets must follow [UX's branding guidelines](https://ux.xyz/brand/).
 
 :::
 
@@ -121,7 +121,7 @@ _Medium allows anyone to create their own blog. Medium users can easily publish 
 - Video content must be accurate, engaging, and easy to follow;
 - Video content must be viewable in at least 720p resolution, preferably 1080p+;
 - Video content must be edited when necessary and presented in a professional manner;
-- Video content that includes any of UX's branding assets must follow UX's [branding guidelines](https://umee.cc/brand/).
+- Video content that includes any of UX's branding assets must follow UX's [branding guidelines](https://ux.xyz/brand/).
 
 :::
 
@@ -179,7 +179,7 @@ _Audacity is a free audio recording and editing software that allows users to ea
 
 ## Other Content
 
-Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/bg/what-is-crypto-wallet-info.png), [tutorial gifs](https://umeeversity.umee.cc/bg/out-of-gas-solution.gif), and other forms of content that serve the UX community's educational needs are all welcomed.
+Creativity is encouraged! Podcasts, [infographics](https://learning.ux.xyz/bg/what-is-crypto-wallet-info.png), [tutorial gifs](https://learning.ux.xyz/bg/out-of-gas-solution.gif), and other forms of content that serve the UX community's educational needs are all welcomed.
 
 <br>
 

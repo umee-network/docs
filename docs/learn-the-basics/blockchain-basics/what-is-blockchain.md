@@ -14,7 +14,7 @@ Blockchain is considered one of the most disruptive technologies because its dec
 
 All of the digital tools we rely on today are provided by centralized organizations that have the power to revoke access at any time for any reason; therefore we, as users, must play by their rules. For example, if you use your debit card to transact somewhere your bank doesn't approve of, your bank has the power to freeze your funds. If you wish to send money internationally, you must wait to do so during a bank's business hours and pay the excessive fees demanded. Or if you share something on social media that doesn't align with the views of those who run the platform, the platform can delete your account.
 
-So long as people are using their products or services, centralized organizations have the power to be the judge and the jury. This is not to say that all centralized organizations are bad - _in fact, most are good_ - but rather to point out the concerning amount of power these organizations have over their users. 
+So long as people are using their products or services, centralized organizations have the power to be the judge and the jury. This is not to say that all centralized organizations are bad - _in fact, most are good_ - but rather to point out the concerning amount of power these organizations have over their users.
 
 <br>
 
@@ -26,7 +26,7 @@ So long as people are using their products or services, centralized organization
 
 ### Decentralized
 
-****
+---
 
 Unlike other virtual record-keeping tools, blockchains are not maintained by a single person or an individual organization. Most blockchains are maintained by large networks of participants with no centralized party to take charge or coordinate. Different [blockchain consensus mechanisms](/learn-the-basics/blockchain-basics/types-of-blockchains) are used to ensure that blockchain infrastructure providers are financially incentivized to follow a hard-coded rule and operate in the same (and only) way to keep a blockchain operational and securely decentralized. By aligning the interests between infrastructure providers and users, blockchains are able to maintain decentralization.
 
@@ -38,7 +38,7 @@ The decentralized networks that blockchains run on help ensure that the data bei
 
 ### Trustless
 
-****
+---
 
 Most existing systems require some level of trust between the provider/manufacturer and user/consumer.
 
@@ -54,7 +54,7 @@ When a blockchain is properly decentralized, no single entity has authority over
 
 ### Accessible
 
-****
+---
 
 Products and services on the internet aren’t as easily accessible as they may seem. Centralized institutions act as gatekeepers and not everyone is treated equally.
 
@@ -70,9 +70,9 @@ Blockchains allow anyone with an internet connection to access the blockchain-ba
 
 ### Transparent
 
-****
+---
 
-Traditional record-keeping systems are rarely transparent. Data is often collected, organized, and presented as fact without actual proof. 
+Traditional record-keeping systems are rarely transparent. Data is often collected, organized, and presented as fact without actual proof.
 
 > Manufacturers can mislead consumers about the origin of their products.
 
@@ -90,4 +90,4 @@ Since the data being added to a blockchain is recorded by all of the network’s
 
 ## Take the Quiz
 
-> [Take this 5 question quiz on blockchains to unlock an Umeeversity NFT badge!](https://forms.gle/e2jDRHEMH8xrQDtw5)
+> [Take this 5 question quiz on blockchains to unlock an UX Learning NFT badge!](https://forms.gle/e2jDRHEMH8xrQDtw5)

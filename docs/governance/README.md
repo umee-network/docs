@@ -1,5 +1,5 @@
 ---
-title: Umee Governance
+title: UX Governance
 contributors: false
 ---
 

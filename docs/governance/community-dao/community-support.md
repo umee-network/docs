@@ -66,7 +66,7 @@ When submitting your work, providing a link to the community channel is enough -
 - Appoint at least one other trusted community member as an admin so the account does not rely entirely on a single contributor;
 - Use a unique password and require 2fa for any admins;
 - Be respectful and avoid spamming existing channels in an effort to grow the channel;
-- Follow UX's [branding guidelines](https://umee.cc/brand/).
+- Follow UX's [branding guidelines](https://ux.xyz/brand/).
 
 <br>
 

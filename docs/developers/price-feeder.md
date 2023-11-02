@@ -16,7 +16,7 @@ module and [oracle-feeder](https://github.com/terra-money/oracle-feeder). The co
 The `price-feeder` tool is responsible for performing the following:
 
 1. Fetching and aggregating exchange rate price data from various providers, e.g. Binance and Osmosis, based on the operator configuration. These exchange rates are exposed via API and are used to feed up to the minute pricing into the main oracle process.
-2. Aggregating exchange rate price data and submitting those exchange rates on-chain to UX's `x/oracle` module following the UX's [Oracle](https://github.com/umee-network/UX/tree/main/x/oracle/spec) specification.
+2. Aggregating exchange rate price data and submitting those exchange rates on-chain to UX's `x/oracle` module following the UX's [Oracle](https://github.com/umee-network/umee/tree/main/x/oracle/spec) specification.
 
 ## Usage
 
@@ -85,11 +85,11 @@ The UX keyring must be set up to sign transactions before running the price feed
 
 The current list of supported providers:
 
-* [Binance](https://www.binance.com/en)
-* [Coinbase](https://www.coinbase.com/)
-* [FTX](https://www.ftx.us/)
-* [Gate](https://www.gate.io/)
-* [Huobi](https://www.huobi.com/en-us/)
-* [Kraken](https://www.kraken.com/en-us/)
-* [Okx](https://www.okx.com/)
-* [Osmosis](https://app.osmosis.zone/)
+- [Binance](https://www.binance.com/en)
+- [Coinbase](https://www.coinbase.com/)
+- [FTX](https://www.ftx.us/)
+- [Gate](https://www.gate.io/)
+- [Huobi](https://www.huobi.com/en-us/)
+- [Kraken](https://www.kraken.com/en-us/)
+- [Okx](https://www.okx.com/)
+- [Osmosis](https://app.osmosis.zone/)

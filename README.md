@@ -1,16 +1,16 @@
 <p align="center">
-  <a href="https://umeeversity.umee.cc/" target="_blank">
-    <img width="180" src="docs/.vuepress/public/umee-logo.svg" alt="logo">
+  <a href="https://learning.ux.xyz/" target="_blank">
+    <img width="100" src="docs/.vuepress/public/ux.png" alt="logo">
   </a>
 </p>
 
 ## Documentation
 
-Check out our docs at https://umeeversity.umee.cc/.
+Check out our docs at https://learning.ux.xyz/.
 
 ## Project setup
 
-``` sh
+```sh
 # Install dependencies
 npm install
 

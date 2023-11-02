@@ -2,7 +2,11 @@
   <div class="page-footer p-4">
     <div class="row">
       <div class="col-3">
-        <img src="/img/umee-logo.svg" class="page-footer-logo" />
+        <img
+          src="/img/ux.png"
+          style="width: 100px; height: 100px"
+          class="page-footer-logo"
+        />
         <p>Join us in building the future of cross chain DeFi!</p>
         <div class="social-links">
           <app-link
@@ -38,8 +42,8 @@
               <div class="menu">
                 <app-link
                   :external="true"
-                  :link="'https://www.umee.cc/umeemania'"
-                  >Umeemania</app-link
+                  :link="'https://www.ux.xyz/umeemania'"
+                  >UXmania</app-link
                 >
               </div>
               <div class="menu">
@@ -55,14 +59,12 @@
             <span class="menu-title">DOCUMENTATION</span>
             <div class="menus">
               <div class="menu">
-                <app-link
-                  :external="true"
-                  :link="'https://umeeversity.umee.cc/'"
+                <app-link :external="true" :link="'https://learning.ux.xyz/'"
                   >Docs</app-link
                 >
               </div>
               <div class="menu">
-                <app-link :external="true" :link="'https://www.umee.cc/faqs'"
+                <app-link :external="true" :link="'https://www.ux.xyz/faqs'"
                   >Faq</app-link
                 >
               </div>
@@ -72,7 +74,7 @@
             <span class="menu-title">CONNECT</span>
             <div class="menus">
               <div class="menu">
-                <app-link :external="true" :link="'https://www.umee.cc/careers'"
+                <app-link :external="true" :link="'https://www.ux.xyz/careers'"
                   >Careers</app-link
                 >
               </div>

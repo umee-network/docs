@@ -22,7 +22,7 @@ Use the [translation lists provided on Dework](https://app.dework.xyz/umee-commu
 
 ## Documentation
 
-> [UX's official documentation can be found here](https://umeeversity.umee.cc/).
+> [UX's official documentation can be found here](https://learning.ux.xyz/).
 
 :::: tabs
 
@@ -69,7 +69,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 ## Blog Posts
 
-> [Official UX blog posts can be found here](https://umee.cc/blog/).
+> [Official UX blog posts can be found here](https://ux.xyz/blog/).
 
 :::: tabs
 
@@ -106,7 +106,7 @@ _Gitbook allows translators to easily organize and publish the documentation the
 
 **[Medium](https://medium.com/)**
 
-_Medium is likely the easiest platform to publish and organize professional looking translations of blog posts on. Medium publications can be used to allow multiple writers to contribute to the same blog to help stay organized. If a Medium publication is created, be sure to disclose that it is a community account used solely to translate official blog posts, and follow UX's [branding guidelines](https://umee.cc/brand/)._
+_Medium is likely the easiest platform to publish and organize professional looking translations of blog posts on. Medium publications can be used to allow multiple writers to contribute to the same blog to help stay organized. If a Medium publication is created, be sure to disclose that it is a community account used solely to translate official blog posts, and follow UX's [branding guidelines](https://ux.xyz/brand/)._
 
 <br>
 
@@ -126,8 +126,8 @@ _Notion is another organizational tool that can be used to share translated blog
 
 ### Content
 
-- [Umee's official documentation and user guides](https://umeeversity.umee.cc/)
-- [Relevant UX blog posts](https://umee.cc/blog/)
+- [UX's official documentation and user guides](https://learning.ux.xyz/)
+- [Relevant UX blog posts](https://ux.xyz/blog/)
 - Articles published by major outlets which mention UX
 
 <br>

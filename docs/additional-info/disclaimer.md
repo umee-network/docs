@@ -1,6 +1,6 @@
 # Disclaimer
 
-> [UX users should familiarize themselves with this disclaimer before continuing](https://www.umee.cc/disclaimer).
+> [UX users should familiarize themselves with this disclaimer before continuing](https://www.ux.xyz/disclaimer).
 
 **While UX takes strong security precautions, DeFi is still highly experimental.** **By interacting with the UX network and/or web app you acknowledge that you understand and accept all potential risks.**
 

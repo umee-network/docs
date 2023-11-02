@@ -6,11 +6,11 @@
 
 One of the best things about physical cash is that it can easily be exchanged between two parties without the need for a centralized intermediary (like a bank or a payment service provider). When people transition from physical cash to online banking products they may not realize that they are actually trading self-sovereignty for convenience, since banks have the ability to block transactions and freeze users' funds without warning. This means that banks and/or the governments that oversee the banks have control over how people can spend their “own” money.
 
-Crypto is an entirely new asset class native to the internet that is designed to fix this problem among many others. While there are many different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto), all crypto generally acts as a digital representation of something else (e.g. a dollar, a vote, a ticket). Crypto assets can be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain), a revolutionary system used to maintain virtual records, to document transaction data in a decentralized manner. 
+Crypto is an entirely new asset class native to the internet that is designed to fix this problem among many others. While there are many different [types of crypto](/learn-the-basics/crypto-basics/types-of-crypto), all crypto generally acts as a digital representation of something else (e.g. a dollar, a vote, a ticket). Crypto assets can be thought of as digital units of account that utilize [blockchain technology](/learn-the-basics/blockchain-basics/what-is-blockchain), a revolutionary system used to maintain virtual records, to document transaction data in a decentralized manner.
 
 > Similarly to how an entry is made into a virtual accounting system whenever a debit card is used or an e-ticket is redeemed, an entry is made to a blockchain whenever a crypto transaction occurs.
 
-Since crypto lives on blockchains, crypto users have full sovereignty over their digital assets. This means crypto users can use their digital assets whenever and however they'd like without needing to rely on a centralized intermediary. 
+Since crypto lives on blockchains, crypto users have full sovereignty over their digital assets. This means crypto users can use their digital assets whenever and however they'd like without needing to rely on a centralized intermediary.
 
 <br>
 
@@ -22,9 +22,9 @@ Since crypto lives on blockchains, crypto users have full sovereignty over their
 
 ### Decentralized
 
-****
+---
 
-Crypto, unlike traditional currencies, commodities, or securities, usually isn’t issued by centralized institutions. This means that no individual authority has the built-in ability to alter the total supply or other parameters associated with a crypto asset. 
+Crypto, unlike traditional currencies, commodities, or securities, usually isn’t issued by centralized institutions. This means that no individual authority has the built-in ability to alter the total supply or other parameters associated with a crypto asset.
 
 > The level of decentralization associated with a crypto asset depends on the issuer and blockchain which the crypto exists on. Generally the native cryptocurrencies of the largest blockchains (e.g. Ethereum) are the most decentralized.
 
@@ -34,7 +34,7 @@ Crypto, unlike traditional currencies, commodities, or securities, usually isn�
 
 ### Secure
 
-****
+---
 
 Crypto is extremely secure thanks to the self-sovereignty provided by [blockchains](/learn-the-basics/blockchain-basics/what-is-blockchain). On [Cosmos-based Proof of Stake blockchains](/learn-the-basics/cosmos-basics/what-is-cosmos) like UX, an attacker needs to control ⅔ of the entire network in order to seize the funds of another user. Typically, the cost associated with attacking a network makes such attempts financially unpractical.
 
@@ -46,7 +46,7 @@ Crypto is extremely secure thanks to the self-sovereignty provided by [blockchai
 
 ### Permissionless
 
-****
+---
 
 While traditional digital banking services have extravagant sign up processes in which users must complete a “KYC” and hand over large amounts of personal information in order to gain approval, crypto is fully permissionless. Anyone with an internet connection is able to [create a crypto wallet](/users/getting-started/creating-wallet) and use it to transact with others or access web3 applications, regardless of their location or financial status.
 
@@ -56,7 +56,7 @@ While traditional digital banking services have extravagant sign up processes in
 
 ### Censorship Resistant
 
-****
+---
 
 Crypto users have full sovereignty over their funds and are able to use them without interference from a third party. Once a transaction has been entered onto the blockchain it cannot be reversed or altered. Censorship resistance is a large part of the reason why crypto has become popular amongst those in search of financial freedom, particularly in nations with oppressive governments.
 
@@ -68,9 +68,9 @@ Crypto users have full sovereignty over their funds and are able to use them wit
 
 ### Transparent
 
-****
+---
 
-One of the most common misconceptions about crypto is that it allows criminals to transact in private. In reality, crypto is incredibly transparent since all transactions are broadcast on a [public blockchain](/learn-the-basics/blockchain-basics/what-is-blcokchain). Crypto transactions are significantly easier to audit than transactions in the traditional system because the blockchain records are permanent. 
+One of the most common misconceptions about crypto is that it allows criminals to transact in private. In reality, crypto is incredibly transparent since all transactions are broadcast on a [public blockchain](/learn-the-basics/blockchain-basics/what-is-blcokchain). Crypto transactions are significantly easier to audit than transactions in the traditional system because the blockchain records are permanent.
 
 > Crypto was popular amongst criminals in its early days due to its ease of use and permissionless, censorship-resistant nature. If privacy is what criminals are seeking, physical cash remains their best option.
 
@@ -80,7 +80,7 @@ One of the most common misconceptions about crypto is that it allows criminals t
 
 ### Convenient
 
-****
+---
 
 Crypto is the fastest and easiest way for friends or strangers to transact with each other and handle their banking activities. Unlike many traditional banking services, crypto can be exchanged or used 24 hours a day, every day of the year. Crypto transactions on blockchains like UX typically occur in ~5 seconds, and cost users just a fraction of a penny.
 
@@ -92,4 +92,4 @@ Crypto is the fastest and easiest way for friends or strangers to transact with 
 
 ## Take the Quiz
 
-[Take this 5 question quiz to show what you've learned and unlock an Umeeversity NFT badge!](https://forms.gle/Q1WHxe5QvXxuipnp9)
+[Take this 5 question quiz to show what you've learned and unlock an UX Learning NFT badge!](https://forms.gle/Q1WHxe5QvXxuipnp9)
