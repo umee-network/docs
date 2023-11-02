@@ -2,7 +2,11 @@
   <div class="page-footer p-4">
     <div class="row">
       <div class="col-3">
-        <img src="/img/umee-logo.svg" class="page-footer-logo" />
+        <img
+          src="/img/ux.png"
+          style="width: 100px; height: 100px"
+          class="page-footer-logo"
+        />
         <p>Join us in building the future of cross chain DeFi!</p>
         <div class="social-links">
           <app-link
@@ -55,9 +59,7 @@
             <span class="menu-title">DOCUMENTATION</span>
             <div class="menus">
               <div class="menu">
-                <app-link
-                  :external="true"
-                  :link="'https://umeeversity.umee.cc/'"
+                <app-link :external="true" :link="'https://learning.ux.xyz/'"
                   >Docs</app-link
                 >
               </div>

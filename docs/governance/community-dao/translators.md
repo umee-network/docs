@@ -22,7 +22,7 @@ Use the [translation lists provided on Dework](https://app.dework.xyz/umee-commu
 
 ## Documentation
 
-> [UX's official documentation can be found here](https://umeeversity.umee.cc/).
+> [UX's official documentation can be found here](https://learning.ux.xyz/).
 
 :::: tabs
 
@@ -126,7 +126,7 @@ _Notion is another organizational tool that can be used to share translated blog
 
 ### Content
 
-- [UX's official documentation and user guides](https://umeeversity.umee.cc/)
+- [UX's official documentation and user guides](https://learning.ux.xyz/)
 - [Relevant UX blog posts](https://ux.xyz/blog/)
 - Articles published by major outlets which mention UX
 

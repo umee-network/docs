@@ -179,7 +179,7 @@ _Audacity is a free audio recording and editing software that allows users to ea
 
 ## Other Content
 
-Creativity is encouraged! Podcasts, [infographics](https://umeeversity.umee.cc/bg/what-is-crypto-wallet-info.png), [tutorial gifs](https://umeeversity.umee.cc/bg/out-of-gas-solution.gif), and other forms of content that serve the UX community's educational needs are all welcomed.
+Creativity is encouraged! Podcasts, [infographics](https://learning.ux.xyz/bg/what-is-crypto-wallet-info.png), [tutorial gifs](https://learning.ux.xyz/bg/out-of-gas-solution.gif), and other forms of content that serve the UX community's educational needs are all welcomed.
 
 <br>
 
