@@ -206,6 +206,7 @@ module.exports = {
             "/learn-the-basics/UX-basics/introduction",
             "/learn-the-basics/UX-basics/asset-types",
             "/learn-the-basics/UX-basics/common-terms",
+            "/learn-the-basics/UX-basics/me-tokens",
           ],
         },
       ],

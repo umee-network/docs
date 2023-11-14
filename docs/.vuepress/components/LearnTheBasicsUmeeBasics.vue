@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -41,6 +40,12 @@ export default {
           title: "Common Terms",
           text: "Basic terms every UX user should understand",
           link: "/learn-the-basics/UX-basics/common-terms",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "meTokens",
+          text: "Learn about specific UX assets",
+          link: "/learn-the-basics/UX-basics/me-tokens",
         },
       ],
     };
