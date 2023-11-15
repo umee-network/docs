@@ -41,12 +41,6 @@ export default {
           text: "UX App FAQ",
           link: "/overview/faq/UX-app",
         },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "UX Functionality",
-          text: "UX Functionality FAQ",
-          link: "/overview/faq/UX-functionality",
-        },
       ],
     };
   },

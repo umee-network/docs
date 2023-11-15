@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -47,6 +46,12 @@ export default {
           title: "UX's Roadmap",
           text: "Review UX's Roadmap",
           link: "/overview/UX-overview/UX-roadmap",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "UX Functionality",
+          text: "UX Functionality",
+          link: "/overview/UX-overview/UX-functionality",
         },
       ],
     };

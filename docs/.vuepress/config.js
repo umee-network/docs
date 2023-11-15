@@ -114,6 +114,7 @@ module.exports = {
             "/overview/UX-overview/UX-vision",
             "/overview/UX-overview/security-audits",
             "/overview/UX-overview/UX-roadmap",
+            "/overview/UX-overview/UX-functionality",
           ],
         },
         {
@@ -141,7 +142,6 @@ module.exports = {
             "/overview/faq/general",
             "/overview/faq/UX-token",
             "/overview/faq/UX-app",
-            "/overview/faq/UX-functionality",
           ],
         },
         {

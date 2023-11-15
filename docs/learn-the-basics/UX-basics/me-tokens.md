@@ -40,7 +40,7 @@ meUSD, a part of the meTokens family, is a Multi-Variant Elastic Token designed 
 
 ### The Composition of meUSD
 
-The meUSD token comprises a mix of stablecoins, each with its own allocation. As of now, the initial stablecoins are: $UST; $USDC; $USDT; $DAI; $USK
+The meUSD token comprises a mix of stablecoins, each with its own allocation. As of now, the initial stablecoins are: $IST; $USDC; $USDT; $DAI; $USK
 
 These proportions are not set in stone and can be adjusted via governance proposals. This flexibility ensures the stability and adaptability of meUSD over time.
 

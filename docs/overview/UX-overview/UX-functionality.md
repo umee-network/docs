@@ -1,4 +1,4 @@
-# UX Functionality FAQ
+# Functionality
 
 ---
 
