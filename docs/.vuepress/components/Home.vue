@@ -120,7 +120,7 @@ export default {
           img: "/img/ux.png",
           title: "UX App",
           text: "Launch the UX money markets app",
-          link: "https://app.umee.cc/",
+          link: "https://app.ux.xyz/",
           external: true,
         },
         {

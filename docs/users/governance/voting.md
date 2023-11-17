@@ -26,7 +26,7 @@
 
 ---
 
-#### 1) Select the "Vote" section on [UX's web app](https://app.umee.cc/#/governance).
+#### 1) Select the "Vote" section on [UX's web app](https://app.ux.xyz/#/governance).
 
 ![](/bg/select-vote-section.png)
 
@@ -50,9 +50,9 @@
 
 ## Voting Options
 
-|   Option   | Implication                                                                                                                                                                                                |
-| :--------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    Yes     | The voter approves the proposal in its existing form.                                                                                                                                                      |
-|     No     | The voter does not approve the proposal in its existing form.                                                                                                                                              |
+|   Option   | Implication                                                                                                                                                                                              |
+| :--------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    Yes     | The voter approves the proposal in its existing form.                                                                                                                                                    |
+|     No     | The voter does not approve the proposal in its existing form.                                                                                                                                            |
 | NoWithVeto | The voter strongly disagrees with the proposal and feels the deposits made should be burned. Community members should use “NoWithVeto” when they determine a proposal is spam, or harmful to the UX Hub. |
-|  Abstain   | The voter has no preference on the outcome of the vote, but has still participated in the voting process.                                                                                                  |
+|  Abstain   | The voter has no preference on the outcome of the vote, but has still participated in the voting process.                                                                                                |

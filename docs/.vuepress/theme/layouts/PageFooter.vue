@@ -28,7 +28,7 @@
             <span class="menu-title">PROTOCOL</span>
             <div class="menus">
               <div class="menu">
-                <app-link :external="true" :link="'https://app.umee.cc/'"
+                <app-link :external="true" :link="'https://app.ux.xyz/'"
                   >Markets</app-link
                 >
               </div>
@@ -90,7 +90,7 @@
         </div>
       </div>
       <div class="col-2">
-        <app-link :external="true" :link="'https://app.umee.cc/'">
+        <app-link :external="true" :link="'https://app.ux.xyz/'">
           <Button>Launch App</Button>
         </app-link>
       </div>

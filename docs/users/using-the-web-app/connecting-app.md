@@ -12,7 +12,7 @@
 
 ---
 
-#### 1) Go to [app.umee.cc](https://app.umee.cc/) (mainnet) or [testnet.umee.cc](https://testnet.umee.cc/) (testnet).
+#### 1) Go to [app.ux.xyz](https://app.ux.xyz/) (mainnet) or [testnet.umee.cc](https://testnet.umee.cc/) (testnet).
 
 #### 2) You should now see a pop-up from your UX chain compatible wallet. Approve the connection request to connect to your account on the UX chain. _Testnet users will also be asked to approve a chain add request._
 

@@ -4,7 +4,7 @@
 
 ![](/bg/markets-page.png)
 
-> All [transfer](/users/using-the-web-app/transferring-tokens), [lend](/users/using-the-web-app/supply-withdraw), and [borrow](/users/using-the-web-app/borrow-repay) actions can be performed from the [Markets section](https://app.umee.cc/#/markets).
+> All [transfer](/users/using-the-web-app/transferring-tokens), [lend](/users/using-the-web-app/supply-withdraw), and [borrow](/users/using-the-web-app/borrow-repay) actions can be performed from the [Markets section](https://app.ux.xyz/#/markets).
 
 :::: tabs
 
@@ -59,7 +59,7 @@ This list shows each asset available for leverage and/or collateral on the block
 
 ![](/bg/atom-info.png)
 
-> Select any asset in the [Markets section](https://app.umee.cc/#/markets) to view its parameters.
+> Select any asset in the [Markets section](https://app.ux.xyz/#/markets) to view its parameters.
 
 :::: tabs
 
@@ -209,7 +209,7 @@ Borrow APR is the annual percentage rate a borrower will owe for borrowing the a
 
 ![](/bg/dashboard-page.png)
 
-> The [Dashboard section](https://app.umee.cc/#/dashboard) allows users to easily monitor their individual positions.
+> The [Dashboard section](https://app.ux.xyz/#/dashboard) allows users to easily monitor their individual positions.
 
 :::: tabs
 

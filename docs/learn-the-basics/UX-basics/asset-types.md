@@ -1,7 +1,5 @@
 # Types of Assets
 
-
-
 :::: tabs
 
 ::: tab Collateral Assets
@@ -10,17 +8,17 @@
 
 ![As seen on the Markets page.](/bg/collateral-bubble.png)
 
-> Identify collateral assets by selecting the pink "Collateral" bubble on the [Markets page](https://app.umee.cc/#/markets).
+> Identify collateral assets by selecting the pink "Collateral" bubble on the [Markets page](https://app.ux.xyz/#/markets).
 
 ### What Are Collateral Assets?
 
-Collateral assets are assets that lenders can supply as a security guarantee in order to take out a loan. Users who supply collateral assets can borrow a smaller value of another asset against it. 
+Collateral assets are assets that lenders can supply as a security guarantee in order to take out a loan. Users who supply collateral assets can borrow a smaller value of another asset against it.
 
 <br>
 
 ### What Are the Risks Associated With Collateral Assets?
 
-When borrowing from UX's money markets users' positions must remain properly over-collateralized or their collateral will be liquidated. When a [liquidation](/learn-the-basics/UX-basics/common-terms.html#liquidation) occurs a portion of the assets a user has supplied as collateral are used to pay off the outstanding loan plus the [liquidation penalty](/learn-the-basics/UX-basics/common-terms.html#liquidation-penalty). 
+When borrowing from UX's money markets users' positions must remain properly over-collateralized or their collateral will be liquidated. When a [liquidation](/learn-the-basics/UX-basics/common-terms.html#liquidation) occurs a portion of the assets a user has supplied as collateral are used to pay off the outstanding loan plus the [liquidation penalty](/learn-the-basics/UX-basics/common-terms.html#liquidation-penalty).
 
 <br>
 
@@ -33,6 +31,7 @@ Not all assets listed on UX are collateral assets. UX's Risk Team evaluates the 
 ### TLDR
 
 #### When collateral assets are supplied on the UX Market:
+
 - The supplier is able to borrow against the collateral assets supplied;
 - The supplier is able to earn lending interest on the collateral assets supplied;
 - The assets supplied as collateral may be [liquidated](/learn-the-basics/UX-basics/common-terms.html#liquidation) in order to ensure that the borrower's debts are covered.
@@ -45,7 +44,7 @@ Not all assets listed on UX are collateral assets. UX's Risk Team evaluates the 
 
 ![As seen on the Markets page.](/bg/leverage-bubble.png)
 
-> Identify leverage assets by selecting the blue "Leverage" bubble on the [Markets page](https://app.umee.cc/#/markets).
+> Identify leverage assets by selecting the blue "Leverage" bubble on the [Markets page](https://app.ux.xyz/#/markets).
 
 ### What Are Leverage Assets?
 
@@ -56,6 +55,7 @@ Leverage assets are assets that can be lent and borrowed on UX's money markets b
 ### TLDR
 
 #### When leverage assets are supplied on the UX Market:
+
 - The supplier is unable to borrow against the leverage assets supplied;
 - The supplier is able to earn lending interest on the leverage assets supplied;
 - The leverage assets are not at risk of [liquidation](/learn-the-basics/UX-basics/common-terms.html#liquidation).
