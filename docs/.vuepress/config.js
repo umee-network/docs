@@ -266,6 +266,7 @@ module.exports = {
             "/developers/ethereum-contracts",
             "/developers/querying",
             "/developers/price-feeder",
+            "/developers/indexers",
           ],
         },
         {
