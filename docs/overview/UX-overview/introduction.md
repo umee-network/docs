@@ -14,7 +14,7 @@ UX is the most programmable, safety-first lending algorithm built as a blockchai
 
 ### Problem
 
-****
+---
 
 Billions of people around the world are unable to access debt markets as they do not meet the required profiles that the debt markets define as desirable business and thus are barred from accessing the biggest capital market in the world. Various new forms of debt platforms (e.g. peer-to-peer lending and social impacting investments) have emerged, but they suffer from very limited impact.
 
@@ -22,7 +22,7 @@ Billions of people around the world are unable to access debt markets as they do
 
 ### Solution
 
-****
+---
 
 As a base layer blockchain secured by a decentralized [validator](/learn-the-basics/staking-basics/what-is-validator) set, anyone with an internet connection is able to access UX's services. UX is permissionless, meaning anyone can access debt markets on UX regardless of things like their location or financial history.
 
@@ -32,7 +32,7 @@ As a base layer blockchain secured by a decentralized [validator](/learn-the-bas
 
 ### Problem
 
-****
+---
 
 Legacy debt markets give participants little to no visibility on their processes. Major participants have shown they are willing to act recklessly with clients' funds (toxic lending, over-leveraging, etc.) while disclosing minimal details to clients. Not everyone has to play by the same rules and asymmetric information access gives the lending institutes unfair advantage and power in the market.
 
@@ -40,11 +40,11 @@ Legacy debt markets give participants little to no visibility on their processes
 
 ### Solution
 
-****
+---
 
-As a public blockchain UX operates transparently, making it easier for UX users to assess risks.  The same rules apply to all market participants on UX, regardless of their individual circumstances. 
+As a public blockchain UX operates transparently, making it easier for UX users to assess risks. The same rules apply to all market participants on UX, regardless of their individual circumstances.
 
-All UX users must be properly over-collateralized at all times in order to borrow funds. Users who fail to remain properly over-collateralized will have their collateral [liquidated](/learn-the-basics/UX-basics/common-terms.html#liquidation) in order to minimize risks of insolvency and provide a high degree of security to lenders.
+All UX users must be properly over-collateralized at all times in order to borrow funds. Users who fail to remain properly over-collateralized will have their collateral [liquidated](/users/UX-basics/common-terms.html#liquidation) in order to minimize risks of insolvency and provide a high degree of security to lenders.
 
 :::
 
@@ -52,7 +52,7 @@ All UX users must be properly over-collateralized at all times in order to borro
 
 ### Problem
 
-****
+---
 
 There is often a conflict of interest between clients who provide liquidity and the agents who act on their behalf. The client maintains ownership of the assets provided, and takes the risk of potential losses. Agents are generally incentivized to do whatever it takes to boost their commission or other form of personal gains with minimal to zero personal liability; this lack of proper alignment often results in decisions that are harmful for the client.
 
@@ -60,7 +60,7 @@ There is often a conflict of interest between clients who provide liquidity and 
 
 ### Solution
 
-****
+---
 
 UX will be owned and [governed](/governance) by its users and contributors. UX's on-chain [governance structure](/governance/governance-overview) can help align interests between different stakeholder groups.
 
@@ -78,15 +78,15 @@ UX will be owned and [governed](/governance) by its users and contributors. UX's
 
 ### Problem
 
-****
+---
 
-Existing DeFi markets are driven almost entirely by speculation. Yields don’t come from value add activities and rates aren’t properly reflective of risk. 
+Existing DeFi markets are driven almost entirely by speculation. Yields don’t come from value add activities and rates aren’t properly reflective of risk.
 
 <br>
 
 ### Solution
 
-****
+---
 
 Rather than setting rates based entirely off of current supply and demand, UX is building a term structure for [crypto](/learn-the-basics/crypto-basics/what-is-crypto) that uses time-to-maturity and credit-worthiness to determine rates.
 
@@ -96,7 +96,7 @@ Rather than setting rates based entirely off of current supply and demand, UX is
 
 ### Problem
 
-****
+---
 
 There is a lack of understanding of what the base rate (risk-free rate) should be and thus a lack of effective financing tools based on a term structure that uses credit-worthiness and duration to determine rates.
 
@@ -104,7 +104,7 @@ There is a lack of understanding of what the base rate (risk-free rate) should b
 
 ### Solution
 
-****
+---
 
 By replicating a yield curve and using time-to-maturity and credit-worthiness to build the foundational base rates for crypto, UX is rebuilding the term structure of interest rates with web3 technology. External assets will reference UX's markets when determining risk-free rates.
 
@@ -116,7 +116,7 @@ Once the foundational interest rates are built, the crypto format for debt primi
 
 ### Problem
 
-****
+---
 
 Most existing DeFi markets are short-term focused with unsustainable rates or unreliable expected returns for participants.
 
@@ -124,7 +124,7 @@ Most existing DeFi markets are short-term focused with unsustainable rates or un
 
 ### Solution
 
-****
+---
 
 Debt primitives can be built on top of UX to support those focused on long term building and growth.
 

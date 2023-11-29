@@ -1,7 +1,10 @@
 <template>
   <div>
     <h1>User Guides</h1>
-    <p>Supply and borrow funds for ultimate DeFi composability using UX money markets.</p>
+    <p>
+      Supply and borrow funds for ultimate DeFi composability using UX money
+      markets.
+    </p>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
@@ -13,7 +16,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -47,6 +49,12 @@ export default {
           title: "Participating in Governance",
           text: "Use your vote to help shape UX's future",
           link: "/users/governance",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "UX Basics",
+          text: "Things every UX user should know",
+          link: "/users/UX-basics",
         },
       ],
     };

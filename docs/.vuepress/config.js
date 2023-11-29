@@ -62,6 +62,16 @@ module.exports = {
             "/governance/asset-listing/asset-listing-guide",
           ],
         },
+        {
+          text: "UX Basics",
+          collapsible: true,
+          children: [
+            "/users/UX-basics/introduction",
+            "/users/UX-basics/asset-types",
+            "/users/UX-basics/common-terms",
+            "/users/UX-basics/me-tokens",
+          ],
+        },
       ],
       "/governance/": [
         {
@@ -197,16 +207,6 @@ module.exports = {
             "/learn-the-basics/defi-basics/what-is-dex",
             "/learn-the-basics/defi-basics/what-is-defi-money-market",
             "/learn-the-basics/defi-basics/what-is-liquidity-mining",
-          ],
-        },
-        {
-          text: "UX Basics",
-          collapsible: true,
-          children: [
-            "/learn-the-basics/UX-basics/introduction",
-            "/learn-the-basics/UX-basics/asset-types",
-            "/learn-the-basics/UX-basics/common-terms",
-            "/learn-the-basics/UX-basics/me-tokens",
           ],
         },
       ],

@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -53,12 +52,6 @@ export default {
           title: "DeFi Basics",
           text: "Learn about decentralized finance",
           link: "/learn-the-basics/defi-basics",
-        },
-        {
-          img: "/img/docs-users-icon.png",
-          title: "UX Basics",
-          text: "Things every UX user should know",
-          link: "/learn-the-basics/UX-basics",
         },
       ],
     };
