@@ -155,6 +155,18 @@ module.exports = {
           ],
         },
         {
+          text: "UX App Features & App Usage",
+          collapsible: true,
+          children: [
+            "/overview/UX-app-features-and-app-usage/general-information",
+            "/overview/UX-app-features-and-app-usage/borrowing-and-lending",
+            "/overview/UX-app-features-and-app-usage/repayment-and-currency",
+            "/overview/UX-app-features-and-app-usage/price-information-and-liquidations",
+            "/overview/UX-app-features-and-app-usage/collateral-and-leverage-assets",
+            "/overview/UX-app-features-and-app-usage/advanced-UX-features-and-functionality",
+          ],
+        },
+        {
           text: "Risk Parameters",
           collapsible: true,
           children: ["/overview/risk-parameters"],
