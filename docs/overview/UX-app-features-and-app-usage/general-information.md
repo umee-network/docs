@@ -4,7 +4,7 @@
 
 ### Why should I supply to UX?
 
-_When you supply your assets to UX, you're essentially providing liquidity to borrowers on the platform. In return, you receive an APY (annual percentage yield) on your assets, which can be a great way to earn passive income. In addition, by supplying and collateralizing assets on UX, you can borrow other tokens; UX lists the most number of assets than any other lending protocols, and a lot of them are only available on UX for lending and borrowing. _
+_When you supply your assets to UX, you're essentially providing liquidity to borrowers on the platform. In return, you receive an APY (annual percentage yield) on your assets, which can be a great way to earn passive income. In addition, by supplying and collateralizing assets on UX, you can borrow other tokens; UX lists the most number of assets than any other lending protocols, and a lot of them are only available on UX for lending and borrowing._
 
 _Each asset has its market of supply and demand, determining the APY._
 
