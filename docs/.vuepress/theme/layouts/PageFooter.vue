@@ -105,14 +105,13 @@ export default {
   data() {
     return {
       socialLinks: [
-        { img: "/img/medium.svg", link: "https://medium.com/umeeblog" },
         {
           img: "/img/twitter.svg",
-          link: "https://twitter.com/Umee_CrossChain",
+          link: "https://x.com/ux_xyz",
         },
         { img: "/img/discord.svg", link: "https://discord.gg/uxchain" },
         { img: "/img/github.svg", link: "https://github.com/umee-network" },
-        { img: "/img/telegram.svg", link: "https://t.me/umeecrosschain" },
+        { img: "/img/telegram.svg", link: "https://t.me/uxuxchain" },
         {
           img: "/img/reddit.svg",
           link: "https://www.reddit.com/r/UmeeCrossChain",
