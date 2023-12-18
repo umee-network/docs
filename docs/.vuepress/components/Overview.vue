@@ -47,6 +47,12 @@ export default {
           text: "Frequently Asked Questions",
           link: "/overview/faq",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "UX App Features & App Usage",
+          text: "Learn about UX app features & app usage",
+          link: "/overview/ux-app-features-and-app-usage",
+        },
       ],
     };
   },
