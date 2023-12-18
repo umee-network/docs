@@ -56,7 +56,7 @@ export default {
           img: "/img/docs-users-icon.png",
           title: "Advanced UX Features & Functionality",
           text: "Learn about advanced UX features & functionality",
-          link: "/overview/ux-app-features-and-app-usage/advanced-ux-featured-and-functionality",
+          link: "/overview/ux-app-features-and-app-usage/advanced-ux-features-and-functionality",
         },
       ],
     };
