@@ -64,4 +64,23 @@ _Rather than the original 78% borrowing limit from just lending your $USDC, you�
 
 <br>
 
+## IBC Rate Limiting
+
+### How does UX’s IBC rate limit work?
+
+_UX's IBC rate limit is a chain-level security feature designed to safeguard your assets. UX’s IBC rate limit sets a maximum cap on the daily outflow from the UX chain. When the outflow exceeds the predefined limit, the IBC rate limit will be triggered and IBC transactions for outflow will be shut down._
+
+_For more in-depth information, check out our blog on [IBC Rate Limiting](https://ux.xyz/blog/ibc-rate-limiting/) and [Github link](https://github.com/umee-network/umee/releases/tag/v4.2.0)._
+
+<br>
+
+### How is the IBC rate limit triggered?
+
+_The IBC rate limit triggers when either of the below conditions are met:_
+
+- _The aggregated daily IBC outflows exceed $USD 1M._
+- _An individual token’s total daily IBC outflows interchain transactions exceed $USD 600,000_
+
+<br>
+
 _For additional information check out our [UX App FAQ section](https://learning.ux.xyz/overview/faq/UX-app.html)._

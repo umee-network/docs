@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>UX App Features & App Usage</h1>
+    <h1>UX Products</h1>
     <div class="row two-columns">
       <menu-card
         v-for="(menu, index) in menus"
