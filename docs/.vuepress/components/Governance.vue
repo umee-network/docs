@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -38,15 +37,21 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "Community DAO",
-          text: "Learn how to get involved through UX's Community DAO",
-          link: "/governance/community-dao",
+          title: "UX Chain Leverage Module Parameters Guide",
+          text: "Explore UX's Risk Parameters: Why UX stands at the forefront",
+          link: "/governance/parameters",
         },
         {
           img: "/img/docs-users-icon.png",
           title: "Validator DAO",
           text: "Learn about the DAO that handles the UX Foundation's delegation decisions",
           link: "/governance/validator-dao",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Community DAO",
+          text: "Learn how to get involved through UX's Community DAO",
+          link: "/governance/community-dao",
         },
       ],
     };

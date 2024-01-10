@@ -26,14 +26,14 @@ export default {
         {
           img: "/img/docs-users-icon.png",
           title: "UX",
-          text: "Learn about UX",
+          text: "What is UX",
           link: "/overview/UX-overview",
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "UDX",
-          text: "Learn about UX's official institutional lending DAO",
-          link: "/overview/udx",
+          title: "UX Products",
+          text: "Learn about UX app features & app usage",
+          link: "/overview/ux-app-features-and-app-usage",
         },
         {
           img: "/img/docs-users-icon.png",
@@ -49,9 +49,9 @@ export default {
         },
         {
           img: "/img/docs-users-icon.png",
-          title: "UX App Features & App Usage",
-          text: "Learn about UX app features & app usage",
-          link: "/overview/ux-app-features-and-app-usage",
+          title: "UDX",
+          text: "Learn about UX's official institutional lending DAO",
+          link: "/overview/udx",
         },
       ],
     };

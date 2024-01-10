@@ -93,16 +93,9 @@ module.exports = {
           ],
         },
         {
-          text: "Community DAO",
+          text: "Parameters",
           collapsible: true,
-          children: [
-            "/governance/community-dao/overview",
-            "/governance/community-dao/submit-contributions",
-            "/governance/community-dao/educators",
-            "/governance/community-dao/community-support",
-            "/governance/community-dao/translators",
-            "/governance/community-dao/other",
-          ],
+          children: ["/governance/parameters"],
         },
         {
           text: "Validator DAO",
@@ -112,6 +105,18 @@ module.exports = {
             "/governance/validator-dao/delegation-applications",
             "/governance/validator-dao/the-committee",
             "/governance/validator-dao/important-deadlines",
+          ],
+        },
+        {
+          text: "Community DAO",
+          collapsible: true,
+          children: [
+            "/governance/community-dao/overview",
+            "/governance/community-dao/submit-contributions",
+            "/governance/community-dao/educators",
+            "/governance/community-dao/community-support",
+            "/governance/community-dao/translators",
+            "/governance/community-dao/other",
           ],
         },
       ],
@@ -128,12 +133,15 @@ module.exports = {
           ],
         },
         {
-          text: "UDX",
+          text: "UX Products",
           collapsible: true,
           children: [
-            "/overview/udx/introduction",
-            "/overview/udx/features",
-            "/overview/udx/guardian-guild",
+            "/overview/UX-app-features-and-app-usage/general-information",
+            "/overview/UX-app-features-and-app-usage/borrowing-and-lending",
+            "/overview/UX-app-features-and-app-usage/repayment-and-currency",
+            "/overview/UX-app-features-and-app-usage/price-information-and-liquidations",
+            "/overview/UX-app-features-and-app-usage/collateral-and-leverage-assets",
+            "/overview/UX-app-features-and-app-usage/advanced-UX-features-and-functionality",
           ],
         },
         {
@@ -155,21 +163,18 @@ module.exports = {
           ],
         },
         {
-          text: "UX App Features & App Usage",
-          collapsible: true,
-          children: [
-            "/overview/UX-app-features-and-app-usage/general-information",
-            "/overview/UX-app-features-and-app-usage/borrowing-and-lending",
-            "/overview/UX-app-features-and-app-usage/repayment-and-currency",
-            "/overview/UX-app-features-and-app-usage/price-information-and-liquidations",
-            "/overview/UX-app-features-and-app-usage/collateral-and-leverage-assets",
-            "/overview/UX-app-features-and-app-usage/advanced-UX-features-and-functionality",
-          ],
-        },
-        {
           text: "Risk Parameters",
           collapsible: true,
           children: ["/overview/risk-parameters"],
+        },
+        {
+          text: "UDX",
+          collapsible: true,
+          children: [
+            "/overview/udx/introduction",
+            "/overview/udx/features",
+            "/overview/udx/guardian-guild",
+          ],
         },
       ],
       "/learn-the-basics/": [
