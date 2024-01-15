@@ -6,13 +6,13 @@
 
 :::: tabs
 
-::: tab Web App
+::: tab Keplr Dashboard
 
-### Web App
+### Keplr Dashboard
 
 ---
 
-![](/bg/stake-umee.gif)
+![](/bg/stake-ux.gif)
 
 > The validator portrayed was randomly selected. [Always do your own research before selecting a validator to stake with](/users/staking-UX/selecting-validator).
 
