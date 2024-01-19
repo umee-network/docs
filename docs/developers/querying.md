@@ -99,4 +99,4 @@ $ grpcurl -d '{"address": "umee17lu4h5nh28ctv9y6ldt0apqz7dxm8arvttx5xc"}' --plai
 
 ## Indexers
 
-Indexers, in a broad context, play a fundamental role in organising and optimising data retrieval within various systems. These tools act as navigational aids, allowing efficient access to specific information by creating structured indexes. In the realm of databases and information management, indexers enhance query performance by creating a roadmap to swiftly locate data entries. Read more [here](./indexers.md).
+Indexers, in a broad context, play a fundamental role in organising and optimising data retrieval within various systems. These tools act as navigational aids, allowing efficient access to specific information by creating structured indexes. In the realm of databases and information management, indexers enhance query performance by creating a roadmap to swiftly locate data entries. [Read more](./indexers.md).
