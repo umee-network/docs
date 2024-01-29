@@ -2,11 +2,11 @@
 
 Turn a current node into a validator on the mainnet.
 
-This guide contains instructions on how to setup and run an UX validator. First, be sure to check out the full node [instructions](installing-umee-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
+This guide contains instructions on how to setup and run an UX validator. First, be sure to check out the full node [instructions](installing-UX-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
 
 There are two (2) crucial processes required for a healthy validator node:
 
-- [umeed](installing-umee-node.md)
+- [umeed](installing-UX-node.md)
 - [price-feeder](#price-feeder)
 
 In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/umee/validators). You may still execute the following steps, but you will not be active and therefore won't receive staking rewards.
