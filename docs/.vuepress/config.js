@@ -129,7 +129,6 @@ module.exports = {
             "/overview/UX-overview/UX-vision",
             "/overview/UX-overview/security-audits",
             "/overview/UX-overview/UX-roadmap",
-            "/overview/UX-overview/UX-functionality",
           ],
         },
         {
