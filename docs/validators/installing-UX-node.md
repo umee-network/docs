@@ -39,11 +39,11 @@ Before installing, check [**latest UX Release Notes**](https://github.com/umee-n
 
 3.  Install the umeed binary onto your server.
 
-        cd
-        git clone --depth 1 --branch v6.3.0 https://github.com/umee-network/umee.git
-        cd umee && make install
-        umeed version
-        # Expected output: v6.3.0 or HEAD-cbf1d36e9deee4b086235a02e0fc9301e32bbcfc
+        $ cd
+        # Please check LATEST_RELEASE_TAG on our release page https://github.com/umee-network/umee/releases
+        $ git clone --depth 1 --branch <LATEST_RELEASE_TAG> https://github.com/umee-network/umee.git
+        $ cd umee && make install
+        $ umeed version
 
 4.  Initialize node and create a wallet
     The --chain-id here does not matter since we will be overriding the default genesis.json file in the next step.
@@ -70,7 +70,7 @@ Before installing, check [**latest UX Release Notes**](https://github.com/umee-n
         minimum-gas-prices = "0.1uumee"
 
 6.  Overwriting default genesis.json file
-    nce initialized, overwrite the default `genesis.json` file with genesis state file for the particular network that you are joining. You may retrieve the genesis state file from the Umee [repository](https://github.com/umee-network/umee) or another trusted source:
+    Once initialized, overwrite the default `genesis.json` file with genesis state file for the particular network that you are joining. You may retrieve the genesis state file from the Umee [repository](https://github.com/umee-network/umee) or another trusted source:
 
 #### Mainnet Node
 

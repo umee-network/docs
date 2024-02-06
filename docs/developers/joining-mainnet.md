@@ -33,10 +33,11 @@ sudo apt install git build-essential ufw curl jq --yes
    3. Build yourself: [instructions](https://github.com/umee-network/umee/blob/main/README.md#build)
 
 ```
-cd
-git clone --depth 1 --branch v6.3.0 https://github.com/umee-network/umee.git
-cd umee && make install
-umeed version
+$ cd
+# you will LATEST_RELEASE_TAG on this page https://github.com/umee-network/umee/releases
+$ git clone --depth 1 --branch <LATEST_RELEASE_TAG> https://github.com/umee-network/umee.git
+$ cd umee && make install
+$ umeed version
 # Expected output: v6.3.0
 ```
 
@@ -44,9 +45,9 @@ umeed version
    The --chain-id here does not matter since we will be overriding the default genesis.json file in the next step.
 
 ```
-cd
-umeed init YOUR_MONIKER --chain-id umee-betanet-1
-umeed keys add UMEE_WALLET_NAME
+$ cd
+$ umeed init YOUR_MONIKER --chain-id umee-betanet-1
+$ umeed keys add UMEE_WALLET_NAME
 ```
 
 **Save the outputted mnemonic phrase**. There will be a wallet address and mnemonics from it. If you do not save the mnemonic at this stage, it will no longer be possible to do this. You will need it later.

@@ -33,23 +33,8 @@ Visit the Cosmos SDK's keyring [documentation](https://docs.cosmos.network/v0.47
 
 The [x/oracle module](https://github.com/umee-network/umee/blob/v6.3.0/x/oracle/README.md) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/ojo-network/price-feeder/tree/umee/v2.4.0).
 
-Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary.
-
-1. First, install the most recent price-feeder binary: [Releases](https://github.com/ojo-network/price-feeder/releases/tag/umee%2Fv2.4.0)
-   ```
-   $ git clone --depth 1 --branch umee/v2.4.0 https://github.com/ojo-network/price-feeder
-   $ cd price-feeeder 
-   // install 
-   $ make install
-   // checkk version
-   $ price-feeder version // output must have `umee/v2.4.0`
-   $ price-feeder version
-        version: umee/v2.4.0
-        commit: 9c240bd6790e995b0294b6cfe9c2f5d479e6d2ce
-        sdk: v0.47.5
-   ```
-- make the binary executable: `chmod +x price-feeder`
-- move the binary to `/usr/local/bin`
+Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary. 
+Please [click here](https://github.com/umee-network/umee/blob/main/VALIDATOR.md#price-feeder) to know how to install price-feeder binary.
 
 1. Download the example config files, Download the price-feeder.toml [here](https://github.com/ojo-network/price-feeder/blob/umee/v2.4.0/price-feeder.example.toml) and provider config files [here](https://github.com/ojo-network/price-feeder/tree/umee/v2.4.0/umee-provider-config)
 
