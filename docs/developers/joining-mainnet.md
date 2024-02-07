@@ -34,11 +34,11 @@ sudo apt install git build-essential ufw curl jq --yes
 
 ```
 $ cd
-# you will LATEST_RELEASE_TAG on this page https://github.com/umee-network/umee/releases
+# you will LATEST_RELEASE_TAG on releases page https://github.com/umee-network/umee/releases
 $ git clone --depth 1 --branch <LATEST_RELEASE_TAG> https://github.com/umee-network/umee.git
 $ cd umee && make install
+# check the umeed binary version
 $ umeed version
-# Expected output: v6.3.0
 ```
 
 4. Initialize node and create a wallet
