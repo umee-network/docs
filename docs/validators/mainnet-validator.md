@@ -2,12 +2,12 @@
 
 Turn a current node into a validator on the mainnet.
 
-This guide contains instructions on how to setup and run an UX validator. First, be sure to check out the full node [instructions](installing-umee-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
+This guide contains instructions on how to setup and run an UX validator. First, be sure to check out the full node [instructions](installing-UX-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
 
 There are two (2) crucial processes required for a healthy validator node:
 
-- [Umeed](installing-umee-node.md),
-- [Price-Feeder](#price-feeder)
+- [umeed](installing-UX-node.md)
+- [price-feeder](#price-feeder)
 
 In order to become an **active** validator, you must have more stake than the [bottom validator](https://www.mintscan.io/umee/validators). You may still execute the following steps, but you will not be active and therefore won't receive staking rewards.
 
@@ -27,28 +27,25 @@ By default, `umeed` will store keys in your OS-backed keyring. You can change th
 
 If you already have a key that you'd like to import via a mnemonic, you can provide a `--recover` flag and the `keys add` command will prompt you for the BIP39 mnemonic.
 
-Visit the Cosmos SDK's keyring [documentation](https://docs.cosmos.network/v0.43/run-node/keyring.html) for more information
+Visit the Cosmos SDK's keyring [documentation](https://docs.cosmos.network/v0.47/user/run-node/keyring) for more information
 
 ### Price Feeder
 
-The [x/oracle module](https://github.com/umee-network/umee/tree/main/x/oracle/spec) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/umee-network/umee/tree/main/price-feeder#oracle-price-feeder).
+The [x/oracle module](https://github.com/umee-network/umee/blob/v6.3.0/x/oracle/README.md) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/ojo-network/price-feeder/tree/umee/v2.4.0).
 
-Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary. It is not necessary for umeed v1.0.x.
+Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary. 
+Please [click here](https://github.com/umee-network/umee/blob/main/VALIDATOR.md#price-feeder) to know how to install price-feeder binary.
 
-If the calypso (V3) upgrade has happened successfully, you **absolutely must** vote on prices to avoid being jailed and slashed.
+1. Download the example config files, Download the price-feeder.toml [here](https://github.com/ojo-network/price-feeder/blob/umee/v2.4.0/price-feeder.example.toml) and provider config files [here](https://github.com/ojo-network/price-feeder/tree/umee/v2.4.0/umee-provider-config)
 
-1. First, install the most recent price-feeder binary: [Releases](https://github.com/umee-network/umee/releases/tag/price-feeder)
+>  We should maintain the below folder structure for provider-config
 
-- Replace the tar with the correct architecture of the most recent price feeder version
-- make the binary executable: `chmod +x price-feeder-v*/price-feeder*`
-- move the binary to `/usr/local/bin`
+    - umee-provider-config
+      - currency-pairs.toml     
+      - deviation-thresholds.toml
+      - endpoints.toml
 
-2.  Download the example config file, [also on Github](https://github.com/umee-network/umee/blob/main/price-feeder/price-feeder.example.toml)
-
-        cd /usr/local/bin/
-        wget https://raw.githubusercontent.com/umee-network/umee/main/price-feeder/price-feeder.example.toml
-
-3.  Replace the example values in your config
+2.  Replace the example values in your config
     Set up your keyring using the description [here](https://github.com/umee-network/umee/tree/main/price-feeder#keyring-1).
 
     Update the `[account]` information with the correct chain-id (**umee-1** for mainnet), address, and validator address from your keyring.
@@ -58,12 +55,12 @@ If the calypso (V3) upgrade has happened successfully, you **absolutely must** v
         chain_id = "umee-1"
         validator = "umeevaloper12tysz6mzrawenca2t3t7ltym4hfjj8a5upsn2k"
 
-4.  In order to get your address & validator address, given a key with the name `alice`, you can run:
+3.  In order to get your address & validator address, given a key with the name `alice`, you can run:
 
         umeed keys show alice -a --bech=acc
         umeed keys show alice -a --bech=val
 
-5.  Create a [systemd](https://systemd.io/) service file
+4.  Create a [systemd](https://systemd.io/) service file
 
         sudo tee /etc/systemd/system/price-feeder.service > /dev/null <<EOF
         [Unit]
@@ -90,13 +87,13 @@ If the calypso (V3) upgrade has happened successfully, you **absolutely must** v
         Restart=always
         RuntimeMaxSec=14400s # 4h
 
-6.  Start your service
+4.  Start your service
 
         sudo systemctl daemon-reload
         sudo systemctl enable price-feeder
         sudo systemctl start price-feeder
 
-7.  Please check to make sure your price feeder is running successfully
+5.  Please check to make sure your price feeder is running successfully
 
         sudo journalctl -u price-feeder.service -f
 
@@ -108,19 +105,13 @@ If it's not, please check your config. Common problems are:
 - Invalid providers / token pairs - check [coingecko](https://www.coingecko.com/en/coins/umee#markets) to see the available providers for a given coin
 - Not voting on all required tokens
 
-8.  When ready to delegate feed consent, the `price-feeder_address` argument is the same as the `address = ` from your price-feeder.toml, eg.
+6.  When ready to delegate feed consent, the `price-feeder_address` argument is the same as the `address = ` from your price-feeder.toml, eg.
 
         umeed tx oracle delegate-feed-consent <validator_adress> <price-feeder_address> --chain-id umee-1 --fees 2000uumee
 
-### Calypso - v3 Upgrade Instructions
-
-#### Overview
-
-Calypso - v3 is Umee Network's latest blockchain technology release. In addition to Peggo, v3 validators must also run our Price Feeder process or will be jailed and slashed! Price Feeder fetches and aggregates exchange rate price data from various providers, then supplies them to the main oracle process.
-
 #### Release Notes
 
-[Price Feeder official release, v1.0.0](https://github.com/umee-network/umee/releases/tag/price-feeder%2Fv1.0.0)
+[Price Feeder official release, v2.4.0](https://github.com/ojo-network/price-feeder/releases/tag/umee%2Fv2.4.0)
 
 #### Installation
 

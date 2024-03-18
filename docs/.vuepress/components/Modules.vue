@@ -36,6 +36,30 @@ export default {
           text: "Learn more about UX's custom oracle module",
           link: "/developers/modules/oracle",
         },
+        {
+          img: "/img/docs-developer-icon.png",
+          title: "Incentive",
+          text: "Learn more about UX's incetive module",
+          link: "/developers/modules/incentive",
+        },
+        {
+          img: "/img/docs-developer-icon.png",
+          title: "Metoken",
+          text: "Learn more about UX's metoken module",
+          link: "/developers/modules/metoken",
+        },
+        {
+          img: "/img/docs-developer-icon.png",
+          title: "UGov",
+          text: "Learn more about UX's Governance module",
+          link: "/developers/modules/ugov",
+        },
+        {
+          img: "/img/docs-developer-icon.png",
+          title: "UIBC",
+          text: "Learn more about UX's UIBC module",
+          link: "/developers/modules/uibc",
+        },
       ],
     };
   },

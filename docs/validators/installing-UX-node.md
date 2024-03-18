@@ -33,23 +33,23 @@ Before installing, check [**latest UX Release Notes**](https://github.com/umee-n
 2.  Check if the variables were set right. If these commands do not return anything similar to these expected outputs then you should double check that you ran the first commands correctly.;
 
         go version
-        # Expected output: go1.19.x linux/amd64
+        # Expected output: goX.X.X linux/amd64
         echo $GOPATH
         # Expected output: /home/umee/go
 
 3.  Install the umeed binary onto your server.
 
-        cd
-        git clone --depth 1 --branch v3.0.1 https://github.com/umee-network/umee.git
-        cd umee && make install
-        umeed version
-        # Expected output: v3.0.1 or HEAD-ae43ccbd25c382cdfc5bcde26f21bc2002be5bf3
+        $ cd
+        # Please check LATEST_RELEASE_TAG on our release page https://github.com/umee-network/umee/releases
+        $ git clone --depth 1 --branch <LATEST_RELEASE_TAG> https://github.com/umee-network/umee.git
+        $ cd umee && make install
+        $ umeed version
 
 4.  Initialize node and create a wallet
     The --chain-id here does not matter since we will be overriding the default genesis.json file in the next step.
 
         cd
-        umeed init YOUR_MONIKER --chain-id umee-betanet-1
+        umeed init YOUR_MONIKER --chain-id umee-1
         umeed keys add UMEE_WALLET_NAME
 
     **Save the outputted mnemonic phrase**. There will be a wallet address and mnemonics from it. If you do not save the mnemonic at this stage, it will no longer be possible to do this. You will need it later.

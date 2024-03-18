@@ -238,7 +238,6 @@ module.exports = {
           collapsible: true,
           children: [
             "/developers/source-code",
-            "/developers/ide-setup",
             "/developers/UX-daemon",
             {
               text: "Modules",
@@ -248,6 +247,7 @@ module.exports = {
                   text: "Leverage",
                   collapsible: true,
                   children: [
+                    "/developers/modules/leverage",
                     "/developers/modules/leverage/01_concepts",
                     "/developers/modules/leverage/02_state",
                     "/developers/modules/leverage/03_queries",
@@ -260,8 +260,8 @@ module.exports = {
                 {
                   text: "Oracle",
                   collapsible: true,
-
                   children: [
+                    "/developers/modules/oracle",
                     "/developers/modules/oracle/01_concepts",
                     "/developers/modules/oracle/02_state",
                     "/developers/modules/oracle/03_end_block",
@@ -270,16 +270,43 @@ module.exports = {
                     "/developers/modules/oracle/06_params",
                   ],
                 },
+                {
+                  text: "Metoken",
+                  collapsible: true,
+                  children: [
+                    "/developers/modules/metoken",
+                  ],
+                },
+                {
+                  text: "Incentive",
+                  collapsible: true,
+                  children: [
+                    "/developers/modules/incentive",
+                  ],
+                },
+                {
+                  text: "UGov",
+                  collapsible: true,
+                  children: [
+                    "/developers/modules/ugov",
+                  ],
+                },
+                {
+                  text: "UIBC",
+                  collapsible: true,
+                  children: [
+                    "/developers/modules/uibc",
+                  ],
+                },
               ],
             },
-            "/developers/ethereum-bridge",
             "/developers/relaying-ibc",
-            "/developers/assets",
+            // "/developers/assets",
             "/developers/key-management",
-            "/developers/transaction-structure",
-            "/developers/performance-profiling",
+            // "/developers/transaction-structure",
+            // "/developers/performance-profiling",
             "/developers/contributing",
-            "/developers/ethereum-contracts",
+            // "/developers/ethereum-contracts",
             "/developers/querying",
             "/developers/price-feeder",
             "/developers/indexers",

@@ -18,7 +18,7 @@ UX allows users to lend and borrow assets across chains in a trustless manner. U
 * Title: Asset Request - \[asset name], \[native blockchain or token format], \[type of support being sought (lending/borrowing, collateral)]
 * Body: Analysis that clearly explains why the benefits of adding x asset outweigh the drawbacks. Links to relevant forums.
 
-Anyone can submit a governance proposal through [UX's Governance Forum](https://commonwealth.im/umee/).
+Anyone can submit a governance proposal through [UX's Governance Forum](https://gov.ux.xyz).
 
 ## Asset Risk Framework
 

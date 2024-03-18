@@ -47,12 +47,6 @@ export default {
         },
         {
           img: "/img/docs-developer-icon.png",
-          title: "IDE Setup",
-          text: "Recommended IDE setup for developing on UX in Go",
-          link: "/developers/ide-setup",
-        },
-        {
-          img: "/img/docs-developer-icon.png",
           title: "UX Daemon",
           text: "Install umeed to join the network",
           link: "/developers/UX-daemon",
@@ -62,12 +56,6 @@ export default {
           title: "Modules",
           text: "UX modules and their respective CLI commands",
           link: "/developers/modules",
-        },
-        {
-          img: "/img/docs-developer-icon.png",
-          title: "Ethereum Bridge",
-          text: "Bridge between Ethereum and UX",
-          link: "/developers/ethereum-bridge",
         },
         {
           img: "/img/docs-developer-icon.png",
@@ -89,27 +77,9 @@ export default {
         },
         {
           img: "/img/docs-developer-icon.png",
-          title: "Transaction Structure",
-          text: "Understanding the structure of a transaction on the UX chain",
-          link: "/developers/transaction-structure",
-        },
-        {
-          img: "/img/docs-developer-icon.png",
-          title: "Performance & Profiling",
-          text: "Learn how to measure performance and profile your node",
-          link: "/developers/performance-profiling",
-        },
-        {
-          img: "/img/docs-developer-icon.png",
           title: "Contributing",
           text: "Guidelines to contributing to UX core development",
           link: "/developers/contributing",
-        },
-        {
-          img: "/img/docs-developer-icon.png",
-          title: "Ethereum Protocol Smart Contracts",
-          text: "Learn how to build with UX's smart contracts on Ethereum",
-          link: "/developers/ethereum-contracts",
         },
         {
           img: "/img/docs-developer-icon.png",
