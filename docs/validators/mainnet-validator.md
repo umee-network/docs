@@ -2,7 +2,10 @@
 
 Turn a current node into a validator on the mainnet.
 
-This guide contains instructions on how to setup and run an UX validator. First, be sure to check out the full node [instructions](installing-UX-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
+This guide contains instructions on how to setup and run an UX validator.
+
+- First, be sure to check out the full node [instructions](installing-UX-node.md) on how to install and configure the `umeed` binary as this guide assumes you already have it installed and configured.
+- You should also look at the general [Validator Instructions](https://github.com/umee-network/umee/blob/main/docs/VALIDATOR.md).
 
 There are two (2) crucial processes required for a healthy validator node:
 
@@ -33,15 +36,15 @@ Visit the Cosmos SDK's keyring [documentation](https://docs.cosmos.network/v0.47
 
 The [x/oracle module](https://github.com/umee-network/umee/blob/v6.3.0/x/oracle/README.md) requires that all validators vote on the price of assets which governance has decided to add. In order to vote on these prices, the umee team has built the [price feeder](https://github.com/ojo-network/price-feeder/tree/umee/v2.4.0).
 
-Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary. 
+Please [click here](https://github.com/umee-network/umee#release-compatibility-matrix) to see what version of the price feeder is compatible with your version of the umeed binary.
 Please [click here](https://github.com/umee-network/umee/blob/main/VALIDATOR.md#price-feeder) to know how to install price-feeder binary.
 
 1. Download the example config files, Download the price-feeder.toml [here](https://github.com/ojo-network/price-feeder/blob/umee/v2.4.0/price-feeder.example.toml) and provider config files [here](https://github.com/ojo-network/price-feeder/tree/umee/v2.4.0/umee-provider-config)
 
->  We should maintain the below folder structure for provider-config
+> We should maintain the below folder structure for provider-config
 
     - umee-provider-config
-      - currency-pairs.toml     
+      - currency-pairs.toml
       - deviation-thresholds.toml
       - endpoints.toml
 
@@ -87,13 +90,13 @@ Please [click here](https://github.com/umee-network/umee/blob/main/VALIDATOR.md#
         Restart=always
         RuntimeMaxSec=14400s # 4h
 
-4.  Start your service
+5.  Start your service
 
         sudo systemctl daemon-reload
         sudo systemctl enable price-feeder
         sudo systemctl start price-feeder
 
-5.  Please check to make sure your price feeder is running successfully
+6.  Please check to make sure your price feeder is running successfully
 
         sudo journalctl -u price-feeder.service -f
 

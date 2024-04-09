@@ -2,8 +2,6 @@
 
 At this point you should have set up your Ubuntu Server and should have SSH access. The following commands should be done in order to install a UX Node onto your server.
 
-> UX has an [automatic installer](https://install.umee.cc)
-
 #### Release Compatibility Matrix
 
 Please consult [**release compatibility matrix**](https://github.com/umee-network/umee/#release-compatibility-matrix) to make sure you install the right version.
@@ -132,3 +130,9 @@ wget -O $HOME/.umee/config/genesis.json "https://raw.githubusercontent.com/umee-
     To check logs you can use this command
 
         journalctl -u umeed -f
+
+
+
+### Automatic Installer (not maintained)
+
+UX has an [automatic installer](https://install.umee.cc)
