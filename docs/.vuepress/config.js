@@ -70,6 +70,7 @@ module.exports = {
             "/users/UX-basics/asset-types",
             "/users/UX-basics/common-terms",
             "/users/UX-basics/me-tokens",
+            "/users/UX-basics/introduction-to-liquidations",
           ],
         },
       ],
@@ -273,30 +274,22 @@ module.exports = {
                 {
                   text: "Metoken",
                   collapsible: true,
-                  children: [
-                    "/developers/modules/metoken",
-                  ],
+                  children: ["/developers/modules/metoken"],
                 },
                 {
                   text: "Incentive",
                   collapsible: true,
-                  children: [
-                    "/developers/modules/incentive",
-                  ],
+                  children: ["/developers/modules/incentive"],
                 },
                 {
                   text: "UGov",
                   collapsible: true,
-                  children: [
-                    "/developers/modules/ugov",
-                  ],
+                  children: ["/developers/modules/ugov"],
                 },
                 {
                   text: "UIBC",
                   collapsible: true,
-                  children: [
-                    "/developers/modules/uibc",
-                  ],
+                  children: ["/developers/modules/uibc"],
                 },
               ],
             },

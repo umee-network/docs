@@ -78,9 +78,25 @@ _For more in-depth information, check out our blog on [IBC Rate Limiting](https:
 
 _The IBC rate limit triggers when either of the below conditions are met:_
 
-- _The aggregated daily IBC outflows exceed $USD 1M._
-- _An individual token’s total daily IBC outflows interchain transactions exceed $USD 600,000_
+- _The aggregated daily IBC outflows exceed $USD 2.4M._
+- _An individual token’s total daily IBC outflows interchain transactions exceed $USD 1.7M_
 
 <br>
+
+### How long does the IBC rate limit last?
+
+- _The IBC quota resets after an exact period._
+
+- _Once the quota resets, IBC outflow transactions will resume._
+
+- _If the IBC Quota is triggered, a message will be displayed in the app._
+
+### Additional considerations
+
+_The rate limits can be modified through governance proposals at any moment, to ensure they remain effective and aligned with network growth._
+
+_While waiting for the quota to reset, explore other features of our platform and monitor your account balance._
+
+_Users can view the current IBC rate limit status and recent transaction history on the UX block explorer._
 
 _For additional information check out our [UX App FAQ section](https://learning.ux.xyz/overview/faq/UX-app.html)._

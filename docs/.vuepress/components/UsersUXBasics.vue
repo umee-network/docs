@@ -47,6 +47,12 @@ export default {
           text: "Learn about specific UX assets",
           link: "/users/UX-basics/me-tokens",
         },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Introduction to Liquidations",
+          text: "Learn more about Liquidations on UX",
+          link: "/users/UX-basics/introduction-to-liquidations",
+        },
       ],
     };
   },

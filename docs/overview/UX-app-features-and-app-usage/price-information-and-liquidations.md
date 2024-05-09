@@ -27,3 +27,5 @@ _UX uses Ojo for price information, which aggregates price data from various sou
 _However, because Ojo takes price information from multiple sources, it is unlikely for UX to take the wrong price just because one or even a few of the exchanges produce an error._
 
 _If there is a sudden drop in asset prices, liquidations could be affected, especially in a volatile market. UX uses the Historical to avoid price manipulation._
+
+_For more details on liquidations or to enhance your understanding, visit [here](/users/UX-basics/introduction-to-liquidations)_
