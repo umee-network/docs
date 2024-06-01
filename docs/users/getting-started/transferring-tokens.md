@@ -22,7 +22,7 @@
 
 ---
 
-![](/bg/mobile-transfer.gif)
+![](/bg/mobile-transfer.giaaf)
 
 :::
 
