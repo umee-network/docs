@@ -51,6 +51,7 @@ module.exports = {
             "/users/using-the-web-app/supply-withdraw",
             "/users/using-the-web-app/borrow-repay",
             "/users/using-the-web-app/troubleshooting",
+            "/users/using-the-web-app/burn-auction-module",
           ],
         },
         {

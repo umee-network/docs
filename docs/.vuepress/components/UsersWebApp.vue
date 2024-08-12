@@ -13,7 +13,6 @@
         :flex="true"
       />
     </div>
-
   </div>
 </template>
 
@@ -53,6 +52,12 @@ export default {
           title: "Troubleshooting Errors",
           text: "Learn how to handle errors",
           link: "/users/using-the-web-app/troubleshooting",
+        },
+        {
+          img: "/img/docs-users-icon.png",
+          title: "Burn Auction Module",
+          text: "Learn about the auction functionality",
+          link: "/users/using-the-web-app/burn-auction-module",
         },
       ],
     };
