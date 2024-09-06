@@ -1,33 +1,28 @@
 # Navigating the Web App
 
-## Markets
+## Getting started
 
-![](/bg/markets-page.png)
-
-> All [transfer](/users/using-the-web-app/transferring-tokens), [lend](/users/using-the-web-app/supply-withdraw), and [borrow](/users/using-the-web-app/borrow-repay) actions can be performed from the [Markets section](https://app.ux.xyz/#/markets).
+![](/bg/markets.png)
 
 :::: tabs
 
 ::: tab A
 
-### A) Chain Selection Slider
+### A) Total Supplied
 
 ---
 
-Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain) you're interacting with UX's web app through. Different types of assets and rates are available on different chains.
-
-> - When "Cosmos" is selected users are interacting with [IBC](/learn-the-basics/cosmos-basics/what-is-ibc) assets on the [UX chain](/overview/umee-overview).
-> - When "Ethereum" is selected users are interacting with ERC-20 assets on the Ethereum blockchain.
+This represents the combined value of all assets deposited by users into UX's lending markets.
 
 :::
 
 ::: tab B
 
-### B) Total Supplied
+### B) Total Available
 
 ---
 
-This represents the total value of all assets supplied on UX's Markets on the blockchain selected.
+This represents the total amount of funds currently available for borrowing on UX.
 
 :::
 
@@ -37,17 +32,17 @@ This represents the total value of all assets supplied on UX's Markets on the bl
 
 ---
 
-This represents the total value of all assets borrowed from UX's Markets on the blockchain selected.
+This represents the combined value of all assets currently borrowed from UX's lending markets.
 
 :::
 
 ::: tab D
 
-### Available Assets
+### Filter by
 
 ---
 
-This list shows each asset available for leverage and/or collateral on the blockchain selected. All available assets can be lent and borrowed from the UX Market, but users must supply collateral assets in order to be able to borrow assets.
+This feature allows you to refine your view of the assets on UX's Markets. You can filter based on various categories such as liquid staking derivatives, stablecoins, special asset pairs.
 
 :::
 
@@ -57,19 +52,27 @@ This list shows each asset available for leverage and/or collateral on the block
 
 ## Asset Parameters
 
-![](/bg/atom-info.png)
+![](/bg/asset-params.png)
 
-> Select any asset in the [Markets section](https://app.ux.xyz/#/markets) to view its parameters.
+A list with all the parameters of all assets [can be found here](https://umee-api.polkachu.com/umee/leverage/v1/registered_tokens).
+
+A list with all the available parameters explained [can be found here](https://learning.ux.xyz/governance/parameters/).
+
+<br>
+
+## Dashboard
+
+![](/bg/dashboard.png)
 
 :::: tabs
 
 ::: tab A
 
-### A) Available Liquidity
+### A) Total Supplied
 
 ---
 
-Available liquidity represents the total amount of the asset selected that can be borrowed from the UX Market by overcollateralized users.
+The total value of assets you've provided to UX's lending markets.
 
 :::
 
@@ -79,170 +82,17 @@ Available liquidity represents the total amount of the asset selected that can b
 
 ---
 
-Total borrowed represents the total amount of the asset selected that is actively being borrowed from the UX Market.
+The total value of assets you've borrowed from UX's lending markets.
 
 :::
 
 ::: tab C
 
-### C) Maximum LTV
+### C) Total Collateral
 
 ---
 
-The maximum loan-to-value ratio represents the maximum amount that can be borrowed against the selected asset when the selected asset is supplied as collateral.
-
-**If the maximum LTV of ATOM is 70% a user can deposit $100 of ATOM and borrow up to $70 in other assets against it.**
-
-- _Loan = $70_
-- _Collateral value = $100_
-- _LTV = 70/100 = 70%_
-
-:::
-
-::: tab D
-
-### D) Liquidation Threshold
-
----
-
-The liquidation threshold represents the loan-to-value ratio at which a user should expect to be liquidated. The liquidation threshold may be reached if the value of a user's collateral decreases relative to the value of the outstanding loan or the value of the outstanding loan increases relative to value of the collateral deposited.
-
-<br>
-
-**If the liquidation threshold is 80%:**
-
-- _Loan = $70_
-- _Collateral value = $87_
-- _This user will be liquidated because 70/87 > 80%_
-
-:::
-
-::: tab E
-
-### E) Liquidation Penalty
-
----
-
-The liquidation penalty is the fee paid by a borrower who is liquidated. The fee is calculated and paid from the collateral assets supplied by the borrower.
-
-:::
-
-::: tab F
-
-### F) Collateral
-
----
-
-If an asset is supported as collateral, anyone who supplies the asset is able to borrow against it. Collateral assets may be liquidated in the event that a borrower's LTV ratio rises above the liquidation threshold.
-
-:::
-
-::: tab G
-
-### G) Supply Position
-
----
-
-The supply position represents the amount of an asset a user is actively supplying on the UX Market.
-
-:::
-
-::: tab H
-
-### H) Wallet Balance
-
----
-
-The wallet balance represents the amount of an asset that an individual user currently has on the UX network in his/her UX wallet. Assets must be [transferred to UX](/users/using-the-web-app/transferring-tokens) before they will appear here.
-
-:::
-
-::: tab I
-
-### I) Supply APR
-
----
-
-The supply APR is the annual percentage rate a user may receive for lending the asset on the UX Market.
-
-> Supply APRs are floating rates and will change based on current supply and demand.
-
-:::
-
-::: tab J
-
-### J) Borrow Position
-
----
-
-The borrow position represents the amount of an asset a user is actively borrowing from the UX Market. In order to withdraw all of their collateral, users must repay their borrow positions in full.
-
-:::
-
-::: tab K
-
-### K) Available
-
----
-
-The available borrow amount represents the amount of an asset an individual user can borrow against the asset(s) they have provided as collateral.
-
-:::
-
-::: tab L
-
-### L) Borrow APR
-
----
-
-Borrow APR is the annual percentage rate a borrower will owe for borrowing the asset.
-
-> Borrow APRs are floating rates that will change based on supply and demand.
-
-:::
-
-::::
-
-<br>
-
-## Dashboard
-
-![](/bg/dashboard-page.png)
-
-> The [Dashboard section](https://app.ux.xyz/#/dashboard) allows users to easily monitor their individual positions.
-
-:::: tabs
-
-::: tab A
-
-### A) Chain Selection Slider
-
----
-
-Use this button to select the [blockchain](/learn-the-basics/blockchain-basics/what-is-blockchain) you'd like to view your UX positions on.
-
-> - When "Cosmos" is selected users can view their [IBC](/learn-the-basics/cosmos-basics/what-is-ibc) assets and positions on the [UX chain](/overview/umee-overview).
-> - When "Ethereum" is selected users can view their ERC-20 assets and positions on the Ethereum blockchain.
-
-:::
-
-::: tab B
-
-### B) Total Collateral
-
----
-
-Total collateral represents the total value of collateral assets an individual user has supplied on UX on the blockchain selected.
-
-:::
-
-::: tab C
-
-### C) Total Borrowed
-
----
-
-Total borrowed represents the total value of assets an individual user has borrowed from UX's Markets on the blockchain selected.
+The total value of assets you've supplied as collateral to secure your loans.
 
 :::
 
@@ -252,46 +102,59 @@ Total borrowed represents the total value of assets an individual user has borro
 
 ---
 
-Net APY represents the annual percentage yield an individual user will earn or owe based on their existing positions.
-
-> Users' net APY will change based on the floating rates of assets supplied and borrowed.
-
-> - A positive net APY indicates that a user is earning more interest on assets supplied than he/she expects to owe on assets borrowed.
-> - A negative net APY indicates that a user is earning less interest on assets supplied than he/she expects to own on assets borrowed.
+Your estimated annualized return (or cost) based on current interest rates for your supplied and borrowed assets. This can fluctuate as rates change.
 
 :::
 
 ::: tab E
 
-### E) Borrow Limit
+### E) Health Factor
 
 ---
 
-The borrow limit represents the maximum value of assets an individual user can borrow against the assets he/she has supplied as collateral.
-
-The bar visual is an indicator of the health of an individual user's loans. It shows the total value of assets an individual user has borrowed as a portion of the user's borrow limit. If the bar reaches 100% a user can expect to be liquidated.
-
-> All users should closely monitor their positions and borrow limits. To mitigate chances of liquidation, users should consider repaying part or all of their loans or supplying more collateral as the bar approaches 100%.
+A measure of your account's safety. Stay above 1 to avoid liquidation risk. Increase collateral or repay borrowed assets to improve your Health Factor.
 
 :::
 
 ::: tab F
 
-### F) Assets Supplied
+### F) Borrow Limit
 
 ---
 
-The supply section represents the assets an individual user has supplied to the UX Market on the blockchain selected, and annual percentage rate he/she is currently earning on the assets supplied.
+The maximum amount you can borrow based on your collateral. The bar shows your borrowed amount as a percentage of your limit. Avoid reaching 100% to prevent liquidation.
 
 :::
 
 ::: tab G
 
-### G) Assets Borrowed
+### G) Estimated Interest Accruing
 
 ---
 
-The borrow section represents the assets and individual user has borrowed from the UX Market on the blockchain selected, and the annual percentage rate his/her borrow interest is currently accruing at.
+This displays your projected interest earnings or payments over different timeframes, based on current interest rates.
+
+Remember, interest rates can fluctuate, so these are estimates based on current conditions.
+
+:::
+
+::: tab H
+
+### H) Supply
+
+---
+
+View and manage your supplied assets. You can directly deposit or withdraw assets from here.
+
+:::
+
+::: tab I
+
+### I) Borrow
+
+---
+
+View and manage your borrowed assets. You can borrow more or repay existing loans from this panel.
 
 :::
 
